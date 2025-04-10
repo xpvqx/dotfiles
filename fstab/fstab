@@ -1,0 +1,22 @@
+# Static information about the filesystems.
+# See fstab(5) for details.
+
+# <file system> <dir> <type> <options> <dump> <pass>
+# /dev/sda2
+UUID=dc9da6b7-672f-491a-9231-8db9ec5865dc	/         	ext4      	rw,relatime	0 1
+
+# /dev/sda1
+UUID=FFF0-B987      	/boot     	vfat      	rw,relatime,fmask=0022,dmask=0022,codepage=437,iocharset=ascii,shortname=mixed,utf8,errors=remount-ro	0 2
+
+# ssd
+/dev/nvme0n1p2		/mnt/ssd	ntfs-3g rw,uid=1000,gid=1000,umask=0000,fmask=0000	0 0
+
+# hdd
+/dev/sdc1		/mnt/hdd	ntfs-3g rw,uid=1000,gid=1000,umask=0000,fmask=0000	0 0
+
+# synology
+#//192.168.1.90:/volume1/media		/mnt/synology		nfs	0 0
+
+# university
+#//192.168.1.90:/volume1/university	/mnt/university		nfs	0 0
+
