@@ -1,4 +1,3 @@
--- test comment
 require("keymaps")
 -- require("options")
 
