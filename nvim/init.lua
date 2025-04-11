@@ -1,3 +1,5 @@
+vim.o.background = "dark"
+
 -- bootstrap lazy.nvim
 local lazypath = vim.fn.stdpath("data") .. "/lazy/lazy.nvim"
 if not vim.loop.fs_stat(lazypath) then
@@ -9,10 +11,7 @@ if not vim.loop.fs_stat(lazypath) then
 end
 vim.opt.rtp:prepend(lazypath)
 
+-- load essential configurations
 require("keymaps") 
 require("options")
 require("plugins")
-
--- colorscheme
-vim.o.background = "dark"
-vim.cmd([[colorscheme gruvbox]])
