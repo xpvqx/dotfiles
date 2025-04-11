@@ -59,6 +59,14 @@ require("lazy").setup({
       require("nvim-autopairs").setup({})
     end,
   },
+
+  -- Comment.nvim plugin
+  {
+    'numToStr/Comment.nvim',
+    opts = {
+      -- add any options here
+    }
+  },
 })
 
 -- completion setup
