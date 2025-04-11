@@ -10,8 +10,10 @@ require("lazy").setup({
   "L3MON4D3/LuaSnip",
   "saadparwaiz1/cmp_luasnip",
 
-  -- gruvbox theme
-  "morhetz/gruvbox",
+  -- themes
+  --"morhetz/gruvbox",
+
+  { "ellisonleao/gruvbox.nvim", priority = 1000 , config = true, opts = ...},
 
   { "nvim-treesitter/nvim-treesitter", build = ":TSUpdate" },
   "nvim-tree/nvim-tree.lua",
