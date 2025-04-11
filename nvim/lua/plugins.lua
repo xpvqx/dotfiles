@@ -52,7 +52,7 @@ require("lazy").setup({
   "nvim-tree/nvim-web-devicons",
 })
 
--- completion Setup
+-- completion setup
 local cmp = require("cmp")
 local luasnip = require("luasnip")
 
