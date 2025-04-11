@@ -14,4 +14,5 @@ require("options")
 require("plugins")
 
 -- colorscheme
-vim.cmd.colorscheme("gruvbox")
+vim.o.background = "dark"
+vim.cmd([[colorscheme gruvbox]])

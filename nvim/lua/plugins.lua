@@ -10,12 +10,46 @@ require("lazy").setup({
   "L3MON4D3/LuaSnip",
   "saadparwaiz1/cmp_luasnip",
 
-  -- themes
-  --"morhetz/gruvbox",
+  -- Gruvbox
+  {
+    "ellisonleao/gruvbox.nvim",
+    priority = 1000,
+    config = function()
+      -- Apply gruvbox setup with custom options
+      require("gruvbox").setup({
+        terminal_colors = true,
+        undercurl = true,
+        underline = true,
+        bold = true,
+        italic = {
+          strings = true,
+          emphasis = true,
+          comments = true,
+          operators = false,
+          folds = true,
+        },
+        strikethrough = true,
+        invert_selection = false,
+        invert_signs = false,
+        invert_tabline = false,
+        invert_intend_guides = false,
+        inverse = true, -- Invert background for search, diffs, statuslines, and errors
+        contrast = "hard", -- Can be "hard", "soft" or empty string
+        palette_overrides = {}, -- Custom color overrides
+        overrides = {}, -- Custom highlights
+        dim_inactive = false,
+        transparent_mode = true, -- Set to true for transparent background
+      })
 
-  { "ellisonleao/gruvbox.nvim", priority = 1000 , config = true, opts = ...},
+      -- Set the colorscheme
+      vim.cmd("colorscheme gruvbox")
+    end,
+  },
 
+  -- Treesitter
   { "nvim-treesitter/nvim-treesitter", build = ":TSUpdate" },
+
+  -- Nvim Tree
   "nvim-tree/nvim-tree.lua",
   "nvim-tree/nvim-web-devicons",
 })
@@ -54,7 +88,7 @@ require("nvim-tree").setup({
 })
 
 
--- nvim-tree new
+-- Nvim-treesitter setup
 require("nvim-treesitter.configs").setup({
   ensure_installed = { "python", "lua", "json", "bash", "markdown" },
   highlight = {

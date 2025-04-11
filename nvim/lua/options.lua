@@ -6,6 +6,6 @@ vim.opt.shiftwidth = 4
 vim.opt.expandtab = true
 vim.opt.termguicolors = true
 vim.opt.smartindent = true
--- vim.o.background = "dark"
+vim.o.background = "dark"
 -- vim.g.gruvbox_contrast_dark = 'medimum'        -- 'hard, 'medium', 'soft'
 -- vim.g.gruvbox_invert_selection = false        -- less transparency
