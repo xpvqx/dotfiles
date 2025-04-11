@@ -33,7 +33,7 @@ alias ssh-serv-2='ssh root@192.168.1.200'
 # navigation
 alias gnas='cd /mnt/synology'
 alias gdots='cd ~/docs/repos/dotfiles'
-alias gpython='cd ~/docs/programming/python'
+alias gpy='cd ~/docs/programming/python'
 
 # ls colors
 LS_COLORS=$LS_COLORS:'di=1;36:' ; export LS_COLORS
