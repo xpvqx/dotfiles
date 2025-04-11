@@ -50,6 +50,15 @@ require("lazy").setup({
   -- nvim tree
   "nvim-tree/nvim-tree.lua",
   "nvim-tree/nvim-web-devicons",
+
+  -- nvim autopairs
+  {
+    "windwp/nvim-autopairs",
+    event = "InsertEnter", -- load the plugin when you enter insert mode
+    config = function()
+      require("nvim-autopairs").setup({})
+    end,
+  },
 })
 
 -- completion setup
