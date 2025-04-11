@@ -1,21 +1,20 @@
 require("lazy").setup({
-  -- LSP
+  -- lsp
   "neovim/nvim-lspconfig",
   "williamboman/mason.nvim",
   "williamboman/mason-lspconfig.nvim",
 
-  -- Autocompletion
+  -- autocompletion
   "hrsh7th/nvim-cmp",
   "hrsh7th/cmp-nvim-lsp",
   "L3MON4D3/LuaSnip",
   "saadparwaiz1/cmp_luasnip",
 
-  -- Gruvbox
+  -- gruvbox
   {
     "ellisonleao/gruvbox.nvim",
     priority = 1000,
     config = function()
-      -- Apply gruvbox setup with custom options
       require("gruvbox").setup({
         terminal_colors = true,
         undercurl = true,
@@ -33,28 +32,27 @@ require("lazy").setup({
         invert_signs = false,
         invert_tabline = false,
         invert_intend_guides = false,
-        inverse = true, -- Invert background for search, diffs, statuslines, and errors
-        contrast = "hard", -- Can be "hard", "soft" or empty string
-        palette_overrides = {}, -- Custom color overrides
-        overrides = {}, -- Custom highlights
+        inverse = true, -- invert background for search, diffs, statuslines, and errors
+        contrast = "hard", -- hard / soft / ''
+        palette_overrides = {}, -- custom color overrides
+        overrides = {}, -- custom highlights
         dim_inactive = false,
-        transparent_mode = true, -- Set to true for transparent background
+        transparent_mode = true,
       })
 
-      -- Set the colorscheme
       vim.cmd("colorscheme gruvbox")
     end,
   },
 
-  -- Treesitter
+  -- treesitter
   { "nvim-treesitter/nvim-treesitter", build = ":TSUpdate" },
 
-  -- Nvim Tree
+  -- nvim tree
   "nvim-tree/nvim-tree.lua",
   "nvim-tree/nvim-web-devicons",
 })
 
--- Completion Setup
+-- completion Setup
 local cmp = require("cmp")
 local luasnip = require("luasnip")
 
@@ -74,21 +72,20 @@ cmp.setup({
   },
 })
 
--- Nvim-tree setup
+-- nvim-tree setup
 require("nvim-tree").setup({
-  -- Optional settings for nvim-tree (can customize as needed)
-  open_on_tab = true,          -- Open tree when a new tab is opened
+  open_on_tab = true,          -- open tree when a new tab is opened
   view = {
-    width = 30,                -- Width of the file tree
-    side = "left",             -- Position of the tree (left or right)
+    width = 30,                -- width of the file tree
+    side = "left",             -- position of the tree (left or right)
   },
   renderer = {
-    highlight_opened_files = "name",  -- Highlight opened files
+    highlight_opened_files = "name",  -- highlight opened files
   },
 })
 
 
--- Nvim-treesitter setup
+-- nvim-treesitter setup
 require("nvim-treesitter.configs").setup({
   ensure_installed = { "python", "lua", "json", "bash", "markdown" },
   highlight = {
