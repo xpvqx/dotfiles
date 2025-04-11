@@ -26,16 +26,14 @@ alias syn='sudo mount -t nfs 192.168.1.90:/volume1/media /mnt/synology'
 alias uni='sudo mount -t nfs 192.168.1.90:/volume1/university /mnt/university'
 
 # ssh devices
-alias kobo='ssh root@192.168.1.217'
-alias serv-1='ssh karl@192.168.1.100'
-alias serv-2='ssh root@192.168.1.200'
+alias ssh-kobo='ssh root@192.168.1.217'
+alias ssh-serv-1='ssh karl@192.168.1.100'
+alias ssh-serv-2='ssh root@192.168.1.200'
 
 # navigation
-alias vs='cd /mnt/hdd/other/videos'
-alias cs='cd /mnt/synology'
-alias ipy='cd ~/docs/programming/python'
-
-alias cleanup='sudo pacman -Rns $(pacman -Qtdq)'
+alias gnas='cd /mnt/synology'
+alias gdots='cd ~/docs/repos/dotfiles':
+alias gpython='cd ~/docs/programming/python'
 
 # ls colors
 LS_COLORS=$LS_COLORS:'di=1;36:' ; export LS_COLORS
