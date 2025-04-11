@@ -6,3 +6,6 @@ vim.keymap.set("n", "<leader>e", ":NvimTreeToggle<CR>", { noremap = true, silent
 
 -- yank to clipboard
 vim.keymap.set({"n", "v"}, "<leader>y", [["+y]])
+
+-- remove?
+-- vim.keymap.set("n", "<leader>w", ":w<CR>")
