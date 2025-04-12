@@ -15,8 +15,8 @@ UUID=FFF0-B987      	/boot     	vfat      	rw,relatime,fmask=0022,dmask=0022,cod
 /dev/sdc1		/mnt/hdd	ntfs-3g rw,uid=1000,gid=1000,umask=0000,fmask=0000	0 0
 
 # synology
-#//192.168.1.90:/volume1/media		/mnt/synology		nfs	0 0
+//192.168.1.90:/volume1/media		/mnt/synology		nfs	0 0
 
 # university
-#//192.168.1.90:/volume1/university	/mnt/university		nfs	0 0
+//192.168.1.90:/volume1/university	/mnt/university		nfs	0 0
 
