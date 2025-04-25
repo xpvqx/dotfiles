@@ -20,6 +20,7 @@ alias pacsyu='sudo pacman -Syu'
 alias yaysyu='yay -Syu'
 alias cleanup='sudo pacman -Rns $(pacman -Qtdq)'
 alias scrot='scrot ~/pics/screenshots/%b%d::%H%M%S.png'
+alias xm11='~/docs/repos/dotfiles/scripts/bluetooth'
 
 # mount
 alias syn='sudo mount -t nfs 192.168.1.90:/volume1/media /mnt/synology'

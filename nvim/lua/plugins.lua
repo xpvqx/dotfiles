@@ -99,6 +99,13 @@ require("nvim-tree").setup({
   renderer = {
     highlight_opened_files = "name",  -- highlight opened files
   },
+  actions = {
+      open_file = {
+          window_picker = {
+              enable = false,
+          },
+      },
+  },
 })
 
 
