@@ -27,9 +27,9 @@ alias syn='sudo mount -t nfs 192.168.1.90:/volume1/media /mnt/synology'
 alias uni='sudo mount -t nfs 192.168.1.90:/volume1/university /mnt/university'
 
 # ssh devices
-alias ssh-kobo='ssh root@192.168.1.217'
-alias ssh-serv-1='ssh karl@192.168.1.100'
-alias ssh-serv-2='ssh root@192.168.1.200'
+alias ssh kobo='ssh root@192.168.1.217'
+alias ssh docker='ssh karl@192.168.1.100'
+alias ssh proxmox='ssh root@192.168.1.200'
 
 # navigation
 alias gnas='cd /mnt/synology'
