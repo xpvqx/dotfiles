@@ -33,7 +33,7 @@ alias proxmox='ssh root@192.168.1.200'
 
 # navigation
 alias nas-home='cd /mnt/synology/home'
-alais nas-media='cd /mnt/synology/media'
+alias nas-media='cd /mnt/synology/media'
 alias dots='cd ~/git/dotfiles'
 alias gpy='cd ~/git/python'
 
