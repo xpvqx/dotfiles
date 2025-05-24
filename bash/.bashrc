@@ -23,7 +23,7 @@ alias scrot='scrot ~/pics/screenshots/%b%d::%H%M%S.png'
 alias xm4='~/git/scripts/bluetooth.sh'
 
 # mount
-alias syn1=alias syn1='sudo mount -t cifs //192.168.1.90/homes/karl /mnt/home -o username=karl'
+alias syn1=alias syn1='sudo mount -t cifs //192.168.1.90/homes/karl /mnt/home -o username=karl,uid=1000,gid=1000,file_mode=0775,dir_mode=0775'
 alias syn2=alias syn2='sudo mount -t nfs 192.168.1.90:/volume1/media /mnt/media'
 
 # ssh devices
