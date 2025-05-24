@@ -1,0 +1,40 @@
+# bottom command line
+set color_cmdline_bg=234   # Darker, more solid background
+set color_cmdline_fg=223   # Lighter foreground for readability
+
+# partials
+set color_error=167        # Red stays the same
+set color_info=214         # Yellow stays the same
+set color_separator=239    # Keeps the current color for separation
+
+# bottom status bar
+set color_statusline_bg=234   # Darker background for less transparency
+set color_statusline_fg=223   # Light foreground for better contrast
+
+# bottom status with currently displayed track
+set color_titleline_bg=233    # Slightly darker than original
+set color_titleline_fg=237    # Lighter, more readable text
+
+# center/main window
+set color_win_bg=233         # Darker but still clear background
+set color_win_fg=243         # Light, readable text
+set color_win_dir=243        # Consistent light text for directory
+set color_win_cur=108        # Muted green for current window
+set color_win_cur_sel_bg=72  # Softer background for selected window
+set color_win_cur_sel_fg=237 # Darker gray for selected text
+
+# selected
+set color_win_sel_bg=234     # Darker background for selected item
+set color_win_sel_fg=246     # Lighter, more visible selected text
+
+# inactive current selected (currently played)
+set color_win_inactive_cur_sel_bg=72  # Softer background for inactive selection
+set color_win_inactive_cur_sel_fg=237 # Darker text for inactive selected item
+
+# inactive selected (active album)
+set color_win_inactive_sel_bg=233    # Darker background for inactive album
+set color_win_inactive_sel_fg=243    # Lighter foreground for better contrast
+
+# top player bar
+set color_win_title_bg=142  # Muted title background
+set color_win_title_fg=235  # Darker title text for more contrast

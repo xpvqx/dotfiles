@@ -1,0 +1,21 @@
+live-filter 
+colorscheme gruvbox
+colorscheme nord
+colorscheme zenburn
+q
+colorscheme
+colorscheme gruvbox-dark
+colorscheme amazon
+colorscheme gruvbox-dark.bak
+q!
+setcolo
+set colorscheme gruvbox-dark
+set colorscheme gruvbox
+settheme gruvbox
+set color_win_bg=NONE
+live-filter L
+bind -f common z player-prev
+bind common <key> colorscheme
+:colorscheme night
+colorscheme dark
+set color_win_sel_bg=
