@@ -33,8 +33,8 @@ alias proxmox='ssh root@192.168.1.200'
 
 # navigation
 alias gnas='cd /mnt/synology'
-alias gdots='cd ~/docs/repos/dotfiles'
-alias gpy='cd ~/docs/programming/python'
+alias gdots='cd ~/git/dotfiles'
+alias gpy='cd ~/git/python'
 
 # LS_COLORS=$LS_COLORS:'di=1;36:' ; export LS_COLORS
 # LS_COLORS+=':ow=34'
