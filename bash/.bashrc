@@ -23,8 +23,8 @@ alias scrot='scrot ~/pics/screenshots/%b%d::%H%M%S.png'
 alias xm4='~/git/scripts/bluetooth.sh'
 
 # mount
-alias syn='sudo mount -t nfs 192.168.1.90:/volume1/media /mnt/synology'
-alias uni='sudo mount -t nfs 192.168.1.90:/volume1/university /mnt/university'
+alias syn1=alias syn1='sudo mount -t cifs //192.168.1.90/homes/karl /mnt/home -o username=karl'
+alias syn2=alias syn2='sudo mount -t nfs 192.168.1.90:/volume1/media /mnt/media'
 
 # ssh devices
 alias kobo='ssh root@192.168.1.217'
@@ -32,8 +32,8 @@ alias docker='ssh karl@192.168.1.100'
 alias proxmox='ssh root@192.168.1.200'
 
 # navigation
-alias gnas='cd /mnt/synology'
-alias gdots='cd ~/git/dotfiles'
+alias nas='cd /mnt/synology'
+alias dots='cd ~/git/dotfiles'
 alias gpy='cd ~/git/python'
 
 # LS_COLORS=$LS_COLORS:'di=1;36:' ; export LS_COLORS
