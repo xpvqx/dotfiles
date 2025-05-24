@@ -23,8 +23,8 @@ alias scrot='scrot ~/pics/screenshots/%b%d::%H%M%S.png'
 alias xm4='~/git/scripts/bluetooth.sh'
 
 # mount
-alias syn1=alias syn1='sudo mount -t cifs //192.168.1.90/homes/karl /mnt/home -o username=karl,uid=1000,gid=1000,file_mode=0775,dir_mode=0775'
-alias syn2=alias syn2='sudo mount -t nfs 192.168.1.90:/volume1/media /mnt/media'
+alias syn1=alias syn1='sudo mount -t cifs //192.168.1.90/homes/karl /mnt/synology/home -o username=karl,uid=1000,gid=1000,file_mode=0775,dir_mode=0775'
+alias syn2=alias syn2='sudo mount -t nfs 192.168.1.90:/volume1/media /mnt/synology/media'
 
 # ssh devices
 alias kobo='ssh root@192.168.1.217'
@@ -32,7 +32,8 @@ alias docker='ssh karl@192.168.1.100'
 alias proxmox='ssh root@192.168.1.200'
 
 # navigation
-alias nas='cd /mnt/synology'
+alias nas-home='cd /mnt/synology/home'
+alais nas-media='cd /mnt/synology/media'
 alias dots='cd ~/git/dotfiles'
 alias gpy='cd ~/git/python'
 
