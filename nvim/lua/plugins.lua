@@ -1,14 +1,16 @@
 require("lazy").setup({
-  -- lsp
-  "neovim/nvim-lspconfig",
-  "williamboman/mason.nvim",
-  "williamboman/mason-lspconfig.nvim",
+  { "neovim/nvim-lspconfig" },
+  { "williamboman/mason.nvim" },
+  { 
+    "williamboman/mason-lspconfig.nvim",
+    dependencies = { "williamboman/mason.nvim", "neovim/nvim-lspconfig" },
+  },
 
   -- autocompletion
-  "hrsh7th/nvim-cmp",
-  "hrsh7th/cmp-nvim-lsp",
-  "L3MON4D3/LuaSnip",
-  "saadparwaiz1/cmp_luasnip",
+  { "hrsh7th/nvim-cmp" },
+  { "hrsh7th/cmp-nvim-lsp" },
+  { "L3MON4D3/LuaSnip" },
+  { "saadparwaiz1/cmp_luasnip" },
 
   -- gruvbox
   {
@@ -67,6 +69,11 @@ require("lazy").setup({
       -- add any options here
     }
   },
+
+  {
+    'nvim-lualine/lualine.nvim',
+    dependencies = { 'nvim-tree/nvim-web-devicons' }
+  },
 })
 
 -- completion setup
@@ -114,5 +121,31 @@ require("nvim-treesitter.configs").setup({
   ensure_installed = { "python", "lua", "json", "bash", "markdown" },
   highlight = {
     enable = true,
+  },
+})
+
+-- lualine setup
+local gruvbox = require('lualine.themes.gruvbox')
+gruvbox.normal.a = gruvbox.command.a
+
+require('lualine').setup({
+  options = {
+    theme = gruvbox,
+    section_separators = "",
+    component_separators = "",
+  },
+  sections = {
+    lualine_a = { "mode" },
+    lualine_b = { "branch" },
+    lualine_c = { "filename" },
+    lualine_x = { "encoding", "fileformat", "filetype" },
+    lualine_y = { "progress" },
+    lualine_z = {
+      {
+        function()
+          return vim.fn.fnamemodify(vim.fn.getcwd(), ":t")
+        end
+      }
+    },
   },
 })
