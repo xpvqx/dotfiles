@@ -93,7 +93,7 @@ require("lazy").setup({
             { desc = "󰈞  Find File", group = "Label", key = "f", action = "Telescope find_files" },
             { desc = "  Projects", group = "Label", key = "p", action = "Telescope projects" },
             { desc = "  Quit", group = "Label", key = "q", action = "qa" },
-            { desc = " Dotfiles", group = "Number", action = "Telescope dotfiles", key = "d" },
+            { desc = "  Dotfiles", group = "Number", action = "Telescope dotfiles", key = "d" },
           },
           packages = {
             enable = true,
