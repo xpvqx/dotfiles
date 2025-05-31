@@ -76,7 +76,13 @@ require("lazy").setup({
     dependencies = { "nvim-tree/nvim-web-devicons" },
   },
 
-  -- dashboard-nvim with ascii header
+  -- telescope
+  {
+    "nvim-telescope/telescope.nvim",  
+    dependencies = { "nvim-lua/plenary.nvim" }
+  },
+
+  -- dashboard
   {
     "nvimdev/dashboard-nvim",
     event = "VimEnter",
