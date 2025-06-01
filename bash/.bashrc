@@ -10,7 +10,7 @@ force_color_prompt=yes
 # custom alias
 alias c='clear'
 alias ll='ls -l'
-ls --color=auto --group-directories-first
+alias ls='ls --color=auto --group-directories-first'
 alias grep='grep --color=auto'
 alias py='python3'
 alias mkc='sudo make clean install'
