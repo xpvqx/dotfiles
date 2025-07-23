@@ -32,14 +32,19 @@ alias syn='sudo mount -t cifs //192.168.1.90/homes/karl /mnt/synology/home -o us
 # scripts
 alias xm4='~/git/scripts/bluetooth.sh'
 
-# ssh
-alias kobo='ssh root@192.168.1.217'
-alias docker='ssh karl@192.168.1.100'
-alias proxmox='ssh root@192.168.1.200'
-alias plex='ssh root@192.168.1.15'
+# ssh to servers
+alias archetype'ssh root@192.168.1.111'
+alias optiplex='ssh karl@192.168.1.100'
+alias proxmox2='ssh root@192.168.1.200'
+alias docker2='ssh karl@192.168.1.55'
+
 alias pi4='ssh karl@192.168.125'
 alias pihole='ssh pi@192.168.1.150'
 alias printserver='ssh pi@192.168.1.175'
+alias plex='ssh root@192.168.1.50'
+
+alias kobo='ssh root@192.168.1.217'
+alias oneplus='ssh 192.168.1.47 -p 8022'
 
 # navigation
 alias ...='../..'
