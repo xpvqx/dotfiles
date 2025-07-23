@@ -33,7 +33,7 @@ alias syn='sudo mount -t cifs //192.168.1.90/homes/karl /mnt/synology/home -o us
 alias xm4='~/git/scripts/bluetooth.sh'
 
 # ssh to servers
-alias archetype'ssh root@192.168.1.111'
+alias archetype='ssh root@192.168.1.111'
 alias optiplex='ssh karl@192.168.1.100'
 alias proxmox2='ssh root@192.168.1.200'
 alias docker2='ssh karl@192.168.1.55'
