@@ -26,7 +26,7 @@ set termguicolors
 set background=dark
 colorscheme gruvbox
 
-call plug#begin('~/.vim/plugged')
+call plug#begin('~/git/dotfiles/vim/plugged')
 Plug 'itchyny/lightline.vim'
 Plug 'morhetz/gruvbox'
 call plug#end()
