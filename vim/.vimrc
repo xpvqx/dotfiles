@@ -4,6 +4,8 @@ set relativenumber
 set noswapfile
 set nowrap
 
+syntax on
+
 set tabstop=2
 set softtabstop=2
 set shiftwidth=2
@@ -19,8 +21,21 @@ set incsearch
 set laststatus=2
 set encoding=utf-8
 set wildmode=longest,list,full
-set background=dark
 set clipboard=unnamedplus
+
+set termguicolors
+set background=dark
+
+colorscheme gruvbox
+
+highlight Normal ctermbg=NONE guibg=NONE
+highlight NormalNC ctermbg=NONE guibg=NONE
+highlight NonText ctermbg=NONE guibg=NONE
+highlight VertSplit ctermbg=NONE guibg=NONE
+highlight StatusLine ctermbg=NONE guibg=NONE
+highlight LineNr ctermbg=NONE guibg=NONE
+highlight Folded ctermbg=NONE guibg=NONE
+highlight EndOfBuffer ctermbg=NONE guibg=NONE
 
 let mapleader = " "
 
@@ -29,5 +44,3 @@ nnoremap <leader>q :quit<CR>
 nnoremap <leader>o :update<CR>:source %<CR>
 nnoremap <leader>y "+y
 vnoremap <leader>y "+y
-
-syntax on
