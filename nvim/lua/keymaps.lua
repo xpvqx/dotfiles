@@ -13,4 +13,4 @@ vim.api.nvim_set_keymap("n", "<A-l>", ":wincmd l<CR>", { noremap = true, silent 
 
 vim.keymap.set('n', '<leader>o', ':update<CR> :source<CR>')
 vim.keymap.set('n', '<leader>w', ':write<CR>')
-vim.keymap.set('n', '<leader>o', ':quit<CR>:')
+vim.keymap.set('n', '<leader>q', ':quit<CR>:')
