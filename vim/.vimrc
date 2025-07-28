@@ -22,8 +22,6 @@ set wildmode=longest,list,full
 set background=dark
 set clipboard=unnamedplus
 
-syntax on
-
 let mapleader = " "
 
 nnoremap <leader>w :write<CR>
@@ -31,3 +29,5 @@ nnoremap <leader>q :quit<CR>
 nnoremap <leader>o :update<CR>:source %<CR>
 nnoremap <leader>y "+y
 vnoremap <leader>y "+y
+
+syntax on
