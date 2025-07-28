@@ -3,7 +3,6 @@ set number
 set relativenumber
 set noswapfile
 set nowrap
-set clipboard=unnamedplus
 syntax on
 
 set tabstop=2
@@ -21,6 +20,7 @@ set incsearch
 set laststatus=2
 set encoding=utf-8
 set wildmode=longest,list,full
+set clipboard=unnamedplus
 
 set termguicolors
 set background=dark
