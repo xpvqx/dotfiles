@@ -17,7 +17,6 @@ alias py='python3'
 
 # colorize
 alias ls='ls --color=auto --group-directories-first'
-alias diff='diff --color-auto'
 alias grep='grep --color=auto'
 alias ccat='highlight --out-format=ansi'
 
