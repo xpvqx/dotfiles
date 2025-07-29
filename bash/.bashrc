@@ -13,7 +13,6 @@ alias cp='cp -iv'
 alias mv='mv -iv'
 alias rm='rm -v'
 alias ll='ls -l'
-alias py='python3'
 
 # colorize
 alias ls='ls --color=auto --group-directories-first'
@@ -22,23 +21,29 @@ alias ccat='highlight --out-format=ansi'
 
 # aliases
 alias p='sudo pacman'
-alias nv='nvim'
-alias snv='sudo -E -s nvim'
 alias r='ranger'
 alias sr='sudo ranger'
-alias ka='killall'
-alias SS='sudo systemctl'
+alias nv='nvim'
+alias snv='sudo -E -s nvim'
 alias mkc='sudo make clean install'
+alias py='python3'
 alias scrot='scrot ~/pics/screenshots/%b%d::%H%M%S.png'
 
 # git
 alias ga='git add .'
 alias gc='git commit -m'
 alias gp='git push origin main'
+alias gs='git status'
+alias gb='git branch'
+alias gd='git diff'
 
-# maintenance
-alias cleanup='sudo pacman -Rns $(pacman -Qtdq)'
+# system
+alias ka='killall'
+alias SS='sudo systemctl'
 alias sdn='sudo shutdown now'
+alias reload='source ~/.bashrc'
+alias cleanup='sudo pacman -Rns $(pacman -Qtdq)'
+alias syn='sudo mount -t cifs //192.168.1.90/homes/karl /mnt/synology/home -o username=karl,uid=1000,gid=1000,file_mode=0775,dir_mode=0775 && sudo mount -t nfs 192.168.1.90:/volume1/media /mnt/synology/media'
 
 # navigation
 alias ...='cd ../..'
@@ -49,9 +54,9 @@ alias gg='cd ~/git'
 alias gpy='cd ~/git/python'
 alias dots='cd ~/git/dotfiles'
 
+# scripts
 alias xm4='~/git/scripts/bluetooth.sh'
 alias temp='~/git/scripts/temp.sh'
-alias syn='sudo mount -t cifs //192.168.1.90/homes/karl /mnt/synology/home -o username=karl,uid=1000,gid=1000,file_mode=0775,dir_mode=0775 && sudo mount -t nfs 192.168.1.90:/volume1/media /mnt/synology/media'
 
 # exports
 export EDITOR='nvim'
