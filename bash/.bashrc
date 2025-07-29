@@ -7,37 +7,43 @@ PS1='\[\e[38;5;254;1m\]\u\[\e[0;97m\] \[\e[0m\][\[\e[2m\]\w\[\e[0m\]] \[\e[1m\]>
 
 force_color_prompt=yes
 
-# basics
+# basic
 alias c='clear'
 alias cp='cp -iv'
 alias mv='mv -iv'
 alias rm='rm -v'
+alias ll='ls -l'
 alias py='python3'
 
-# colors
-alias ll='ls -l'
+# colorize
 alias ls='ls --color=auto --group-directories-first'
 alias diff='diff --color-auto'
 alias grep='grep --color=auto'
 alias ccat='highlight --out-format=ansi'
 
-# qos
+# aliases
 alias p='sudo pacman'
 alias nv='nvim'
 alias snv='sudo -E -s nvim'
-alias SS='sudo systemctl'
 alias r='ranger'
 alias sr='sudo ranger'
+alias ka='killall'
+alias SS='sudo systemctl'
 alias mkc='sudo make clean install'
 
-# maintainence
+# git
+alias ga='git add .'
+alias gc='git commit -m'
+alias gp='git push origin main'
+
+# maintenance
 alias cleanup='sudo pacman -Rns $(pacman -Qtdq)'
 alias sdn='sudo shutdown now'
 
-# mount
+# mounts
 alias syn='sudo mount -t cifs //192.168.1.90/homes/karl /mnt/synology/home -o username=karl,uid=1000,gid=1000,file_mode=0775,dir_mode=0775 && sudo mount -t nfs 192.168.1.90:/volume1/media /mnt/synology/media'
 
-# misc
+# scripts
 alias xm4='~/git/scripts/bluetooth.sh'
 alias scrot='scrot ~/pics/screenshots/%b%d::%H%M%S.png'
 
@@ -47,8 +53,8 @@ alias ....='cd ../../..'
 alias nh='cd /mnt/synology/home'
 alias nm='cd /mnt/synology/media'
 alias gg='cd ~/git'
-alias dots='cd ~/git/dotfiles'
 alias gpy='cd ~/git/python'
+alias dots='cd ~/git/dotfiles'
 
 # exports
 export EDITOR='nvim'
