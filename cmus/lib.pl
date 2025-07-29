@@ -353,41 +353,6 @@
 /mnt/synology/media/music/youtube/命に嫌われている カンザキイオリ(Covered by コバソロ & 相沢).mp3
 /mnt/synology/media/music/youtube/女性が歌う灰色と青菅田将暉米津玄師(Covered by コバソロ & 春茶).mp3
 /mnt/synology/media/music/youtube/無敵のSoldier.mp3
-cue:///mnt/synology/media/music/orpheus.network/flac/Brainiac (1994) Bonsai Superstar [FLAC] {GROW046-2}/Brainiac - Bonsai Superstar.cue/1
-cue:///mnt/synology/media/music/orpheus.network/flac/DJ Shadow - Endtroducing..... [FLAC] {697-124-123-2}/DJ Shadow - Endtroducing......cue/1
-cue:///mnt/synology/media/music/orpheus.network/flac/Story of the Year - Page Avenue (2003) FLAC/Story of the Year - Page Avenue.cue/1
-cue:///mnt/synology/media/music/orpheus.network/flac/Brainiac (1994) Bonsai Superstar [FLAC] {GROW046-2}/Brainiac - Bonsai Superstar.cue/2
-cue:///mnt/synology/media/music/orpheus.network/flac/DJ Shadow - Endtroducing..... [FLAC] {697-124-123-2}/DJ Shadow - Endtroducing......cue/2
-cue:///mnt/synology/media/music/orpheus.network/flac/Story of the Year - Page Avenue (2003) FLAC/Story of the Year - Page Avenue.cue/2
-cue:///mnt/synology/media/music/orpheus.network/flac/Brainiac (1994) Bonsai Superstar [FLAC] {GROW046-2}/Brainiac - Bonsai Superstar.cue/3
-cue:///mnt/synology/media/music/orpheus.network/flac/DJ Shadow - Endtroducing..... [FLAC] {697-124-123-2}/DJ Shadow - Endtroducing......cue/3
-cue:///mnt/synology/media/music/orpheus.network/flac/Story of the Year - Page Avenue (2003) FLAC/Story of the Year - Page Avenue.cue/3
-cue:///mnt/synology/media/music/orpheus.network/flac/Brainiac (1994) Bonsai Superstar [FLAC] {GROW046-2}/Brainiac - Bonsai Superstar.cue/4
-cue:///mnt/synology/media/music/orpheus.network/flac/DJ Shadow - Endtroducing..... [FLAC] {697-124-123-2}/DJ Shadow - Endtroducing......cue/4
-cue:///mnt/synology/media/music/orpheus.network/flac/Story of the Year - Page Avenue (2003) FLAC/Story of the Year - Page Avenue.cue/4
-cue:///mnt/synology/media/music/orpheus.network/flac/Brainiac (1994) Bonsai Superstar [FLAC] {GROW046-2}/Brainiac - Bonsai Superstar.cue/5
-cue:///mnt/synology/media/music/orpheus.network/flac/DJ Shadow - Endtroducing..... [FLAC] {697-124-123-2}/DJ Shadow - Endtroducing......cue/5
-cue:///mnt/synology/media/music/orpheus.network/flac/Story of the Year - Page Avenue (2003) FLAC/Story of the Year - Page Avenue.cue/5
-cue:///mnt/synology/media/music/orpheus.network/flac/Brainiac (1994) Bonsai Superstar [FLAC] {GROW046-2}/Brainiac - Bonsai Superstar.cue/6
-cue:///mnt/synology/media/music/orpheus.network/flac/DJ Shadow - Endtroducing..... [FLAC] {697-124-123-2}/DJ Shadow - Endtroducing......cue/6
-cue:///mnt/synology/media/music/orpheus.network/flac/Story of the Year - Page Avenue (2003) FLAC/Story of the Year - Page Avenue.cue/6
-cue:///mnt/synology/media/music/orpheus.network/flac/Brainiac (1994) Bonsai Superstar [FLAC] {GROW046-2}/Brainiac - Bonsai Superstar.cue/7
-cue:///mnt/synology/media/music/orpheus.network/flac/DJ Shadow - Endtroducing..... [FLAC] {697-124-123-2}/DJ Shadow - Endtroducing......cue/7
-cue:///mnt/synology/media/music/orpheus.network/flac/Story of the Year - Page Avenue (2003) FLAC/Story of the Year - Page Avenue.cue/7
-cue:///mnt/synology/media/music/orpheus.network/flac/Brainiac (1994) Bonsai Superstar [FLAC] {GROW046-2}/Brainiac - Bonsai Superstar.cue/8
-cue:///mnt/synology/media/music/orpheus.network/flac/DJ Shadow - Endtroducing..... [FLAC] {697-124-123-2}/DJ Shadow - Endtroducing......cue/8
-cue:///mnt/synology/media/music/orpheus.network/flac/Story of the Year - Page Avenue (2003) FLAC/Story of the Year - Page Avenue.cue/8
-cue:///mnt/synology/media/music/orpheus.network/flac/Brainiac (1994) Bonsai Superstar [FLAC] {GROW046-2}/Brainiac - Bonsai Superstar.cue/9
-cue:///mnt/synology/media/music/orpheus.network/flac/DJ Shadow - Endtroducing..... [FLAC] {697-124-123-2}/DJ Shadow - Endtroducing......cue/9
-cue:///mnt/synology/media/music/orpheus.network/flac/Story of the Year - Page Avenue (2003) FLAC/Story of the Year - Page Avenue.cue/9
-cue:///mnt/synology/media/music/orpheus.network/flac/Brainiac (1994) Bonsai Superstar [FLAC] {GROW046-2}/Brainiac - Bonsai Superstar.cue/10
-cue:///mnt/synology/media/music/orpheus.network/flac/DJ Shadow - Endtroducing..... [FLAC] {697-124-123-2}/DJ Shadow - Endtroducing......cue/10
-cue:///mnt/synology/media/music/orpheus.network/flac/Story of the Year - Page Avenue (2003) FLAC/Story of the Year - Page Avenue.cue/10
-cue:///mnt/synology/media/music/orpheus.network/flac/Brainiac (1994) Bonsai Superstar [FLAC] {GROW046-2}/Brainiac - Bonsai Superstar.cue/11
-cue:///mnt/synology/media/music/orpheus.network/flac/DJ Shadow - Endtroducing..... [FLAC] {697-124-123-2}/DJ Shadow - Endtroducing......cue/11
-cue:///mnt/synology/media/music/orpheus.network/flac/Story of the Year - Page Avenue (2003) FLAC/Story of the Year - Page Avenue.cue/11
-cue:///mnt/synology/media/music/orpheus.network/flac/Brainiac (1994) Bonsai Superstar [FLAC] {GROW046-2}/Brainiac - Bonsai Superstar.cue/12
-cue:///mnt/synology/media/music/orpheus.network/flac/DJ Shadow - Endtroducing..... [FLAC] {697-124-123-2}/DJ Shadow - Endtroducing......cue/12
 cue:///mnt/synology/media/music/orpheus.network/flac/Story of the Year - Page Avenue (2003) FLAC/Story of the Year - Page Avenue.cue/12
 cue:///mnt/synology/media/music/orpheus.network/flac/Brainiac (1994) Bonsai Superstar [FLAC] {GROW046-2}/Brainiac - Bonsai Superstar.cue/13
 cue:///mnt/synology/media/music/orpheus.network/flac/DJ Shadow - Endtroducing..... [FLAC] {697-124-123-2}/DJ Shadow - Endtroducing......cue/13
@@ -554,7 +519,6 @@ cue:///mnt/synology/media/music/orpheus.network/flac/1995 - Long Hair in Three S
 /mnt/synology/media/music/redacted.ch/flac/Absu [2001] [CD] Tara [FLAC]/11 - Bron (Of The Waves).flac
 /mnt/synology/media/music/redacted.ch/flac/Absu [2001] [CD] Tara [FLAC]/12 - Stone Of Destiny (...For Magh Slecht And Ard Right).flac
 /mnt/synology/media/music/redacted.ch/flac/Absu [2001] [CD] Tara [FLAC]/13 - Tara (Recapitulation).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Compilations - Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition) (2021) [FLAC]/Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition).cue/10
 /mnt/synology/media/music/orpheus.network/flac/Compilations - Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition) (2021) [FLAC]/10 Drop.flac
 /mnt/synology/media/music/orpheus.network/flac/Acrimony - Tumuli Shroomaroom (FLAC)/01 - Hymns to the Stone.flac
 /mnt/synology/media/music/orpheus.network/flac/Acrimony - Tumuli Shroomaroom (FLAC)/02 - Million Year Summer.flac
@@ -2032,25 +1996,15 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Bad Religion - 2002 - The P
 /mnt/synology/media/music/redacted.ch/flac/Bathory - 1984 - Bathory/07 - Raise The Dead.flac
 /mnt/synology/media/music/redacted.ch/flac/Bathory - 1984 - Bathory/08 - War.flac
 /mnt/synology/media/music/redacted.ch/flac/Bathory - 1984 - Bathory/09 - Outro.flac
-cue:///mnt/synology/media/music/redacted.ch/flac/Bathory - The Return......  (2019 Bootleg CD) [FLAC]/The Return...... .cue/1
 /mnt/synology/media/music/redacted.ch/flac/Bathory - The Return......  (2019 Bootleg CD) [FLAC]/01 Revelation Of Doom.flac
-cue:///mnt/synology/media/music/redacted.ch/flac/Bathory - The Return......  (2019 Bootleg CD) [FLAC]/The Return...... .cue/2
 /mnt/synology/media/music/redacted.ch/flac/Bathory - The Return......  (2019 Bootleg CD) [FLAC]/02 Total Destruction.flac
-cue:///mnt/synology/media/music/redacted.ch/flac/Bathory - The Return......  (2019 Bootleg CD) [FLAC]/The Return...... .cue/3
 /mnt/synology/media/music/redacted.ch/flac/Bathory - The Return......  (2019 Bootleg CD) [FLAC]/03 Born For Burning.flac
-cue:///mnt/synology/media/music/redacted.ch/flac/Bathory - The Return......  (2019 Bootleg CD) [FLAC]/The Return...... .cue/4
 /mnt/synology/media/music/redacted.ch/flac/Bathory - The Return......  (2019 Bootleg CD) [FLAC]/04 The Wind Of Mayhem.flac
-cue:///mnt/synology/media/music/redacted.ch/flac/Bathory - The Return......  (2019 Bootleg CD) [FLAC]/The Return...... .cue/5
 /mnt/synology/media/music/redacted.ch/flac/Bathory - The Return......  (2019 Bootleg CD) [FLAC]/05 Bestial Lust (Bitch).flac
-cue:///mnt/synology/media/music/redacted.ch/flac/Bathory - The Return......  (2019 Bootleg CD) [FLAC]/The Return...... .cue/6
 /mnt/synology/media/music/redacted.ch/flac/Bathory - The Return......  (2019 Bootleg CD) [FLAC]/06 Possessed.flac
-cue:///mnt/synology/media/music/redacted.ch/flac/Bathory - The Return......  (2019 Bootleg CD) [FLAC]/The Return...... .cue/7
 /mnt/synology/media/music/redacted.ch/flac/Bathory - The Return......  (2019 Bootleg CD) [FLAC]/07 The Rite Of Darkness.flac
-cue:///mnt/synology/media/music/redacted.ch/flac/Bathory - The Return......  (2019 Bootleg CD) [FLAC]/The Return...... .cue/8
 /mnt/synology/media/music/redacted.ch/flac/Bathory - The Return......  (2019 Bootleg CD) [FLAC]/08 Reap Of Evil.flac
-cue:///mnt/synology/media/music/redacted.ch/flac/Bathory - The Return......  (2019 Bootleg CD) [FLAC]/The Return...... .cue/9
 /mnt/synology/media/music/redacted.ch/flac/Bathory - The Return......  (2019 Bootleg CD) [FLAC]/09 Son Of The Damned.flac
-cue:///mnt/synology/media/music/redacted.ch/flac/Bathory - The Return......  (2019 Bootleg CD) [FLAC]/The Return...... .cue/10
 /mnt/synology/media/music/redacted.ch/flac/Bathory - The Return......  (2019 Bootleg CD) [FLAC]/10 Sadist (Tormentor).flac
 cue:///mnt/synology/media/music/redacted.ch/flac/Bathory - The Return......  (2019 Bootleg CD) [FLAC]/The Return...... .cue/11
 /mnt/synology/media/music/redacted.ch/flac/Bathory - The Return......  (2019 Bootleg CD) [FLAC]/11 The Return Of The Darkness And Evil.flac
@@ -2217,17 +2171,11 @@ cue:///mnt/synology/media/music/redacted.ch/flac/Bathory - The Return......  (20
 /mnt/synology/media/music/redacted.ch/flac/Beherit - 1993 - Drawing Down the Moon {Spinefarm Records SPI 14 CD} FLAC/11 - Werewolf, Semen and Blood.flac
 /mnt/synology/media/music/redacted.ch/flac/Beherit - 1993 - Drawing Down the Moon {Spinefarm Records SPI 14 CD} FLAC/12 - Thou Angel of the Gods.flac
 /mnt/synology/media/music/redacted.ch/flac/Beherit - 1993 - Drawing Down the Moon {Spinefarm Records SPI 14 CD} FLAC/13 - Lord of Shadows and Goldenwood.flac
-cue:///mnt/synology/media/music/redacted.ch/flac/Behexen - By The Blessing Of Satan/Behexen - By the Blessing of Satan.cue/1
 /mnt/synology/media/music/redacted.ch/flac/Behexen - By The Blessing Of Satan/01 - By The Blessing Of Satan.flac
-cue:///mnt/synology/media/music/redacted.ch/flac/Behexen - By The Blessing Of Satan/Behexen - By the Blessing of Satan.cue/2
 /mnt/synology/media/music/redacted.ch/flac/Behexen - By The Blessing Of Satan/02 - Fist Of The Satanist.flac
-cue:///mnt/synology/media/music/redacted.ch/flac/Behexen - By The Blessing Of Satan/Behexen - By the Blessing of Satan.cue/3
 /mnt/synology/media/music/redacted.ch/flac/Behexen - By The Blessing Of Satan/03 - Sieluni Saatanan Vihasta Roihuten.flac
-cue:///mnt/synology/media/music/redacted.ch/flac/Behexen - By The Blessing Of Satan/Behexen - By the Blessing of Satan.cue/4
 /mnt/synology/media/music/redacted.ch/flac/Behexen - By The Blessing Of Satan/04 - Celebration Of Christ's Fall.flac
-cue:///mnt/synology/media/music/redacted.ch/flac/Behexen - By The Blessing Of Satan/Behexen - By the Blessing of Satan.cue/5
 /mnt/synology/media/music/redacted.ch/flac/Behexen - By The Blessing Of Satan/05 - Black Metal Baptism.flac
-cue:///mnt/synology/media/music/redacted.ch/flac/Behexen - By The Blessing Of Satan/Behexen - By the Blessing of Satan.cue/6
 /mnt/synology/media/music/redacted.ch/flac/Behexen - By The Blessing Of Satan/06 - Watchers Of My Black Temple.flac
 cue:///mnt/synology/media/music/redacted.ch/flac/Behexen - By The Blessing Of Satan/Behexen - By the Blessing of Satan.cue/7
 /mnt/synology/media/music/redacted.ch/flac/Behexen - By The Blessing Of Satan/07 - Under The Eye Of Lord.flac
@@ -3274,23 +3222,14 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Black Flag - My War [FLAC]/
 /mnt/synology/media/music/orpheus.network/flac/Bladee & Mechatok - Good Luck (2020) [WEB FLAC]/08 - Bladee & Mechatok - Grace.flac
 /mnt/synology/media/music/sbe-gtb-dg/Bladee & Mechatok - Good Luck (2020) [WEB FLAC]/08 - Bladee & Mechatok - Grace.flac
 /mnt/synology/media/music/sbe-gtb-dg/GTBSG compilation/07 Diamondz ft. Black Kray (Prod. Dj Smokey & SaavageBeatz).mp3
-cue:///mnt/synology/media/music/redacted.ch/flac/Blasphemy - Fallen Angel of Doom.... [2015 Reissue][FLAC]/Blasphemy - Fallen Angel of Doom.....cue/1
 /mnt/synology/media/music/redacted.ch/flac/Blasphemy - Fallen Angel of Doom.... [2015 Reissue][FLAC]/01 Winds of the Black Godz (Intro).flac
-cue:///mnt/synology/media/music/redacted.ch/flac/Blasphemy - Fallen Angel of Doom.... [2015 Reissue][FLAC]/Blasphemy - Fallen Angel of Doom.....cue/2
 /mnt/synology/media/music/redacted.ch/flac/Blasphemy - Fallen Angel of Doom.... [2015 Reissue][FLAC]/02 Fallen Angel of Doom.flac
-cue:///mnt/synology/media/music/redacted.ch/flac/Blasphemy - Fallen Angel of Doom.... [2015 Reissue][FLAC]/Blasphemy - Fallen Angel of Doom.....cue/3
 /mnt/synology/media/music/redacted.ch/flac/Blasphemy - Fallen Angel of Doom.... [2015 Reissue][FLAC]/03 Hording of Evil Vengeance.flac
-cue:///mnt/synology/media/music/redacted.ch/flac/Blasphemy - Fallen Angel of Doom.... [2015 Reissue][FLAC]/Blasphemy - Fallen Angel of Doom.....cue/4
 /mnt/synology/media/music/redacted.ch/flac/Blasphemy - Fallen Angel of Doom.... [2015 Reissue][FLAC]/04 Darkness Prevails.flac
-cue:///mnt/synology/media/music/redacted.ch/flac/Blasphemy - Fallen Angel of Doom.... [2015 Reissue][FLAC]/Blasphemy - Fallen Angel of Doom.....cue/5
 /mnt/synology/media/music/redacted.ch/flac/Blasphemy - Fallen Angel of Doom.... [2015 Reissue][FLAC]/05 Desecration.flac
-cue:///mnt/synology/media/music/redacted.ch/flac/Blasphemy - Fallen Angel of Doom.... [2015 Reissue][FLAC]/Blasphemy - Fallen Angel of Doom.....cue/6
 /mnt/synology/media/music/redacted.ch/flac/Blasphemy - Fallen Angel of Doom.... [2015 Reissue][FLAC]/06 Ritual.flac
-cue:///mnt/synology/media/music/redacted.ch/flac/Blasphemy - Fallen Angel of Doom.... [2015 Reissue][FLAC]/Blasphemy - Fallen Angel of Doom.....cue/7
 /mnt/synology/media/music/redacted.ch/flac/Blasphemy - Fallen Angel of Doom.... [2015 Reissue][FLAC]/07 Weltering in Blood.flac
-cue:///mnt/synology/media/music/redacted.ch/flac/Blasphemy - Fallen Angel of Doom.... [2015 Reissue][FLAC]/Blasphemy - Fallen Angel of Doom.....cue/8
 /mnt/synology/media/music/redacted.ch/flac/Blasphemy - Fallen Angel of Doom.... [2015 Reissue][FLAC]/08 Demoniac.flac
-cue:///mnt/synology/media/music/redacted.ch/flac/Blasphemy - Fallen Angel of Doom.... [2015 Reissue][FLAC]/Blasphemy - Fallen Angel of Doom.....cue/9
 /mnt/synology/media/music/redacted.ch/flac/Blasphemy - Fallen Angel of Doom.... [2015 Reissue][FLAC]/09 Goddess of Perversity.flac
 cue:///mnt/synology/media/music/redacted.ch/flac/Blasphemy - Fallen Angel of Doom.... [2015 Reissue][FLAC]/Blasphemy - Fallen Angel of Doom.....cue/10
 /mnt/synology/media/music/redacted.ch/flac/Blasphemy - Fallen Angel of Doom.... [2015 Reissue][FLAC]/10 The Desolate One (Outro).flac
@@ -3726,29 +3665,14 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Boards of Canada - 1998 - M
 /mnt/synology/media/music/orpheus.network/flac/Bob Dylan - Love And Theft (2001) [FLAC] {2017 MFSL}/10 - Po' Boy.flac
 /mnt/synology/media/music/orpheus.network/flac/Bob Dylan - Love And Theft (2001) [FLAC] {2017 MFSL}/11 - Cry A While.flac
 /mnt/synology/media/music/orpheus.network/flac/Bob Dylan - Love And Theft (2001) [FLAC] {2017 MFSL}/12 - Sugar Baby.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Bob Dylan - Street-Legal (2004) {Columbia CK 92403} [FLAC-CD]/Street-Legal.cue/1
-cue:///mnt/synology/media/music/orpheus.network/flac/Bob Dylan - Street-Legal (2004) {Columbia CK 92403} [FLAC-CD]/Street-Legal.cue/2
-cue:///mnt/synology/media/music/orpheus.network/flac/Bob Dylan - Street-Legal (2004) {Columbia CK 92403} [FLAC-CD]/Street-Legal.cue/3
-cue:///mnt/synology/media/music/orpheus.network/flac/Bob Dylan - Street-Legal (2004) {Columbia CK 92403} [FLAC-CD]/Street-Legal.cue/4
-cue:///mnt/synology/media/music/orpheus.network/flac/Bob Dylan - Street-Legal (2004) {Columbia CK 92403} [FLAC-CD]/Street-Legal.cue/5
-cue:///mnt/synology/media/music/orpheus.network/flac/Bob Dylan - Street-Legal (2004) {Columbia CK 92403} [FLAC-CD]/Street-Legal.cue/6
-cue:///mnt/synology/media/music/orpheus.network/flac/Bob Dylan - Street-Legal (2004) {Columbia CK 92403} [FLAC-CD]/Street-Legal.cue/8
 cue:///mnt/synology/media/music/orpheus.network/flac/Bob Dylan - Street-Legal (2004) {Columbia CK 92403} [FLAC-CD]/Street-Legal.cue/9
-cue:///mnt/synology/media/music/orpheus.network/flac/Bob Dylan - Desire (2013) [FLAC]/Desire.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Bob Dylan - Desire (2013) [FLAC]/01 Hurricane.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Bob Dylan - Desire (2013) [FLAC]/Desire.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Bob Dylan - Desire (2013) [FLAC]/02 Isis.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Bob Dylan - Desire (2013) [FLAC]/Desire.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Bob Dylan - Desire (2013) [FLAC]/03 Mozambique.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Bob Dylan - Desire (2013) [FLAC]/Desire.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Bob Dylan - Desire (2013) [FLAC]/04 One More Cup Of Coffee.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Bob Dylan - Desire (2013) [FLAC]/Desire.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Bob Dylan - Desire (2013) [FLAC]/05 Oh, Sister.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Bob Dylan - Desire (2013) [FLAC]/Desire.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Bob Dylan - Desire (2013) [FLAC]/06 Joey.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Bob Dylan - Desire (2013) [FLAC]/Desire.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Bob Dylan - Desire (2013) [FLAC]/07 Romance In Durango.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Bob Dylan - Desire (2013) [FLAC]/Desire.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Bob Dylan - Desire (2013) [FLAC]/08 Black Diamond Bay.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Bob Dylan - Desire (2013) [FLAC]/Desire.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Bob Dylan - Desire (2013) [FLAC]/09 Sara.flac
@@ -3762,24 +3686,15 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Bob Dylan - Desire (2013) [
 /mnt/synology/media/music/orpheus.network/flac/Bob Dylan - Rough and Rowdy Ways [US CD 19439780982]  (2020) 2cd flac/cd1/08 - Crossing The Rubicon.flac
 /mnt/synology/media/music/orpheus.network/flac/Bob Dylan - Rough and Rowdy Ways [US CD 19439780982]  (2020) 2cd flac/cd1/09 - Key West (Philosopher Pirate).flac
 /mnt/synology/media/music/orpheus.network/flac/Bob Dylan - Rough and Rowdy Ways [US CD 19439780982]  (2020) 2cd flac/cd2/01 - Murder Most Foul.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Bogdan Raczynski - Thinking Of You (1999) {CAT 089 CD} [FLAC]/Thinking Of You.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Bogdan Raczynski - Thinking Of You (1999) {CAT 089 CD} [FLAC]/01 - All I Want Is To Be By Your Side But You Don't Care.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Bogdan Raczynski - Thinking Of You (1999) {CAT 089 CD} [FLAC]/Thinking Of You.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Bogdan Raczynski - Thinking Of You (1999) {CAT 089 CD} [FLAC]/02 - I Saw You, With Your Heart, Looking At Me.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Bogdan Raczynski - Thinking Of You (1999) {CAT 089 CD} [FLAC]/Thinking Of You.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Bogdan Raczynski - Thinking Of You (1999) {CAT 089 CD} [FLAC]/03 - Fnck You DJ.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Bogdan Raczynski - Thinking Of You (1999) {CAT 089 CD} [FLAC]/Thinking Of You.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Bogdan Raczynski - Thinking Of You (1999) {CAT 089 CD} [FLAC]/04 - Thinking Of You Thinking Of Me.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Bogdan Raczynski - Thinking Of You (1999) {CAT 089 CD} [FLAC]/Thinking Of You.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Bogdan Raczynski - Thinking Of You (1999) {CAT 089 CD} [FLAC]/05 - You As An Out-Of-Control Extension Of Me.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Bogdan Raczynski - Thinking Of You (1999) {CAT 089 CD} [FLAC]/Thinking Of You.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Bogdan Raczynski - Thinking Of You (1999) {CAT 089 CD} [FLAC]/06 - Unsatisfied Consumer.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Bogdan Raczynski - Thinking Of You (1999) {CAT 089 CD} [FLAC]/Thinking Of You.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Bogdan Raczynski - Thinking Of You (1999) {CAT 089 CD} [FLAC]/07 - Riot.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Bogdan Raczynski - Thinking Of You (1999) {CAT 089 CD} [FLAC]/Thinking Of You.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Bogdan Raczynski - Thinking Of You (1999) {CAT 089 CD} [FLAC]/08 - Domesticated Violence.flac
 /mnt/synology/media/music/orpheus.network/flac/Bogdan Raczynski - Thinking Of You (1999) {CAT 089 CD} [FLAC]/09 - There Are Many Things I Don't Understand But I Knew That I Loved You.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Bogdan Raczynski - Thinking Of You (1999) {CAT 089 CD} [FLAC]/Thinking Of You.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Bogdan Raczynski - Thinking Of You (1999) {CAT 089 CD} [FLAC]/10 - That First Time I Met Her And She Hugged Me.flac
 /mnt/synology/media/music/orpheus.network/flac/Bogdan Raczynski - Thinking Of You (1999) {CAT 089 CD} [FLAC]/11 - You Broke My Heart, Now You Must Play The Part When You Come Running Back For Me.flac
 /mnt/synology/media/music/orpheus.network/flac/Bo Hansson - 1972 - Music Inspired By Lord Of The Rings [flac] [japan]/01 - Leaving Shire.flac
@@ -3815,25 +3730,15 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Bogdan Raczynski - Thinking
 /mnt/synology/media/music/orpheus.network/flac/(1996) In Wallace's Shadow [FLAC]/08. Phil The Water Sweep.flac
 /mnt/synology/media/music/orpheus.network/flac/(1996) In Wallace's Shadow [FLAC]/09. Pathos Delay.flac
 /mnt/synology/media/music/orpheus.network/flac/(1996) In Wallace's Shadow [FLAC]/10. Breach.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Boilermaker - Boilermaker (1998) [FLAC] {wr014}/Boilermaker.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Boilermaker - Boilermaker (1998) [FLAC] {wr014}/01 Norman.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Boilermaker - Boilermaker (1998) [FLAC] {wr014}/Boilermaker.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Boilermaker - Boilermaker (1998) [FLAC] {wr014}/02 Midnight Manager.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Boilermaker - Boilermaker (1998) [FLAC] {wr014}/Boilermaker.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Boilermaker - Boilermaker (1998) [FLAC] {wr014}/03 Last Stop On The Way To Vegas.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Boilermaker - Boilermaker (1998) [FLAC] {wr014}/Boilermaker.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Boilermaker - Boilermaker (1998) [FLAC] {wr014}/04 Last On The Drive.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Boilermaker - Boilermaker (1998) [FLAC] {wr014}/Boilermaker.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Boilermaker - Boilermaker (1998) [FLAC] {wr014}/05 1-10-98.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Boilermaker - Boilermaker (1998) [FLAC] {wr014}/Boilermaker.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Boilermaker - Boilermaker (1998) [FLAC] {wr014}/06 Sunset Ridge.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Boilermaker - Boilermaker (1998) [FLAC] {wr014}/Boilermaker.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Boilermaker - Boilermaker (1998) [FLAC] {wr014}/07 From Phoenix At Four.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Boilermaker - Boilermaker (1998) [FLAC] {wr014}/Boilermaker.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Boilermaker - Boilermaker (1998) [FLAC] {wr014}/08 Tumbleweed.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Boilermaker - Boilermaker (1998) [FLAC] {wr014}/Boilermaker.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Boilermaker - Boilermaker (1998) [FLAC] {wr014}/09 Here Comes Rolling.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Boilermaker - Boilermaker (1998) [FLAC] {wr014}/Boilermaker.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Boilermaker - Boilermaker (1998) [FLAC] {wr014}/10 Thinner Runs Through Her.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Boilermaker - Boilermaker (1998) [FLAC] {wr014}/Boilermaker.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Boilermaker - Boilermaker (1998) [FLAC] {wr014}/11 Bluebird.flac
@@ -4548,25 +4453,15 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Boilermaker - Boilermaker (
 /mnt/synology/media/music/orpheus.network/flac/Butthole Surfers - 1984 - Psychic... Powerless... Another Man's Sac/13 - Lou Reed.flac
 /mnt/synology/media/music/orpheus.network/flac/Butthole Surfers - 1984 - Psychic... Powerless... Another Man's Sac/14 - Two Part.flac
 /mnt/synology/media/music/orpheus.network/flac/Butthole Surfers - 1984 - Psychic... Powerless... Another Man's Sac/15 - Tornadoes.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Butthole Surfers - Locust Abortion Technician [FLAC]/Butthole Surfers - Locust Abortion Technician.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Butthole Surfers - Locust Abortion Technician [FLAC]/01 Sweat Loaf.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Butthole Surfers - Locust Abortion Technician [FLAC]/Butthole Surfers - Locust Abortion Technician.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Butthole Surfers - Locust Abortion Technician [FLAC]/02 Graveyard.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Butthole Surfers - Locust Abortion Technician [FLAC]/Butthole Surfers - Locust Abortion Technician.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Butthole Surfers - Locust Abortion Technician [FLAC]/03 Pittsburgh to Lebanon.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Butthole Surfers - Locust Abortion Technician [FLAC]/Butthole Surfers - Locust Abortion Technician.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Butthole Surfers - Locust Abortion Technician [FLAC]/04 Weber.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Butthole Surfers - Locust Abortion Technician [FLAC]/Butthole Surfers - Locust Abortion Technician.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Butthole Surfers - Locust Abortion Technician [FLAC]/05 Hay.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Butthole Surfers - Locust Abortion Technician [FLAC]/Butthole Surfers - Locust Abortion Technician.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Butthole Surfers - Locust Abortion Technician [FLAC]/06 Human Cannonball.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Butthole Surfers - Locust Abortion Technician [FLAC]/Butthole Surfers - Locust Abortion Technician.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Butthole Surfers - Locust Abortion Technician [FLAC]/07 U.S.S.A..flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Butthole Surfers - Locust Abortion Technician [FLAC]/Butthole Surfers - Locust Abortion Technician.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Butthole Surfers - Locust Abortion Technician [FLAC]/08 The O-Men.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Butthole Surfers - Locust Abortion Technician [FLAC]/Butthole Surfers - Locust Abortion Technician.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Butthole Surfers - Locust Abortion Technician [FLAC]/09 Kuntz.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Butthole Surfers - Locust Abortion Technician [FLAC]/Butthole Surfers - Locust Abortion Technician.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Butthole Surfers - Locust Abortion Technician [FLAC]/10 Graveyard.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Butthole Surfers - Locust Abortion Technician [FLAC]/Butthole Surfers - Locust Abortion Technician.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Butthole Surfers - Locust Abortion Technician [FLAC]/11 22 Going on 23.flac
@@ -4603,7 +4498,6 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Butthole Surfers - Locust A
 /mnt/synology/media/music/orpheus.network/flac/1998 - At A Loss/11 - Useless.flac
 /mnt/synology/media/music/orpheus.network/flac/1998 - At A Loss/12 - Heal.flac
 /mnt/synology/media/music/orpheus.network/flac/1998 - At A Loss/13 - Left Behind.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Compilations - Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition) (2021) [FLAC]/Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition).cue/6
 /mnt/synology/media/music/orpheus.network/flac/Compilations - Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition) (2021) [FLAC]/06 Partially Submerged.flac
 /mnt/synology/media/music/orpheus.network/flac/Morton Feldman - California EAR Unit - For Philip Guston (1997) [CD FLAC] {BRIDGE 9078A-D}/Disc 1/01 - For Philip Guston Part I.flac
 /mnt/synology/media/music/orpheus.network/flac/Morton Feldman - California EAR Unit - For Philip Guston (1997) [CD FLAC] {BRIDGE 9078A-D}/Disc 1/02 - For Philip Guston Part II.flac
@@ -4707,15 +4601,10 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Compilations - Fame- Jon Sa
 /mnt/synology/media/music/orpheus.network/flac/Can - Future Days (1973) [FLAC] {2007 Remaster}/04. Bel Air.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Can - 1989 - Ege Bamyasi [FLAC]/Ege Bamyasi.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Can - 1989 - Ege Bamyasi [FLAC]/01 Pinch.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Can - 1989 - Ege Bamyasi [FLAC]/Ege Bamyasi.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Can - 1989 - Ege Bamyasi [FLAC]/02 Sing Swan Song.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Can - 1989 - Ege Bamyasi [FLAC]/Ege Bamyasi.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Can - 1989 - Ege Bamyasi [FLAC]/03 One More Night.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Can - 1989 - Ege Bamyasi [FLAC]/Ege Bamyasi.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Can - 1989 - Ege Bamyasi [FLAC]/04 Vitamin C.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Can - 1989 - Ege Bamyasi [FLAC]/Ege Bamyasi.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Can - 1989 - Ege Bamyasi [FLAC]/05 Soup.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Can - 1989 - Ege Bamyasi [FLAC]/Ege Bamyasi.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Can - 1989 - Ege Bamyasi [FLAC]/06 I’m So Green.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Can - 1989 - Ege Bamyasi [FLAC]/Ege Bamyasi.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Can - 1989 - Ege Bamyasi [FLAC]/07 Spoon.flac
@@ -4955,17 +4844,6 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Can - 1989 - Ege Bamyasi [F
 /mnt/synology/media/music/orpheus.network/flac/Catherine Wheel - Happy Days (1995) [FLAC]/12 - Hole.flac
 /mnt/synology/media/music/orpheus.network/flac/Catherine Wheel - Happy Days (1995) [FLAC]/13 - Fizzy Love.flac
 /mnt/synology/media/music/orpheus.network/flac/Catherine Wheel - Happy Days (1995) [FLAC]/14 - Kill My Soul.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Catherine Wheel - Adam and Eve (1997, 1998) [FLAC CD] {Chrysalis, 7243 4 93099 2 0}/Catherine Wheel - Adam and Eve.cue/1
-cue:///mnt/synology/media/music/orpheus.network/flac/Catherine Wheel - Adam and Eve (1997, 1998) [FLAC CD] {Chrysalis, 7243 4 93099 2 0}/Catherine Wheel - Adam and Eve.cue/2
-cue:///mnt/synology/media/music/orpheus.network/flac/Catherine Wheel - Adam and Eve (1997, 1998) [FLAC CD] {Chrysalis, 7243 4 93099 2 0}/Catherine Wheel - Adam and Eve.cue/3
-cue:///mnt/synology/media/music/orpheus.network/flac/Catherine Wheel - Adam and Eve (1997, 1998) [FLAC CD] {Chrysalis, 7243 4 93099 2 0}/Catherine Wheel - Adam and Eve.cue/4
-cue:///mnt/synology/media/music/orpheus.network/flac/Catherine Wheel - Adam and Eve (1997, 1998) [FLAC CD] {Chrysalis, 7243 4 93099 2 0}/Catherine Wheel - Adam and Eve.cue/5
-cue:///mnt/synology/media/music/orpheus.network/flac/Catherine Wheel - Adam and Eve (1997, 1998) [FLAC CD] {Chrysalis, 7243 4 93099 2 0}/Catherine Wheel - Adam and Eve.cue/6
-cue:///mnt/synology/media/music/orpheus.network/flac/Catherine Wheel - Adam and Eve (1997, 1998) [FLAC CD] {Chrysalis, 7243 4 93099 2 0}/Catherine Wheel - Adam and Eve.cue/7
-cue:///mnt/synology/media/music/orpheus.network/flac/Catherine Wheel - Adam and Eve (1997, 1998) [FLAC CD] {Chrysalis, 7243 4 93099 2 0}/Catherine Wheel - Adam and Eve.cue/8
-cue:///mnt/synology/media/music/orpheus.network/flac/Catherine Wheel - Adam and Eve (1997, 1998) [FLAC CD] {Chrysalis, 7243 4 93099 2 0}/Catherine Wheel - Adam and Eve.cue/9
-cue:///mnt/synology/media/music/orpheus.network/flac/Catherine Wheel - Adam and Eve (1997, 1998) [FLAC CD] {Chrysalis, 7243 4 93099 2 0}/Catherine Wheel - Adam and Eve.cue/10
-cue:///mnt/synology/media/music/orpheus.network/flac/Catherine Wheel - Adam and Eve (1997, 1998) [FLAC CD] {Chrysalis, 7243 4 93099 2 0}/Catherine Wheel - Adam and Eve.cue/11
 cue:///mnt/synology/media/music/orpheus.network/flac/Catherine Wheel - Adam and Eve (1997, 1998) [FLAC CD] {Chrysalis, 7243 4 93099 2 0}/Catherine Wheel - Adam and Eve.cue/12
 /mnt/synology/media/music/orpheus.network/flac/Catherine Wheel - Adam and Eve (1997, 1998) [FLAC CD] {Chrysalis, 7243 4 93099 2 0}/01 - [untitled].flac
 /mnt/synology/media/music/orpheus.network/flac/Catherine Wheel - Adam and Eve (1997, 1998) [FLAC CD] {Chrysalis, 7243 4 93099 2 0}/02 - Future Boy.flac
@@ -5105,13 +4983,9 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Catherine Wheel - Adam and 
 /mnt/synology/media/music/orpheus.network/flac/Charles Mingus - 1963 - The Black Saint and the Sinner Lady (CIPJ 35 SA)/04 - Mode D – Trio and Group Dancers , Mode E – Single Solos and Group Dance , Mode F – Group and Solo Dance.flac
 /mnt/synology/media/music/orpheus.network/flac/Charles Mingus - 1972 - Let My Children Hear Music [FLAC]/01 The shoes of the fishermans wife are some jive ass slippers.flac
 /mnt/synology/media/music/orpheus.network/flac/Charles Mingus - 1972 - Let My Children Hear Music [FLAC]/02 Adagio ma non troppo.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Charles Mingus - 1972 - Let My Children Hear Music [FLAC]/Let My Children Hear Music.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Charles Mingus - 1972 - Let My Children Hear Music [FLAC]/03 Don't be afraid, the clown's afraid too.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Charles Mingus - 1972 - Let My Children Hear Music [FLAC]/Let My Children Hear Music.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Charles Mingus - 1972 - Let My Children Hear Music [FLAC]/04 Taurus in the arena of life.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Charles Mingus - 1972 - Let My Children Hear Music [FLAC]/Let My Children Hear Music.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Charles Mingus - 1972 - Let My Children Hear Music [FLAC]/05 Hobo Ho.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Charles Mingus - 1972 - Let My Children Hear Music [FLAC]/Let My Children Hear Music.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Charles Mingus - 1972 - Let My Children Hear Music [FLAC]/06 The chill of death.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Charles Mingus - 1972 - Let My Children Hear Music [FLAC]/Let My Children Hear Music.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Charles Mingus - 1972 - Let My Children Hear Music [FLAC]/07 The I of Hurricane Sue.flac
@@ -5375,29 +5249,17 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Charles Mingus - 1972 - Let
 /mnt/synology/media/music/orpheus.network/flac/Christie Front Drive - Christie Front Drive (1996) [FLAC]/08 - Thrid Interlude.flac
 /mnt/synology/media/music/orpheus.network/flac/Christie Front Drive - Christie Front Drive (1996) [FLAC]/09 - Seven Day Candle.flac
 /mnt/synology/media/music/orpheus.network/flac/Christie Front Drive - Christie Front Drive (1996) [FLAC]/10 - Fourth Interlude.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Compilations - Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition) (2021) [FLAC]/Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition).cue/2
 /mnt/synology/media/music/orpheus.network/flac/Compilations - Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition) (2021) [FLAC]/02 Chromosome Damage.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Circa Survive - On Letting Go (2007) [FLAC] {EVR139}/On Letting Go.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Circa Survive - On Letting Go (2007) [FLAC] {EVR139}/Circa Survive - 01 - Living Together.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Circa Survive - On Letting Go (2007) [FLAC] {EVR139}/On Letting Go.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Circa Survive - On Letting Go (2007) [FLAC] {EVR139}/Circa Survive - 02 - In The Morning And Amazing.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Circa Survive - On Letting Go (2007) [FLAC] {EVR139}/On Letting Go.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Circa Survive - On Letting Go (2007) [FLAC] {EVR139}/Circa Survive - 03 - The Greatest Lie.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Circa Survive - On Letting Go (2007) [FLAC] {EVR139}/On Letting Go.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Circa Survive - On Letting Go (2007) [FLAC] {EVR139}/Circa Survive - 04 - The Difference Between Medicine And Poison Is In The Dose.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Circa Survive - On Letting Go (2007) [FLAC] {EVR139}/On Letting Go.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Circa Survive - On Letting Go (2007) [FLAC] {EVR139}/Circa Survive - 05 - Mandala.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Circa Survive - On Letting Go (2007) [FLAC] {EVR139}/On Letting Go.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Circa Survive - On Letting Go (2007) [FLAC] {EVR139}/Circa Survive - 06 - Travel Hymn.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Circa Survive - On Letting Go (2007) [FLAC] {EVR139}/On Letting Go.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Circa Survive - On Letting Go (2007) [FLAC] {EVR139}/Circa Survive - 07 - Semi Constructive Criticism.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Circa Survive - On Letting Go (2007) [FLAC] {EVR139}/On Letting Go.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Circa Survive - On Letting Go (2007) [FLAC] {EVR139}/Circa Survive - 08 - Kicking Your Crosses Down.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Circa Survive - On Letting Go (2007) [FLAC] {EVR139}/On Letting Go.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Circa Survive - On Letting Go (2007) [FLAC] {EVR139}/Circa Survive - 09 - On Letting Go.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Circa Survive - On Letting Go (2007) [FLAC] {EVR139}/On Letting Go.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Circa Survive - On Letting Go (2007) [FLAC] {EVR139}/Circa Survive - 10 - Carry Us Away.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Circa Survive - On Letting Go (2007) [FLAC] {EVR139}/On Letting Go.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Circa Survive - On Letting Go (2007) [FLAC] {EVR139}/Circa Survive - 11 - Close Your Eyes To See.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Circa Survive - On Letting Go (2007) [FLAC] {EVR139}/On Letting Go.cue/12
 /mnt/synology/media/music/orpheus.network/flac/Circa Survive - On Letting Go (2007) [FLAC] {EVR139}/Circa Survive - 12 - Your Friends Are Gone.flac
@@ -5677,23 +5539,14 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Circa Survive - On Letting 
 /mnt/synology/media/music/orpheus.network/flac/Cocteau Twins - Milk & Kisses (1996)(514 501-2)[FLAC]/08 Eperdu.flac
 /mnt/synology/media/music/orpheus.network/flac/Cocteau Twins - Milk & Kisses (1996)(514 501-2)[FLAC]/09 Treasure Hiding.flac
 /mnt/synology/media/music/orpheus.network/flac/Cocteau Twins - Milk & Kisses (1996)(514 501-2)[FLAC]/10 Seekers Who Are Lovers.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Codeine - Frigid Stars LP (1990) [FLAC] Sub Pop - SP 107B/Frigid Stars.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Codeine - Frigid Stars LP (1990) [FLAC] Sub Pop - SP 107B/01 D.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Codeine - Frigid Stars LP (1990) [FLAC] Sub Pop - SP 107B/Frigid Stars.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Codeine - Frigid Stars LP (1990) [FLAC] Sub Pop - SP 107B/02 Gravel Bed.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Codeine - Frigid Stars LP (1990) [FLAC] Sub Pop - SP 107B/Frigid Stars.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Codeine - Frigid Stars LP (1990) [FLAC] Sub Pop - SP 107B/03 Pickup Song.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Codeine - Frigid Stars LP (1990) [FLAC] Sub Pop - SP 107B/Frigid Stars.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Codeine - Frigid Stars LP (1990) [FLAC] Sub Pop - SP 107B/04 New Year's.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Codeine - Frigid Stars LP (1990) [FLAC] Sub Pop - SP 107B/Frigid Stars.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Codeine - Frigid Stars LP (1990) [FLAC] Sub Pop - SP 107B/05 Second Chance.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Codeine - Frigid Stars LP (1990) [FLAC] Sub Pop - SP 107B/Frigid Stars.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Codeine - Frigid Stars LP (1990) [FLAC] Sub Pop - SP 107B/06 Cave-In.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Codeine - Frigid Stars LP (1990) [FLAC] Sub Pop - SP 107B/Frigid Stars.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Codeine - Frigid Stars LP (1990) [FLAC] Sub Pop - SP 107B/07 Cigarette Machine.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Codeine - Frigid Stars LP (1990) [FLAC] Sub Pop - SP 107B/Frigid Stars.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Codeine - Frigid Stars LP (1990) [FLAC] Sub Pop - SP 107B/08 Old Things.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Codeine - Frigid Stars LP (1990) [FLAC] Sub Pop - SP 107B/Frigid Stars.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Codeine - Frigid Stars LP (1990) [FLAC] Sub Pop - SP 107B/09 3 Angels.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Codeine - Frigid Stars LP (1990) [FLAC] Sub Pop - SP 107B/Frigid Stars.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Codeine - Frigid Stars LP (1990) [FLAC] Sub Pop - SP 107B/10 Pea.flac
@@ -5733,23 +5586,14 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Codeine - Frigid Stars LP (
 /mnt/synology/media/music/orpheus.network/flac/Code Orange - Underneath (2020) [FLAC]/12. Back Inside the Glass.flac
 /mnt/synology/media/music/orpheus.network/flac/Code Orange - Underneath (2020) [FLAC]/13. A Sliver.flac
 /mnt/synology/media/music/orpheus.network/flac/Code Orange - Underneath (2020) [FLAC]/14. Underneath.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Code Orange Kids - Love Is Love ／／ Return to Dust (2012) {DW140} [CD FLAC]/Love Is Love ／／ Return to Dust.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Code Orange Kids - Love Is Love ／／ Return to Dust (2012) {DW140} [CD FLAC]/01 Flowermouth (The Leech).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Code Orange Kids - Love Is Love ／／ Return to Dust (2012) {DW140} [CD FLAC]/Love Is Love ／／ Return to Dust.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Code Orange Kids - Love Is Love ／／ Return to Dust (2012) {DW140} [CD FLAC]/02 Around My Neck ／／ On My Head.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Code Orange Kids - Love Is Love ／／ Return to Dust (2012) {DW140} [CD FLAC]/Love Is Love ／／ Return to Dust.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Code Orange Kids - Love Is Love ／／ Return to Dust (2012) {DW140} [CD FLAC]/03 Sleep (I’ve Been Slipping).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Code Orange Kids - Love Is Love ／／ Return to Dust (2012) {DW140} [CD FLAC]/Love Is Love ／／ Return to Dust.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Code Orange Kids - Love Is Love ／／ Return to Dust (2012) {DW140} [CD FLAC]/04 Liars ／／ Trudge.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Code Orange Kids - Love Is Love ／／ Return to Dust (2012) {DW140} [CD FLAC]/Love Is Love ／／ Return to Dust.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Code Orange Kids - Love Is Love ／／ Return to Dust (2012) {DW140} [CD FLAC]/05 Colors (Into Nothing).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Code Orange Kids - Love Is Love ／／ Return to Dust (2012) {DW140} [CD FLAC]/Love Is Love ／／ Return to Dust.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Code Orange Kids - Love Is Love ／／ Return to Dust (2012) {DW140} [CD FLAC]/06 Nothing (The Rat).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Code Orange Kids - Love Is Love ／／ Return to Dust (2012) {DW140} [CD FLAC]/Love Is Love ／／ Return to Dust.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Code Orange Kids - Love Is Love ／／ Return to Dust (2012) {DW140} [CD FLAC]/07 Roots Are Certain ／／ Sky Is Empty.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Code Orange Kids - Love Is Love ／／ Return to Dust (2012) {DW140} [CD FLAC]/Love Is Love ／／ Return to Dust.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Code Orange Kids - Love Is Love ／／ Return to Dust (2012) {DW140} [CD FLAC]/08 Choices (Love Is Love).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Code Orange Kids - Love Is Love ／／ Return to Dust (2012) {DW140} [CD FLAC]/Love Is Love ／／ Return to Dust.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Code Orange Kids - Love Is Love ／／ Return to Dust (2012) {DW140} [CD FLAC]/09 Calm ／／ Breathe.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Code Orange Kids - Love Is Love ／／ Return to Dust (2012) {DW140} [CD FLAC]/Love Is Love ／／ Return to Dust.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Code Orange Kids - Love Is Love ／／ Return to Dust (2012) {DW140} [CD FLAC]/10 Bloom (Return to Dust).flac
@@ -6059,11 +5903,8 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Code Orange Kids - Love Is 
 /mnt/synology/media/music/orpheus.network/flac/Cream - Wheels Of Fire (1968) [FLAC] (DCC Gold GZS (2) 1020)/Disc 2/04 - Toad.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/CRIM3S - CRIM3S (2011) [CD_FLAC]/CRIM3S.cue/1
 /mnt/synology/media/music/orpheus.network/flac/CRIM3S - CRIM3S (2011) [CD_FLAC]/01 Breed.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/CRIM3S - CRIM3S (2011) [CD_FLAC]/CRIM3S.cue/2
 /mnt/synology/media/music/orpheus.network/flac/CRIM3S - CRIM3S (2011) [CD_FLAC]/02 Germs.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/CRIM3S - CRIM3S (2011) [CD_FLAC]/CRIM3S.cue/3
 /mnt/synology/media/music/orpheus.network/flac/CRIM3S - CRIM3S (2011) [CD_FLAC]/03 Salt.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/CRIM3S - CRIM3S (2011) [CD_FLAC]/CRIM3S.cue/4
 /mnt/synology/media/music/orpheus.network/flac/CRIM3S - CRIM3S (2011) [CD_FLAC]/04 Holes.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/CRIM3S - CRIM3S (2011) [CD_FLAC]/CRIM3S.cue/5
 /mnt/synology/media/music/orpheus.network/flac/CRIM3S - CRIM3S (2011) [CD_FLAC]/05 Fade.flac
@@ -6082,35 +5923,20 @@ cue:///mnt/synology/media/music/orpheus.network/flac/CRIM3S - CRIM3S (2011) [CD_
 /mnt/synology/media/music/orpheus.network/flac/Crossfade - 2004 - Crossfade [CK 87148] [FLAC]/08 - Dead Skin.flac
 /mnt/synology/media/music/orpheus.network/flac/Crossfade - 2004 - Crossfade [CK 87148] [FLAC]/09 - Disco.flac
 /mnt/synology/media/music/orpheus.network/flac/Crossfade - 2004 - Crossfade [CK 87148] [FLAC]/10 - The Unknown.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal Castles (2008) [FLAC]/Crystal Castles.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal Castles (2008) [FLAC]/Crystal Castles - 01 - Untrust Us.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal Castles (2008) [FLAC]/Crystal Castles.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal Castles (2008) [FLAC]/Crystal Castles - 02 - Alice Practice.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal Castles (2008) [FLAC]/Crystal Castles.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal Castles (2008) [FLAC]/Crystal Castles - 03 - Crimewave (Vs. Health).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal Castles (2008) [FLAC]/Crystal Castles.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal Castles (2008) [FLAC]/Crystal Castles - 04 - Magic Spells.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal Castles (2008) [FLAC]/Crystal Castles.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal Castles (2008) [FLAC]/Crystal Castles - 05 - Xxzxcuzx Me.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal Castles (2008) [FLAC]/Crystal Castles.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal Castles (2008) [FLAC]/Crystal Castles - 06 - Air War.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal Castles (2008) [FLAC]/Crystal Castles.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal Castles (2008) [FLAC]/Crystal Castles - 07 - Courtship Dating.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal Castles (2008) [FLAC]/Crystal Castles.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal Castles (2008) [FLAC]/Crystal Castles - 08 - Good Time.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal Castles (2008) [FLAC]/Crystal Castles.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal Castles (2008) [FLAC]/Crystal Castles - 09 - 1991.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal Castles (2008) [FLAC]/Crystal Castles.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal Castles (2008) [FLAC]/Crystal Castles - 10 - Vanished.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal Castles (2008) [FLAC]/Crystal Castles.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal Castles (2008) [FLAC]/Crystal Castles - 11 - Knights.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal Castles (2008) [FLAC]/Crystal Castles.cue/12
 /mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal Castles (2008) [FLAC]/Crystal Castles - 12 - Love And Caring.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal Castles (2008) [FLAC]/Crystal Castles.cue/13
 /mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal Castles (2008) [FLAC]/Crystal Castles - 13 - Through The Hosiery.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal Castles (2008) [FLAC]/Crystal Castles.cue/14
 /mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal Castles (2008) [FLAC]/Crystal Castles - 14 - Reckless.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal Castles (2008) [FLAC]/Crystal Castles.cue/15
 /mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal Castles (2008) [FLAC]/Crystal Castles - 15 - Black Panther.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal Castles (2008) [FLAC]/Crystal Castles.cue/16
 /mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal Castles (2008) [FLAC]/Crystal Castles - 16 - Tell Me What To Swallow.flac
@@ -6128,27 +5954,16 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal C
 /mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal Castles (II) (2010) [FLAC]/12 - Not in Love.flac
 /mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal Castles (II) (2010) [FLAC]/13 - Intimate.flac
 /mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal Castles (II) (2010) [FLAC]/14 - I Am Made of Chalk.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal Castles (III) (2012) [FLAC] {B0017777-02}/Crystal Castles (III).cue/1
 /mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal Castles (III) (2012) [FLAC] {B0017777-02}/Crystal Castles - 01 - Plague.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal Castles (III) (2012) [FLAC] {B0017777-02}/Crystal Castles (III).cue/2
 /mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal Castles (III) (2012) [FLAC] {B0017777-02}/Crystal Castles - 02 - Kerosene.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal Castles (III) (2012) [FLAC] {B0017777-02}/Crystal Castles (III).cue/3
 /mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal Castles (III) (2012) [FLAC] {B0017777-02}/Crystal Castles - 03 - Wrath Of God.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal Castles (III) (2012) [FLAC] {B0017777-02}/Crystal Castles (III).cue/4
 /mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal Castles (III) (2012) [FLAC] {B0017777-02}/Crystal Castles - 04 - Affection.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal Castles (III) (2012) [FLAC] {B0017777-02}/Crystal Castles (III).cue/5
 /mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal Castles (III) (2012) [FLAC] {B0017777-02}/Crystal Castles - 05 - Pale Flesh.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal Castles (III) (2012) [FLAC] {B0017777-02}/Crystal Castles (III).cue/6
 /mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal Castles (III) (2012) [FLAC] {B0017777-02}/Crystal Castles - 06 - Sad Eyes.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal Castles (III) (2012) [FLAC] {B0017777-02}/Crystal Castles (III).cue/7
 /mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal Castles (III) (2012) [FLAC] {B0017777-02}/Crystal Castles - 07 - Insulin.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal Castles (III) (2012) [FLAC] {B0017777-02}/Crystal Castles (III).cue/8
 /mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal Castles (III) (2012) [FLAC] {B0017777-02}/Crystal Castles - 08 - Transgender.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal Castles (III) (2012) [FLAC] {B0017777-02}/Crystal Castles (III).cue/9
 /mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal Castles (III) (2012) [FLAC] {B0017777-02}/Crystal Castles - 09 - Violent Youth.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal Castles (III) (2012) [FLAC] {B0017777-02}/Crystal Castles (III).cue/10
 /mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal Castles (III) (2012) [FLAC] {B0017777-02}/Crystal Castles - 10 - Telepath.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal Castles (III) (2012) [FLAC] {B0017777-02}/Crystal Castles (III).cue/11
 /mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal Castles (III) (2012) [FLAC] {B0017777-02}/Crystal Castles - 11 - Mercenary.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal Castles (III) (2012) [FLAC] {B0017777-02}/Crystal Castles (III).cue/12
 /mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal Castles (III) (2012) [FLAC] {B0017777-02}/Crystal Castles - 12 - Child I Will Hurt You.flac
@@ -6436,21 +6251,13 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal C
 /mnt/synology/media/music/redacted.ch/flac/Dantalian's Chariot - Chariot Rising [2017 Esoteric Recordings Remaster]/10 - High Flying Bird.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Danzig - Danzig (1988) [Def American Recordings 9 24208 2 CLUB US] [Flac]/Danzig.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Danzig - Danzig (1988) [Def American Recordings 9 24208 2 CLUB US] [Flac]/01 Twist Of Cain.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Danzig - Danzig (1988) [Def American Recordings 9 24208 2 CLUB US] [Flac]/Danzig.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Danzig - Danzig (1988) [Def American Recordings 9 24208 2 CLUB US] [Flac]/02 Not Of This World.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Danzig - Danzig (1988) [Def American Recordings 9 24208 2 CLUB US] [Flac]/Danzig.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Danzig - Danzig (1988) [Def American Recordings 9 24208 2 CLUB US] [Flac]/03 She Rides.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Danzig - Danzig (1988) [Def American Recordings 9 24208 2 CLUB US] [Flac]/Danzig.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Danzig - Danzig (1988) [Def American Recordings 9 24208 2 CLUB US] [Flac]/04 Soul On Fire.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Danzig - Danzig (1988) [Def American Recordings 9 24208 2 CLUB US] [Flac]/Danzig.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Danzig - Danzig (1988) [Def American Recordings 9 24208 2 CLUB US] [Flac]/05 Am I Demon.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Danzig - Danzig (1988) [Def American Recordings 9 24208 2 CLUB US] [Flac]/Danzig.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Danzig - Danzig (1988) [Def American Recordings 9 24208 2 CLUB US] [Flac]/06 Mother.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Danzig - Danzig (1988) [Def American Recordings 9 24208 2 CLUB US] [Flac]/Danzig.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Danzig - Danzig (1988) [Def American Recordings 9 24208 2 CLUB US] [Flac]/07 Possession.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Danzig - Danzig (1988) [Def American Recordings 9 24208 2 CLUB US] [Flac]/Danzig.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Danzig - Danzig (1988) [Def American Recordings 9 24208 2 CLUB US] [Flac]/08 End Of Time.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Danzig - Danzig (1988) [Def American Recordings 9 24208 2 CLUB US] [Flac]/Danzig.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Danzig - Danzig (1988) [Def American Recordings 9 24208 2 CLUB US] [Flac]/09 The Hunter.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Danzig - Danzig (1988) [Def American Recordings 9 24208 2 CLUB US] [Flac]/Danzig.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Danzig - Danzig (1988) [Def American Recordings 9 24208 2 CLUB US] [Flac]/10 Evil Thing.flac
@@ -6573,87 +6380,49 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Danzig - Danzig (1988) [Def
 /mnt/synology/media/music/orpheus.network/flac/Daughter - Stereo Mind Game (2023)/CD1/10 - Isolation.flac
 /mnt/synology/media/music/orpheus.network/flac/Daughter - Stereo Mind Game (2023)/CD1/11 - To Rage.flac
 /mnt/synology/media/music/orpheus.network/flac/Daughter - Stereo Mind Game (2023)/CD1/12 - Wish I Could Cross The Sea.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Daughters - Canada Songs (2004) [FLAC] (Reflections Records – RFL047)/Canada Songs.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Daughters - Canada Songs (2004) [FLAC] (Reflections Records – RFL047)/01 Daughters - Fur Beach.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Daughters - Canada Songs (2004) [FLAC] (Reflections Records – RFL047)/Canada Songs.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Daughters - Canada Songs (2004) [FLAC] (Reflections Records – RFL047)/02 Daughters - Jones From Indiana.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Daughters - Canada Songs (2004) [FLAC] (Reflections Records – RFL047)/Canada Songs.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Daughters - Canada Songs (2004) [FLAC] (Reflections Records – RFL047)/03 Daughters - I Slept With The Daughters And All I Got  Was This Lousy Song Written About Me.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Daughters - Canada Songs (2004) [FLAC] (Reflections Records – RFL047)/Canada Songs.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Daughters - Canada Songs (2004) [FLAC] (Reflections Records – RFL047)/04 Daughters - ...And Then The C.H.U.D.S Came.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Daughters - Canada Songs (2004) [FLAC] (Reflections Records – RFL047)/Canada Songs.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Daughters - Canada Songs (2004) [FLAC] (Reflections Records – RFL047)/05 Daughters - Mike Morowitz, The Fantasy Fuck.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Daughters - Canada Songs (2004) [FLAC] (Reflections Records – RFL047)/Canada Songs.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Daughters - Canada Songs (2004) [FLAC] (Reflections Records – RFL047)/06 Daughters - Nurse, Would You Please Prep The Patient For The Sexual Doctor.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Daughters - Canada Songs (2004) [FLAC] (Reflections Records – RFL047)/Canada Songs.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Daughters - Canada Songs (2004) [FLAC] (Reflections Records – RFL047)/07 Daughters - I Don't Give A Shit About Wood, I'm Not A Chemist.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Daughters - Canada Songs (2004) [FLAC] (Reflections Records – RFL047)/Canada Songs.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Daughters - Canada Songs (2004) [FLAC] (Reflections Records – RFL047)/08 Daughters - Pants, Meet Shit.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Daughters - Canada Songs (2004) [FLAC] (Reflections Records – RFL047)/Canada Songs.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Daughters - Canada Songs (2004) [FLAC] (Reflections Records – RFL047)/09 Daughters - Damn Those Bloodsuckers And Their Good Qualities.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Daughters - Canada Songs (2004) [FLAC] (Reflections Records – RFL047)/Canada Songs.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Daughters - Canada Songs (2004) [FLAC] (Reflections Records – RFL047)/10 Daughters - The Ghost With The Most.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Daughters - Canada Songs (2004) [FLAC] (Reflections Records – RFL047)/Canada Songs.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Daughters - Canada Songs (2004) [FLAC] (Reflections Records – RFL047)/11 Daughters - Hello Assholes.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Daughters - Canada Songs (2004) [FLAC] (Reflections Records – RFL047)/Canada Songs.cue/12
 /mnt/synology/media/music/orpheus.network/flac/Daughters - Canada Songs (2004) [FLAC] (Reflections Records – RFL047)/12 Daughters - Flatter Is A Bunch Of Fucking Bullshit.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Daughters - Canada Songs (2004) [FLAC] (Reflections Records – RFL047)/Canada Songs.cue/13
 /mnt/synology/media/music/orpheus.network/flac/Daughters - Canada Songs (2004) [FLAC] (Reflections Records – RFL047)/13 Daughters - A Room Full Of Hard-Ons And Nowhere To Sit Down.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Daughters - Canada Songs (2004) [FLAC] (Reflections Records – RFL047)/Canada Songs.cue/14
 /mnt/synology/media/music/orpheus.network/flac/Daughters - Canada Songs (2004) [FLAC] (Reflections Records – RFL047)/14 Daughters - My Stereo Has Mono And So Does My Girlfriend.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Daughters - Hell Songs (2006) [CD FLAC] {HH666-111}/Hell Songs.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Daughters - Hell Songs (2006) [CD FLAC] {HH666-111}/01 Daughters Spelled Wrong.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Daughters - Hell Songs (2006) [CD FLAC] {HH666-111}/Hell Songs.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Daughters - Hell Songs (2006) [CD FLAC] {HH666-111}/02 Fiery.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Daughters - Hell Songs (2006) [CD FLAC] {HH666-111}/Hell Songs.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Daughters - Hell Songs (2006) [CD FLAC] {HH666-111}/03 Recorded Inside a Pyramid.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Daughters - Hell Songs (2006) [CD FLAC] {HH666-111}/Hell Songs.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Daughters - Hell Songs (2006) [CD FLAC] {HH666-111}/04 X-Ray.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Daughters - Hell Songs (2006) [CD FLAC] {HH666-111}/Hell Songs.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Daughters - Hell Songs (2006) [CD FLAC] {HH666-111}/05 Feisty Snake-Woman.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Daughters - Hell Songs (2006) [CD FLAC] {HH666-111}/Hell Songs.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Daughters - Hell Songs (2006) [CD FLAC] {HH666-111}/06 Providence by Gaslight.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Daughters - Hell Songs (2006) [CD FLAC] {HH666-111}/Hell Songs.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Daughters - Hell Songs (2006) [CD FLAC] {HH666-111}/07 Hyperventilationsystem.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Daughters - Hell Songs (2006) [CD FLAC] {HH666-111}/Hell Songs.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Daughters - Hell Songs (2006) [CD FLAC] {HH666-111}/08 Crotch Buffet.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Daughters - Hell Songs (2006) [CD FLAC] {HH666-111}/Hell Songs.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Daughters - Hell Songs (2006) [CD FLAC] {HH666-111}/09 Cheers Pricks.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Daughters - Hell Songs (2006) [CD FLAC] {HH666-111}/Hell Songs.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Daughters - Hell Songs (2006) [CD FLAC] {HH666-111}/10 The Fuck Whisperer.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Daughters - Daughters (2010) [CD FLAC] {HH666-195}/Daughters.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Daughters - Daughters (2010) [CD FLAC] {HH666-195}/01 The Virgin.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Daughters - Daughters (2010) [CD FLAC] {HH666-195}/Daughters.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Daughters - Daughters (2010) [CD FLAC] {HH666-195}/02 The First Supper.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Daughters - Daughters (2010) [CD FLAC] {HH666-195}/Daughters.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Daughters - Daughters (2010) [CD FLAC] {HH666-195}/03 The Hit.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Daughters - Daughters (2010) [CD FLAC] {HH666-195}/Daughters.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Daughters - Daughters (2010) [CD FLAC] {HH666-195}/04 The Theatre Goer.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Daughters - Daughters (2010) [CD FLAC] {HH666-195}/Daughters.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Daughters - Daughters (2010) [CD FLAC] {HH666-195}/05 Our Queens (One Is Many, Many Are One).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Daughters - Daughters (2010) [CD FLAC] {HH666-195}/Daughters.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Daughters - Daughters (2010) [CD FLAC] {HH666-195}/06 The Dead Singer.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Daughters - Daughters (2010) [CD FLAC] {HH666-195}/Daughters.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Daughters - Daughters (2010) [CD FLAC] {HH666-195}/07 Sweet Georgia Brown.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Daughters - Daughters (2010) [CD FLAC] {HH666-195}/Daughters.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Daughters - Daughters (2010) [CD FLAC] {HH666-195}/08 The Unattractive, Portable Head.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Daughters - You Won't Get What You Want (2018) [FLAC]/You Won't Get What You Want.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Daughters - You Won't Get What You Want (2018) [FLAC]/01 City Song.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Daughters - You Won't Get What You Want (2018) [FLAC]/You Won't Get What You Want.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Daughters - You Won't Get What You Want (2018) [FLAC]/02 Long Road, No Turns.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Daughters - You Won't Get What You Want (2018) [FLAC]/You Won't Get What You Want.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Daughters - You Won't Get What You Want (2018) [FLAC]/03 Satan In The Wait.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Daughters - You Won't Get What You Want (2018) [FLAC]/You Won't Get What You Want.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Daughters - You Won't Get What You Want (2018) [FLAC]/04 The Flammable Man.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Daughters - You Won't Get What You Want (2018) [FLAC]/You Won't Get What You Want.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Daughters - You Won't Get What You Want (2018) [FLAC]/05 The Lords Song.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Daughters - You Won't Get What You Want (2018) [FLAC]/You Won't Get What You Want.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Daughters - You Won't Get What You Want (2018) [FLAC]/06 Less Sex.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Daughters - You Won't Get What You Want (2018) [FLAC]/You Won't Get What You Want.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Daughters - You Won't Get What You Want (2018) [FLAC]/07 Daughter.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Daughters - You Won't Get What You Want (2018) [FLAC]/You Won't Get What You Want.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Daughters - You Won't Get What You Want (2018) [FLAC]/08 The Reason They Hate Me.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Daughters - You Won't Get What You Want (2018) [FLAC]/You Won't Get What You Want.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Daughters - You Won't Get What You Want (2018) [FLAC]/09 Ocean Song.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Daughters - You Won't Get What You Want (2018) [FLAC]/You Won't Get What You Want.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Daughters - You Won't Get What You Want (2018) [FLAC]/10 Guest House.flac
@@ -6680,15 +6449,6 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Daughters - You Won't Get W
 /mnt/synology/media/music/orpheus.network/flac/David Bowie - Space Oddity PCD1-4813 (FLAC)/07 - The Wild Eyed Boy from Freecloud.flac
 /mnt/synology/media/music/orpheus.network/flac/David Bowie - Space Oddity PCD1-4813 (FLAC)/08 - God Knows I'm Good.flac
 /mnt/synology/media/music/orpheus.network/flac/David Bowie - Space Oddity PCD1-4813 (FLAC)/09 - Memory of a Free Festival.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/David Bowie - 1971 - Hunky Dory (2015 Remaster) - FLAC/Hunky Dory.cue/1
-cue:///mnt/synology/media/music/orpheus.network/flac/David Bowie - 1971 - Hunky Dory (2015 Remaster) - FLAC/Hunky Dory.cue/2
-cue:///mnt/synology/media/music/orpheus.network/flac/David Bowie - 1971 - Hunky Dory (2015 Remaster) - FLAC/Hunky Dory.cue/3
-cue:///mnt/synology/media/music/orpheus.network/flac/David Bowie - 1971 - Hunky Dory (2015 Remaster) - FLAC/Hunky Dory.cue/5
-cue:///mnt/synology/media/music/orpheus.network/flac/David Bowie - 1971 - Hunky Dory (2015 Remaster) - FLAC/Hunky Dory.cue/6
-cue:///mnt/synology/media/music/orpheus.network/flac/David Bowie - 1971 - Hunky Dory (2015 Remaster) - FLAC/Hunky Dory.cue/7
-cue:///mnt/synology/media/music/orpheus.network/flac/David Bowie - 1971 - Hunky Dory (2015 Remaster) - FLAC/Hunky Dory.cue/8
-cue:///mnt/synology/media/music/orpheus.network/flac/David Bowie - 1971 - Hunky Dory (2015 Remaster) - FLAC/Hunky Dory.cue/9
-cue:///mnt/synology/media/music/orpheus.network/flac/David Bowie - 1971 - Hunky Dory (2015 Remaster) - FLAC/Hunky Dory.cue/10
 cue:///mnt/synology/media/music/orpheus.network/flac/David Bowie - 1971 - Hunky Dory (2015 Remaster) - FLAC/Hunky Dory.cue/11
 /mnt/synology/media/music/orpheus.network/flac/David Bowie - 1971 - Hunky Dory (2015 Remaster) - FLAC/01 - Changes.flac
 /mnt/synology/media/music/orpheus.network/flac/David Bowie - 1971 - Hunky Dory (2015 Remaster) - FLAC/02 - Oh! You Pretty Things.flac
@@ -6737,45 +6497,26 @@ cue:///mnt/synology/media/music/orpheus.network/flac/David Bowie - 1971 - Hunky 
 /mnt/synology/media/music/orpheus.network/flac/David Bowie - Heroes (1984) - RCA PD83857 Germany - FLAC/08 - Moss Garden.flac
 /mnt/synology/media/music/orpheus.network/flac/David Bowie - Heroes (1984) - RCA PD83857 Germany - FLAC/09 - Neuköln.flac
 /mnt/synology/media/music/orpheus.network/flac/David Bowie - Heroes (1984) - RCA PD83857 Germany - FLAC/10 - The Secret Life Of Arabia.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/David Bowie - 1977 - Low (1999 Remaster) - FLAC/Low.cue/1
 /mnt/synology/media/music/orpheus.network/flac/David Bowie - 1977 - Low (1999 Remaster) - FLAC/01 - Speed of Life.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/David Bowie - 1977 - Low (1999 Remaster) - FLAC/Low.cue/2
 /mnt/synology/media/music/orpheus.network/flac/David Bowie - 1977 - Low (1999 Remaster) - FLAC/02 - Breaking Glass.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/David Bowie - 1977 - Low (1999 Remaster) - FLAC/Low.cue/3
 /mnt/synology/media/music/orpheus.network/flac/David Bowie - 1977 - Low (1999 Remaster) - FLAC/03 - What in the World.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/David Bowie - 1977 - Low (1999 Remaster) - FLAC/Low.cue/4
 /mnt/synology/media/music/orpheus.network/flac/David Bowie - 1977 - Low (1999 Remaster) - FLAC/04 - Sound and Vision.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/David Bowie - 1977 - Low (1999 Remaster) - FLAC/Low.cue/5
 /mnt/synology/media/music/orpheus.network/flac/David Bowie - 1977 - Low (1999 Remaster) - FLAC/05 - Always Crashing in the Same Car.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/David Bowie - 1977 - Low (1999 Remaster) - FLAC/Low.cue/6
 /mnt/synology/media/music/orpheus.network/flac/David Bowie - 1977 - Low (1999 Remaster) - FLAC/06 - Be My Wife.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/David Bowie - 1977 - Low (1999 Remaster) - FLAC/Low.cue/7
 /mnt/synology/media/music/orpheus.network/flac/David Bowie - 1977 - Low (1999 Remaster) - FLAC/07 - A New Career in a New Town.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/David Bowie - 1977 - Low (1999 Remaster) - FLAC/Low.cue/8
 /mnt/synology/media/music/orpheus.network/flac/David Bowie - 1977 - Low (1999 Remaster) - FLAC/08 - Warszawa.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/David Bowie - 1977 - Low (1999 Remaster) - FLAC/Low.cue/9
 /mnt/synology/media/music/orpheus.network/flac/David Bowie - 1977 - Low (1999 Remaster) - FLAC/09 - Art Decade.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/David Bowie - 1977 - Low (1999 Remaster) - FLAC/Low.cue/10
 /mnt/synology/media/music/orpheus.network/flac/David Bowie - 1977 - Low (1999 Remaster) - FLAC/10 - Weeping Wall.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/David Bowie - 1977 - Low (1999 Remaster) - FLAC/Low.cue/11
 /mnt/synology/media/music/orpheus.network/flac/David Bowie - 1977 - Low (1999 Remaster) - FLAC/11 - Subterraneans.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/David Bowie - Scary Monsters (And Super Creeps) [RCA PD83647] [FLAC]/Scary Monsters (And Super Creeps) [RCA PD83647].cue/1
 /mnt/synology/media/music/orpheus.network/flac/David Bowie - Scary Monsters (And Super Creeps) [RCA PD83647] [FLAC]/01-01 David Bowie - It's No Game (Part 1).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/David Bowie - Scary Monsters (And Super Creeps) [RCA PD83647] [FLAC]/Scary Monsters (And Super Creeps) [RCA PD83647].cue/2
 /mnt/synology/media/music/orpheus.network/flac/David Bowie - Scary Monsters (And Super Creeps) [RCA PD83647] [FLAC]/01-02 David Bowie - Up The Hill Backwards.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/David Bowie - Scary Monsters (And Super Creeps) [RCA PD83647] [FLAC]/Scary Monsters (And Super Creeps) [RCA PD83647].cue/3
 /mnt/synology/media/music/orpheus.network/flac/David Bowie - Scary Monsters (And Super Creeps) [RCA PD83647] [FLAC]/01-03 David Bowie - Scary Monsters (And Super Creeps).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/David Bowie - Scary Monsters (And Super Creeps) [RCA PD83647] [FLAC]/Scary Monsters (And Super Creeps) [RCA PD83647].cue/4
 /mnt/synology/media/music/orpheus.network/flac/David Bowie - Scary Monsters (And Super Creeps) [RCA PD83647] [FLAC]/01-04 David Bowie - Ashes To Ashes.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/David Bowie - Scary Monsters (And Super Creeps) [RCA PD83647] [FLAC]/Scary Monsters (And Super Creeps) [RCA PD83647].cue/5
 /mnt/synology/media/music/orpheus.network/flac/David Bowie - Scary Monsters (And Super Creeps) [RCA PD83647] [FLAC]/01-05 David Bowie - Fashion.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/David Bowie - Scary Monsters (And Super Creeps) [RCA PD83647] [FLAC]/Scary Monsters (And Super Creeps) [RCA PD83647].cue/6
 /mnt/synology/media/music/orpheus.network/flac/David Bowie - Scary Monsters (And Super Creeps) [RCA PD83647] [FLAC]/01-06 David Bowie - Teenage Wildlife.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/David Bowie - Scary Monsters (And Super Creeps) [RCA PD83647] [FLAC]/Scary Monsters (And Super Creeps) [RCA PD83647].cue/7
 /mnt/synology/media/music/orpheus.network/flac/David Bowie - Scary Monsters (And Super Creeps) [RCA PD83647] [FLAC]/01-07 David Bowie - Scream Like A Baby.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/David Bowie - Scary Monsters (And Super Creeps) [RCA PD83647] [FLAC]/Scary Monsters (And Super Creeps) [RCA PD83647].cue/8
 /mnt/synology/media/music/orpheus.network/flac/David Bowie - Scary Monsters (And Super Creeps) [RCA PD83647] [FLAC]/01-08 David Bowie - Kingdom Come.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/David Bowie - Scary Monsters (And Super Creeps) [RCA PD83647] [FLAC]/Scary Monsters (And Super Creeps) [RCA PD83647].cue/9
 /mnt/synology/media/music/orpheus.network/flac/David Bowie - Scary Monsters (And Super Creeps) [RCA PD83647] [FLAC]/01-09 David Bowie - Because You're Young.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/David Bowie - Scary Monsters (And Super Creeps) [RCA PD83647] [FLAC]/Scary Monsters (And Super Creeps) [RCA PD83647].cue/10
 /mnt/synology/media/music/orpheus.network/flac/David Bowie - Scary Monsters (And Super Creeps) [RCA PD83647] [FLAC]/01-10 David Bowie - It's No Game (Part 2).flac
@@ -6800,17 +6541,11 @@ cue:///mnt/synology/media/music/orpheus.network/flac/David Bowie - Scary Monster
 /mnt/synology/media/music/orpheus.network/flac/David Bowie - 1972 - The Rise and Fall of Ziggy Stardust and the Spiders from Mars (RCA PCD1-4702) FLAC/09. Ziggy Stardust.flac
 /mnt/synology/media/music/orpheus.network/flac/David Bowie - 1972 - The Rise and Fall of Ziggy Stardust and the Spiders from Mars (RCA PCD1-4702) FLAC/10. Suffragette City.flac
 /mnt/synology/media/music/orpheus.network/flac/David Bowie - 1972 - The Rise and Fall of Ziggy Stardust and the Spiders from Mars (RCA PCD1-4702) FLAC/11. Rock 'N' Roll Suicide.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/David Bowie - Blackstar (2016) - CD FLAC/Blackstar.cue/1
 /mnt/synology/media/music/orpheus.network/flac/David Bowie - Blackstar (2016) - CD FLAC/01 Blackstar.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/David Bowie - Blackstar (2016) - CD FLAC/Blackstar.cue/2
 /mnt/synology/media/music/orpheus.network/flac/David Bowie - Blackstar (2016) - CD FLAC/02 'Tis a Pity She Was a Whore.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/David Bowie - Blackstar (2016) - CD FLAC/Blackstar.cue/3
 /mnt/synology/media/music/orpheus.network/flac/David Bowie - Blackstar (2016) - CD FLAC/03 Lazarus.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/David Bowie - Blackstar (2016) - CD FLAC/Blackstar.cue/4
 /mnt/synology/media/music/orpheus.network/flac/David Bowie - Blackstar (2016) - CD FLAC/04 Sue (Or In a Season of Crime).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/David Bowie - Blackstar (2016) - CD FLAC/Blackstar.cue/5
 /mnt/synology/media/music/orpheus.network/flac/David Bowie - Blackstar (2016) - CD FLAC/05 Girl Loves Me.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/David Bowie - Blackstar (2016) - CD FLAC/Blackstar.cue/6
 /mnt/synology/media/music/orpheus.network/flac/David Bowie - Blackstar (2016) - CD FLAC/06 Dollar Days.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/David Bowie - Blackstar (2016) - CD FLAC/Blackstar.cue/7
 /mnt/synology/media/music/orpheus.network/flac/David Bowie - Blackstar (2016) - CD FLAC/07 I Can't Give Everything Away.flac
@@ -6840,30 +6575,18 @@ cue:///mnt/synology/media/music/orpheus.network/flac/David Bowie - Blackstar (20
 /mnt/synology/media/music/orpheus.network/flac/Dead Can Dance - Spleen And Ideal (1985) [FLAC] {2008 MFSL}/07 - Advent.flac
 /mnt/synology/media/music/orpheus.network/flac/Dead Can Dance - Spleen And Ideal (1985) [FLAC] {2008 MFSL}/08 - Avatar.flac
 /mnt/synology/media/music/orpheus.network/flac/Dead Can Dance - Spleen And Ideal (1985) [FLAC] {2008 MFSL}/09 - Indoctrination (A Design For Living).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Dead Kennedys - Fresh fruit for rotting vegetables [1980] flac [1993 Virus 1CD]/Fresh Fruit for Rotting Vegetables.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Dead Kennedys - Fresh fruit for rotting vegetables [1980] flac [1993 Virus 1CD]/Fresh Fruit for Rotting Vegetables - 01 Kill The Poor.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Dead Kennedys - Fresh fruit for rotting vegetables [1980] flac [1993 Virus 1CD]/Fresh Fruit for Rotting Vegetables.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Dead Kennedys - Fresh fruit for rotting vegetables [1980] flac [1993 Virus 1CD]/Fresh Fruit for Rotting Vegetables - 02 Forward To Death.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Dead Kennedys - Fresh fruit for rotting vegetables [1980] flac [1993 Virus 1CD]/Fresh Fruit for Rotting Vegetables.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Dead Kennedys - Fresh fruit for rotting vegetables [1980] flac [1993 Virus 1CD]/Fresh Fruit for Rotting Vegetables - 03 When Ya Get Drafted.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Dead Kennedys - Fresh fruit for rotting vegetables [1980] flac [1993 Virus 1CD]/Fresh Fruit for Rotting Vegetables.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Dead Kennedys - Fresh fruit for rotting vegetables [1980] flac [1993 Virus 1CD]/Fresh Fruit for Rotting Vegetables - 04 Let's Lynch The Landlord.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Dead Kennedys - Fresh fruit for rotting vegetables [1980] flac [1993 Virus 1CD]/Fresh Fruit for Rotting Vegetables.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Dead Kennedys - Fresh fruit for rotting vegetables [1980] flac [1993 Virus 1CD]/Fresh Fruit for Rotting Vegetables - 05 Drug Me.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Dead Kennedys - Fresh fruit for rotting vegetables [1980] flac [1993 Virus 1CD]/Fresh Fruit for Rotting Vegetables.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Dead Kennedys - Fresh fruit for rotting vegetables [1980] flac [1993 Virus 1CD]/Fresh Fruit for Rotting Vegetables - 06 Your Emotions.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Dead Kennedys - Fresh fruit for rotting vegetables [1980] flac [1993 Virus 1CD]/Fresh Fruit for Rotting Vegetables.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Dead Kennedys - Fresh fruit for rotting vegetables [1980] flac [1993 Virus 1CD]/Fresh Fruit for Rotting Vegetables - 07 Chemical Warfare.flac
 /mnt/synology/media/music/orpheus.network/flac/Dead Kennedys - Fresh fruit for rotting vegetables [1980] flac [1993 Virus 1CD]/Fresh Fruit for Rotting Vegetables - 08 California Über Alles.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Dead Kennedys - Fresh fruit for rotting vegetables [1980] flac [1993 Virus 1CD]/Fresh Fruit for Rotting Vegetables.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Dead Kennedys - Fresh fruit for rotting vegetables [1980] flac [1993 Virus 1CD]/Fresh Fruit for Rotting Vegetables - 09 I Kill Children.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Dead Kennedys - Fresh fruit for rotting vegetables [1980] flac [1993 Virus 1CD]/Fresh Fruit for Rotting Vegetables.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Dead Kennedys - Fresh fruit for rotting vegetables [1980] flac [1993 Virus 1CD]/Fresh Fruit for Rotting Vegetables - 10 Stealing People's Mail.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Dead Kennedys - Fresh fruit for rotting vegetables [1980] flac [1993 Virus 1CD]/Fresh Fruit for Rotting Vegetables.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Dead Kennedys - Fresh fruit for rotting vegetables [1980] flac [1993 Virus 1CD]/Fresh Fruit for Rotting Vegetables - 11 Funland At The Beach.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Dead Kennedys - Fresh fruit for rotting vegetables [1980] flac [1993 Virus 1CD]/Fresh Fruit for Rotting Vegetables.cue/12
 /mnt/synology/media/music/orpheus.network/flac/Dead Kennedys - Fresh fruit for rotting vegetables [1980] flac [1993 Virus 1CD]/Fresh Fruit for Rotting Vegetables - 12 Ill In The Head.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Dead Kennedys - Fresh fruit for rotting vegetables [1980] flac [1993 Virus 1CD]/Fresh Fruit for Rotting Vegetables.cue/13
 /mnt/synology/media/music/orpheus.network/flac/Dead Kennedys - Fresh fruit for rotting vegetables [1980] flac [1993 Virus 1CD]/Fresh Fruit for Rotting Vegetables - 13 Holiday In Cambodia.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Dead Kennedys - Fresh fruit for rotting vegetables [1980] flac [1993 Virus 1CD]/Fresh Fruit for Rotting Vegetables.cue/14
 /mnt/synology/media/music/orpheus.network/flac/Dead Kennedys - Fresh fruit for rotting vegetables [1980] flac [1993 Virus 1CD]/Fresh Fruit for Rotting Vegetables - 14 Viva Las Vegas.flac
@@ -6879,31 +6602,19 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Dead Kennedys - Fresh fruit
 /mnt/synology/media/music/orpheus.network/flac/Deaf Havana - Old Souls (2013) [CD FLAC]/10. Tuesday People.flac
 /mnt/synology/media/music/orpheus.network/flac/Deaf Havana - Old Souls (2013) [CD FLAC]/11. Kings Road Ghosts.flac
 /mnt/synology/media/music/orpheus.network/flac/Deaf Havana - Old Souls (2013) [CD FLAC]/12. Caro Padre.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Deafheaven - Sunbather (2013) {Deathwish DW146} [FLAC-CD]/Sunbather.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Deafheaven - Sunbather (2013) {Deathwish DW146} [FLAC-CD]/01 Dream House.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Deafheaven - Sunbather (2013) {Deathwish DW146} [FLAC-CD]/Sunbather.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Deafheaven - Sunbather (2013) {Deathwish DW146} [FLAC-CD]/02 Irresistible.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Deafheaven - Sunbather (2013) {Deathwish DW146} [FLAC-CD]/Sunbather.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Deafheaven - Sunbather (2013) {Deathwish DW146} [FLAC-CD]/03 Sunbather.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Deafheaven - Sunbather (2013) {Deathwish DW146} [FLAC-CD]/Sunbather.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Deafheaven - Sunbather (2013) {Deathwish DW146} [FLAC-CD]/04 Please Remember.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Deafheaven - Sunbather (2013) {Deathwish DW146} [FLAC-CD]/Sunbather.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Deafheaven - Sunbather (2013) {Deathwish DW146} [FLAC-CD]/05 Vertigo.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Deafheaven - Sunbather (2013) {Deathwish DW146} [FLAC-CD]/Sunbather.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Deafheaven - Sunbather (2013) {Deathwish DW146} [FLAC-CD]/06 Windows.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Deafheaven - Sunbather (2013) {Deathwish DW146} [FLAC-CD]/Sunbather.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Deafheaven - Sunbather (2013) {Deathwish DW146} [FLAC-CD]/07 The Pecan Tree.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Deafheaven - Ordinary Corrupt Human Love (2018) {87582-2 CD} [FLAC]/Ordinary Corrupt Human Love.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Deafheaven - Ordinary Corrupt Human Love (2018) {87582-2 CD} [FLAC]/01 You Without End.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Deafheaven - Ordinary Corrupt Human Love (2018) {87582-2 CD} [FLAC]/Ordinary Corrupt Human Love.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Deafheaven - Ordinary Corrupt Human Love (2018) {87582-2 CD} [FLAC]/02 Honeycomb.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Deafheaven - Ordinary Corrupt Human Love (2018) {87582-2 CD} [FLAC]/Ordinary Corrupt Human Love.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Deafheaven - Ordinary Corrupt Human Love (2018) {87582-2 CD} [FLAC]/03 Canary Yellow.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Deafheaven - Ordinary Corrupt Human Love (2018) {87582-2 CD} [FLAC]/Ordinary Corrupt Human Love.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Deafheaven - Ordinary Corrupt Human Love (2018) {87582-2 CD} [FLAC]/04 Near.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Deafheaven - Ordinary Corrupt Human Love (2018) {87582-2 CD} [FLAC]/Ordinary Corrupt Human Love.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Deafheaven - Ordinary Corrupt Human Love (2018) {87582-2 CD} [FLAC]/05 Glint.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Deafheaven - Ordinary Corrupt Human Love (2018) {87582-2 CD} [FLAC]/Ordinary Corrupt Human Love.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Deafheaven - Ordinary Corrupt Human Love (2018) {87582-2 CD} [FLAC]/06 Night People.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Deafheaven - Ordinary Corrupt Human Love (2018) {87582-2 CD} [FLAC]/Ordinary Corrupt Human Love.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Deafheaven - Ordinary Corrupt Human Love (2018) {87582-2 CD} [FLAC]/07 Worthless Animal.flac
@@ -7031,39 +6742,23 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Deafheaven - Ordinary Corru
 /mnt/synology/media/music/orpheus.network/flac/Death Grips - Fashion Week/12 - Runway H.flac
 /mnt/synology/media/music/orpheus.network/flac/Death Grips - Fashion Week/13 - Runway E.flac
 /mnt/synology/media/music/orpheus.network/flac/Death Grips - Fashion Week/14 - Runway N.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Death Grips - The Powers That B (2015) [FLAC]/Disc 1 - Niggas On The Moon/The Powers That B.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Death Grips - The Powers That B (2015) [FLAC]/Disc 1 - Niggas On The Moon/01 Up My Sleeves.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Death Grips - The Powers That B (2015) [FLAC]/Disc 1 - Niggas On The Moon/The Powers That B.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Death Grips - The Powers That B (2015) [FLAC]/Disc 1 - Niggas On The Moon/02 Billy Not Really.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Death Grips - The Powers That B (2015) [FLAC]/Disc 1 - Niggas On The Moon/The Powers That B.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Death Grips - The Powers That B (2015) [FLAC]/Disc 1 - Niggas On The Moon/03 Black Quarterback.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Death Grips - The Powers That B (2015) [FLAC]/Disc 1 - Niggas On The Moon/The Powers That B.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Death Grips - The Powers That B (2015) [FLAC]/Disc 1 - Niggas On The Moon/04 Say Hey Kid.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Death Grips - The Powers That B (2015) [FLAC]/Disc 1 - Niggas On The Moon/The Powers That B.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Death Grips - The Powers That B (2015) [FLAC]/Disc 1 - Niggas On The Moon/05 Have A Sad Cum BB.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Death Grips - The Powers That B (2015) [FLAC]/Disc 1 - Niggas On The Moon/The Powers That B.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Death Grips - The Powers That B (2015) [FLAC]/Disc 1 - Niggas On The Moon/06 Fuck Me Out.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Death Grips - The Powers That B (2015) [FLAC]/Disc 1 - Niggas On The Moon/The Powers That B.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Death Grips - The Powers That B (2015) [FLAC]/Disc 1 - Niggas On The Moon/07 Voila.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Death Grips - The Powers That B (2015) [FLAC]/Disc 1 - Niggas On The Moon/The Powers That B.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Death Grips - The Powers That B (2015) [FLAC]/Disc 1 - Niggas On The Moon/08 Big Dipper.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Death Grips - The Powers That B (2015) [FLAC]/Disc 2 - Jenny Death/The Powers That B.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Death Grips - The Powers That B (2015) [FLAC]/Disc 2 - Jenny Death/01 I Break Mirrors With My Face In The United States.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Death Grips - The Powers That B (2015) [FLAC]/Disc 2 - Jenny Death/The Powers That B.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Death Grips - The Powers That B (2015) [FLAC]/Disc 2 - Jenny Death/02 Inanimate Sesnation.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Death Grips - The Powers That B (2015) [FLAC]/Disc 2 - Jenny Death/The Powers That B.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Death Grips - The Powers That B (2015) [FLAC]/Disc 2 - Jenny Death/03 Turned Off.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Death Grips - The Powers That B (2015) [FLAC]/Disc 2 - Jenny Death/The Powers That B.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Death Grips - The Powers That B (2015) [FLAC]/Disc 2 - Jenny Death/04 Why A Bitch Gotta Lie.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Death Grips - The Powers That B (2015) [FLAC]/Disc 2 - Jenny Death/The Powers That B.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Death Grips - The Powers That B (2015) [FLAC]/Disc 2 - Jenny Death/05 Pss Pss.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Death Grips - The Powers That B (2015) [FLAC]/Disc 2 - Jenny Death/The Powers That B.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Death Grips - The Powers That B (2015) [FLAC]/Disc 2 - Jenny Death/06 The Powers That B.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Death Grips - The Powers That B (2015) [FLAC]/Disc 2 - Jenny Death/The Powers That B.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Death Grips - The Powers That B (2015) [FLAC]/Disc 2 - Jenny Death/07 Beyond Alive.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Death Grips - The Powers That B (2015) [FLAC]/Disc 2 - Jenny Death/The Powers That B.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Death Grips - The Powers That B (2015) [FLAC]/Disc 2 - Jenny Death/08 Centuries Of Damn.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Death Grips - The Powers That B (2015) [FLAC]/Disc 2 - Jenny Death/The Powers That B.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Death Grips - The Powers That B (2015) [FLAC]/Disc 2 - Jenny Death/09 On GP.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Death Grips - The Powers That B (2015) [FLAC]/Disc 2 - Jenny Death/The Powers That B.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Death Grips - The Powers That B (2015) [FLAC]/Disc 2 - Jenny Death/10 Death Grips 2.0.flac
@@ -7166,31 +6861,18 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Death Grips - The Powers Th
 /mnt/synology/media/music/orpheus.network/flac/Deerhunter - Microcastle-Weird Era Continued [Kranky Records]/Weird Era Continued/11 - Weird Era.flac
 /mnt/synology/media/music/orpheus.network/flac/Deerhunter - Microcastle-Weird Era Continued [Kranky Records]/Weird Era Continued/12 - Moon Witch Cartridge.flac
 /mnt/synology/media/music/orpheus.network/flac/Deerhunter - Microcastle-Weird Era Continued [Kranky Records]/Weird Era Continued/13 - Calvary Scars II - Aux. Out.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Defeater - Empty Days & Sleepless Nights (2011) {B9R144 CD} [FLAC]/Empty Days & Sleepless Nights.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Defeater - Empty Days & Sleepless Nights (2011) {B9R144 CD} [FLAC]/01 Warm Blood Rush.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Defeater - Empty Days & Sleepless Nights (2011) {B9R144 CD} [FLAC]/Empty Days & Sleepless Nights.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Defeater - Empty Days & Sleepless Nights (2011) {B9R144 CD} [FLAC]/02 Dear Father.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Defeater - Empty Days & Sleepless Nights (2011) {B9R144 CD} [FLAC]/Empty Days & Sleepless Nights.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Defeater - Empty Days & Sleepless Nights (2011) {B9R144 CD} [FLAC]/03 Waves Crash, Clouds Roll.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Defeater - Empty Days & Sleepless Nights (2011) {B9R144 CD} [FLAC]/Empty Days & Sleepless Nights.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Defeater - Empty Days & Sleepless Nights (2011) {B9R144 CD} [FLAC]/04 Empty Glass.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Defeater - Empty Days & Sleepless Nights (2011) {B9R144 CD} [FLAC]/Empty Days & Sleepless Nights.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Defeater - Empty Days & Sleepless Nights (2011) {B9R144 CD} [FLAC]/05 No Kind Of Home.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Defeater - Empty Days & Sleepless Nights (2011) {B9R144 CD} [FLAC]/Empty Days & Sleepless Nights.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Defeater - Empty Days & Sleepless Nights (2011) {B9R144 CD} [FLAC]/06 White Knuckles.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Defeater - Empty Days & Sleepless Nights (2011) {B9R144 CD} [FLAC]/Empty Days & Sleepless Nights.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Defeater - Empty Days & Sleepless Nights (2011) {B9R144 CD} [FLAC]/07 Cemetery Walls.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Defeater - Empty Days & Sleepless Nights (2011) {B9R144 CD} [FLAC]/Empty Days & Sleepless Nights.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Defeater - Empty Days & Sleepless Nights (2011) {B9R144 CD} [FLAC]/08 Quiet The Longing.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Defeater - Empty Days & Sleepless Nights (2011) {B9R144 CD} [FLAC]/Empty Days & Sleepless Nights.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Defeater - Empty Days & Sleepless Nights (2011) {B9R144 CD} [FLAC]/09 At Peace.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Defeater - Empty Days & Sleepless Nights (2011) {B9R144 CD} [FLAC]/Empty Days & Sleepless Nights.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Defeater - Empty Days & Sleepless Nights (2011) {B9R144 CD} [FLAC]/10 White Oak Doors.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Defeater - Empty Days & Sleepless Nights (2011) {B9R144 CD} [FLAC]/Empty Days & Sleepless Nights.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Defeater - Empty Days & Sleepless Nights (2011) {B9R144 CD} [FLAC]/11 But Breathing.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Defeater - Empty Days & Sleepless Nights (2011) {B9R144 CD} [FLAC]/Empty Days & Sleepless Nights.cue/12
 /mnt/synology/media/music/orpheus.network/flac/Defeater - Empty Days & Sleepless Nights (2011) {B9R144 CD} [FLAC]/12 Brothers.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Defeater - Empty Days & Sleepless Nights (2011) {B9R144 CD} [FLAC]/Empty Days & Sleepless Nights.cue/13
 /mnt/synology/media/music/orpheus.network/flac/Defeater - Empty Days & Sleepless Nights (2011) {B9R144 CD} [FLAC]/13 I Don't Mind.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Defeater - Empty Days & Sleepless Nights (2011) {B9R144 CD} [FLAC]/Empty Days & Sleepless Nights.cue/14
 /mnt/synology/media/music/orpheus.network/flac/Defeater - Empty Days & Sleepless Nights (2011) {B9R144 CD} [FLAC]/14 Headstone.flac
@@ -7215,27 +6897,16 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Defeater - Empty Days & Sle
 /mnt/synology/media/music/orpheus.network/flac/Deftones - Around The Fur (1997) - FLAC (9362-46810-2)/08 - Dai the Flu.flac
 /mnt/synology/media/music/orpheus.network/flac/Deftones - Around The Fur (1997) - FLAC (9362-46810-2)/09 - Headup.flac
 /mnt/synology/media/music/orpheus.network/flac/Deftones - Around The Fur (1997) - FLAC (9362-46810-2)/10 - MX.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Deftones - White Pony (2000) [Maverick 947705-2 RED LTD Bonus US] [flac]/White Pony .cue/1
 /mnt/synology/media/music/orpheus.network/flac/Deftones - White Pony (2000) [Maverick 947705-2 RED LTD Bonus US] [flac]/01 Feiticeira.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Deftones - White Pony (2000) [Maverick 947705-2 RED LTD Bonus US] [flac]/White Pony .cue/2
 /mnt/synology/media/music/orpheus.network/flac/Deftones - White Pony (2000) [Maverick 947705-2 RED LTD Bonus US] [flac]/02 Digital Bath.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Deftones - White Pony (2000) [Maverick 947705-2 RED LTD Bonus US] [flac]/White Pony .cue/3
 /mnt/synology/media/music/orpheus.network/flac/Deftones - White Pony (2000) [Maverick 947705-2 RED LTD Bonus US] [flac]/03 Elite.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Deftones - White Pony (2000) [Maverick 947705-2 RED LTD Bonus US] [flac]/White Pony .cue/4
 /mnt/synology/media/music/orpheus.network/flac/Deftones - White Pony (2000) [Maverick 947705-2 RED LTD Bonus US] [flac]/04 RX Queen.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Deftones - White Pony (2000) [Maverick 947705-2 RED LTD Bonus US] [flac]/White Pony .cue/5
 /mnt/synology/media/music/orpheus.network/flac/Deftones - White Pony (2000) [Maverick 947705-2 RED LTD Bonus US] [flac]/05 Street Carp.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Deftones - White Pony (2000) [Maverick 947705-2 RED LTD Bonus US] [flac]/White Pony .cue/6
 /mnt/synology/media/music/orpheus.network/flac/Deftones - White Pony (2000) [Maverick 947705-2 RED LTD Bonus US] [flac]/06 Teenager.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Deftones - White Pony (2000) [Maverick 947705-2 RED LTD Bonus US] [flac]/White Pony .cue/7
 /mnt/synology/media/music/orpheus.network/flac/Deftones - White Pony (2000) [Maverick 947705-2 RED LTD Bonus US] [flac]/07 Knife Party (additional vocals Rodleen).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Deftones - White Pony (2000) [Maverick 947705-2 RED LTD Bonus US] [flac]/White Pony .cue/8
 /mnt/synology/media/music/orpheus.network/flac/Deftones - White Pony (2000) [Maverick 947705-2 RED LTD Bonus US] [flac]/08 Korea.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Deftones - White Pony (2000) [Maverick 947705-2 RED LTD Bonus US] [flac]/White Pony .cue/9
 /mnt/synology/media/music/orpheus.network/flac/Deftones - White Pony (2000) [Maverick 947705-2 RED LTD Bonus US] [flac]/09 Passenger (feat. Maynard James Keenan).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Deftones - White Pony (2000) [Maverick 947705-2 RED LTD Bonus US] [flac]/White Pony .cue/10
 /mnt/synology/media/music/orpheus.network/flac/Deftones - White Pony (2000) [Maverick 947705-2 RED LTD Bonus US] [flac]/10 Change (In The House Of Flies).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Deftones - White Pony (2000) [Maverick 947705-2 RED LTD Bonus US] [flac]/White Pony .cue/11
 /mnt/synology/media/music/orpheus.network/flac/Deftones - White Pony (2000) [Maverick 947705-2 RED LTD Bonus US] [flac]/11 Pink Maggit.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Deftones - White Pony (2000) [Maverick 947705-2 RED LTD Bonus US] [flac]/White Pony .cue/12
 /mnt/synology/media/music/orpheus.network/flac/Deftones - White Pony (2000) [Maverick 947705-2 RED LTD Bonus US] [flac]/12 The Boy's Republic.flac
@@ -7340,33 +7011,19 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Deftones - White Pony (2000
 /mnt/synology/media/music/orpheus.network/flac/Derek and the Dominos - Layla And Other Assorted Love Songs (1970) [FLAC] {2017 MFSL}/12 - It's Too Late.flac
 /mnt/synology/media/music/orpheus.network/flac/Derek and the Dominos - Layla And Other Assorted Love Songs (1970) [FLAC] {2017 MFSL}/13 - Layla.flac
 /mnt/synology/media/music/orpheus.network/flac/Derek and the Dominos - Layla And Other Assorted Love Songs (1970) [FLAC] {2017 MFSL}/14 - Thorn Tree In The Garden.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Descendents - (1982) - Milo Goes to College [FLAC]/Milo Goes to College.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Descendents - (1982) - Milo Goes to College [FLAC]/01 Myage.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Descendents - (1982) - Milo Goes to College [FLAC]/Milo Goes to College.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Descendents - (1982) - Milo Goes to College [FLAC]/02 I Wanna Be a Bear.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Descendents - (1982) - Milo Goes to College [FLAC]/Milo Goes to College.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Descendents - (1982) - Milo Goes to College [FLAC]/03 I'm Not a Loser.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Descendents - (1982) - Milo Goes to College [FLAC]/Milo Goes to College.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Descendents - (1982) - Milo Goes to College [FLAC]/04 Parents.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Descendents - (1982) - Milo Goes to College [FLAC]/Milo Goes to College.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Descendents - (1982) - Milo Goes to College [FLAC]/05 Tonyage.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Descendents - (1982) - Milo Goes to College [FLAC]/Milo Goes to College.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Descendents - (1982) - Milo Goes to College [FLAC]/06 M 16.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Descendents - (1982) - Milo Goes to College [FLAC]/Milo Goes to College.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Descendents - (1982) - Milo Goes to College [FLAC]/07 I'm Not a Punk.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Descendents - (1982) - Milo Goes to College [FLAC]/Milo Goes to College.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Descendents - (1982) - Milo Goes to College [FLAC]/08 Catalina.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Descendents - (1982) - Milo Goes to College [FLAC]/Milo Goes to College.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Descendents - (1982) - Milo Goes to College [FLAC]/09 Suburban Home.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Descendents - (1982) - Milo Goes to College [FLAC]/Milo Goes to College.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Descendents - (1982) - Milo Goes to College [FLAC]/10 Statue of Liberty.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Descendents - (1982) - Milo Goes to College [FLAC]/Milo Goes to College.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Descendents - (1982) - Milo Goes to College [FLAC]/11 Kabuki Girl.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Descendents - (1982) - Milo Goes to College [FLAC]/Milo Goes to College.cue/12
 /mnt/synology/media/music/orpheus.network/flac/Descendents - (1982) - Milo Goes to College [FLAC]/12 Marriage.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Descendents - (1982) - Milo Goes to College [FLAC]/Milo Goes to College.cue/13
 /mnt/synology/media/music/orpheus.network/flac/Descendents - (1982) - Milo Goes to College [FLAC]/13 Hope.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Descendents - (1982) - Milo Goes to College [FLAC]/Milo Goes to College.cue/14
 /mnt/synology/media/music/orpheus.network/flac/Descendents - (1982) - Milo Goes to College [FLAC]/14 Bikeage.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Descendents - (1982) - Milo Goes to College [FLAC]/Milo Goes to College.cue/15
 /mnt/synology/media/music/orpheus.network/flac/Descendents - (1982) - Milo Goes to College [FLAC]/15 Jean Is Dead.flac
@@ -7602,27 +7259,16 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Descendents - (1982) - Milo
 /mnt/synology/media/music/orpheus.network/flac/Dinosaur Jr. - Give a Glimpse of What Yer Not (2016) FLAC xanax/09 - Knocked Around.flac
 /mnt/synology/media/music/orpheus.network/flac/Dinosaur Jr. - Give a Glimpse of What Yer Not (2016) FLAC xanax/10 - Mirror.flac
 /mnt/synology/media/music/orpheus.network/flac/Dinosaur Jr. - Give a Glimpse of What Yer Not (2016) FLAC xanax/11 - Left-Right.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Dinosaur Jr. - Sweep It Into Space (2021) [FLAC CD] {Jagjaguwar, JAG366}/Sweep It Into Space.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Dinosaur Jr. - Sweep It Into Space (2021) [FLAC CD] {Jagjaguwar, JAG366}/01 - I Ain't.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Dinosaur Jr. - Sweep It Into Space (2021) [FLAC CD] {Jagjaguwar, JAG366}/Sweep It Into Space.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Dinosaur Jr. - Sweep It Into Space (2021) [FLAC CD] {Jagjaguwar, JAG366}/02 - I Met The Stones.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Dinosaur Jr. - Sweep It Into Space (2021) [FLAC CD] {Jagjaguwar, JAG366}/Sweep It Into Space.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Dinosaur Jr. - Sweep It Into Space (2021) [FLAC CD] {Jagjaguwar, JAG366}/03 - To Be Waiting.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Dinosaur Jr. - Sweep It Into Space (2021) [FLAC CD] {Jagjaguwar, JAG366}/Sweep It Into Space.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Dinosaur Jr. - Sweep It Into Space (2021) [FLAC CD] {Jagjaguwar, JAG366}/04 - I Ran Away.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Dinosaur Jr. - Sweep It Into Space (2021) [FLAC CD] {Jagjaguwar, JAG366}/Sweep It Into Space.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Dinosaur Jr. - Sweep It Into Space (2021) [FLAC CD] {Jagjaguwar, JAG366}/05 - Garden.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Dinosaur Jr. - Sweep It Into Space (2021) [FLAC CD] {Jagjaguwar, JAG366}/Sweep It Into Space.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Dinosaur Jr. - Sweep It Into Space (2021) [FLAC CD] {Jagjaguwar, JAG366}/06 - Hide Another Round.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Dinosaur Jr. - Sweep It Into Space (2021) [FLAC CD] {Jagjaguwar, JAG366}/Sweep It Into Space.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Dinosaur Jr. - Sweep It Into Space (2021) [FLAC CD] {Jagjaguwar, JAG366}/07 - And Me.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Dinosaur Jr. - Sweep It Into Space (2021) [FLAC CD] {Jagjaguwar, JAG366}/Sweep It Into Space.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Dinosaur Jr. - Sweep It Into Space (2021) [FLAC CD] {Jagjaguwar, JAG366}/08 - I Expect It Always.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Dinosaur Jr. - Sweep It Into Space (2021) [FLAC CD] {Jagjaguwar, JAG366}/Sweep It Into Space.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Dinosaur Jr. - Sweep It Into Space (2021) [FLAC CD] {Jagjaguwar, JAG366}/09 - Take It Back.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Dinosaur Jr. - Sweep It Into Space (2021) [FLAC CD] {Jagjaguwar, JAG366}/Sweep It Into Space.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Dinosaur Jr. - Sweep It Into Space (2021) [FLAC CD] {Jagjaguwar, JAG366}/10 - N Say.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Dinosaur Jr. - Sweep It Into Space (2021) [FLAC CD] {Jagjaguwar, JAG366}/Sweep It Into Space.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Dinosaur Jr. - Sweep It Into Space (2021) [FLAC CD] {Jagjaguwar, JAG366}/11 - Walking To You.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Dinosaur Jr. - Sweep It Into Space (2021) [FLAC CD] {Jagjaguwar, JAG366}/Sweep It Into Space.cue/12
 /mnt/synology/media/music/orpheus.network/flac/Dinosaur Jr. - Sweep It Into Space (2021) [FLAC CD] {Jagjaguwar, JAG366}/12 - You Wonder.flac
@@ -7847,7 +7493,6 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Dinosaur Jr. - Sweep It Int
 /mnt/synology/media/music/orpheus.network/flac/DNA - DNA on DNA (2004) FLAC/30 - Marshall.flac
 /mnt/synology/media/music/orpheus.network/flac/DNA - DNA on DNA (2004) FLAC/31 - A New Low.flac
 /mnt/synology/media/music/orpheus.network/flac/DNA - DNA on DNA (2004) FLAC/32 - Calling To Phone.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Compilations - Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition) (2021) [FLAC]/Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition).cue/20
 /mnt/synology/media/music/orpheus.network/flac/Compilations - Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition) (2021) [FLAC]/20 Blonde Redhead.flac
 /mnt/synology/media/music/orpheus.network/flac/Död Mark - Drabbad Av Sjukdom/01 Paranoid Schizofren.flac
 /mnt/synology/media/music/orpheus.network/flac/Död Mark - Drabbad Av Sjukdom/02 Misstag.flac
@@ -7869,13 +7514,9 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Compilations - Fame- Jon Sa
 /mnt/synology/media/music/slsk/[2005] For What You Thought Was Once Dead/03 - Dolorous Canter - Unusable Signal.mp3
 /mnt/synology/media/music/slsk/[2005] For What You Thought Was Once Dead/04 - Dolorous Canter - Gattaca.mp3
 /mnt/synology/media/music/slsk/[2005] For What You Thought Was Once Dead/05 - Dolorous Canter - From Tokyo To Stolkholm.mp3
-cue:///mnt/synology/media/music/orpheus.network/flac/Eric Dolphy - Iron Man (1963) [FLAC]/Iron Man.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Eric Dolphy - Iron Man (1963) [FLAC]/01 Iron Man.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Eric Dolphy - Iron Man (1963) [FLAC]/Iron Man.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Eric Dolphy - Iron Man (1963) [FLAC]/02 Mandrake.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Eric Dolphy - Iron Man (1963) [FLAC]/Iron Man.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Eric Dolphy - Iron Man (1963) [FLAC]/03 Come Sunday.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Eric Dolphy - Iron Man (1963) [FLAC]/Iron Man.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Eric Dolphy - Iron Man (1963) [FLAC]/04 Burning Spear.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Eric Dolphy - Iron Man (1963) [FLAC]/Iron Man.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Eric Dolphy - Iron Man (1963) [FLAC]/05 Ode to C.P..flac
@@ -7946,29 +7587,17 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Eric Dolphy - Iron Man (196
 /mnt/synology/media/music/orpheus.network/flac/Doopees - Doopee Time (1995) [FLAC] {FLCF-3594}/18 - Doopees - Through My Window.flac
 /mnt/synology/media/music/orpheus.network/flac/Doopees - Doopee Time (1995) [FLAC] {FLCF-3594}/19 - Doopees - Some Day, That Place In Time.flac
 /mnt/synology/media/music/orpheus.network/flac/Doopees - Doopee Time (1995) [FLAC] {FLCF-3594}/20 - Doopees - Caroline, No.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Down - NOLA (1995) [Elektra 61830-2 US] [Flac]/NOLA.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Down - NOLA (1995) [Elektra 61830-2 US] [Flac]/01 Down - Temptation's Wings.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Down - NOLA (1995) [Elektra 61830-2 US] [Flac]/NOLA.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Down - NOLA (1995) [Elektra 61830-2 US] [Flac]/02 Down - Lifer.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Down - NOLA (1995) [Elektra 61830-2 US] [Flac]/NOLA.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Down - NOLA (1995) [Elektra 61830-2 US] [Flac]/03 Down - Pillars Of Eternity.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Down - NOLA (1995) [Elektra 61830-2 US] [Flac]/NOLA.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Down - NOLA (1995) [Elektra 61830-2 US] [Flac]/04 Down - Rehab.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Down - NOLA (1995) [Elektra 61830-2 US] [Flac]/NOLA.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Down - NOLA (1995) [Elektra 61830-2 US] [Flac]/05 Down - Hail The Leaf.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Down - NOLA (1995) [Elektra 61830-2 US] [Flac]/NOLA.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Down - NOLA (1995) [Elektra 61830-2 US] [Flac]/06 Down - Underneath Everything.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Down - NOLA (1995) [Elektra 61830-2 US] [Flac]/NOLA.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Down - NOLA (1995) [Elektra 61830-2 US] [Flac]/07 Down - Eyes Of The South.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Down - NOLA (1995) [Elektra 61830-2 US] [Flac]/NOLA.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Down - NOLA (1995) [Elektra 61830-2 US] [Flac]/08 Down - Jail.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Down - NOLA (1995) [Elektra 61830-2 US] [Flac]/NOLA.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Down - NOLA (1995) [Elektra 61830-2 US] [Flac]/09 Down - Losing All.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Down - NOLA (1995) [Elektra 61830-2 US] [Flac]/NOLA.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Down - NOLA (1995) [Elektra 61830-2 US] [Flac]/10 Down - Stone The Crows.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Down - NOLA (1995) [Elektra 61830-2 US] [Flac]/NOLA.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Down - NOLA (1995) [Elektra 61830-2 US] [Flac]/11 Down - Pray For The Locust.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Down - NOLA (1995) [Elektra 61830-2 US] [Flac]/NOLA.cue/12
 /mnt/synology/media/music/orpheus.network/flac/Down - NOLA (1995) [Elektra 61830-2 US] [Flac]/12 Down - Swan Song.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Down - NOLA (1995) [Elektra 61830-2 US] [Flac]/NOLA.cue/13
 /mnt/synology/media/music/orpheus.network/flac/Down - NOLA (1995) [Elektra 61830-2 US] [Flac]/13 Down - Bury Me In Smoke.flac
@@ -8358,45 +7987,26 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Down - NOLA (1995) [Elektra
 /mnt/synology/media/music/orpheus.network/flac/eliane radigue - trilogie de la mort/disc 1/01 - Kyema.flac
 /mnt/synology/media/music/orpheus.network/flac/eliane radigue - trilogie de la mort/disc 2/01 - Kailasha.flac
 /mnt/synology/media/music/orpheus.network/flac/Éliane Radigue - L'Île re-sonante (2021) [FLAC]/01 L'Île re-sonante.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Elliott Smith - Roman Candle (1994) [FLAC]/Roman Candle.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Elliott Smith - Roman Candle (1994) [FLAC]/01 - Elliott Smith - Roman Candle.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Elliott Smith - Roman Candle (1994) [FLAC]/Roman Candle.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Elliott Smith - Roman Candle (1994) [FLAC]/02 - Elliott Smith - Condor Ave..flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Elliott Smith - Roman Candle (1994) [FLAC]/Roman Candle.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Elliott Smith - Roman Candle (1994) [FLAC]/03 - Elliott Smith - No Name #1.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Elliott Smith - Roman Candle (1994) [FLAC]/Roman Candle.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Elliott Smith - Roman Candle (1994) [FLAC]/04 - Elliott Smith - No Name #2.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Elliott Smith - Roman Candle (1994) [FLAC]/Roman Candle.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Elliott Smith - Roman Candle (1994) [FLAC]/05 - Elliott Smith - No Name #3.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Elliott Smith - Roman Candle (1994) [FLAC]/Roman Candle.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Elliott Smith - Roman Candle (1994) [FLAC]/06 - Elliott Smith - Drive All Over Town.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Elliott Smith - Roman Candle (1994) [FLAC]/Roman Candle.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Elliott Smith - Roman Candle (1994) [FLAC]/07 - Elliott Smith - No Name #4.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Elliott Smith - Roman Candle (1994) [FLAC]/Roman Candle.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Elliott Smith - Roman Candle (1994) [FLAC]/08 - Elliott Smith - Last Call.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Elliott Smith - Roman Candle (1994) [FLAC]/Roman Candle.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Elliott Smith - Roman Candle (1994) [FLAC]/09 - Elliott Smith - Kiwi Maddog 20／20.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Elliott Smith - 1995 - Elliott Smith - FLAC/Elliott Smith.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Elliott Smith - 1995 - Elliott Smith - FLAC/01 - Needle in the Hay.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Elliott Smith - 1995 - Elliott Smith - FLAC/Elliott Smith.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Elliott Smith - 1995 - Elliott Smith - FLAC/02 - Christian Brothers.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Elliott Smith - 1995 - Elliott Smith - FLAC/Elliott Smith.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Elliott Smith - 1995 - Elliott Smith - FLAC/03 - Clementine.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Elliott Smith - 1995 - Elliott Smith - FLAC/Elliott Smith.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Elliott Smith - 1995 - Elliott Smith - FLAC/04 - Southern Belle.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Elliott Smith - 1995 - Elliott Smith - FLAC/Elliott Smith.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Elliott Smith - 1995 - Elliott Smith - FLAC/05 - Single File.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Elliott Smith - 1995 - Elliott Smith - FLAC/Elliott Smith.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Elliott Smith - 1995 - Elliott Smith - FLAC/06 - Coming up Roses.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Elliott Smith - 1995 - Elliott Smith - FLAC/Elliott Smith.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Elliott Smith - 1995 - Elliott Smith - FLAC/07 - Satellite.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Elliott Smith - 1995 - Elliott Smith - FLAC/Elliott Smith.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Elliott Smith - 1995 - Elliott Smith - FLAC/08 - Alphabet Town.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Elliott Smith - 1995 - Elliott Smith - FLAC/Elliott Smith.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Elliott Smith - 1995 - Elliott Smith - FLAC/09 - St. Ides Heaven.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Elliott Smith - 1995 - Elliott Smith - FLAC/Elliott Smith.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Elliott Smith - 1995 - Elliott Smith - FLAC/10 - Good to Go.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Elliott Smith - 1995 - Elliott Smith - FLAC/Elliott Smith.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Elliott Smith - 1995 - Elliott Smith - FLAC/11 - The White Lady Loves You More.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Elliott Smith - 1995 - Elliott Smith - FLAC/Elliott Smith.cue/12
 /mnt/synology/media/music/orpheus.network/flac/Elliott Smith - 1995 - Elliott Smith - FLAC/12 - The Biggest Lie.flac
@@ -8560,17 +8170,11 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Elliott Smith - 1995 - Elli
 /mnt/synology/media/music/orpheus.network/flac/Épiphanie - L'aube (2021) [WEB FLAC 16bits]/Épiphanie - L'aube - 04 Froids d'hiver - Première partie.flac
 /mnt/synology/media/music/orpheus.network/flac/Épiphanie - L'aube (2021) [WEB FLAC 16bits]/Épiphanie - L'aube - 05 Jours d'été - Seconde Partie.flac
 /mnt/synology/media/music/orpheus.network/flac/Épiphanie - L'aube (2021) [WEB FLAC 16bits]/Épiphanie - L'aube - 06 L'impasse - Douce Brise.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Eric Dolphy - 1960 - Out There {1989 Original Jazz Classics OJCCD-023-2} [FLAC]/Out There.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Eric Dolphy - 1960 - Out There {1989 Original Jazz Classics OJCCD-023-2} [FLAC]/01 - Out There.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Eric Dolphy - 1960 - Out There {1989 Original Jazz Classics OJCCD-023-2} [FLAC]/Out There.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Eric Dolphy - 1960 - Out There {1989 Original Jazz Classics OJCCD-023-2} [FLAC]/02 - Serene.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Eric Dolphy - 1960 - Out There {1989 Original Jazz Classics OJCCD-023-2} [FLAC]/Out There.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Eric Dolphy - 1960 - Out There {1989 Original Jazz Classics OJCCD-023-2} [FLAC]/03 - The Baron.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Eric Dolphy - 1960 - Out There {1989 Original Jazz Classics OJCCD-023-2} [FLAC]/Out There.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Eric Dolphy - 1960 - Out There {1989 Original Jazz Classics OJCCD-023-2} [FLAC]/04 - Eclipse.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Eric Dolphy - 1960 - Out There {1989 Original Jazz Classics OJCCD-023-2} [FLAC]/Out There.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Eric Dolphy - 1960 - Out There {1989 Original Jazz Classics OJCCD-023-2} [FLAC]/05 - 17 West.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Eric Dolphy - 1960 - Out There {1989 Original Jazz Classics OJCCD-023-2} [FLAC]/Out There.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Eric Dolphy - 1960 - Out There {1989 Original Jazz Classics OJCCD-023-2} [FLAC]/06 - Sketch of Melba.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Eric Dolphy - 1960 - Out There {1989 Original Jazz Classics OJCCD-023-2} [FLAC]/Out There.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Eric Dolphy - 1960 - Out There {1989 Original Jazz Classics OJCCD-023-2} [FLAC]/07 - Feathers.flac
@@ -8615,26 +8219,16 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Eric Dolphy - 1960 - Out Th
 /mnt/synology/media/music/orpheus.network/flac/Erik Satie - Gnossiennes  Gymnopédies (1995) [FLAC]/15 - Erik Satie - Trois Gymnopédies - I. Lent et douloureux.flac
 /mnt/synology/media/music/orpheus.network/flac/Erik Satie - Gnossiennes  Gymnopédies (1995) [FLAC]/16 - Erik Satie - Trois Gymnopédies - II. Lent et triste.flac
 /mnt/synology/media/music/orpheus.network/flac/Erik Satie - Gnossiennes  Gymnopédies (1995) [FLAC]/17 - Erik Satie - Trois Gymnopédies - III. Lent et grave.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Escape The Fate - Dying Is Your Latest Fashion [Japanese Edition] (2006) FLAC/Dying Is Your Latest Fashion (Japanese Edition).cue/1
 /mnt/synology/media/music/orpheus.network/flac/Escape The Fate - Dying Is Your Latest Fashion [Japanese Edition] (2006) FLAC/01 The Webs We Weave.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Escape The Fate - Dying Is Your Latest Fashion [Japanese Edition] (2006) FLAC/Dying Is Your Latest Fashion (Japanese Edition).cue/2
 /mnt/synology/media/music/orpheus.network/flac/Escape The Fate - Dying Is Your Latest Fashion [Japanese Edition] (2006) FLAC/02 When I Go Out, I Want to Go Out on a Chariot of Fire.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Escape The Fate - Dying Is Your Latest Fashion [Japanese Edition] (2006) FLAC/Dying Is Your Latest Fashion (Japanese Edition).cue/3
 /mnt/synology/media/music/orpheus.network/flac/Escape The Fate - Dying Is Your Latest Fashion [Japanese Edition] (2006) FLAC/03 Situations.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Escape The Fate - Dying Is Your Latest Fashion [Japanese Edition] (2006) FLAC/Dying Is Your Latest Fashion (Japanese Edition).cue/4
 /mnt/synology/media/music/orpheus.network/flac/Escape The Fate - Dying Is Your Latest Fashion [Japanese Edition] (2006) FLAC/04 The Guillotine.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Escape The Fate - Dying Is Your Latest Fashion [Japanese Edition] (2006) FLAC/Dying Is Your Latest Fashion (Japanese Edition).cue/5
 /mnt/synology/media/music/orpheus.network/flac/Escape The Fate - Dying Is Your Latest Fashion [Japanese Edition] (2006) FLAC/05 Reverse This Curse.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Escape The Fate - Dying Is Your Latest Fashion [Japanese Edition] (2006) FLAC/Dying Is Your Latest Fashion (Japanese Edition).cue/6
 /mnt/synology/media/music/orpheus.network/flac/Escape The Fate - Dying Is Your Latest Fashion [Japanese Edition] (2006) FLAC/06 Cellar Door.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Escape The Fate - Dying Is Your Latest Fashion [Japanese Edition] (2006) FLAC/Dying Is Your Latest Fashion (Japanese Edition).cue/7
 /mnt/synology/media/music/orpheus.network/flac/Escape The Fate - Dying Is Your Latest Fashion [Japanese Edition] (2006) FLAC/07 There's No Sympathy for the Dead.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Escape The Fate - Dying Is Your Latest Fashion [Japanese Edition] (2006) FLAC/Dying Is Your Latest Fashion (Japanese Edition).cue/8
 /mnt/synology/media/music/orpheus.network/flac/Escape The Fate - Dying Is Your Latest Fashion [Japanese Edition] (2006) FLAC/08 My Apocalypse.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Escape The Fate - Dying Is Your Latest Fashion [Japanese Edition] (2006) FLAC/Dying Is Your Latest Fashion (Japanese Edition).cue/9
 /mnt/synology/media/music/orpheus.network/flac/Escape The Fate - Dying Is Your Latest Fashion [Japanese Edition] (2006) FLAC/09 Friends and Alibis.flac
 /mnt/synology/media/music/orpheus.network/flac/Escape The Fate - Dying Is Your Latest Fashion [Japanese Edition] (2006) FLAC/10 Not Good Enough for Truth In Cliché.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Escape The Fate - Dying Is Your Latest Fashion [Japanese Edition] (2006) FLAC/Dying Is Your Latest Fashion (Japanese Edition).cue/11
 /mnt/synology/media/music/orpheus.network/flac/Escape The Fate - Dying Is Your Latest Fashion [Japanese Edition] (2006) FLAC/11 The Day I Left the Womb.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Escape The Fate - Dying Is Your Latest Fashion [Japanese Edition] (2006) FLAC/Dying Is Your Latest Fashion (Japanese Edition).cue/12
 /mnt/synology/media/music/orpheus.network/flac/Escape The Fate - Dying Is Your Latest Fashion [Japanese Edition] (2006) FLAC/12 Look Your Best (Bonus Track).flac
@@ -8746,17 +8340,11 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Escape The Fate - Dying Is 
 /mnt/synology/media/music/orpheus.network/flac/Ex-Re - Ex-Re (2019) [4AD0132CD, 4AD] - FLAC/08 - I Can't Keep You.flac
 /mnt/synology/media/music/orpheus.network/flac/Ex-Re - Ex-Re (2019) [4AD0132CD, 4AD] - FLAC/09 - 5AM.flac
 /mnt/synology/media/music/orpheus.network/flac/Ex-Re - Ex-Re (2019) [4AD0132CD, 4AD] - FLAC/10 - My Heart.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Exuma - Exuma (1993) [FLAC]/Exuma.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Exuma - Exuma (1993) [FLAC]/01 Exuma, the Obeah Man.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Exuma - Exuma (1993) [FLAC]/Exuma.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Exuma - Exuma (1993) [FLAC]/02 Dambala.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Exuma - Exuma (1993) [FLAC]/Exuma.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Exuma - Exuma (1993) [FLAC]/03 Mama Loi, Papa Loi.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Exuma - Exuma (1993) [FLAC]/Exuma.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Exuma - Exuma (1993) [FLAC]/04 Junkanoo.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Exuma - Exuma (1993) [FLAC]/Exuma.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Exuma - Exuma (1993) [FLAC]/05 Seance in the Sixth Fret.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Exuma - Exuma (1993) [FLAC]/Exuma.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Exuma - Exuma (1993) [FLAC]/06 You Don't Know What's Going On.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Exuma - Exuma (1993) [FLAC]/Exuma.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Exuma - Exuma (1993) [FLAC]/07 The Vision.flac
@@ -8953,7 +8541,6 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Exuma - Exuma (1993) [FLAC]
 /mnt/synology/media/music/orpheus.network/flac/Fifty Foot Hose - 1968 - Cauldron...Plus [FLAC]/16 – Bad Trip.flac
 /mnt/synology/media/music/orpheus.network/flac/Fifty Foot Hose - 1968 - Cauldron...Plus [FLAC]/17 – Skins.flac
 /mnt/synology/media/music/orpheus.network/flac/Fifty Foot Hose - 1968 - Cauldron...Plus [FLAC]/18 – Bad Trip.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Compilations - Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition) (2021) [FLAC]/Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition).cue/5
 /mnt/synology/media/music/orpheus.network/flac/Compilations - Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition) (2021) [FLAC]/05 Heathrow.flac
 /mnt/synology/media/music/orpheus.network/flac/Fiona Apple - Tidal (1996) [FLAC]/01 - Sleep to Dream.flac
 /mnt/synology/media/music/orpheus.network/flac/Fiona Apple - Tidal (1996) [FLAC]/02 - Sullen Girl.flac
@@ -8965,31 +8552,18 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Compilations - Fame- Jon Sa
 /mnt/synology/media/music/orpheus.network/flac/Fiona Apple - Tidal (1996) [FLAC]/08 - The Child Is Gone.flac
 /mnt/synology/media/music/orpheus.network/flac/Fiona Apple - Tidal (1996) [FLAC]/09 - Pale September.flac
 /mnt/synology/media/music/orpheus.network/flac/Fiona Apple - Tidal (1996) [FLAC]/10 - Carrion.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Fiona Apple - Extraordinary Machine SICP-927 - 2005 flac/Extraordinary Machine.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Fiona Apple - Extraordinary Machine SICP-927 - 2005 flac/01 - Extraordinary Machine.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Fiona Apple - Extraordinary Machine SICP-927 - 2005 flac/Extraordinary Machine.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Fiona Apple - Extraordinary Machine SICP-927 - 2005 flac/02 - Get Him Back.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Fiona Apple - Extraordinary Machine SICP-927 - 2005 flac/Extraordinary Machine.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Fiona Apple - Extraordinary Machine SICP-927 - 2005 flac/03 - O' Sailor.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Fiona Apple - Extraordinary Machine SICP-927 - 2005 flac/Extraordinary Machine.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Fiona Apple - Extraordinary Machine SICP-927 - 2005 flac/04 - Better Version of Me.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Fiona Apple - Extraordinary Machine SICP-927 - 2005 flac/Extraordinary Machine.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Fiona Apple - Extraordinary Machine SICP-927 - 2005 flac/05 - Tymps (The Sick in the Head Song).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Fiona Apple - Extraordinary Machine SICP-927 - 2005 flac/Extraordinary Machine.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Fiona Apple - Extraordinary Machine SICP-927 - 2005 flac/06 - Parting Gift.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Fiona Apple - Extraordinary Machine SICP-927 - 2005 flac/Extraordinary Machine.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Fiona Apple - Extraordinary Machine SICP-927 - 2005 flac/07 - Window.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Fiona Apple - Extraordinary Machine SICP-927 - 2005 flac/Extraordinary Machine.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Fiona Apple - Extraordinary Machine SICP-927 - 2005 flac/08 - Oh Well.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Fiona Apple - Extraordinary Machine SICP-927 - 2005 flac/Extraordinary Machine.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Fiona Apple - Extraordinary Machine SICP-927 - 2005 flac/09 - Please Please Please.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Fiona Apple - Extraordinary Machine SICP-927 - 2005 flac/Extraordinary Machine.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Fiona Apple - Extraordinary Machine SICP-927 - 2005 flac/10 - Red Red Red.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Fiona Apple - Extraordinary Machine SICP-927 - 2005 flac/Extraordinary Machine.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Fiona Apple - Extraordinary Machine SICP-927 - 2005 flac/11 - Not About Love.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Fiona Apple - Extraordinary Machine SICP-927 - 2005 flac/Extraordinary Machine.cue/12
 /mnt/synology/media/music/orpheus.network/flac/Fiona Apple - Extraordinary Machine SICP-927 - 2005 flac/12 - Waltz (Better Than Fine).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Fiona Apple - Extraordinary Machine SICP-927 - 2005 flac/Extraordinary Machine.cue/13
 /mnt/synology/media/music/orpheus.network/flac/Fiona Apple - Extraordinary Machine SICP-927 - 2005 flac/13 - Paper Bag (live).flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Fiona Apple - Extraordinary Machine SICP-927 - 2005 flac/Extraordinary Machine.cue/14
 /mnt/synology/media/music/orpheus.network/flac/Fiona Apple - Extraordinary Machine SICP-927 - 2005 flac/14 - Extraordinary Machine (live).flac
@@ -9065,23 +8639,14 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Fiona Apple - Extraordinary
 /mnt/synology/media/music/orpheus.network/flac/Fishmans (1999) 98.12.28 男達の別れ [FLAC] {POCH-1855_6}/Disc 2/01 - ゆらめき In the Air.flac
 /mnt/synology/media/music/orpheus.network/flac/Fishmans (1999) 98.12.28 男達の別れ [FLAC] {POCH-1855_6}/Disc 2/02 - いかれたBaby.flac
 /mnt/synology/media/music/orpheus.network/flac/Fishmans (1999) 98.12.28 男達の別れ [FLAC] {POCH-1855_6}/Disc 2/03 - Long Season.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/FISHMANS - Aloha Polydor (1999) [FLAC]/Aloha Polydor.cue/1
 /mnt/synology/media/music/orpheus.network/flac/FISHMANS - Aloha Polydor (1999) [FLAC]/01 IN THE FLIGHT.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/FISHMANS - Aloha Polydor (1999) [FLAC]/Aloha Polydor.cue/2
 /mnt/synology/media/music/orpheus.network/flac/FISHMANS - Aloha Polydor (1999) [FLAC]/02 ナイトクルージング - Nightcruising.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/FISHMANS - Aloha Polydor (1999) [FLAC]/Aloha Polydor.cue/3
 /mnt/synology/media/music/orpheus.network/flac/FISHMANS - Aloha Polydor (1999) [FLAC]/03 BABY BLUE.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/FISHMANS - Aloha Polydor (1999) [FLAC]/Aloha Polydor.cue/4
 /mnt/synology/media/music/orpheus.network/flac/FISHMANS - Aloha Polydor (1999) [FLAC]/04 Weather Report.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/FISHMANS - Aloha Polydor (1999) [FLAC]/Aloha Polydor.cue/5
 /mnt/synology/media/music/orpheus.network/flac/FISHMANS - Aloha Polydor (1999) [FLAC]/05 MAGIC LOVE.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/FISHMANS - Aloha Polydor (1999) [FLAC]/Aloha Polydor.cue/6
 /mnt/synology/media/music/orpheus.network/flac/FISHMANS - Aloha Polydor (1999) [FLAC]/06 それはただの気分さ (demo track) - It's Just A Feeling.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/FISHMANS - Aloha Polydor (1999) [FLAC]/Aloha Polydor.cue/7
 /mnt/synology/media/music/orpheus.network/flac/FISHMANS - Aloha Polydor (1999) [FLAC]/07 幸せ者 - Lucky Guy.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/FISHMANS - Aloha Polydor (1999) [FLAC]/Aloha Polydor.cue/8
 /mnt/synology/media/music/orpheus.network/flac/FISHMANS - Aloha Polydor (1999) [FLAC]/08 WALKING IN THE RHYTHM.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/FISHMANS - Aloha Polydor (1999) [FLAC]/Aloha Polydor.cue/9
 /mnt/synology/media/music/orpheus.network/flac/FISHMANS - Aloha Polydor (1999) [FLAC]/09 SEASON.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/FISHMANS - Aloha Polydor (1999) [FLAC]/Aloha Polydor.cue/10
 /mnt/synology/media/music/orpheus.network/flac/FISHMANS - Aloha Polydor (1999) [FLAC]/10 ゆらめき IN THE AIR.flac
@@ -9149,29 +8714,17 @@ cue:///mnt/synology/media/music/orpheus.network/flac/FISHMANS - Aloha Polydor (1
 /mnt/synology/media/music/orpheus.network/flac/Fishmans - Long Season (2009) CD FLAC/03 - Long Season (Part 3).flac
 /mnt/synology/media/music/orpheus.network/flac/Fishmans - Long Season (2009) CD FLAC/04 - Long Season (Part 4).flac
 /mnt/synology/media/music/orpheus.network/flac/Fishmans - Long Season (2009) CD FLAC/05 - Long Season (Part 5).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/[1993 (2009) · PCCA-50126] Neo Yankees’ Holiday/Neo Yankees’ Holiday.cue/1
 /mnt/synology/media/music/orpheus.network/flac/[1993 (2009) · PCCA-50126] Neo Yankees’ Holiday/01. Running Man.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/[1993 (2009) · PCCA-50126] Neo Yankees’ Holiday/Neo Yankees’ Holiday.cue/2
 /mnt/synology/media/music/orpheus.network/flac/[1993 (2009) · PCCA-50126] Neo Yankees’ Holiday/02. いかれたBaby.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/[1993 (2009) · PCCA-50126] Neo Yankees’ Holiday/Neo Yankees’ Holiday.cue/3
 /mnt/synology/media/music/orpheus.network/flac/[1993 (2009) · PCCA-50126] Neo Yankees’ Holiday/03. Smilin’ Days, Summer Holiday.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/[1993 (2009) · PCCA-50126] Neo Yankees’ Holiday/Neo Yankees’ Holiday.cue/4
 /mnt/synology/media/music/orpheus.network/flac/[1993 (2009) · PCCA-50126] Neo Yankees’ Holiday/04. エヴリデイ・エヴリナイト.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/[1993 (2009) · PCCA-50126] Neo Yankees’ Holiday/Neo Yankees’ Holiday.cue/5
 /mnt/synology/media/music/orpheus.network/flac/[1993 (2009) · PCCA-50126] Neo Yankees’ Holiday/05. 疲れない人.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/[1993 (2009) · PCCA-50126] Neo Yankees’ Holiday/Neo Yankees’ Holiday.cue/6
 /mnt/synology/media/music/orpheus.network/flac/[1993 (2009) · PCCA-50126] Neo Yankees’ Holiday/06. Just Thing.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/[1993 (2009) · PCCA-50126] Neo Yankees’ Holiday/Neo Yankees’ Holiday.cue/7
 /mnt/synology/media/music/orpheus.network/flac/[1993 (2009) · PCCA-50126] Neo Yankees’ Holiday/07. 太平洋.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/[1993 (2009) · PCCA-50126] Neo Yankees’ Holiday/Neo Yankees’ Holiday.cue/8
 /mnt/synology/media/music/orpheus.network/flac/[1993 (2009) · PCCA-50126] Neo Yankees’ Holiday/08. パラダイス.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/[1993 (2009) · PCCA-50126] Neo Yankees’ Holiday/Neo Yankees’ Holiday.cue/9
 /mnt/synology/media/music/orpheus.network/flac/[1993 (2009) · PCCA-50126] Neo Yankees’ Holiday/09. うまく歩けないよ.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/[1993 (2009) · PCCA-50126] Neo Yankees’ Holiday/Neo Yankees’ Holiday.cue/10
 /mnt/synology/media/music/orpheus.network/flac/[1993 (2009) · PCCA-50126] Neo Yankees’ Holiday/10. 1, 2, 3, 4,.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/[1993 (2009) · PCCA-50126] Neo Yankees’ Holiday/Neo Yankees’ Holiday.cue/11
 /mnt/synology/media/music/orpheus.network/flac/[1993 (2009) · PCCA-50126] Neo Yankees’ Holiday/11. Walkin’.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/[1993 (2009) · PCCA-50126] Neo Yankees’ Holiday/Neo Yankees’ Holiday.cue/12
 /mnt/synology/media/music/orpheus.network/flac/[1993 (2009) · PCCA-50126] Neo Yankees’ Holiday/12. スー・パー.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/[1993 (2009) · PCCA-50126] Neo Yankees’ Holiday/Neo Yankees’ Holiday.cue/13
 /mnt/synology/media/music/orpheus.network/flac/[1993 (2009) · PCCA-50126] Neo Yankees’ Holiday/13. いかれたBaby.flac
@@ -9293,21 +8846,13 @@ cue:///mnt/synology/media/music/orpheus.network/flac/[1993 (2009) · PCCA-50126]
 /mnt/synology/media/music/orpheus.network/flac/Flight Facilities - Down to Earth (2014) [FLAC] {HSE-60204}/15 - Two Bodies (feat. Emma Louise) (Karma Kid remix).flac
 /mnt/synology/media/music/orpheus.network/flac/Flight Facilities - Down to Earth (2014) [FLAC] {HSE-60204}/16 - With You (feat. Grovesnor) (Flight Facilities extended mix).flac
 /mnt/synology/media/music/orpheus.network/flac/Flight Facilities - Down to Earth (2014) [FLAC] {HSE-60204}/17 - Crave You (feat. Giselle) (James Curd pretty mix).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Flipper - Album： Generic Flipper (2009) [FLAC]/Album： Generic Flipper.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Flipper - Album： Generic Flipper (2009) [FLAC]/01 Ever.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Flipper - Album： Generic Flipper (2009) [FLAC]/Album： Generic Flipper.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Flipper - Album： Generic Flipper (2009) [FLAC]/02 Life Is Cheap.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Flipper - Album： Generic Flipper (2009) [FLAC]/Album： Generic Flipper.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Flipper - Album： Generic Flipper (2009) [FLAC]/03 Shed No Tears.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Flipper - Album： Generic Flipper (2009) [FLAC]/Album： Generic Flipper.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Flipper - Album： Generic Flipper (2009) [FLAC]/04 (I Saw You) Shine.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Flipper - Album： Generic Flipper (2009) [FLAC]/Album： Generic Flipper.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Flipper - Album： Generic Flipper (2009) [FLAC]/05 Way of the World.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Flipper - Album： Generic Flipper (2009) [FLAC]/Album： Generic Flipper.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Flipper - Album： Generic Flipper (2009) [FLAC]/06 Life.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Flipper - Album： Generic Flipper (2009) [FLAC]/Album： Generic Flipper.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Flipper - Album： Generic Flipper (2009) [FLAC]/07 Nothing.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Flipper - Album： Generic Flipper (2009) [FLAC]/Album： Generic Flipper.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Flipper - Album： Generic Flipper (2009) [FLAC]/08 Living for the Depression.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Flipper - Album： Generic Flipper (2009) [FLAC]/Album： Generic Flipper.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Flipper - Album： Generic Flipper (2009) [FLAC]/09 Sex Bomb.flac
@@ -9327,29 +8872,17 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Flipper - Album： Generic 
 /mnt/synology/media/music/orpheus.network/flac/Floater - Glyph (1995) - FLAC/14 - The Sad Ballad Of Danny Boy.flac
 /mnt/synology/media/music/orpheus.network/flac/Floater - Glyph (1995) - FLAC/15 - Crawl Into You.flac
 /mnt/synology/media/music/orpheus.network/flac/Floater - Glyph (1995) - FLAC/16 - Untitled.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Floor - Floor (2002) [FLAC] (No Idea Records – NIR-121)/Floor.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Floor - Floor (2002) [FLAC] (No Idea Records – NIR-121)/01 Floor - Scimitar.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Floor - Floor (2002) [FLAC] (No Idea Records – NIR-121)/Floor.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Floor - Floor (2002) [FLAC] (No Idea Records – NIR-121)/02 Floor - Return to Zero.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Floor - Floor (2002) [FLAC] (No Idea Records – NIR-121)/Floor.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Floor - Floor (2002) [FLAC] (No Idea Records – NIR-121)/03 Floor - Downed Star.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Floor - Floor (2002) [FLAC] (No Idea Records – NIR-121)/Floor.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Floor - Floor (2002) [FLAC] (No Idea Records – NIR-121)/04 Floor - Iron Girl.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Floor - Floor (2002) [FLAC] (No Idea Records – NIR-121)/Floor.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Floor - Floor (2002) [FLAC] (No Idea Records – NIR-121)/05 Floor - Night Full of Kicks.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Floor - Floor (2002) [FLAC] (No Idea Records – NIR-121)/Floor.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Floor - Floor (2002) [FLAC] (No Idea Records – NIR-121)/06 Floor - Twink.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Floor - Floor (2002) [FLAC] (No Idea Records – NIR-121)/Floor.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Floor - Floor (2002) [FLAC] (No Idea Records – NIR-121)/07 Floor - Sneech.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Floor - Floor (2002) [FLAC] (No Idea Records – NIR-121)/Floor.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Floor - Floor (2002) [FLAC] (No Idea Records – NIR-121)/08 Floor - Assassin.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Floor - Floor (2002) [FLAC] (No Idea Records – NIR-121)/Floor.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Floor - Floor (2002) [FLAC] (No Idea Records – NIR-121)/09 Floor - Kallisti - Song for Eris.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Floor - Floor (2002) [FLAC] (No Idea Records – NIR-121)/Floor.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Floor - Floor (2002) [FLAC] (No Idea Records – NIR-121)/10 Floor - Ein (Below and Beyond).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Floor - Floor (2002) [FLAC] (No Idea Records – NIR-121)/Floor.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Floor - Floor (2002) [FLAC] (No Idea Records – NIR-121)/11 Floor - Figured Out.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Floor - Floor (2002) [FLAC] (No Idea Records – NIR-121)/Floor.cue/12
 /mnt/synology/media/music/orpheus.network/flac/Floor - Floor (2002) [FLAC] (No Idea Records – NIR-121)/12 Floor - Tales of Lolita.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Floor - Floor (2002) [FLAC] (No Idea Records – NIR-121)/Floor.cue/13
 /mnt/synology/media/music/orpheus.network/flac/Floor - Floor (2002) [FLAC] (No Idea Records – NIR-121)/13 Floor - Song.flac
@@ -9359,61 +8892,37 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Floor - Floor (2002) [FLAC]
 /mnt/synology/media/music/orpheus.network/flac/Flowers Taped to Pens - s-t (2014) - FLAC/04 Somber Eyes.flac
 /mnt/synology/media/music/orpheus.network/flac/Flowers Taped to Pens - s-t (2014) - FLAC/05 We Are Standing Right Now, What We Build Could Be Anything.flac
 /mnt/synology/media/music/orpheus.network/flac/Flowers Taped to Pens - s-t (2014) - FLAC/06 North Migration.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Flux Quartet - Feldman- String Quartet #2 (2002) [FLAC]/CD1/Feldman- String Quartet #2 [Disc 1].cue/1
 /mnt/synology/media/music/orpheus.network/flac/Flux Quartet - Feldman- String Quartet #2 (2002) [FLAC]/CD1/01 String Quartet #2 - Pages 1-4.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Flux Quartet - Feldman- String Quartet #2 (2002) [FLAC]/CD1/Feldman- String Quartet #2 [Disc 1].cue/2
 /mnt/synology/media/music/orpheus.network/flac/Flux Quartet - Feldman- String Quartet #2 (2002) [FLAC]/CD1/02 String Quartet #2 - Pages 5-9.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Flux Quartet - Feldman- String Quartet #2 (2002) [FLAC]/CD1/Feldman- String Quartet #2 [Disc 1].cue/3
 /mnt/synology/media/music/orpheus.network/flac/Flux Quartet - Feldman- String Quartet #2 (2002) [FLAC]/CD1/03 String Quartet #2 - Pages 10-14.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Flux Quartet - Feldman- String Quartet #2 (2002) [FLAC]/CD1/Feldman- String Quartet #2 [Disc 1].cue/4
 /mnt/synology/media/music/orpheus.network/flac/Flux Quartet - Feldman- String Quartet #2 (2002) [FLAC]/CD1/04 String Quartet #2 - Pages 15-19.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Flux Quartet - Feldman- String Quartet #2 (2002) [FLAC]/CD1/Feldman- String Quartet #2 [Disc 1].cue/5
 /mnt/synology/media/music/orpheus.network/flac/Flux Quartet - Feldman- String Quartet #2 (2002) [FLAC]/CD1/05 String Quartet #2 - Pages 20-24.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Flux Quartet - Feldman- String Quartet #2 (2002) [FLAC]/CD1/Feldman- String Quartet #2 [Disc 1].cue/6
 /mnt/synology/media/music/orpheus.network/flac/Flux Quartet - Feldman- String Quartet #2 (2002) [FLAC]/CD1/06 String Quartet #2 - Pages 25-27.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Flux Quartet - Feldman- String Quartet #2 (2002) [FLAC]/CD2/Feldman- String Quartet #2 [Disc 2].cue/1
 /mnt/synology/media/music/orpheus.network/flac/Flux Quartet - Feldman- String Quartet #2 (2002) [FLAC]/CD2/01 String Quartet #2 - Pages 28-31.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Flux Quartet - Feldman- String Quartet #2 (2002) [FLAC]/CD2/Feldman- String Quartet #2 [Disc 2].cue/2
 /mnt/synology/media/music/orpheus.network/flac/Flux Quartet - Feldman- String Quartet #2 (2002) [FLAC]/CD2/02 String Quartet #2 - Pages 32-36.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Flux Quartet - Feldman- String Quartet #2 (2002) [FLAC]/CD2/Feldman- String Quartet #2 [Disc 2].cue/3
 /mnt/synology/media/music/orpheus.network/flac/Flux Quartet - Feldman- String Quartet #2 (2002) [FLAC]/CD2/03 String Quartet #2 - Pages 37-41.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Flux Quartet - Feldman- String Quartet #2 (2002) [FLAC]/CD2/Feldman- String Quartet #2 [Disc 2].cue/4
 /mnt/synology/media/music/orpheus.network/flac/Flux Quartet - Feldman- String Quartet #2 (2002) [FLAC]/CD2/04 String Quartet #2 - Pages 42-46.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Flux Quartet - Feldman- String Quartet #2 (2002) [FLAC]/CD2/Feldman- String Quartet #2 [Disc 2].cue/5
 /mnt/synology/media/music/orpheus.network/flac/Flux Quartet - Feldman- String Quartet #2 (2002) [FLAC]/CD2/05 String Quartet #2 - Pages 47-51.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Flux Quartet - Feldman- String Quartet #2 (2002) [FLAC]/CD2/Feldman- String Quartet #2 [Disc 2].cue/6
 /mnt/synology/media/music/orpheus.network/flac/Flux Quartet - Feldman- String Quartet #2 (2002) [FLAC]/CD2/06 String Quartet #2 - Pages 52-53.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Flux Quartet - Feldman- String Quartet #2 (2002) [FLAC]/CD2/Feldman- String Quartet #2 [Disc 2].cue/7
 /mnt/synology/media/music/orpheus.network/flac/Flux Quartet - Feldman- String Quartet #2 (2002) [FLAC]/CD2/07 String Quartet #2 - Pages 53-54.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Flux Quartet - Feldman- String Quartet #2 (2002) [FLAC]/CD3/Feldman- String Quartet #2 [Disc 3].cue/1
 /mnt/synology/media/music/orpheus.network/flac/Flux Quartet - Feldman- String Quartet #2 (2002) [FLAC]/CD3/01 String Quartet #2 - Pages 55-58.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Flux Quartet - Feldman- String Quartet #2 (2002) [FLAC]/CD3/Feldman- String Quartet #2 [Disc 3].cue/2
 /mnt/synology/media/music/orpheus.network/flac/Flux Quartet - Feldman- String Quartet #2 (2002) [FLAC]/CD3/02 String Quartet #2 - Pages 59-63.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Flux Quartet - Feldman- String Quartet #2 (2002) [FLAC]/CD3/Feldman- String Quartet #2 [Disc 3].cue/3
 /mnt/synology/media/music/orpheus.network/flac/Flux Quartet - Feldman- String Quartet #2 (2002) [FLAC]/CD3/03 String Quartet #2 - Pages 64-68.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Flux Quartet - Feldman- String Quartet #2 (2002) [FLAC]/CD3/Feldman- String Quartet #2 [Disc 3].cue/4
 /mnt/synology/media/music/orpheus.network/flac/Flux Quartet - Feldman- String Quartet #2 (2002) [FLAC]/CD3/04 String Quartet #2 - Pages 69-73.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Flux Quartet - Feldman- String Quartet #2 (2002) [FLAC]/CD3/Feldman- String Quartet #2 [Disc 3].cue/5
 /mnt/synology/media/music/orpheus.network/flac/Flux Quartet - Feldman- String Quartet #2 (2002) [FLAC]/CD3/05 String Quartet #2 - Pages 74-78.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Flux Quartet - Feldman- String Quartet #2 (2002) [FLAC]/CD3/Feldman- String Quartet #2 [Disc 3].cue/6
 /mnt/synology/media/music/orpheus.network/flac/Flux Quartet - Feldman- String Quartet #2 (2002) [FLAC]/CD3/06 String Quartet #2 - Pages 79-80.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Flux Quartet - Feldman- String Quartet #2 (2002) [FLAC]/CD4/Feldman- String Quartet #2 [Disc 4].cue/1
 /mnt/synology/media/music/orpheus.network/flac/Flux Quartet - Feldman- String Quartet #2 (2002) [FLAC]/CD4/01 String Quartet #2 - Pages 80-83.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Flux Quartet - Feldman- String Quartet #2 (2002) [FLAC]/CD4/Feldman- String Quartet #2 [Disc 4].cue/2
 /mnt/synology/media/music/orpheus.network/flac/Flux Quartet - Feldman- String Quartet #2 (2002) [FLAC]/CD4/02 String Quartet #2 - Pages 84-88.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Flux Quartet - Feldman- String Quartet #2 (2002) [FLAC]/CD4/Feldman- String Quartet #2 [Disc 4].cue/3
 /mnt/synology/media/music/orpheus.network/flac/Flux Quartet - Feldman- String Quartet #2 (2002) [FLAC]/CD4/03 String Quartet #2 - Pages 89-93.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Flux Quartet - Feldman- String Quartet #2 (2002) [FLAC]/CD4/Feldman- String Quartet #2 [Disc 4].cue/4
 /mnt/synology/media/music/orpheus.network/flac/Flux Quartet - Feldman- String Quartet #2 (2002) [FLAC]/CD4/04 String Quartet #2 - Pages 94-98.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Flux Quartet - Feldman- String Quartet #2 (2002) [FLAC]/CD4/Feldman- String Quartet #2 [Disc 4].cue/5
 /mnt/synology/media/music/orpheus.network/flac/Flux Quartet - Feldman- String Quartet #2 (2002) [FLAC]/CD4/05 String Quartet #2 - Pages 99-100.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Flux Quartet - Feldman- String Quartet #2 (2002) [FLAC]/CD5/Feldman- String Quartet #2 [Disc 5].cue/1
 /mnt/synology/media/music/orpheus.network/flac/Flux Quartet - Feldman- String Quartet #2 (2002) [FLAC]/CD5/01 String Quartet #2 - Pages 101-104.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Flux Quartet - Feldman- String Quartet #2 (2002) [FLAC]/CD5/Feldman- String Quartet #2 [Disc 5].cue/2
 /mnt/synology/media/music/orpheus.network/flac/Flux Quartet - Feldman- String Quartet #2 (2002) [FLAC]/CD5/02 String Quartet #2 - Pages 104-109.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Flux Quartet - Feldman- String Quartet #2 (2002) [FLAC]/CD5/Feldman- String Quartet #2 [Disc 5].cue/3
 /mnt/synology/media/music/orpheus.network/flac/Flux Quartet - Feldman- String Quartet #2 (2002) [FLAC]/CD5/03 String Quartet #2 - Pages 110-114.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Flux Quartet - Feldman- String Quartet #2 (2002) [FLAC]/CD5/Feldman- String Quartet #2 [Disc 5].cue/4
 /mnt/synology/media/music/orpheus.network/flac/Flux Quartet - Feldman- String Quartet #2 (2002) [FLAC]/CD5/04 String Quartet #2 - Pages 115-119.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Flux Quartet - Feldman- String Quartet #2 (2002) [FLAC]/CD5/Feldman- String Quartet #2 [Disc 5].cue/5
 /mnt/synology/media/music/orpheus.network/flac/Flux Quartet - Feldman- String Quartet #2 (2002) [FLAC]/CD5/05 String Quartet #2 - Pages 120-124.flac
@@ -9602,7 +9111,6 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Flux Quartet - Feldman- Str
 /mnt/synology/media/music/orpheus.network/flac/Frank Zappa - One Size Fits All [2012 Remaster]/07 San Ber'dino.flac
 /mnt/synology/media/music/orpheus.network/flac/Frank Zappa - One Size Fits All [2012 Remaster]/08 Andy.flac
 /mnt/synology/media/music/orpheus.network/flac/Frank Zappa - One Size Fits All [2012 Remaster]/09 Sofa No. 2.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Frank Zappa - Lumpy Gravy (2012) [FLAC]/Lumpy Gravy.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Frank Zappa - Lumpy Gravy (2012) [FLAC]/01 Lumpy Gravy Pt. 1.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Frank Zappa - Lumpy Gravy (2012) [FLAC]/Lumpy Gravy.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Frank Zappa - Lumpy Gravy (2012) [FLAC]/02 Lumpy Gravy Pt. 2.flac
@@ -9625,33 +9133,19 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Frank Zappa - Lumpy Gravy (
 /mnt/synology/media/music/orpheus.network/flac/Frank Zappa and the Mothers of Invention - We're Only in It for the Money [2012 Zappa Records]/17 - What's the Ugliest Part of Your Body (Reprise).flac
 /mnt/synology/media/music/orpheus.network/flac/Frank Zappa and the Mothers of Invention - We're Only in It for the Money [2012 Zappa Records]/18 - Mother People.flac
 /mnt/synology/media/music/orpheus.network/flac/Frank Zappa and the Mothers of Invention - We're Only in It for the Money [2012 Zappa Records]/19 - The Chrome Plated Megaphone of Destiny.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Frank Zappa & The Mothers Of Invention - Freak Out! (1966) [FLAC]/Freak Out!.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Frank Zappa & The Mothers Of Invention - Freak Out! (1966) [FLAC]/01 Hungry Freaks, Daddy.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Frank Zappa & The Mothers Of Invention - Freak Out! (1966) [FLAC]/Freak Out!.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Frank Zappa & The Mothers Of Invention - Freak Out! (1966) [FLAC]/02 I Ain't Got No Heart.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Frank Zappa & The Mothers Of Invention - Freak Out! (1966) [FLAC]/Freak Out!.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Frank Zappa & The Mothers Of Invention - Freak Out! (1966) [FLAC]/03 Who Are The Brain Police.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Frank Zappa & The Mothers Of Invention - Freak Out! (1966) [FLAC]/Freak Out!.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Frank Zappa & The Mothers Of Invention - Freak Out! (1966) [FLAC]/04 Go Cry On Somebody Else's Shoulder.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Frank Zappa & The Mothers Of Invention - Freak Out! (1966) [FLAC]/Freak Out!.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Frank Zappa & The Mothers Of Invention - Freak Out! (1966) [FLAC]/05 Motherly Love.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Frank Zappa & The Mothers Of Invention - Freak Out! (1966) [FLAC]/Freak Out!.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Frank Zappa & The Mothers Of Invention - Freak Out! (1966) [FLAC]/06 How Could I Be Such a Fool.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Frank Zappa & The Mothers Of Invention - Freak Out! (1966) [FLAC]/Freak Out!.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Frank Zappa & The Mothers Of Invention - Freak Out! (1966) [FLAC]/07 Wowie Zowie.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Frank Zappa & The Mothers Of Invention - Freak Out! (1966) [FLAC]/Freak Out!.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Frank Zappa & The Mothers Of Invention - Freak Out! (1966) [FLAC]/08 You Didn't Try to Call Me.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Frank Zappa & The Mothers Of Invention - Freak Out! (1966) [FLAC]/Freak Out!.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Frank Zappa & The Mothers Of Invention - Freak Out! (1966) [FLAC]/09 Any Way the Wind Blows.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Frank Zappa & The Mothers Of Invention - Freak Out! (1966) [FLAC]/Freak Out!.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Frank Zappa & The Mothers Of Invention - Freak Out! (1966) [FLAC]/10 I'm Not Satisfied.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Frank Zappa & The Mothers Of Invention - Freak Out! (1966) [FLAC]/Freak Out!.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Frank Zappa & The Mothers Of Invention - Freak Out! (1966) [FLAC]/11 You're Probably Wonderin Why I'm Here.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Frank Zappa & The Mothers Of Invention - Freak Out! (1966) [FLAC]/Freak Out!.cue/12
 /mnt/synology/media/music/orpheus.network/flac/Frank Zappa & The Mothers Of Invention - Freak Out! (1966) [FLAC]/12 Trouble Every Day.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Frank Zappa & The Mothers Of Invention - Freak Out! (1966) [FLAC]/Freak Out!.cue/13
 /mnt/synology/media/music/orpheus.network/flac/Frank Zappa & The Mothers Of Invention - Freak Out! (1966) [FLAC]/13 Help, I'm a Rock.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Frank Zappa & The Mothers Of Invention - Freak Out! (1966) [FLAC]/Freak Out!.cue/14
 /mnt/synology/media/music/orpheus.network/flac/Frank Zappa & The Mothers Of Invention - Freak Out! (1966) [FLAC]/14 It Can't Happen Here.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Frank Zappa & The Mothers Of Invention - Freak Out! (1966) [FLAC]/Freak Out!.cue/15
 /mnt/synology/media/music/orpheus.network/flac/Frank Zappa & The Mothers Of Invention - Freak Out! (1966) [FLAC]/15 The Return of the Son of Monster Magnet.flac
@@ -9670,21 +9164,13 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Frank Zappa & The Mothers O
 /mnt/synology/media/music/orpheus.network/flac/Frank Zappa & The Mothers of Invention - (1967) Absolutely Free [FLAC] {ZR 3835}/13 - Son Of Suzy Creamcheese.flac
 /mnt/synology/media/music/orpheus.network/flac/Frank Zappa & The Mothers of Invention - (1967) Absolutely Free [FLAC] {ZR 3835}/14 - Brown Shoes Don't Make It.flac
 /mnt/synology/media/music/orpheus.network/flac/Frank Zappa & The Mothers of Invention - (1967) Absolutely Free [FLAC] {ZR 3835}/15 - America Drinks & Goes Home.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Frank Zappa & The Mothers Of Invention - Burnt Weeny Sandwich (1969) [FLAC]/Burnt Weeny Sandwich.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Frank Zappa & The Mothers Of Invention - Burnt Weeny Sandwich (1969) [FLAC]/01 WPLJ.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Frank Zappa & The Mothers Of Invention - Burnt Weeny Sandwich (1969) [FLAC]/Burnt Weeny Sandwich.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Frank Zappa & The Mothers Of Invention - Burnt Weeny Sandwich (1969) [FLAC]/02 Igor's Boogie Phase One.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Frank Zappa & The Mothers Of Invention - Burnt Weeny Sandwich (1969) [FLAC]/Burnt Weeny Sandwich.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Frank Zappa & The Mothers Of Invention - Burnt Weeny Sandwich (1969) [FLAC]/03 Overture To A Holiday In Berlin.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Frank Zappa & The Mothers Of Invention - Burnt Weeny Sandwich (1969) [FLAC]/Burnt Weeny Sandwich.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Frank Zappa & The Mothers Of Invention - Burnt Weeny Sandwich (1969) [FLAC]/04 Theme From Burnt Weeny Sandwich.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Frank Zappa & The Mothers Of Invention - Burnt Weeny Sandwich (1969) [FLAC]/Burnt Weeny Sandwich.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Frank Zappa & The Mothers Of Invention - Burnt Weeny Sandwich (1969) [FLAC]/05 Igor's Boogie Phase Two.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Frank Zappa & The Mothers Of Invention - Burnt Weeny Sandwich (1969) [FLAC]/Burnt Weeny Sandwich.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Frank Zappa & The Mothers Of Invention - Burnt Weeny Sandwich (1969) [FLAC]/06 Holiday In Berlin Full-Blown.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Frank Zappa & The Mothers Of Invention - Burnt Weeny Sandwich (1969) [FLAC]/Burnt Weeny Sandwich.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Frank Zappa & The Mothers Of Invention - Burnt Weeny Sandwich (1969) [FLAC]/07 Aybe Sea.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Frank Zappa & The Mothers Of Invention - Burnt Weeny Sandwich (1969) [FLAC]/Burnt Weeny Sandwich.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Frank Zappa & The Mothers Of Invention - Burnt Weeny Sandwich (1969) [FLAC]/08 The Little House I Used To Live In.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Frank Zappa & The Mothers Of Invention - Burnt Weeny Sandwich (1969) [FLAC]/Burnt Weeny Sandwich.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Frank Zappa & The Mothers Of Invention - Burnt Weeny Sandwich (1969) [FLAC]/09 Valarie.flac
@@ -9726,67 +9212,37 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Frank Zappa & The Mothers O
 /mnt/synology/media/music/orpheus.network/flac/Fugazi - Red Medicine [Dischord Records]/11 - Back to Base.flac
 /mnt/synology/media/music/orpheus.network/flac/Fugazi - Red Medicine [Dischord Records]/12 - Downed City.flac
 /mnt/synology/media/music/orpheus.network/flac/Fugazi - Red Medicine [Dischord Records]/13 - Long Distance Runner.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Fugazi - Instrument Soundtrack (1999) [FLAC] Dischord Records- DIS 120CD/Instrument Soundtrack.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Fugazi - Instrument Soundtrack (1999) [FLAC] Dischord Records- DIS 120CD/01 Pink Frosty (demo).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Fugazi - Instrument Soundtrack (1999) [FLAC] Dischord Records- DIS 120CD/Instrument Soundtrack.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Fugazi - Instrument Soundtrack (1999) [FLAC] Dischord Records- DIS 120CD/02 Lusty Scripps.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Fugazi - Instrument Soundtrack (1999) [FLAC] Dischord Records- DIS 120CD/Instrument Soundtrack.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Fugazi - Instrument Soundtrack (1999) [FLAC] Dischord Records- DIS 120CD/03 Arpeggiator (demo).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Fugazi - Instrument Soundtrack (1999) [FLAC] Dischord Records- DIS 120CD/Instrument Soundtrack.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Fugazi - Instrument Soundtrack (1999) [FLAC] Dischord Records- DIS 120CD/04 Afterthought.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Fugazi - Instrument Soundtrack (1999) [FLAC] Dischord Records- DIS 120CD/Instrument Soundtrack.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Fugazi - Instrument Soundtrack (1999) [FLAC] Dischord Records- DIS 120CD/05 Trio’s.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Fugazi - Instrument Soundtrack (1999) [FLAC] Dischord Records- DIS 120CD/Instrument Soundtrack.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Fugazi - Instrument Soundtrack (1999) [FLAC] Dischord Records- DIS 120CD/06 Turkish Disco.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Fugazi - Instrument Soundtrack (1999) [FLAC] Dischord Records- DIS 120CD/Instrument Soundtrack.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Fugazi - Instrument Soundtrack (1999) [FLAC] Dischord Records- DIS 120CD/07 Me and Thumbelina.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Fugazi - Instrument Soundtrack (1999) [FLAC] Dischord Records- DIS 120CD/Instrument Soundtrack.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Fugazi - Instrument Soundtrack (1999) [FLAC] Dischord Records- DIS 120CD/08 Floating Boy (demo).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Fugazi - Instrument Soundtrack (1999) [FLAC] Dischord Records- DIS 120CD/Instrument Soundtrack.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Fugazi - Instrument Soundtrack (1999) [FLAC] Dischord Records- DIS 120CD/09 Link Track.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Fugazi - Instrument Soundtrack (1999) [FLAC] Dischord Records- DIS 120CD/Instrument Soundtrack.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Fugazi - Instrument Soundtrack (1999) [FLAC] Dischord Records- DIS 120CD/10 Little Debbie.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Fugazi - Instrument Soundtrack (1999) [FLAC] Dischord Records- DIS 120CD/Instrument Soundtrack.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Fugazi - Instrument Soundtrack (1999) [FLAC] Dischord Records- DIS 120CD/11 H.B..flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Fugazi - Instrument Soundtrack (1999) [FLAC] Dischord Records- DIS 120CD/Instrument Soundtrack.cue/12
 /mnt/synology/media/music/orpheus.network/flac/Fugazi - Instrument Soundtrack (1999) [FLAC] Dischord Records- DIS 120CD/12 I’m So Tired.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Fugazi - Instrument Soundtrack (1999) [FLAC] Dischord Records- DIS 120CD/Instrument Soundtrack.cue/13
 /mnt/synology/media/music/orpheus.network/flac/Fugazi - Instrument Soundtrack (1999) [FLAC] Dischord Records- DIS 120CD/13 Rend It (demo).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Fugazi - Instrument Soundtrack (1999) [FLAC] Dischord Records- DIS 120CD/Instrument Soundtrack.cue/14
 /mnt/synology/media/music/orpheus.network/flac/Fugazi - Instrument Soundtrack (1999) [FLAC] Dischord Records- DIS 120CD/14 Closed Captioned (demo).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Fugazi - Instrument Soundtrack (1999) [FLAC] Dischord Records- DIS 120CD/Instrument Soundtrack.cue/15
 /mnt/synology/media/music/orpheus.network/flac/Fugazi - Instrument Soundtrack (1999) [FLAC] Dischord Records- DIS 120CD/15 Guilford Fall (demo).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Fugazi - Instrument Soundtrack (1999) [FLAC] Dischord Records- DIS 120CD/Instrument Soundtrack.cue/16
 /mnt/synology/media/music/orpheus.network/flac/Fugazi - Instrument Soundtrack (1999) [FLAC] Dischord Records- DIS 120CD/16 Swingset.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Fugazi - Instrument Soundtrack (1999) [FLAC] Dischord Records- DIS 120CD/Instrument Soundtrack.cue/17
 /mnt/synology/media/music/orpheus.network/flac/Fugazi - Instrument Soundtrack (1999) [FLAC] Dischord Records- DIS 120CD/17 Shaken All Over.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Fugazi - Instrument Soundtrack (1999) [FLAC] Dischord Records- DIS 120CD/Instrument Soundtrack.cue/18
 /mnt/synology/media/music/orpheus.network/flac/Fugazi - Instrument Soundtrack (1999) [FLAC] Dischord Records- DIS 120CD/18 Slo Crostic.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Fugazi - Repeater + 3 Songs (2005) [FLAC]/Repeater + 3 Songs.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Fugazi - Repeater + 3 Songs (2005) [FLAC]/01 Turnover.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Fugazi - Repeater + 3 Songs (2005) [FLAC]/Repeater + 3 Songs.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Fugazi - Repeater + 3 Songs (2005) [FLAC]/02 Repeater.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Fugazi - Repeater + 3 Songs (2005) [FLAC]/Repeater + 3 Songs.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Fugazi - Repeater + 3 Songs (2005) [FLAC]/03 Brendan #1.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Fugazi - Repeater + 3 Songs (2005) [FLAC]/Repeater + 3 Songs.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Fugazi - Repeater + 3 Songs (2005) [FLAC]/04 Merchandise.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Fugazi - Repeater + 3 Songs (2005) [FLAC]/Repeater + 3 Songs.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Fugazi - Repeater + 3 Songs (2005) [FLAC]/05 Blueprint.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Fugazi - Repeater + 3 Songs (2005) [FLAC]/Repeater + 3 Songs.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Fugazi - Repeater + 3 Songs (2005) [FLAC]/06 Sieve-Fisted Find.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Fugazi - Repeater + 3 Songs (2005) [FLAC]/Repeater + 3 Songs.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Fugazi - Repeater + 3 Songs (2005) [FLAC]/07 Greed.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Fugazi - Repeater + 3 Songs (2005) [FLAC]/Repeater + 3 Songs.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Fugazi - Repeater + 3 Songs (2005) [FLAC]/08 Two Beats Off.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Fugazi - Repeater + 3 Songs (2005) [FLAC]/Repeater + 3 Songs.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Fugazi - Repeater + 3 Songs (2005) [FLAC]/09 Styrofoam.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Fugazi - Repeater + 3 Songs (2005) [FLAC]/Repeater + 3 Songs.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Fugazi - Repeater + 3 Songs (2005) [FLAC]/10 Reprovisional.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Fugazi - Repeater + 3 Songs (2005) [FLAC]/Repeater + 3 Songs.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Fugazi - Repeater + 3 Songs (2005) [FLAC]/11 Shut the Door.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Fugazi - Repeater + 3 Songs (2005) [FLAC]/Repeater + 3 Songs.cue/12
 /mnt/synology/media/music/orpheus.network/flac/Fugazi - Repeater + 3 Songs (2005) [FLAC]/12 Song #1.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Fugazi - Repeater + 3 Songs (2005) [FLAC]/Repeater + 3 Songs.cue/13
 /mnt/synology/media/music/orpheus.network/flac/Fugazi - Repeater + 3 Songs (2005) [FLAC]/13 Joe #1.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Fugazi - Repeater + 3 Songs (2005) [FLAC]/Repeater + 3 Songs.cue/14
 /mnt/synology/media/music/orpheus.network/flac/Fugazi - Repeater + 3 Songs (2005) [FLAC]/14 Break-In.flac
@@ -9871,19 +9327,12 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Fugazi - Repeater + 3 Songs
 /mnt/synology/media/music/orpheus.network/flac/Galaxie 500 - On Fire [1997 Rykodisc]/11 - Victory Garden [Bonus Track].flac
 /mnt/synology/media/music/orpheus.network/flac/Galaxie 500 - On Fire [1997 Rykodisc]/12 - Ceremony [Bonus Track].flac
 /mnt/synology/media/music/orpheus.network/flac/Galaxie 500 - On Fire [1997 Rykodisc]/13 - Cold Night [Bonus Track].flac
-cue:///mnt/synology/media/music/redacted.ch/flac/Gamma - Darts (1974) [FLAC] {PP 128}/GAMMA - 1974 - Darts [2017 Paisley Press reissue, PP 128].cue/1
 /mnt/synology/media/music/redacted.ch/flac/Gamma - Darts (1974) [FLAC] {PP 128}/01 Wishing Like Children (Part One).flac
-cue:///mnt/synology/media/music/redacted.ch/flac/Gamma - Darts (1974) [FLAC] {PP 128}/GAMMA - 1974 - Darts [2017 Paisley Press reissue, PP 128].cue/2
 /mnt/synology/media/music/redacted.ch/flac/Gamma - Darts (1974) [FLAC] {PP 128}/02 Wishing Like Children (Part Two).flac
-cue:///mnt/synology/media/music/redacted.ch/flac/Gamma - Darts (1974) [FLAC] {PP 128}/GAMMA - 1974 - Darts [2017 Paisley Press reissue, PP 128].cue/3
 /mnt/synology/media/music/redacted.ch/flac/Gamma - Darts (1974) [FLAC] {PP 128}/03 Exposal.flac
-cue:///mnt/synology/media/music/redacted.ch/flac/Gamma - Darts (1974) [FLAC] {PP 128}/GAMMA - 1974 - Darts [2017 Paisley Press reissue, PP 128].cue/4
 /mnt/synology/media/music/redacted.ch/flac/Gamma - Darts (1974) [FLAC] {PP 128}/04 Endless.flac
-cue:///mnt/synology/media/music/redacted.ch/flac/Gamma - Darts (1974) [FLAC] {PP 128}/GAMMA - 1974 - Darts [2017 Paisley Press reissue, PP 128].cue/5
 /mnt/synology/media/music/redacted.ch/flac/Gamma - Darts (1974) [FLAC] {PP 128}/05 Goodbye Holiday.flac
-cue:///mnt/synology/media/music/redacted.ch/flac/Gamma - Darts (1974) [FLAC] {PP 128}/GAMMA - 1974 - Darts [2017 Paisley Press reissue, PP 128].cue/6
 /mnt/synology/media/music/redacted.ch/flac/Gamma - Darts (1974) [FLAC] {PP 128}/06 Darts.flac
-cue:///mnt/synology/media/music/redacted.ch/flac/Gamma - Darts (1974) [FLAC] {PP 128}/GAMMA - 1974 - Darts [2017 Paisley Press reissue, PP 128].cue/7
 /mnt/synology/media/music/redacted.ch/flac/Gamma - Darts (1974) [FLAC] {PP 128}/07 Anna’s Mood.flac
 /mnt/synology/media/music/redacted.ch/flac/Gamma - Darts (1974) [FLAC] {PP 128}/08 Heart Rhythm.flac
 cue:///mnt/synology/media/music/redacted.ch/flac/Gamma - Darts (1974) [FLAC] {PP 128}/GAMMA - 1974 - Darts [2017 Paisley Press reissue, PP 128].cue/9
@@ -9937,36 +9386,7 @@ cue:///mnt/synology/media/music/redacted.ch/flac/Gamma - Darts (1974) [FLAC] {PP
 /mnt/synology/media/music/orpheus.network/flac/Gang Starr - Full Clip - A Decade Of Gang Starr (1999) [CD FLAC]/CD 2/15 Credit Is Due.flac
 /mnt/synology/media/music/orpheus.network/flac/Gang Starr - Full Clip - A Decade Of Gang Starr (1999) [CD FLAC]/CD 2/16 The Militia II (Remix).flac
 /mnt/synology/media/music/orpheus.network/flac/Gang Starr - Full Clip - A Decade Of Gang Starr (1999) [CD FLAC]/CD 2/17 You Know My Steez (Three Men And A Lady Remix).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Gang Starr - Full Clip - A Decade Of Gang Starr (1999) [CD FLAC]/CD 2/Full Clip： A Decade Of Gang Starr (Disc 2).cue/1
-cue:///mnt/synology/media/music/orpheus.network/flac/Gang Starr - Full Clip - A Decade Of Gang Starr (1999) [CD FLAC]/CD 2/Full Clip： A Decade Of Gang Starr (Disc 2).cue/2
-cue:///mnt/synology/media/music/orpheus.network/flac/Gang Starr - Full Clip - A Decade Of Gang Starr (1999) [CD FLAC]/CD 2/Full Clip： A Decade Of Gang Starr (Disc 2).cue/3
-cue:///mnt/synology/media/music/orpheus.network/flac/Gang Starr - Full Clip - A Decade Of Gang Starr (1999) [CD FLAC]/CD 2/Full Clip： A Decade Of Gang Starr (Disc 2).cue/4
-cue:///mnt/synology/media/music/orpheus.network/flac/Gang Starr - Full Clip - A Decade Of Gang Starr (1999) [CD FLAC]/CD 2/Full Clip： A Decade Of Gang Starr (Disc 2).cue/5
-cue:///mnt/synology/media/music/orpheus.network/flac/Gang Starr - Full Clip - A Decade Of Gang Starr (1999) [CD FLAC]/CD 2/Full Clip： A Decade Of Gang Starr (Disc 2).cue/6
-cue:///mnt/synology/media/music/orpheus.network/flac/Gang Starr - Full Clip - A Decade Of Gang Starr (1999) [CD FLAC]/CD 2/Full Clip： A Decade Of Gang Starr (Disc 2).cue/7
-cue:///mnt/synology/media/music/orpheus.network/flac/Gang Starr - Full Clip - A Decade Of Gang Starr (1999) [CD FLAC]/CD 2/Full Clip： A Decade Of Gang Starr (Disc 2).cue/8
-cue:///mnt/synology/media/music/orpheus.network/flac/Gang Starr - Full Clip - A Decade Of Gang Starr (1999) [CD FLAC]/CD 2/Full Clip： A Decade Of Gang Starr (Disc 2).cue/9
-cue:///mnt/synology/media/music/orpheus.network/flac/Gang Starr - Full Clip - A Decade Of Gang Starr (1999) [CD FLAC]/CD 2/Full Clip： A Decade Of Gang Starr (Disc 2).cue/11
-cue:///mnt/synology/media/music/orpheus.network/flac/Gang Starr - Full Clip - A Decade Of Gang Starr (1999) [CD FLAC]/CD 2/Full Clip： A Decade Of Gang Starr (Disc 2).cue/13
-cue:///mnt/synology/media/music/orpheus.network/flac/Gang Starr - Full Clip - A Decade Of Gang Starr (1999) [CD FLAC]/CD 2/Full Clip： A Decade Of Gang Starr (Disc 2).cue/14
-cue:///mnt/synology/media/music/orpheus.network/flac/Gang Starr - Full Clip - A Decade Of Gang Starr (1999) [CD FLAC]/CD 2/Full Clip： A Decade Of Gang Starr (Disc 2).cue/15
-cue:///mnt/synology/media/music/orpheus.network/flac/Gang Starr - Full Clip - A Decade Of Gang Starr (1999) [CD FLAC]/CD 2/Full Clip： A Decade Of Gang Starr (Disc 2).cue/16
 cue:///mnt/synology/media/music/orpheus.network/flac/Gang Starr - Full Clip - A Decade Of Gang Starr (1999) [CD FLAC]/CD 2/Full Clip： A Decade Of Gang Starr (Disc 2).cue/17
-cue:///mnt/synology/media/music/orpheus.network/flac/Gang Starr - Full Clip - A Decade Of Gang Starr (1999) [CD FLAC]/CD 1/Full Clip - A Decade of Gang Starr.cue/1
-cue:///mnt/synology/media/music/orpheus.network/flac/Gang Starr - Full Clip - A Decade Of Gang Starr (1999) [CD FLAC]/CD 1/Full Clip - A Decade of Gang Starr.cue/2
-cue:///mnt/synology/media/music/orpheus.network/flac/Gang Starr - Full Clip - A Decade Of Gang Starr (1999) [CD FLAC]/CD 1/Full Clip - A Decade of Gang Starr.cue/3
-cue:///mnt/synology/media/music/orpheus.network/flac/Gang Starr - Full Clip - A Decade Of Gang Starr (1999) [CD FLAC]/CD 1/Full Clip - A Decade of Gang Starr.cue/4
-cue:///mnt/synology/media/music/orpheus.network/flac/Gang Starr - Full Clip - A Decade Of Gang Starr (1999) [CD FLAC]/CD 1/Full Clip - A Decade of Gang Starr.cue/5
-cue:///mnt/synology/media/music/orpheus.network/flac/Gang Starr - Full Clip - A Decade Of Gang Starr (1999) [CD FLAC]/CD 1/Full Clip - A Decade of Gang Starr.cue/6
-cue:///mnt/synology/media/music/orpheus.network/flac/Gang Starr - Full Clip - A Decade Of Gang Starr (1999) [CD FLAC]/CD 1/Full Clip - A Decade of Gang Starr.cue/7
-cue:///mnt/synology/media/music/orpheus.network/flac/Gang Starr - Full Clip - A Decade Of Gang Starr (1999) [CD FLAC]/CD 1/Full Clip - A Decade of Gang Starr.cue/8
-cue:///mnt/synology/media/music/orpheus.network/flac/Gang Starr - Full Clip - A Decade Of Gang Starr (1999) [CD FLAC]/CD 1/Full Clip - A Decade of Gang Starr.cue/9
-cue:///mnt/synology/media/music/orpheus.network/flac/Gang Starr - Full Clip - A Decade Of Gang Starr (1999) [CD FLAC]/CD 1/Full Clip - A Decade of Gang Starr.cue/10
-cue:///mnt/synology/media/music/orpheus.network/flac/Gang Starr - Full Clip - A Decade Of Gang Starr (1999) [CD FLAC]/CD 1/Full Clip - A Decade of Gang Starr.cue/11
-cue:///mnt/synology/media/music/orpheus.network/flac/Gang Starr - Full Clip - A Decade Of Gang Starr (1999) [CD FLAC]/CD 1/Full Clip - A Decade of Gang Starr.cue/12
-cue:///mnt/synology/media/music/orpheus.network/flac/Gang Starr - Full Clip - A Decade Of Gang Starr (1999) [CD FLAC]/CD 1/Full Clip - A Decade of Gang Starr.cue/13
-cue:///mnt/synology/media/music/orpheus.network/flac/Gang Starr - Full Clip - A Decade Of Gang Starr (1999) [CD FLAC]/CD 1/Full Clip - A Decade of Gang Starr.cue/14
-cue:///mnt/synology/media/music/orpheus.network/flac/Gang Starr - Full Clip - A Decade Of Gang Starr (1999) [CD FLAC]/CD 1/Full Clip - A Decade of Gang Starr.cue/15
 cue:///mnt/synology/media/music/orpheus.network/flac/Gang Starr - Full Clip - A Decade Of Gang Starr (1999) [CD FLAC]/CD 1/Full Clip - A Decade of Gang Starr.cue/16
 /mnt/synology/media/music/orpheus.network/flac/Gang Starr - Full Clip - A Decade Of Gang Starr (1999) [CD FLAC]/CD 1/01 Intro.flac
 /mnt/synology/media/music/orpheus.network/flac/Gang Starr - Full Clip - A Decade Of Gang Starr (1999) [CD FLAC]/CD 1/02 Full Clip.flac
@@ -10047,19 +9467,12 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Gang Starr - Full Clip - A 
 /mnt/synology/media/music/orpheus.network/flac/Genesis - Foxtrot (1972) {1985 - Charisma CASCD 1058 CD}[FLAC]/04 - Can - Utility And The Coastliners.flac
 /mnt/synology/media/music/orpheus.network/flac/Genesis - Foxtrot (1972) {1985 - Charisma CASCD 1058 CD}[FLAC]/05 - Horizon's.flac
 /mnt/synology/media/music/orpheus.network/flac/Genesis - Foxtrot (1972) {1985 - Charisma CASCD 1058 CD}[FLAC]/06 - Supper's Ready.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Genesis - Selling England by the Pound (1985) {CASCD 1074} [FLAC]/Selling England by the Pound.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Genesis - Selling England by the Pound (1985) {CASCD 1074} [FLAC]/01 - Genesis - Dancing With the Moonlit Knight.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Genesis - Selling England by the Pound (1985) {CASCD 1074} [FLAC]/Selling England by the Pound.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Genesis - Selling England by the Pound (1985) {CASCD 1074} [FLAC]/02 - Genesis - I Know What I Like (In Your Wardrobe).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Genesis - Selling England by the Pound (1985) {CASCD 1074} [FLAC]/Selling England by the Pound.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Genesis - Selling England by the Pound (1985) {CASCD 1074} [FLAC]/03 - Genesis - Firth of Fifth.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Genesis - Selling England by the Pound (1985) {CASCD 1074} [FLAC]/Selling England by the Pound.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Genesis - Selling England by the Pound (1985) {CASCD 1074} [FLAC]/04 - Genesis - More Fool Me.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Genesis - Selling England by the Pound (1985) {CASCD 1074} [FLAC]/Selling England by the Pound.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Genesis - Selling England by the Pound (1985) {CASCD 1074} [FLAC]/05 - Genesis - The Battle of Epping Forest.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Genesis - Selling England by the Pound (1985) {CASCD 1074} [FLAC]/Selling England by the Pound.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Genesis - Selling England by the Pound (1985) {CASCD 1074} [FLAC]/06 - Genesis - After the Ordeal.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Genesis - Selling England by the Pound (1985) {CASCD 1074} [FLAC]/Selling England by the Pound.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Genesis - Selling England by the Pound (1985) {CASCD 1074} [FLAC]/07 - Genesis - The Cinema Show.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Genesis - Selling England by the Pound (1985) {CASCD 1074} [FLAC]/Selling England by the Pound.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Genesis - Selling England by the Pound (1985) {CASCD 1074} [FLAC]/08 - Genesis - Aisle of Plenty.flac
@@ -10095,21 +9508,13 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Genesis - Selling England b
 /mnt/synology/media/music/orpheus.network/flac/Gil Evans - Gil Evans & Ten (1989) [FLAC]/05 - Just One Of Those Things.flac
 /mnt/synology/media/music/orpheus.network/flac/Gil Evans - Gil Evans & Ten (1989) [FLAC]/06 - If You Could See Me Now.flac
 /mnt/synology/media/music/orpheus.network/flac/Gil Evans - Gil Evans & Ten (1989) [FLAC]/07 - Jambangle.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Girl Band - Holding Hands With Jamie (2015) [FLAC]/Holding Hands With Jamie.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Girl Band - Holding Hands With Jamie (2015) [FLAC]/01 Um Bongo.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Girl Band - Holding Hands With Jamie (2015) [FLAC]/Holding Hands With Jamie.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Girl Band - Holding Hands With Jamie (2015) [FLAC]/02 Pears For Lunch.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Girl Band - Holding Hands With Jamie (2015) [FLAC]/Holding Hands With Jamie.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Girl Band - Holding Hands With Jamie (2015) [FLAC]/03 Baloo.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Girl Band - Holding Hands With Jamie (2015) [FLAC]/Holding Hands With Jamie.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Girl Band - Holding Hands With Jamie (2015) [FLAC]/04 In Plastic.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Girl Band - Holding Hands With Jamie (2015) [FLAC]/Holding Hands With Jamie.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Girl Band - Holding Hands With Jamie (2015) [FLAC]/05 Paul.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Girl Band - Holding Hands With Jamie (2015) [FLAC]/Holding Hands With Jamie.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Girl Band - Holding Hands With Jamie (2015) [FLAC]/06 The Last Riddler.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Girl Band - Holding Hands With Jamie (2015) [FLAC]/Holding Hands With Jamie.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Girl Band - Holding Hands With Jamie (2015) [FLAC]/07 Texting an Alien.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Girl Band - Holding Hands With Jamie (2015) [FLAC]/Holding Hands With Jamie.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Girl Band - Holding Hands With Jamie (2015) [FLAC]/08 Fucking Butter.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Girl Band - Holding Hands With Jamie (2015) [FLAC]/Holding Hands With Jamie.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Girl Band - Holding Hands With Jamie (2015) [FLAC]/09 Witchdoctor.flac
@@ -10518,33 +9923,19 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Girl Band - Holding Hands W
 /mnt/synology/media/music/orpheus.network/flac/Green Day - 2009 - 21st Century Breakdown [517153-2] [FLAC]/16 - 21 Guns.flac
 /mnt/synology/media/music/orpheus.network/flac/Green Day - 2009 - 21st Century Breakdown [517153-2] [FLAC]/17 - American Eulogy - Mass Hysteria; Modern World.flac
 /mnt/synology/media/music/orpheus.network/flac/Green Day - 2009 - 21st Century Breakdown [517153-2] [FLAC]/18 - See the Light.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Green Day - Saviors (2024) [FLAC CD]/Saviors.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Green Day - Saviors (2024) [FLAC CD]/01 The American Dream Is Killing Me.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Green Day - Saviors (2024) [FLAC CD]/Saviors.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Green Day - Saviors (2024) [FLAC CD]/02 Look Ma, No Brains!.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Green Day - Saviors (2024) [FLAC CD]/Saviors.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Green Day - Saviors (2024) [FLAC CD]/03 Bobby Sox.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Green Day - Saviors (2024) [FLAC CD]/Saviors.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Green Day - Saviors (2024) [FLAC CD]/04 One Eyed Bastard.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Green Day - Saviors (2024) [FLAC CD]/Saviors.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Green Day - Saviors (2024) [FLAC CD]/05 Dilemma.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Green Day - Saviors (2024) [FLAC CD]/Saviors.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Green Day - Saviors (2024) [FLAC CD]/06 1981.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Green Day - Saviors (2024) [FLAC CD]/Saviors.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Green Day - Saviors (2024) [FLAC CD]/07 Goodnight Adeline.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Green Day - Saviors (2024) [FLAC CD]/Saviors.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Green Day - Saviors (2024) [FLAC CD]/08 Coma City.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Green Day - Saviors (2024) [FLAC CD]/Saviors.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Green Day - Saviors (2024) [FLAC CD]/09 Corvette Summer.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Green Day - Saviors (2024) [FLAC CD]/Saviors.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Green Day - Saviors (2024) [FLAC CD]/10 Suzie Chapstick.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Green Day - Saviors (2024) [FLAC CD]/Saviors.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Green Day - Saviors (2024) [FLAC CD]/11 Strange Days Are Here to Stay.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Green Day - Saviors (2024) [FLAC CD]/Saviors.cue/12
 /mnt/synology/media/music/orpheus.network/flac/Green Day - Saviors (2024) [FLAC CD]/12 Living in the '20s.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Green Day - Saviors (2024) [FLAC CD]/Saviors.cue/13
 /mnt/synology/media/music/orpheus.network/flac/Green Day - Saviors (2024) [FLAC CD]/13 Father to a Son.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Green Day - Saviors (2024) [FLAC CD]/Saviors.cue/14
 /mnt/synology/media/music/orpheus.network/flac/Green Day - Saviors (2024) [FLAC CD]/14 Saviors.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Green Day - Saviors (2024) [FLAC CD]/Saviors.cue/15
 /mnt/synology/media/music/orpheus.network/flac/Green Day - Saviors (2024) [FLAC CD]/15 Fancy Sauce.flac
@@ -10772,13 +10163,9 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Green Day - Saviors (2024) 
 /mnt/synology/media/music/orpheus.network/flac/Guitar Fight from Fooly Cooly - Soak/Guitar Fight from Fooly Cooly - Soak - 09 stay hydrated, fuck em.flac
 /mnt/synology/media/music/orpheus.network/flac/Guitar Fight from Fooly Cooly - Soak/Guitar Fight from Fooly Cooly - Soak - 10 lad buck called. said he's got some bad news.flac
 /mnt/synology/media/music/orpheus.network/flac/Guitar Fight from Fooly Cooly - Soak/Guitar Fight from Fooly Cooly - Soak - 11 tea and crumpets.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Guru Guru - UFO (1970) [FLAC] (1993 Ohr CD 556005-2)/UFO.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Guru Guru - UFO (1970) [FLAC] (1993 Ohr CD 556005-2)/01 - Stone In.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Guru Guru - UFO (1970) [FLAC] (1993 Ohr CD 556005-2)/UFO.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Guru Guru - UFO (1970) [FLAC] (1993 Ohr CD 556005-2)/02 - Girl Call.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Guru Guru - UFO (1970) [FLAC] (1993 Ohr CD 556005-2)/UFO.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Guru Guru - UFO (1970) [FLAC] (1993 Ohr CD 556005-2)/03 - Next Time See You at the Dalai Lhama.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Guru Guru - UFO (1970) [FLAC] (1993 Ohr CD 556005-2)/UFO.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Guru Guru - UFO (1970) [FLAC] (1993 Ohr CD 556005-2)/04 - UFO.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Guru Guru - UFO (1970) [FLAC] (1993 Ohr CD 556005-2)/UFO.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Guru Guru - UFO (1970) [FLAC] (1993 Ohr CD 556005-2)/05 - Der LSD-Marsch.flac
@@ -10798,27 +10185,16 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Guru Guru - UFO (1970) [FLA
 /mnt/synology/media/music/orpheus.network/flac/GZA - 1995 - Liquid Swords/11 - Swordsman.flac
 /mnt/synology/media/music/orpheus.network/flac/GZA - 1995 - Liquid Swords/12 - I Gotcha Back.flac
 /mnt/synology/media/music/orpheus.network/flac/GZA - 1995 - Liquid Swords/13 - Basic Instructions Before Leaving Earth.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Hail The Sun - Wake (2014) [FLAC]/Wake.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Hail The Sun - Wake (2014) [FLAC]/01 Rolling Out The Red Carpet.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Hail The Sun - Wake (2014) [FLAC]/Wake.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Hail The Sun - Wake (2014) [FLAC]/02 Human Target Practice.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Hail The Sun - Wake (2014) [FLAC]/Wake.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Hail The Sun - Wake (2014) [FLAC]/03 Black Serotonin.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Hail The Sun - Wake (2014) [FLAC]/Wake.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Hail The Sun - Wake (2014) [FLAC]/04 Mourning Sickness.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Hail The Sun - Wake (2014) [FLAC]/Wake.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Hail The Sun - Wake (2014) [FLAC]/05 Falling On Deaf Ears.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Hail The Sun - Wake (2014) [FLAC]/Wake.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Hail The Sun - Wake (2014) [FLAC]/06 Cosmic Narcissism.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Hail The Sun - Wake (2014) [FLAC]/Wake.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Hail The Sun - Wake (2014) [FLAC]/07 Relax ／ Divide.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Hail The Sun - Wake (2014) [FLAC]/Wake.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Hail The Sun - Wake (2014) [FLAC]/08 Disappearing Syndrome.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Hail The Sun - Wake (2014) [FLAC]/Wake.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Hail The Sun - Wake (2014) [FLAC]/09 Missed Injections.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Hail The Sun - Wake (2014) [FLAC]/Wake.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Hail The Sun - Wake (2014) [FLAC]/10 Hanging Revelation.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Hail The Sun - Wake (2014) [FLAC]/Wake.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Hail The Sun - Wake (2014) [FLAC]/11 Jane Doe.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Hail The Sun - Wake (2014) [FLAC]/Wake.cue/12
 /mnt/synology/media/music/orpheus.network/flac/Hail The Sun - Wake (2014) [FLAC]/12 Anti-Eulogy (I Hope You Stay Dead).flac
@@ -10948,19 +10324,12 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Hail The Sun - Wake (2014) 
 /mnt/synology/media/music/orpheus.network/flac/Have a Nice Life - Deathconsciousness (2008) [FLAC]/CD 2/04 - Deep, Deep.flac
 /mnt/synology/media/music/orpheus.network/flac/Have a Nice Life - Deathconsciousness (2008) [FLAC]/CD 2/05 - I Don't Love.flac
 /mnt/synology/media/music/orpheus.network/flac/Have a Nice Life - Deathconsciousness (2008) [FLAC]/CD 2/06 - Earthmover.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Have A Nice Life - The Unnatural World (2014) [FLAC]/The Unnatural World.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Have A Nice Life - The Unnatural World (2014) [FLAC]/01 Guggenheim Wax Museum.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Have A Nice Life - The Unnatural World (2014) [FLAC]/The Unnatural World.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Have A Nice Life - The Unnatural World (2014) [FLAC]/02 Defenstration Song.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Have A Nice Life - The Unnatural World (2014) [FLAC]/The Unnatural World.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Have A Nice Life - The Unnatural World (2014) [FLAC]/03 Burial Society.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Have A Nice Life - The Unnatural World (2014) [FLAC]/The Unnatural World.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Have A Nice Life - The Unnatural World (2014) [FLAC]/04 Music Will Unntune The Sky.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Have A Nice Life - The Unnatural World (2014) [FLAC]/The Unnatural World.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Have A Nice Life - The Unnatural World (2014) [FLAC]/05 Cropsey.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Have A Nice Life - The Unnatural World (2014) [FLAC]/The Unnatural World.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Have A Nice Life - The Unnatural World (2014) [FLAC]/06 Unholy Life.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Have A Nice Life - The Unnatural World (2014) [FLAC]/The Unnatural World.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Have A Nice Life - The Unnatural World (2014) [FLAC]/07 Dan And Tim, Reunited By Fate.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Have A Nice Life - The Unnatural World (2014) [FLAC]/The Unnatural World.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Have A Nice Life - The Unnatural World (2014) [FLAC]/08 Emptiness Will Eat The Witch.flac
@@ -11141,21 +10510,13 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Have A Nice Life - The Unna
 /mnt/synology/media/music/orpheus.network/flac/Here - Swirl (1993) [FLAC]/07 - Take My Hands.flac
 /mnt/synology/media/music/orpheus.network/flac/Here - Swirl (1993) [FLAC]/08 - Somewhere.flac
 /mnt/synology/media/music/orpheus.network/flac/Here - Swirl (1993) [FLAC]/09 - Now.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Here and Now - Give and Take (2010 Remaster)/Give and Take (2010 Remaster).cue/1
 /mnt/synology/media/music/orpheus.network/flac/Here and Now - Give and Take (2010 Remaster)/01 Here and Now - What You See Is What You Are.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Here and Now - Give and Take (2010 Remaster)/Give and Take (2010 Remaster).cue/2
 /mnt/synology/media/music/orpheus.network/flac/Here and Now - Give and Take (2010 Remaster)/02 Here and Now - Nearer Now.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Here and Now - Give and Take (2010 Remaster)/Give and Take (2010 Remaster).cue/3
 /mnt/synology/media/music/orpheus.network/flac/Here and Now - Give and Take (2010 Remaster)/03 Here and Now - Grate Fire of London.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Here and Now - Give and Take (2010 Remaster)/Give and Take (2010 Remaster).cue/4
 /mnt/synology/media/music/orpheus.network/flac/Here and Now - Give and Take (2010 Remaster)/04 Here and Now - This Time.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Here and Now - Give and Take (2010 Remaster)/Give and Take (2010 Remaster).cue/5
 /mnt/synology/media/music/orpheus.network/flac/Here and Now - Give and Take (2010 Remaster)/05 Here and Now - 70s Youth.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Here and Now - Give and Take (2010 Remaster)/Give and Take (2010 Remaster).cue/6
 /mnt/synology/media/music/orpheus.network/flac/Here and Now - Give and Take (2010 Remaster)/06 Here and Now - Improvisation.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Here and Now - Give and Take (2010 Remaster)/Give and Take (2010 Remaster).cue/7
 /mnt/synology/media/music/orpheus.network/flac/Here and Now - Give and Take (2010 Remaster)/07 Here and Now - Dog In Hell (Bonus Track).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Here and Now - Give and Take (2010 Remaster)/Give and Take (2010 Remaster).cue/8
 /mnt/synology/media/music/orpheus.network/flac/Here and Now - Give and Take (2010 Remaster)/08 Here and Now - Floating Anarchy Radio (Bonus Track).flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Here and Now - Give and Take (2010 Remaster)/Give and Take (2010 Remaster).cue/9
 /mnt/synology/media/music/orpheus.network/flac/Here and Now - Give and Take (2010 Remaster)/09 Here and Now - Addicted (Bonus Track).flac
@@ -11260,49 +10621,28 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Here and Now - Give and Tak
 /mnt/synology/media/music/orpheus.network/flac/Hoobastank - Hoobastank (2001) [FLAC]/10 Hello Again.flac
 /mnt/synology/media/music/orpheus.network/flac/Hoobastank - Hoobastank (2001) [FLAC]/11 To Be With You.flac
 /mnt/synology/media/music/orpheus.network/flac/Hoobastank - Hoobastank (2001) [FLAC]/12 Give It Back.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Hoover - The Lurid Traversal Of Route 7 (1994)/The Lurid Traversal Of Route 7.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Hoover - The Lurid Traversal Of Route 7 (1994)/01 Distant.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Hoover - The Lurid Traversal Of Route 7 (1994)/The Lurid Traversal Of Route 7.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Hoover - The Lurid Traversal Of Route 7 (1994)/02 Pretender.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Hoover - The Lurid Traversal Of Route 7 (1994)/The Lurid Traversal Of Route 7.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Hoover - The Lurid Traversal Of Route 7 (1994)/03 Electrolux.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Hoover - The Lurid Traversal Of Route 7 (1994)/The Lurid Traversal Of Route 7.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Hoover - The Lurid Traversal Of Route 7 (1994)/04 Shut.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Hoover - The Lurid Traversal Of Route 7 (1994)/The Lurid Traversal Of Route 7.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Hoover - The Lurid Traversal Of Route 7 (1994)/05 Route 7.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Hoover - The Lurid Traversal Of Route 7 (1994)/The Lurid Traversal Of Route 7.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Hoover - The Lurid Traversal Of Route 7 (1994)/06 Regulator Watts.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Hoover - The Lurid Traversal Of Route 7 (1994)/The Lurid Traversal Of Route 7.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Hoover - The Lurid Traversal Of Route 7 (1994)/07 Father.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Hoover - The Lurid Traversal Of Route 7 (1994)/The Lurid Traversal Of Route 7.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Hoover - The Lurid Traversal Of Route 7 (1994)/08 Cable.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Hoover - The Lurid Traversal Of Route 7 (1994)/The Lurid Traversal Of Route 7.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Hoover - The Lurid Traversal Of Route 7 (1994)/09 Letter.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Hoover - The Lurid Traversal Of Route 7 (1994)/The Lurid Traversal Of Route 7.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Hoover - The Lurid Traversal Of Route 7 (1994)/10 Cuts Like Drugs.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Hoover - The Lurid Traversal Of Route 7 (1994)/The Lurid Traversal Of Route 7.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Hoover - The Lurid Traversal Of Route 7 (1994)/11 Return.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Hoover - The Lurid Traversal Of Route 7 (1994)/The Lurid Traversal Of Route 7.cue/12
 /mnt/synology/media/music/orpheus.network/flac/Hoover - The Lurid Traversal Of Route 7 (1994)/12 Private.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Hoover - The Lurid Traversal Of Route 7 (1994)/The Lurid Traversal Of Route 7.cue/13
 /mnt/synology/media/music/orpheus.network/flac/Hoover - The Lurid Traversal Of Route 7 (1994)/13 Dries.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Hop Along - Painted Shut (2015) [FLAC] {LBJ-218-2}/Painted Shut.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Hop Along - Painted Shut (2015) [FLAC] {LBJ-218-2}/01 The Knock.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Hop Along - Painted Shut (2015) [FLAC] {LBJ-218-2}/Painted Shut.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Hop Along - Painted Shut (2015) [FLAC] {LBJ-218-2}/02 Buddy in the Parade.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Hop Along - Painted Shut (2015) [FLAC] {LBJ-218-2}/Painted Shut.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Hop Along - Painted Shut (2015) [FLAC] {LBJ-218-2}/03 Horseshoe Crabs.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Hop Along - Painted Shut (2015) [FLAC] {LBJ-218-2}/Painted Shut.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Hop Along - Painted Shut (2015) [FLAC] {LBJ-218-2}/04 Waitress.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Hop Along - Painted Shut (2015) [FLAC] {LBJ-218-2}/Painted Shut.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Hop Along - Painted Shut (2015) [FLAC] {LBJ-218-2}/05 Happy to See Me.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Hop Along - Painted Shut (2015) [FLAC] {LBJ-218-2}/Painted Shut.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Hop Along - Painted Shut (2015) [FLAC] {LBJ-218-2}/06 Texas Funeral.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Hop Along - Painted Shut (2015) [FLAC] {LBJ-218-2}/Painted Shut.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Hop Along - Painted Shut (2015) [FLAC] {LBJ-218-2}/07 Powerful Man.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Hop Along - Painted Shut (2015) [FLAC] {LBJ-218-2}/Painted Shut.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Hop Along - Painted Shut (2015) [FLAC] {LBJ-218-2}/08 I Saw My Twin.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Hop Along - Painted Shut (2015) [FLAC] {LBJ-218-2}/Painted Shut.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Hop Along - Painted Shut (2015) [FLAC] {LBJ-218-2}/09 Well-dressed.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Hop Along - Painted Shut (2015) [FLAC] {LBJ-218-2}/Painted Shut.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Hop Along - Painted Shut (2015) [FLAC] {LBJ-218-2}/10 Sister Cities.flac
@@ -11721,25 +11061,16 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Compilations - Fame- Jon Sa
 /mnt/synology/media/music/orpheus.network/flac/Iron Maiden - 2000 - Brave New World [FLAC]/08. The Nomad.flac
 /mnt/synology/media/music/orpheus.network/flac/Iron Maiden - 2000 - Brave New World [FLAC]/09. Out of the Silent Planet.flac
 /mnt/synology/media/music/orpheus.network/flac/Iron Maiden - 2000 - Brave New World [FLAC]/10. The Thin Line Between Love and Hate.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Iron Maiden - The Book of Souls (2015) - CD FLAC/Disc 1/The Book of Souls.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Iron Maiden - The Book of Souls (2015) - CD FLAC/Disc 1/01 If Eternity Should Fail.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Iron Maiden - The Book of Souls (2015) - CD FLAC/Disc 1/The Book of Souls.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Iron Maiden - The Book of Souls (2015) - CD FLAC/Disc 1/02 Speed of Light.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Iron Maiden - The Book of Souls (2015) - CD FLAC/Disc 1/The Book of Souls.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Iron Maiden - The Book of Souls (2015) - CD FLAC/Disc 1/03 The Great Unknown.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Iron Maiden - The Book of Souls (2015) - CD FLAC/Disc 1/The Book of Souls.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Iron Maiden - The Book of Souls (2015) - CD FLAC/Disc 1/04 The Red and the Black.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Iron Maiden - The Book of Souls (2015) - CD FLAC/Disc 1/The Book of Souls.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Iron Maiden - The Book of Souls (2015) - CD FLAC/Disc 1/05 When the River Runs Deep.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Iron Maiden - The Book of Souls (2015) - CD FLAC/Disc 1/The Book of Souls.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Iron Maiden - The Book of Souls (2015) - CD FLAC/Disc 1/06 The Book of Souls.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Iron Maiden - The Book of Souls (2015) - CD FLAC/Disc 2/The Book of Souls.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Iron Maiden - The Book of Souls (2015) - CD FLAC/Disc 2/01 Death or Glory.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Iron Maiden - The Book of Souls (2015) - CD FLAC/Disc 2/The Book of Souls.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Iron Maiden - The Book of Souls (2015) - CD FLAC/Disc 2/02 Shadows of the Valley.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Iron Maiden - The Book of Souls (2015) - CD FLAC/Disc 2/The Book of Souls.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Iron Maiden - The Book of Souls (2015) - CD FLAC/Disc 2/03 Tears of a Clown.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Iron Maiden - The Book of Souls (2015) - CD FLAC/Disc 2/The Book of Souls.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Iron Maiden - The Book of Souls (2015) - CD FLAC/Disc 2/04 The Man of Sorrows.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Iron Maiden - The Book of Souls (2015) - CD FLAC/Disc 2/The Book of Souls.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Iron Maiden - The Book of Souls (2015) - CD FLAC/Disc 2/05 Empire of the Clouds.flac
@@ -11784,17 +11115,11 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Iron Maiden - The Book of S
 /mnt/synology/media/music/orpheus.network/flac/Isis - Oceanic (2002) [IPC-032] {CD - FLAC}/07 - Weight.flac
 /mnt/synology/media/music/orpheus.network/flac/Isis - Oceanic (2002) [IPC-032] {CD - FLAC}/08 - From Sinking.flac
 /mnt/synology/media/music/orpheus.network/flac/Isis - Oceanic (2002) [IPC-032] {CD - FLAC}/09 - Hym.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Isis - Panopticon (2014 Remastered) (2004) [FLAC]/Panopticon (Remastered).cue/1
 /mnt/synology/media/music/orpheus.network/flac/Isis - Panopticon (2014 Remastered) (2004) [FLAC]/01 So Did We.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Isis - Panopticon (2014 Remastered) (2004) [FLAC]/Panopticon (Remastered).cue/2
 /mnt/synology/media/music/orpheus.network/flac/Isis - Panopticon (2014 Remastered) (2004) [FLAC]/02 Backlit.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Isis - Panopticon (2014 Remastered) (2004) [FLAC]/Panopticon (Remastered).cue/3
 /mnt/synology/media/music/orpheus.network/flac/Isis - Panopticon (2014 Remastered) (2004) [FLAC]/03 In Fiction.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Isis - Panopticon (2014 Remastered) (2004) [FLAC]/Panopticon (Remastered).cue/4
 /mnt/synology/media/music/orpheus.network/flac/Isis - Panopticon (2014 Remastered) (2004) [FLAC]/04 Wills Dissolve.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Isis - Panopticon (2014 Remastered) (2004) [FLAC]/Panopticon (Remastered).cue/5
 /mnt/synology/media/music/orpheus.network/flac/Isis - Panopticon (2014 Remastered) (2004) [FLAC]/05 Syndic Calls.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Isis - Panopticon (2014 Remastered) (2004) [FLAC]/Panopticon (Remastered).cue/6
 /mnt/synology/media/music/orpheus.network/flac/Isis - Panopticon (2014 Remastered) (2004) [FLAC]/06 Altered Course.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Isis - Panopticon (2014 Remastered) (2004) [FLAC]/Panopticon (Remastered).cue/7
 /mnt/synology/media/music/orpheus.network/flac/Isis - Panopticon (2014 Remastered) (2004) [FLAC]/07 Grinning Mouths.flac
@@ -11872,27 +11197,16 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Isis - Panopticon (2014 Rem
 /mnt/synology/media/music/orpheus.network/flac/James Biglan - Pumpkin/07 - Lost It.flac
 /mnt/synology/media/music/orpheus.network/flac/James Biglan - Pumpkin/08 - Jett.flac
 /mnt/synology/media/music/orpheus.network/flac/James Biglan - Pumpkin/09 - Need 2.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/James Chance & The Contortions - Buy (1979) {1994 Infinite Zero 9 14503-2} [FLAC]/Buy.cue/1
 /mnt/synology/media/music/orpheus.network/flac/James Chance & The Contortions - Buy (1979) {1994 Infinite Zero 9 14503-2} [FLAC]/01 - Design to Kill.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/James Chance & The Contortions - Buy (1979) {1994 Infinite Zero 9 14503-2} [FLAC]/Buy.cue/2
 /mnt/synology/media/music/orpheus.network/flac/James Chance & The Contortions - Buy (1979) {1994 Infinite Zero 9 14503-2} [FLAC]/02 - My Infatuation.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/James Chance & The Contortions - Buy (1979) {1994 Infinite Zero 9 14503-2} [FLAC]/Buy.cue/3
 /mnt/synology/media/music/orpheus.network/flac/James Chance & The Contortions - Buy (1979) {1994 Infinite Zero 9 14503-2} [FLAC]/03 - I Don't Want to Be Happy.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/James Chance & The Contortions - Buy (1979) {1994 Infinite Zero 9 14503-2} [FLAC]/Buy.cue/4
 /mnt/synology/media/music/orpheus.network/flac/James Chance & The Contortions - Buy (1979) {1994 Infinite Zero 9 14503-2} [FLAC]/04 - Anesthetic.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/James Chance & The Contortions - Buy (1979) {1994 Infinite Zero 9 14503-2} [FLAC]/Buy.cue/5
 /mnt/synology/media/music/orpheus.network/flac/James Chance & The Contortions - Buy (1979) {1994 Infinite Zero 9 14503-2} [FLAC]/05 - Contort Yourself.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/James Chance & The Contortions - Buy (1979) {1994 Infinite Zero 9 14503-2} [FLAC]/Buy.cue/6
 /mnt/synology/media/music/orpheus.network/flac/James Chance & The Contortions - Buy (1979) {1994 Infinite Zero 9 14503-2} [FLAC]/06 - Throw Me Away.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/James Chance & The Contortions - Buy (1979) {1994 Infinite Zero 9 14503-2} [FLAC]/Buy.cue/7
 /mnt/synology/media/music/orpheus.network/flac/James Chance & The Contortions - Buy (1979) {1994 Infinite Zero 9 14503-2} [FLAC]/07 - Roving Eye.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/James Chance & The Contortions - Buy (1979) {1994 Infinite Zero 9 14503-2} [FLAC]/Buy.cue/8
 /mnt/synology/media/music/orpheus.network/flac/James Chance & The Contortions - Buy (1979) {1994 Infinite Zero 9 14503-2} [FLAC]/08 - Twice Removed.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/James Chance & The Contortions - Buy (1979) {1994 Infinite Zero 9 14503-2} [FLAC]/Buy.cue/9
 /mnt/synology/media/music/orpheus.network/flac/James Chance & The Contortions - Buy (1979) {1994 Infinite Zero 9 14503-2} [FLAC]/09 - Bedroom Athlete.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/James Chance & The Contortions - Buy (1979) {1994 Infinite Zero 9 14503-2} [FLAC]/Buy.cue/10
 /mnt/synology/media/music/orpheus.network/flac/James Chance & The Contortions - Buy (1979) {1994 Infinite Zero 9 14503-2} [FLAC]/10 - Throw Me Away (live).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/James Chance & The Contortions - Buy (1979) {1994 Infinite Zero 9 14503-2} [FLAC]/Buy.cue/11
 /mnt/synology/media/music/orpheus.network/flac/James Chance & The Contortions - Buy (1979) {1994 Infinite Zero 9 14503-2} [FLAC]/11 - Twice Removed (live).flac
 cue:///mnt/synology/media/music/orpheus.network/flac/James Chance & The Contortions - Buy (1979) {1994 Infinite Zero 9 14503-2} [FLAC]/Buy.cue/12
 /mnt/synology/media/music/orpheus.network/flac/James Chance & The Contortions - Buy (1979) {1994 Infinite Zero 9 14503-2} [FLAC]/12 - Jailhouse Rock (live).flac
@@ -11930,23 +11244,14 @@ cue:///mnt/synology/media/music/orpheus.network/flac/James Chance & The Contorti
 /mnt/synology/media/music/orpheus.network/flac/Jan Steele and John Cage 1976 Voices and Instruments [16-44 Vinyl FLAC]/B3 - John Cage - The Wonderful Widow of Eighteen Springs.flac
 /mnt/synology/media/music/orpheus.network/flac/Jan Steele and John Cage 1976 Voices and Instruments [16-44 Vinyl FLAC]/B4 - John Cage - Forever and Sunsmell.flac
 /mnt/synology/media/music/orpheus.network/flac/Jan Steele and John Cage 1976 Voices and Instruments [16-44 Vinyl FLAC]/B5 - John Cage - In a Landscape.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Jasmine Star - 2006 - Jasmine Star (CD FLAC)/Jasmine Star.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Jasmine Star - 2006 - Jasmine Star (CD FLAC)/01 Jasmine Star - Guide Us.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Jasmine Star - 2006 - Jasmine Star (CD FLAC)/Jasmine Star.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Jasmine Star - 2006 - Jasmine Star (CD FLAC)/02 Jasmine Star - Sky Decides.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Jasmine Star - 2006 - Jasmine Star (CD FLAC)/Jasmine Star.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Jasmine Star - 2006 - Jasmine Star (CD FLAC)/03 Jasmine Star - My Friend.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Jasmine Star - 2006 - Jasmine Star (CD FLAC)/Jasmine Star.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Jasmine Star - 2006 - Jasmine Star (CD FLAC)/04 Jasmine Star - Radio On.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Jasmine Star - 2006 - Jasmine Star (CD FLAC)/Jasmine Star.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Jasmine Star - 2006 - Jasmine Star (CD FLAC)/05 Jasmine Star - Her Mind.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Jasmine Star - 2006 - Jasmine Star (CD FLAC)/Jasmine Star.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Jasmine Star - 2006 - Jasmine Star (CD FLAC)/06 Jasmine Star - The Message.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Jasmine Star - 2006 - Jasmine Star (CD FLAC)/Jasmine Star.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Jasmine Star - 2006 - Jasmine Star (CD FLAC)/07 Jasmine Star - I Will.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Jasmine Star - 2006 - Jasmine Star (CD FLAC)/Jasmine Star.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Jasmine Star - 2006 - Jasmine Star (CD FLAC)/08 Jasmine Star - The Hour.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Jasmine Star - 2006 - Jasmine Star (CD FLAC)/Jasmine Star.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Jasmine Star - 2006 - Jasmine Star (CD FLAC)/09 Jasmine Star - Falling Down.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Jasmine Star - 2006 - Jasmine Star (CD FLAC)/Jasmine Star.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Jasmine Star - 2006 - Jasmine Star (CD FLAC)/10 Jasmine Star - The Hour (Reprise).flac
@@ -12312,27 +11617,7 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Jasmine Star - 2006 - Jasmi
 /mnt/synology/media/music/orpheus.network/flac/Jimi Hendrix Experience - Axis Bold as Love (Non RE-1 First Edition) (1968) [FLAC]/11 The Jimi Hendrix Experience - One Rainy Wish.flac
 /mnt/synology/media/music/orpheus.network/flac/Jimi Hendrix Experience - Axis Bold as Love (Non RE-1 First Edition) (1968) [FLAC]/12 The Jimi Hendrix Experience - Little Miss Lover.flac
 /mnt/synology/media/music/orpheus.network/flac/Jimi Hendrix Experience - Axis Bold as Love (Non RE-1 First Edition) (1968) [FLAC]/13 The Jimi Hendrix Experience - Bold As Love.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Jimi Hendrix Experience - Axis Bold as Love (Non RE-1 First Edition) (1968) [FLAC]/Axis- Bold as Love (Reprise 6281-2 first edition DADC without Noise Reduction).cue/1
-cue:///mnt/synology/media/music/orpheus.network/flac/Jimi Hendrix Experience - Axis Bold as Love (Non RE-1 First Edition) (1968) [FLAC]/Axis- Bold as Love (Reprise 6281-2 first edition DADC without Noise Reduction).cue/2
-cue:///mnt/synology/media/music/orpheus.network/flac/Jimi Hendrix Experience - Axis Bold as Love (Non RE-1 First Edition) (1968) [FLAC]/Axis- Bold as Love (Reprise 6281-2 first edition DADC without Noise Reduction).cue/3
-cue:///mnt/synology/media/music/orpheus.network/flac/Jimi Hendrix Experience - Axis Bold as Love (Non RE-1 First Edition) (1968) [FLAC]/Axis- Bold as Love (Reprise 6281-2 first edition DADC without Noise Reduction).cue/4
-cue:///mnt/synology/media/music/orpheus.network/flac/Jimi Hendrix Experience - Axis Bold as Love (Non RE-1 First Edition) (1968) [FLAC]/Axis- Bold as Love (Reprise 6281-2 first edition DADC without Noise Reduction).cue/5
-cue:///mnt/synology/media/music/orpheus.network/flac/Jimi Hendrix Experience - Axis Bold as Love (Non RE-1 First Edition) (1968) [FLAC]/Axis- Bold as Love (Reprise 6281-2 first edition DADC without Noise Reduction).cue/6
-cue:///mnt/synology/media/music/orpheus.network/flac/Jimi Hendrix Experience - Axis Bold as Love (Non RE-1 First Edition) (1968) [FLAC]/Axis- Bold as Love (Reprise 6281-2 first edition DADC without Noise Reduction).cue/7
-cue:///mnt/synology/media/music/orpheus.network/flac/Jimi Hendrix Experience - Axis Bold as Love (Non RE-1 First Edition) (1968) [FLAC]/Axis- Bold as Love (Reprise 6281-2 first edition DADC without Noise Reduction).cue/8
-cue:///mnt/synology/media/music/orpheus.network/flac/Jimi Hendrix Experience - Axis Bold as Love (Non RE-1 First Edition) (1968) [FLAC]/Axis- Bold as Love (Reprise 6281-2 first edition DADC without Noise Reduction).cue/9
-cue:///mnt/synology/media/music/orpheus.network/flac/Jimi Hendrix Experience - Axis Bold as Love (Non RE-1 First Edition) (1968) [FLAC]/Axis- Bold as Love (Reprise 6281-2 first edition DADC without Noise Reduction).cue/10
-cue:///mnt/synology/media/music/orpheus.network/flac/Jimi Hendrix Experience - Axis Bold as Love (Non RE-1 First Edition) (1968) [FLAC]/Axis- Bold as Love (Reprise 6281-2 first edition DADC without Noise Reduction).cue/11
-cue:///mnt/synology/media/music/orpheus.network/flac/Jimi Hendrix Experience - Axis Bold as Love (Non RE-1 First Edition) (1968) [FLAC]/Axis- Bold as Love (Reprise 6281-2 first edition DADC without Noise Reduction).cue/12
 cue:///mnt/synology/media/music/orpheus.network/flac/Jimi Hendrix Experience - Axis Bold as Love (Non RE-1 First Edition) (1968) [FLAC]/Axis- Bold as Love (Reprise 6281-2 first edition DADC without Noise Reduction).cue/13
-cue:///mnt/synology/media/music/orpheus.network/flac/Jimi Hendrix Experience - Electric Ladyland (Non RE-1 First Edition) (1968) [FLAC]/Disc 01/Electric Ladyland [Reprise 6307-2 2DE first edition without Noise Reduction].cue/1
-cue:///mnt/synology/media/music/orpheus.network/flac/Jimi Hendrix Experience - Electric Ladyland (Non RE-1 First Edition) (1968) [FLAC]/Disc 01/Electric Ladyland [Reprise 6307-2 2DE first edition without Noise Reduction].cue/2
-cue:///mnt/synology/media/music/orpheus.network/flac/Jimi Hendrix Experience - Electric Ladyland (Non RE-1 First Edition) (1968) [FLAC]/Disc 01/Electric Ladyland [Reprise 6307-2 2DE first edition without Noise Reduction].cue/3
-cue:///mnt/synology/media/music/orpheus.network/flac/Jimi Hendrix Experience - Electric Ladyland (Non RE-1 First Edition) (1968) [FLAC]/Disc 01/Electric Ladyland [Reprise 6307-2 2DE first edition without Noise Reduction].cue/4
-cue:///mnt/synology/media/music/orpheus.network/flac/Jimi Hendrix Experience - Electric Ladyland (Non RE-1 First Edition) (1968) [FLAC]/Disc 01/Electric Ladyland [Reprise 6307-2 2DE first edition without Noise Reduction].cue/5
-cue:///mnt/synology/media/music/orpheus.network/flac/Jimi Hendrix Experience - Electric Ladyland (Non RE-1 First Edition) (1968) [FLAC]/Disc 01/Electric Ladyland [Reprise 6307-2 2DE first edition without Noise Reduction].cue/6
-cue:///mnt/synology/media/music/orpheus.network/flac/Jimi Hendrix Experience - Electric Ladyland (Non RE-1 First Edition) (1968) [FLAC]/Disc 01/Electric Ladyland [Reprise 6307-2 2DE first edition without Noise Reduction].cue/7
-cue:///mnt/synology/media/music/orpheus.network/flac/Jimi Hendrix Experience - Electric Ladyland (Non RE-1 First Edition) (1968) [FLAC]/Disc 01/Electric Ladyland [Reprise 6307-2 2DE first edition without Noise Reduction].cue/8
 cue:///mnt/synology/media/music/orpheus.network/flac/Jimi Hendrix Experience - Electric Ladyland (Non RE-1 First Edition) (1968) [FLAC]/Disc 01/Electric Ladyland [Reprise 6307-2 2DE first edition without Noise Reduction].cue/9
 /mnt/synology/media/music/orpheus.network/flac/Jimmy Eat World - 1999 - Clarity [2007 Remastered Expanded Edition] {09463 98167 2 9} [FLAC]/01 - Jimmy Eat World - Table for Glasses.flac
 /mnt/synology/media/music/orpheus.network/flac/Jimmy Eat World - 1999 - Clarity [2007 Remastered Expanded Edition] {09463 98167 2 9} [FLAC]/02 - Jimmy Eat World - Lucky Denver Mint.flac
@@ -12439,9 +11724,7 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Jimi Hendrix Experience - E
 /mnt/synology/media/music/orpheus.network/flac/1965. John Coltrane - Om (2011) {Verve Originals, B0015828-2}/01 - Om.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/John Coltrane - Live in Japan (1966) (1991 GRD-4-102) [CD FLAC]/Disc 2/Live in Japan.cue/1
 /mnt/synology/media/music/orpheus.network/flac/John Coltrane - Live in Japan (1966) (1991 GRD-4-102) [CD FLAC]/Disc 2/01 Crescent.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/John Coltrane - Live in Japan (1966) (1991 GRD-4-102) [CD FLAC]/Disc 1/Live in Japan.cue/1
 /mnt/synology/media/music/orpheus.network/flac/John Coltrane - Live in Japan (1966) (1991 GRD-4-102) [CD FLAC]/Disc 1/01 Afro Blue.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/John Coltrane - Live in Japan (1966) (1991 GRD-4-102) [CD FLAC]/Disc 3/Live in Japan.cue/1
 /mnt/synology/media/music/orpheus.network/flac/John Coltrane - Live in Japan (1966) (1991 GRD-4-102) [CD FLAC]/Disc 3/01 Peace on Earth.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/John Coltrane - Live in Japan (1966) (1991 GRD-4-102) [CD FLAC]/Disc 3/Live in Japan.cue/2
 /mnt/synology/media/music/orpheus.network/flac/John Coltrane - Live in Japan (1966) (1991 GRD-4-102) [CD FLAC]/Disc 3/02 Leo.flac
@@ -12568,55 +11851,30 @@ cue:///mnt/synology/media/music/orpheus.network/flac/John Coltrane - Live in Jap
 /mnt/synology/media/music/orpheus.network/flac/John Lennon - Plastic Ono Band (1970) [CD FLAC] {1988 Parlophone CDP 7 46770 2}/09 - Look at Me.flac
 /mnt/synology/media/music/orpheus.network/flac/John Lennon - Plastic Ono Band (1970) [CD FLAC] {1988 Parlophone CDP 7 46770 2}/10 - God.flac
 /mnt/synology/media/music/orpheus.network/flac/John Lennon - Plastic Ono Band (1970) [CD FLAC] {1988 Parlophone CDP 7 46770 2}/11 - My Mummy's Dead.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/John Zorn - Naked City (1990) [FLAC]/Naked City.cue/1
 /mnt/synology/media/music/orpheus.network/flac/John Zorn - Naked City (1990) [FLAC]/01 Batman.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/John Zorn - Naked City (1990) [FLAC]/Naked City.cue/2
 /mnt/synology/media/music/orpheus.network/flac/John Zorn - Naked City (1990) [FLAC]/02 The Sicilian Clan.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/John Zorn - Naked City (1990) [FLAC]/Naked City.cue/3
 /mnt/synology/media/music/orpheus.network/flac/John Zorn - Naked City (1990) [FLAC]/03 You Will Be Shot.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/John Zorn - Naked City (1990) [FLAC]/Naked City.cue/4
 /mnt/synology/media/music/orpheus.network/flac/John Zorn - Naked City (1990) [FLAC]/04 Latin Quarter.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/John Zorn - Naked City (1990) [FLAC]/Naked City.cue/5
 /mnt/synology/media/music/orpheus.network/flac/John Zorn - Naked City (1990) [FLAC]/05 A Shot in the Dark.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/John Zorn - Naked City (1990) [FLAC]/Naked City.cue/6
 /mnt/synology/media/music/orpheus.network/flac/John Zorn - Naked City (1990) [FLAC]/06 Reanimator.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/John Zorn - Naked City (1990) [FLAC]/Naked City.cue/7
 /mnt/synology/media/music/orpheus.network/flac/John Zorn - Naked City (1990) [FLAC]/07 Snagglepuss.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/John Zorn - Naked City (1990) [FLAC]/Naked City.cue/8
 /mnt/synology/media/music/orpheus.network/flac/John Zorn - Naked City (1990) [FLAC]/08 I Want to Live.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/John Zorn - Naked City (1990) [FLAC]/Naked City.cue/9
 /mnt/synology/media/music/orpheus.network/flac/John Zorn - Naked City (1990) [FLAC]/09 Lonely Woman.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/John Zorn - Naked City (1990) [FLAC]/Naked City.cue/10
 /mnt/synology/media/music/orpheus.network/flac/John Zorn - Naked City (1990) [FLAC]/10 Igneous Ejaculation.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/John Zorn - Naked City (1990) [FLAC]/Naked City.cue/11
 /mnt/synology/media/music/orpheus.network/flac/John Zorn - Naked City (1990) [FLAC]/11 Blood Duster.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/John Zorn - Naked City (1990) [FLAC]/Naked City.cue/12
 /mnt/synology/media/music/orpheus.network/flac/John Zorn - Naked City (1990) [FLAC]/12 Hammerhead.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/John Zorn - Naked City (1990) [FLAC]/Naked City.cue/13
 /mnt/synology/media/music/orpheus.network/flac/John Zorn - Naked City (1990) [FLAC]/13 Demon Sanctuary.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/John Zorn - Naked City (1990) [FLAC]/Naked City.cue/14
 /mnt/synology/media/music/orpheus.network/flac/John Zorn - Naked City (1990) [FLAC]/14 Obeah Man.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/John Zorn - Naked City (1990) [FLAC]/Naked City.cue/15
 /mnt/synology/media/music/orpheus.network/flac/John Zorn - Naked City (1990) [FLAC]/15 Ujaku.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/John Zorn - Naked City (1990) [FLAC]/Naked City.cue/16
 /mnt/synology/media/music/orpheus.network/flac/John Zorn - Naked City (1990) [FLAC]/16 Fuck the Facts.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/John Zorn - Naked City (1990) [FLAC]/Naked City.cue/17
 /mnt/synology/media/music/orpheus.network/flac/John Zorn - Naked City (1990) [FLAC]/17 Speedball.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/John Zorn - Naked City (1990) [FLAC]/Naked City.cue/18
 /mnt/synology/media/music/orpheus.network/flac/John Zorn - Naked City (1990) [FLAC]/18 Chinatown.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/John Zorn - Naked City (1990) [FLAC]/Naked City.cue/19
 /mnt/synology/media/music/orpheus.network/flac/John Zorn - Naked City (1990) [FLAC]/19 Punk China Doll.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/John Zorn - Naked City (1990) [FLAC]/Naked City.cue/20
 /mnt/synology/media/music/orpheus.network/flac/John Zorn - Naked City (1990) [FLAC]/20 N.Y. Flat Top Box.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/John Zorn - Naked City (1990) [FLAC]/Naked City.cue/21
 /mnt/synology/media/music/orpheus.network/flac/John Zorn - Naked City (1990) [FLAC]/21 Saigon Pickup.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/John Zorn - Naked City (1990) [FLAC]/Naked City.cue/22
 /mnt/synology/media/music/orpheus.network/flac/John Zorn - Naked City (1990) [FLAC]/22 The James Bond Theme.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/John Zorn - Naked City (1990) [FLAC]/Naked City.cue/23
 /mnt/synology/media/music/orpheus.network/flac/John Zorn - Naked City (1990) [FLAC]/23 Den of Sins.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/John Zorn - Naked City (1990) [FLAC]/Naked City.cue/24
 /mnt/synology/media/music/orpheus.network/flac/John Zorn - Naked City (1990) [FLAC]/24 Contempt.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/John Zorn - Naked City (1990) [FLAC]/Naked City.cue/25
 /mnt/synology/media/music/orpheus.network/flac/John Zorn - Naked City (1990) [FLAC]/25 Graveyard Shift.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/John Zorn - Naked City (1990) [FLAC]/Naked City.cue/26
 /mnt/synology/media/music/orpheus.network/flac/John Zorn - Naked City (1990) [FLAC]/26 Inside Straight.flac
@@ -12710,21 +11968,13 @@ cue:///mnt/synology/media/music/orpheus.network/flac/John Zorn - Naked City (199
 /mnt/synology/media/music/sbe-gtb-dg/jonatan leandoer96 - Sugar World (2023) [WEB FLAC]/7. If I'm Born I Have To Live.flac
 /mnt/synology/media/music/redacted.ch/flac/jonatan leandoer96 - Sugar World (2023) [WEB FLAC]/8. July.flac
 /mnt/synology/media/music/sbe-gtb-dg/jonatan leandoer96 - Sugar World (2023) [WEB FLAC]/8. July.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Ligeti Project II - Lontano, Atmosphères, Apparitions, etc. - Berliner Philharmoniker, Jonathan Nott [Teldec]/The Ligeti Project II.cue/1
 /mnt/synology/media/music/orpheus.network/flac/The Ligeti Project II - Lontano, Atmosphères, Apparitions, etc. - Berliner Philharmoniker, Jonathan Nott [Teldec]/01 Lontano.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Ligeti Project II - Lontano, Atmosphères, Apparitions, etc. - Berliner Philharmoniker, Jonathan Nott [Teldec]/The Ligeti Project II.cue/2
 /mnt/synology/media/music/orpheus.network/flac/The Ligeti Project II - Lontano, Atmosphères, Apparitions, etc. - Berliner Philharmoniker, Jonathan Nott [Teldec]/02 Atmospheres.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Ligeti Project II - Lontano, Atmosphères, Apparitions, etc. - Berliner Philharmoniker, Jonathan Nott [Teldec]/The Ligeti Project II.cue/3
 /mnt/synology/media/music/orpheus.network/flac/The Ligeti Project II - Lontano, Atmosphères, Apparitions, etc. - Berliner Philharmoniker, Jonathan Nott [Teldec]/03 Apparitions - I. Lento.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Ligeti Project II - Lontano, Atmosphères, Apparitions, etc. - Berliner Philharmoniker, Jonathan Nott [Teldec]/The Ligeti Project II.cue/4
 /mnt/synology/media/music/orpheus.network/flac/The Ligeti Project II - Lontano, Atmosphères, Apparitions, etc. - Berliner Philharmoniker, Jonathan Nott [Teldec]/04 Apparitions - II. Agitato.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Ligeti Project II - Lontano, Atmosphères, Apparitions, etc. - Berliner Philharmoniker, Jonathan Nott [Teldec]/The Ligeti Project II.cue/5
 /mnt/synology/media/music/orpheus.network/flac/The Ligeti Project II - Lontano, Atmosphères, Apparitions, etc. - Berliner Philharmoniker, Jonathan Nott [Teldec]/05 San Francisco Polyphony.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Ligeti Project II - Lontano, Atmosphères, Apparitions, etc. - Berliner Philharmoniker, Jonathan Nott [Teldec]/The Ligeti Project II.cue/6
 /mnt/synology/media/music/orpheus.network/flac/The Ligeti Project II - Lontano, Atmosphères, Apparitions, etc. - Berliner Philharmoniker, Jonathan Nott [Teldec]/06 Concert romanesc - I. Andantino.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Ligeti Project II - Lontano, Atmosphères, Apparitions, etc. - Berliner Philharmoniker, Jonathan Nott [Teldec]/The Ligeti Project II.cue/7
 /mnt/synology/media/music/orpheus.network/flac/The Ligeti Project II - Lontano, Atmosphères, Apparitions, etc. - Berliner Philharmoniker, Jonathan Nott [Teldec]/07 Concert romanesc - II. Allegro vivace.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Ligeti Project II - Lontano, Atmosphères, Apparitions, etc. - Berliner Philharmoniker, Jonathan Nott [Teldec]/The Ligeti Project II.cue/8
 /mnt/synology/media/music/orpheus.network/flac/The Ligeti Project II - Lontano, Atmosphères, Apparitions, etc. - Berliner Philharmoniker, Jonathan Nott [Teldec]/08 Concert romanesc - III. Adagio ma non troppo.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/The Ligeti Project II - Lontano, Atmosphères, Apparitions, etc. - Berliner Philharmoniker, Jonathan Nott [Teldec]/The Ligeti Project II.cue/9
 /mnt/synology/media/music/orpheus.network/flac/The Ligeti Project II - Lontano, Atmosphères, Apparitions, etc. - Berliner Philharmoniker, Jonathan Nott [Teldec]/09 Concert romanesc - IV. Molto vivace.flac
@@ -12749,49 +11999,28 @@ cue:///mnt/synology/media/music/orpheus.network/flac/The Ligeti Project II - Lon
 /mnt/synology/media/music/orpheus.network/flac/José González - Veneer (2005) [FLAC] {Hidden Agenda Records - AHA!074}/09 - Hints.flac
 /mnt/synology/media/music/orpheus.network/flac/José González - Veneer (2005) [FLAC] {Hidden Agenda Records - AHA!074}/10 - Save Your Day.flac
 /mnt/synology/media/music/orpheus.network/flac/José González - Veneer (2005) [FLAC] {Hidden Agenda Records - AHA!074}/11 - Broken Arrows.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Jose Gonzalez - Local Valley (2021) {Imperial 1055-2} [FLAC]/Local Valley.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Jose Gonzalez - Local Valley (2021) {Imperial 1055-2} [FLAC]/01 El Invento.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Jose Gonzalez - Local Valley (2021) {Imperial 1055-2} [FLAC]/Local Valley.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Jose Gonzalez - Local Valley (2021) {Imperial 1055-2} [FLAC]/02 Visions.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Jose Gonzalez - Local Valley (2021) {Imperial 1055-2} [FLAC]/Local Valley.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Jose Gonzalez - Local Valley (2021) {Imperial 1055-2} [FLAC]/03 Void.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Jose Gonzalez - Local Valley (2021) {Imperial 1055-2} [FLAC]/Local Valley.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Jose Gonzalez - Local Valley (2021) {Imperial 1055-2} [FLAC]/04 Horizons.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Jose Gonzalez - Local Valley (2021) {Imperial 1055-2} [FLAC]/Local Valley.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Jose Gonzalez - Local Valley (2021) {Imperial 1055-2} [FLAC]/05 Head On.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Jose Gonzalez - Local Valley (2021) {Imperial 1055-2} [FLAC]/Local Valley.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Jose Gonzalez - Local Valley (2021) {Imperial 1055-2} [FLAC]/06 Valle Local.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Jose Gonzalez - Local Valley (2021) {Imperial 1055-2} [FLAC]/Local Valley.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Jose Gonzalez - Local Valley (2021) {Imperial 1055-2} [FLAC]/07 Lasso In.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Jose Gonzalez - Local Valley (2021) {Imperial 1055-2} [FLAC]/Local Valley.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Jose Gonzalez - Local Valley (2021) {Imperial 1055-2} [FLAC]/08 Lilla G.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Jose Gonzalez - Local Valley (2021) {Imperial 1055-2} [FLAC]/Local Valley.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Jose Gonzalez - Local Valley (2021) {Imperial 1055-2} [FLAC]/09 Swing.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Jose Gonzalez - Local Valley (2021) {Imperial 1055-2} [FLAC]/Local Valley.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Jose Gonzalez - Local Valley (2021) {Imperial 1055-2} [FLAC]/10 Tjomme.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Jose Gonzalez - Local Valley (2021) {Imperial 1055-2} [FLAC]/Local Valley.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Jose Gonzalez - Local Valley (2021) {Imperial 1055-2} [FLAC]/11 Line Of Fire.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Jose Gonzalez - Local Valley (2021) {Imperial 1055-2} [FLAC]/Local Valley.cue/12
 /mnt/synology/media/music/orpheus.network/flac/Jose Gonzalez - Local Valley (2021) {Imperial 1055-2} [FLAC]/12 En Stund Pa Jorden.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Jose Gonzalez - Local Valley (2021) {Imperial 1055-2} [FLAC]/Local Valley.cue/13
 /mnt/synology/media/music/orpheus.network/flac/Jose Gonzalez - Local Valley (2021) {Imperial 1055-2} [FLAC]/13 Honey Honey.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Joyce Manor - Never Hungover Again (2014) [FLAC]/Never Hungover Again.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Joyce Manor - Never Hungover Again (2014) [FLAC]/01 Christmas Card.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Joyce Manor - Never Hungover Again (2014) [FLAC]/Never Hungover Again.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Joyce Manor - Never Hungover Again (2014) [FLAC]/02 Falling in Love Again.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Joyce Manor - Never Hungover Again (2014) [FLAC]/Never Hungover Again.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Joyce Manor - Never Hungover Again (2014) [FLAC]/03 End of the Summer.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Joyce Manor - Never Hungover Again (2014) [FLAC]/Never Hungover Again.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Joyce Manor - Never Hungover Again (2014) [FLAC]/04 Victoria.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Joyce Manor - Never Hungover Again (2014) [FLAC]/Never Hungover Again.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Joyce Manor - Never Hungover Again (2014) [FLAC]/05 Schley.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Joyce Manor - Never Hungover Again (2014) [FLAC]/Never Hungover Again.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Joyce Manor - Never Hungover Again (2014) [FLAC]/06 Heart Tattoo.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Joyce Manor - Never Hungover Again (2014) [FLAC]/Never Hungover Again.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Joyce Manor - Never Hungover Again (2014) [FLAC]/07 The Jerk.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Joyce Manor - Never Hungover Again (2014) [FLAC]/Never Hungover Again.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Joyce Manor - Never Hungover Again (2014) [FLAC]/08 In the Army Now.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Joyce Manor - Never Hungover Again (2014) [FLAC]/Never Hungover Again.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Joyce Manor - Never Hungover Again (2014) [FLAC]/09 Catalina Fight Song.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Joyce Manor - Never Hungover Again (2014) [FLAC]/Never Hungover Again.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Joyce Manor - Never Hungover Again (2014) [FLAC]/10 Heated Swimming Pool.flac
@@ -12824,23 +12053,14 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Joyce Manor - Never Hungove
 /mnt/synology/media/music/orpheus.network/flac/Joyce Manor - 40 oz. to Fresno (2022) - WEB FLAC/07. Dance With Me.flac
 /mnt/synology/media/music/orpheus.network/flac/Joyce Manor - 40 oz. to Fresno (2022) - WEB FLAC/08. Did You Ever Know-.flac
 /mnt/synology/media/music/orpheus.network/flac/Joyce Manor - 40 oz. to Fresno (2022) - WEB FLAC/09. Secret Sisters.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Joy Division - Unknown Pleasures (1979) [FLAC]/Unknown Pleasures.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Joy Division - Unknown Pleasures (1979) [FLAC]/01 Disorder.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Joy Division - Unknown Pleasures (1979) [FLAC]/Unknown Pleasures.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Joy Division - Unknown Pleasures (1979) [FLAC]/02 Day Of The Lords.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Joy Division - Unknown Pleasures (1979) [FLAC]/Unknown Pleasures.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Joy Division - Unknown Pleasures (1979) [FLAC]/03 Candidate.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Joy Division - Unknown Pleasures (1979) [FLAC]/Unknown Pleasures.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Joy Division - Unknown Pleasures (1979) [FLAC]/04 Insight.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Joy Division - Unknown Pleasures (1979) [FLAC]/Unknown Pleasures.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Joy Division - Unknown Pleasures (1979) [FLAC]/05 New Dawn Fades.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Joy Division - Unknown Pleasures (1979) [FLAC]/Unknown Pleasures.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Joy Division - Unknown Pleasures (1979) [FLAC]/06 She's Lost Control.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Joy Division - Unknown Pleasures (1979) [FLAC]/Unknown Pleasures.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Joy Division - Unknown Pleasures (1979) [FLAC]/07 Shadowplay.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Joy Division - Unknown Pleasures (1979) [FLAC]/Unknown Pleasures.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Joy Division - Unknown Pleasures (1979) [FLAC]/08 Wilderness.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Joy Division - Unknown Pleasures (1979) [FLAC]/Unknown Pleasures.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Joy Division - Unknown Pleasures (1979) [FLAC]/09 Interzone.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Joy Division - Unknown Pleasures (1979) [FLAC]/Unknown Pleasures.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Joy Division - Unknown Pleasures (1979) [FLAC]/10 I Remember Nothing.flac
@@ -12853,23 +12073,6 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Joy Division - Unknown Plea
 /mnt/synology/media/music/orpheus.network/flac/Joy Division - Closer (Factory Records UK)/07 - Twenty Four Hours.flac
 /mnt/synology/media/music/orpheus.network/flac/Joy Division - Closer (Factory Records UK)/08 - The Eternal.flac
 /mnt/synology/media/music/orpheus.network/flac/Joy Division - Closer (Factory Records UK)/09 - Decades.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Joy Division - 1988 - Substance (2015 Remaster) - FLAC/Substance.cue/1
-cue:///mnt/synology/media/music/orpheus.network/flac/Joy Division - 1988 - Substance (2015 Remaster) - FLAC/Substance.cue/2
-cue:///mnt/synology/media/music/orpheus.network/flac/Joy Division - 1988 - Substance (2015 Remaster) - FLAC/Substance.cue/3
-cue:///mnt/synology/media/music/orpheus.network/flac/Joy Division - 1988 - Substance (2015 Remaster) - FLAC/Substance.cue/4
-cue:///mnt/synology/media/music/orpheus.network/flac/Joy Division - 1988 - Substance (2015 Remaster) - FLAC/Substance.cue/5
-cue:///mnt/synology/media/music/orpheus.network/flac/Joy Division - 1988 - Substance (2015 Remaster) - FLAC/Substance.cue/7
-cue:///mnt/synology/media/music/orpheus.network/flac/Joy Division - 1988 - Substance (2015 Remaster) - FLAC/Substance.cue/8
-cue:///mnt/synology/media/music/orpheus.network/flac/Joy Division - 1988 - Substance (2015 Remaster) - FLAC/Substance.cue/9
-cue:///mnt/synology/media/music/orpheus.network/flac/Joy Division - 1988 - Substance (2015 Remaster) - FLAC/Substance.cue/10
-cue:///mnt/synology/media/music/orpheus.network/flac/Joy Division - 1988 - Substance (2015 Remaster) - FLAC/Substance.cue/11
-cue:///mnt/synology/media/music/orpheus.network/flac/Joy Division - 1988 - Substance (2015 Remaster) - FLAC/Substance.cue/12
-cue:///mnt/synology/media/music/orpheus.network/flac/Joy Division - 1988 - Substance (2015 Remaster) - FLAC/Substance.cue/13
-cue:///mnt/synology/media/music/orpheus.network/flac/Joy Division - 1988 - Substance (2015 Remaster) - FLAC/Substance.cue/14
-cue:///mnt/synology/media/music/orpheus.network/flac/Joy Division - 1988 - Substance (2015 Remaster) - FLAC/Substance.cue/15
-cue:///mnt/synology/media/music/orpheus.network/flac/Joy Division - 1988 - Substance (2015 Remaster) - FLAC/Substance.cue/16
-cue:///mnt/synology/media/music/orpheus.network/flac/Joy Division - 1988 - Substance (2015 Remaster) - FLAC/Substance.cue/17
-cue:///mnt/synology/media/music/orpheus.network/flac/Joy Division - 1988 - Substance (2015 Remaster) - FLAC/Substance.cue/18
 cue:///mnt/synology/media/music/orpheus.network/flac/Joy Division - 1988 - Substance (2015 Remaster) - FLAC/Substance.cue/19
 /mnt/synology/media/music/orpheus.network/flac/Joy Division - 1988 - Substance (2015 Remaster) - FLAC/01 - Warsaw.flac
 /mnt/synology/media/music/orpheus.network/flac/Joy Division - 1988 - Substance (2015 Remaster) - FLAC/02 - Leaders Of Men.flac
@@ -12890,7 +12093,6 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Joy Division - 1988 - Subst
 /mnt/synology/media/music/orpheus.network/flac/Joy Division - 1988 - Substance (2015 Remaster) - FLAC/17 - As You Said.flac
 /mnt/synology/media/music/orpheus.network/flac/Joy Division - 1988 - Substance (2015 Remaster) - FLAC/18 - These Days.flac
 /mnt/synology/media/music/orpheus.network/flac/Joy Division - 1988 - Substance (2015 Remaster) - FLAC/19 - Love Will Tear Us Apart (Pennine Version).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Compilations - Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition) (2021) [FLAC]/Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition).cue/16
 /mnt/synology/media/music/orpheus.network/flac/Compilations - Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition) (2021) [FLAC]/16 Autosuggestion.flac
 /mnt/synology/media/music/slsk/[1993] Demo/01 - Julia - Holding Back.flac
 /mnt/synology/media/music/slsk/[1993] Demo/02 - Julia - Julia.flac
@@ -12996,13 +12198,6 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Compilations - Fame- Jon Sa
 /mnt/synology/media/music/redacted.ch/flac/Kaleidoscope - Tangerine Dream (1967;2005) [FLAC]/15 - Please Excuse My Face (mono).flac
 /mnt/synology/media/music/redacted.ch/flac/Kaleidoscope - Tangerine Dream (1967;2005) [FLAC]/16 - Jenny Artichoke.flac
 /mnt/synology/media/music/redacted.ch/flac/Kaleidoscope - Tangerine Dream (1967;2005) [FLAC]/17 - Just How Much You Are.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Kaleidoscope - A Beacon from Mars (1968, Reissue 1997) - CD-FLAC/A Beacon from Mars.cue/1
-cue:///mnt/synology/media/music/orpheus.network/flac/Kaleidoscope - A Beacon from Mars (1968, Reissue 1997) - CD-FLAC/A Beacon from Mars.cue/2
-cue:///mnt/synology/media/music/orpheus.network/flac/Kaleidoscope - A Beacon from Mars (1968, Reissue 1997) - CD-FLAC/A Beacon from Mars.cue/3
-cue:///mnt/synology/media/music/orpheus.network/flac/Kaleidoscope - A Beacon from Mars (1968, Reissue 1997) - CD-FLAC/A Beacon from Mars.cue/4
-cue:///mnt/synology/media/music/orpheus.network/flac/Kaleidoscope - A Beacon from Mars (1968, Reissue 1997) - CD-FLAC/A Beacon from Mars.cue/5
-cue:///mnt/synology/media/music/orpheus.network/flac/Kaleidoscope - A Beacon from Mars (1968, Reissue 1997) - CD-FLAC/A Beacon from Mars.cue/6
-cue:///mnt/synology/media/music/orpheus.network/flac/Kaleidoscope - A Beacon from Mars (1968, Reissue 1997) - CD-FLAC/A Beacon from Mars.cue/7
 cue:///mnt/synology/media/music/orpheus.network/flac/Kaleidoscope - A Beacon from Mars (1968, Reissue 1997) - CD-FLAC/A Beacon from Mars.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Kaleidoscope - A Beacon from Mars (1968, Reissue 1997) - CD-FLAC/01 - I Found Out.flac
 /mnt/synology/media/music/orpheus.network/flac/Kaleidoscope - A Beacon from Mars (1968, Reissue 1997) - CD-FLAC/02 - Greenwood Sidee.flac
@@ -13116,36 +12311,15 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Kaleidoscope - A Beacon fro
 /mnt/synology/media/music/orpheus.network/flac/Tomorrow - Tomorrow [1999 Parlophone Records Remaster]/21 - The Kid Was a Killer [Mono] [Bonus Track] (Keith West).flac
 /mnt/synology/media/music/orpheus.network/flac/Tomorrow - Tomorrow [1999 Parlophone Records Remaster]/22 - She [Mono] [Bonus Track] (Keith West).flac
 /mnt/synology/media/music/orpheus.network/flac/Tomorrow - Tomorrow [1999 Parlophone Records Remaster]/23 - The Visit [Mono] [Bonus Track] (Keith West).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Këkht Aräkh - Night & Love/Këkht Aräkh - Night & Love.cue/1
-cue:///mnt/synology/media/music/orpheus.network/flac/Këkht Aräkh - Night & Love/Këkht Aräkh - Night & Love.cue/2
-cue:///mnt/synology/media/music/orpheus.network/flac/Këkht Aräkh - Night & Love/Këkht Aräkh - Night & Love.cue/3
-cue:///mnt/synology/media/music/orpheus.network/flac/Këkht Aräkh - Night & Love/Këkht Aräkh - Night & Love.cue/4
-cue:///mnt/synology/media/music/orpheus.network/flac/Këkht Aräkh - Night & Love/Këkht Aräkh - Night & Love.cue/5
-cue:///mnt/synology/media/music/orpheus.network/flac/Këkht Aräkh - Night & Love/Këkht Aräkh - Night & Love.cue/6
-cue:///mnt/synology/media/music/orpheus.network/flac/Këkht Aräkh - Night & Love/Këkht Aräkh - Night & Love.cue/7
-cue:///mnt/synology/media/music/orpheus.network/flac/Këkht Aräkh - Night & Love/Këkht Aräkh - Night & Love.cue/8
-cue:///mnt/synology/media/music/orpheus.network/flac/Këkht Aräkh - Night & Love/Këkht Aräkh - Night & Love.cue/9
-cue:///mnt/synology/media/music/orpheus.network/flac/Këkht Aräkh - Night & Love/Këkht Aräkh - Night & Love.cue/10
-cue:///mnt/synology/media/music/orpheus.network/flac/Këkht Aräkh - Night & Love/Këkht Aräkh - Night & Love.cue/11
-cue:///mnt/synology/media/music/orpheus.network/flac/Këkht Aräkh - Night & Love/Këkht Aräkh - Night & Love.cue/12
 cue:///mnt/synology/media/music/orpheus.network/flac/Këkht Aräkh - Night & Love/Këkht Aräkh - Night & Love.cue/13
-cue:///mnt/synology/media/music/orpheus.network/flac/Këkht Aräkh - Pale Swordsman (2022) [FLAC]/Pale Swordsman.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Këkht Aräkh - Pale Swordsman (2022) [FLAC]/01 Intro.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Këkht Aräkh - Pale Swordsman (2022) [FLAC]/Pale Swordsman.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Këkht Aräkh - Pale Swordsman (2022) [FLAC]/02 Thorns.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Këkht Aräkh - Pale Swordsman (2022) [FLAC]/Pale Swordsman.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Këkht Aräkh - Pale Swordsman (2022) [FLAC]/03 Night Descends.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Këkht Aräkh - Pale Swordsman (2022) [FLAC]/Pale Swordsman.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Këkht Aräkh - Pale Swordsman (2022) [FLAC]/04 In the Garden.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Këkht Aräkh - Pale Swordsman (2022) [FLAC]/Pale Swordsman.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Këkht Aräkh - Pale Swordsman (2022) [FLAC]/05 Amor.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Këkht Aräkh - Pale Swordsman (2022) [FLAC]/Pale Swordsman.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Këkht Aräkh - Pale Swordsman (2022) [FLAC]/06 Nocturne.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Këkht Aräkh - Pale Swordsman (2022) [FLAC]/Pale Swordsman.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Këkht Aräkh - Pale Swordsman (2022) [FLAC]/07 Amid the Stars.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Këkht Aräkh - Pale Swordsman (2022) [FLAC]/Pale Swordsman.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Këkht Aräkh - Pale Swordsman (2022) [FLAC]/08 Lily.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Këkht Aräkh - Pale Swordsman (2022) [FLAC]/Pale Swordsman.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Këkht Aräkh - Pale Swordsman (2022) [FLAC]/09 Crystal.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Këkht Aräkh - Pale Swordsman (2022) [FLAC]/Pale Swordsman.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Këkht Aräkh - Pale Swordsman (2022) [FLAC]/10 Swordsman.flac
@@ -13200,29 +12374,18 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Këkht Aräkh - Pale Swor
 /mnt/synology/media/music/orpheus.network/flac/Kind of Like Spitting - The Thrill of the Hunt (2006) [FLAC]/11 - Lay Some Happiness on Me .flac
 /mnt/synology/media/music/orpheus.network/flac/Kind of Like Spitting - The Thrill of the Hunt (2006) [FLAC]/12 - You Got Served .flac
 /mnt/synology/media/music/orpheus.network/flac/Kind of Like Spitting - The Thrill of the Hunt (2006) [FLAC]/13 - Thirteen .flac
-cue:///mnt/synology/media/music/orpheus.network/flac/King Crimson - In the Court of the Crimson King [2004 Remastered][FLAC]/King Crimson - In the Court of the Crimson King.cue/1
 /mnt/synology/media/music/orpheus.network/flac/King Crimson - In the Court of the Crimson King [2004 Remastered][FLAC]/01 21st Century Schizoid Man.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/King Crimson - In the Court of the Crimson King [2004 Remastered][FLAC]/King Crimson - In the Court of the Crimson King.cue/2
 /mnt/synology/media/music/orpheus.network/flac/King Crimson - In the Court of the Crimson King [2004 Remastered][FLAC]/02 I Talk to the Wind.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/King Crimson - In the Court of the Crimson King [2004 Remastered][FLAC]/King Crimson - In the Court of the Crimson King.cue/3
 /mnt/synology/media/music/orpheus.network/flac/King Crimson - In the Court of the Crimson King [2004 Remastered][FLAC]/03 Epitaph.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/King Crimson - In the Court of the Crimson King [2004 Remastered][FLAC]/King Crimson - In the Court of the Crimson King.cue/4
 /mnt/synology/media/music/orpheus.network/flac/King Crimson - In the Court of the Crimson King [2004 Remastered][FLAC]/04 Moonchild.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/King Crimson - In the Court of the Crimson King [2004 Remastered][FLAC]/King Crimson - In the Court of the Crimson King.cue/5
 /mnt/synology/media/music/orpheus.network/flac/King Crimson - In the Court of the Crimson King [2004 Remastered][FLAC]/05 The Court of the Crimson King.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/King Crimson - Lizard [2009 Remastered][FLAC]/King Crimson - Lizard.cue/1
 /mnt/synology/media/music/orpheus.network/flac/King Crimson - Lizard [2009 Remastered][FLAC]/01 Cirkus.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/King Crimson - Lizard [2009 Remastered][FLAC]/King Crimson - Lizard.cue/2
 /mnt/synology/media/music/orpheus.network/flac/King Crimson - Lizard [2009 Remastered][FLAC]/02 Indoor Games.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/King Crimson - Lizard [2009 Remastered][FLAC]/King Crimson - Lizard.cue/3
 /mnt/synology/media/music/orpheus.network/flac/King Crimson - Lizard [2009 Remastered][FLAC]/03 Happy Family.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/King Crimson - Lizard [2009 Remastered][FLAC]/King Crimson - Lizard.cue/4
 /mnt/synology/media/music/orpheus.network/flac/King Crimson - Lizard [2009 Remastered][FLAC]/04 Lady of the Dancing Water.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/King Crimson - Lizard [2009 Remastered][FLAC]/King Crimson - Lizard.cue/5
 /mnt/synology/media/music/orpheus.network/flac/King Crimson - Lizard [2009 Remastered][FLAC]/05 Lizard.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/King Crimson - Lizard [2009 Remastered][FLAC]/King Crimson - Lizard.cue/6
 /mnt/synology/media/music/orpheus.network/flac/King Crimson - Lizard [2009 Remastered][FLAC]/06 Lady of the Dancing Water [Alternate Take].flac
-cue:///mnt/synology/media/music/orpheus.network/flac/King Crimson - Lizard [2009 Remastered][FLAC]/King Crimson - Lizard.cue/7
 /mnt/synology/media/music/orpheus.network/flac/King Crimson - Lizard [2009 Remastered][FLAC]/07 Bolero (From Frame By Frame).flac
 cue:///mnt/synology/media/music/orpheus.network/flac/King Crimson - Lizard [2009 Remastered][FLAC]/King Crimson - Lizard.cue/8
 /mnt/synology/media/music/orpheus.network/flac/King Crimson - Lizard [2009 Remastered][FLAC]/08 Cirkus [Studio Run Through With Guide Vocal From Original Sessions].flac
@@ -13343,7 +12506,6 @@ cue:///mnt/synology/media/music/orpheus.network/flac/King Crimson - Lizard [2009
 /mnt/synology/media/music/orpheus.network/flac/Klaus Schulze - Irrlicht (2016) [Flac] {MIG 01482}/02- Satz Gewitter (Energy Rise — Energy Collapse).flac
 /mnt/synology/media/music/orpheus.network/flac/Klaus Schulze - Irrlicht (2016) [Flac] {MIG 01482}/03- Satz Exil Sils Maria.flac
 /mnt/synology/media/music/orpheus.network/flac/Klaus Schulze - Irrlicht (2016) [Flac] {MIG 01482}/04- Bonus Track - Dungeon.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Compilations - Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition) (2021) [FLAC]/Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition).cue/11
 /mnt/synology/media/music/orpheus.network/flac/Compilations - Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition) (2021) [FLAC]/11 Ain't You.flac
 /mnt/synology/media/music/orpheus.network/flac/Knapsack - Day Three of My New Life (1997) {A095 CD} [FLAC]/01 Thursday Side of the Street.flac
 /mnt/synology/media/music/orpheus.network/flac/Knapsack - Day Three of My New Life (1997) {A095 CD} [FLAC]/02 Courage Was Confused.flac
@@ -13468,29 +12630,17 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Compilations - Fame- Jon Sa
 /mnt/synology/media/music/redacted.ch/flac/Kvist - For Kunsten Maa Vi Evig Vike/04 - Svartedal.flac
 /mnt/synology/media/music/redacted.ch/flac/Kvist - For Kunsten Maa Vi Evig Vike/05 - Min Lekam Er Meg Blott En Byrde.flac
 /mnt/synology/media/music/redacted.ch/flac/Kvist - For Kunsten Maa Vi Evig Vike/06 - Vettenetter.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/La Dispute - Somewhere At The Bottom Of The River Between Vega And Altair (2008) {NSR012 CD} [FLAC]/Somewhere At The Bottom Of The River Between Vega And Altair.cue/1
 /mnt/synology/media/music/orpheus.network/flac/La Dispute - Somewhere At The Bottom Of The River Between Vega And Altair (2008) {NSR012 CD} [FLAC]/01 Such Small Hands.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/La Dispute - Somewhere At The Bottom Of The River Between Vega And Altair (2008) {NSR012 CD} [FLAC]/Somewhere At The Bottom Of The River Between Vega And Altair.cue/2
 /mnt/synology/media/music/orpheus.network/flac/La Dispute - Somewhere At The Bottom Of The River Between Vega And Altair (2008) {NSR012 CD} [FLAC]/02 Said The King To The River.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/La Dispute - Somewhere At The Bottom Of The River Between Vega And Altair (2008) {NSR012 CD} [FLAC]/Somewhere At The Bottom Of The River Between Vega And Altair.cue/3
 /mnt/synology/media/music/orpheus.network/flac/La Dispute - Somewhere At The Bottom Of The River Between Vega And Altair (2008) {NSR012 CD} [FLAC]/03 New Storms For Older Lovers.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/La Dispute - Somewhere At The Bottom Of The River Between Vega And Altair (2008) {NSR012 CD} [FLAC]/Somewhere At The Bottom Of The River Between Vega And Altair.cue/4
 /mnt/synology/media/music/orpheus.network/flac/La Dispute - Somewhere At The Bottom Of The River Between Vega And Altair (2008) {NSR012 CD} [FLAC]/04 Damaged Goods.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/La Dispute - Somewhere At The Bottom Of The River Between Vega And Altair (2008) {NSR012 CD} [FLAC]/Somewhere At The Bottom Of The River Between Vega And Altair.cue/5
 /mnt/synology/media/music/orpheus.network/flac/La Dispute - Somewhere At The Bottom Of The River Between Vega And Altair (2008) {NSR012 CD} [FLAC]/05 Fall Down, Never Get Back Up Again.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/La Dispute - Somewhere At The Bottom Of The River Between Vega And Altair (2008) {NSR012 CD} [FLAC]/Somewhere At The Bottom Of The River Between Vega And Altair.cue/6
 /mnt/synology/media/music/orpheus.network/flac/La Dispute - Somewhere At The Bottom Of The River Between Vega And Altair (2008) {NSR012 CD} [FLAC]/06 Bury Your Flame.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/La Dispute - Somewhere At The Bottom Of The River Between Vega And Altair (2008) {NSR012 CD} [FLAC]/Somewhere At The Bottom Of The River Between Vega And Altair.cue/7
 /mnt/synology/media/music/orpheus.network/flac/La Dispute - Somewhere At The Bottom Of The River Between Vega And Altair (2008) {NSR012 CD} [FLAC]/07 Last Blues For Bloody Knuckles.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/La Dispute - Somewhere At The Bottom Of The River Between Vega And Altair (2008) {NSR012 CD} [FLAC]/Somewhere At The Bottom Of The River Between Vega And Altair.cue/8
 /mnt/synology/media/music/orpheus.network/flac/La Dispute - Somewhere At The Bottom Of The River Between Vega And Altair (2008) {NSR012 CD} [FLAC]/08 The Castle Builders.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/La Dispute - Somewhere At The Bottom Of The River Between Vega And Altair (2008) {NSR012 CD} [FLAC]/Somewhere At The Bottom Of The River Between Vega And Altair.cue/9
 /mnt/synology/media/music/orpheus.network/flac/La Dispute - Somewhere At The Bottom Of The River Between Vega And Altair (2008) {NSR012 CD} [FLAC]/09 Andria.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/La Dispute - Somewhere At The Bottom Of The River Between Vega And Altair (2008) {NSR012 CD} [FLAC]/Somewhere At The Bottom Of The River Between Vega And Altair.cue/10
 /mnt/synology/media/music/orpheus.network/flac/La Dispute - Somewhere At The Bottom Of The River Between Vega And Altair (2008) {NSR012 CD} [FLAC]/10 Then Again, Maybe You Were Right.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/La Dispute - Somewhere At The Bottom Of The River Between Vega And Altair (2008) {NSR012 CD} [FLAC]/Somewhere At The Bottom Of The River Between Vega And Altair.cue/11
 /mnt/synology/media/music/orpheus.network/flac/La Dispute - Somewhere At The Bottom Of The River Between Vega And Altair (2008) {NSR012 CD} [FLAC]/11 Sad Prayers For Guilty Bodies.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/La Dispute - Somewhere At The Bottom Of The River Between Vega And Altair (2008) {NSR012 CD} [FLAC]/Somewhere At The Bottom Of The River Between Vega And Altair.cue/12
 /mnt/synology/media/music/orpheus.network/flac/La Dispute - Somewhere At The Bottom Of The River Between Vega And Altair (2008) {NSR012 CD} [FLAC]/12 The Last Lost Continent.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/La Dispute - Somewhere At The Bottom Of The River Between Vega And Altair (2008) {NSR012 CD} [FLAC]/Somewhere At The Bottom Of The River Between Vega And Altair.cue/13
 /mnt/synology/media/music/orpheus.network/flac/La Dispute - Somewhere At The Bottom Of The River Between Vega And Altair (2008) {NSR012 CD} [FLAC]/13 Nobody, Not Even The Rain.flac
@@ -13508,25 +12658,15 @@ cue:///mnt/synology/media/music/orpheus.network/flac/La Dispute - Somewhere At T
 /mnt/synology/media/music/orpheus.network/flac/La Dispute - Wildlife (2011) [FLAC] {NSR060}/12 - A Broken Jar.flac
 /mnt/synology/media/music/orpheus.network/flac/La Dispute - Wildlife (2011) [FLAC] {NSR060}/13 - All Our Bruised Bodies and the Whole Heart Shrinks.flac
 /mnt/synology/media/music/orpheus.network/flac/La Dispute - Wildlife (2011) [FLAC] {NSR060}/14 - You and I in Unison.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/La Dispute - Rooms of the House (2014) [FLAC]/Rooms of the House.cue/1
 /mnt/synology/media/music/orpheus.network/flac/La Dispute - Rooms of the House (2014) [FLAC]/01 Hudsonville, MI 1965.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/La Dispute - Rooms of the House (2014) [FLAC]/Rooms of the House.cue/2
 /mnt/synology/media/music/orpheus.network/flac/La Dispute - Rooms of the House (2014) [FLAC]/02 First Reactions After Falling Through the Ice.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/La Dispute - Rooms of the House (2014) [FLAC]/Rooms of the House.cue/3
 /mnt/synology/media/music/orpheus.network/flac/La Dispute - Rooms of the House (2014) [FLAC]/03 Woman (In Mirror).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/La Dispute - Rooms of the House (2014) [FLAC]/Rooms of the House.cue/4
 /mnt/synology/media/music/orpheus.network/flac/La Dispute - Rooms of the House (2014) [FLAC]/04 Scenes from Highways 1981-2009.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/La Dispute - Rooms of the House (2014) [FLAC]/Rooms of the House.cue/5
 /mnt/synology/media/music/orpheus.network/flac/La Dispute - Rooms of the House (2014) [FLAC]/05 For Mayor in Splitsville.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/La Dispute - Rooms of the House (2014) [FLAC]/Rooms of the House.cue/6
 /mnt/synology/media/music/orpheus.network/flac/La Dispute - Rooms of the House (2014) [FLAC]/06 35.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/La Dispute - Rooms of the House (2014) [FLAC]/Rooms of the House.cue/7
 /mnt/synology/media/music/orpheus.network/flac/La Dispute - Rooms of the House (2014) [FLAC]/07 Stay Happy There.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/La Dispute - Rooms of the House (2014) [FLAC]/Rooms of the House.cue/8
 /mnt/synology/media/music/orpheus.network/flac/La Dispute - Rooms of the House (2014) [FLAC]/08 The Child We Lost 1963.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/La Dispute - Rooms of the House (2014) [FLAC]/Rooms of the House.cue/9
 /mnt/synology/media/music/orpheus.network/flac/La Dispute - Rooms of the House (2014) [FLAC]/09 Woman (Reading).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/La Dispute - Rooms of the House (2014) [FLAC]/Rooms of the House.cue/10
 /mnt/synology/media/music/orpheus.network/flac/La Dispute - Rooms of the House (2014) [FLAC]/10 Extraordinary Dinner Party.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/La Dispute - Rooms of the House (2014) [FLAC]/Rooms of the House.cue/11
 /mnt/synology/media/music/orpheus.network/flac/La Dispute - Rooms of the House (2014) [FLAC]/11 Objects in Space.flac
@@ -13673,33 +12813,20 @@ cue:///mnt/synology/media/music/orpheus.network/flac/La Dispute - Rooms of the H
 /mnt/synology/media/music/orpheus.network/flac/(1973) Houses Of The Holy [2014 Remaster]/06 - D'yer Mak'er.flac
 /mnt/synology/media/music/orpheus.network/flac/(1973) Houses Of The Holy [2014 Remaster]/07 - No Quarter.flac
 /mnt/synology/media/music/orpheus.network/flac/(1973) Houses Of The Holy [2014 Remaster]/08 - The Ocean.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Led Zeppelin - Physical Graffiti (1975) [FLAC] (Japan 2 Disc 32P2-2739)/CD1/Physical Graffiti [Disc 1].cue/1
 /mnt/synology/media/music/orpheus.network/flac/Led Zeppelin - Physical Graffiti (1975) [FLAC] (Japan 2 Disc 32P2-2739)/CD1/01 - Custard Pie.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Led Zeppelin - Physical Graffiti (1975) [FLAC] (Japan 2 Disc 32P2-2739)/CD1/Physical Graffiti [Disc 1].cue/2
 /mnt/synology/media/music/orpheus.network/flac/Led Zeppelin - Physical Graffiti (1975) [FLAC] (Japan 2 Disc 32P2-2739)/CD1/02 - The Rover.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Led Zeppelin - Physical Graffiti (1975) [FLAC] (Japan 2 Disc 32P2-2739)/CD1/Physical Graffiti [Disc 1].cue/3
 /mnt/synology/media/music/orpheus.network/flac/Led Zeppelin - Physical Graffiti (1975) [FLAC] (Japan 2 Disc 32P2-2739)/CD1/03 - In My Time Of Dying.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Led Zeppelin - Physical Graffiti (1975) [FLAC] (Japan 2 Disc 32P2-2739)/CD1/Physical Graffiti [Disc 1].cue/4
 /mnt/synology/media/music/orpheus.network/flac/Led Zeppelin - Physical Graffiti (1975) [FLAC] (Japan 2 Disc 32P2-2739)/CD1/04 - Houses Of The Holy.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Led Zeppelin - Physical Graffiti (1975) [FLAC] (Japan 2 Disc 32P2-2739)/CD1/Physical Graffiti [Disc 1].cue/5
 /mnt/synology/media/music/orpheus.network/flac/Led Zeppelin - Physical Graffiti (1975) [FLAC] (Japan 2 Disc 32P2-2739)/CD1/05 - Trampled Under Foot.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Led Zeppelin - Physical Graffiti (1975) [FLAC] (Japan 2 Disc 32P2-2739)/CD1/Physical Graffiti [Disc 1].cue/6
 /mnt/synology/media/music/orpheus.network/flac/Led Zeppelin - Physical Graffiti (1975) [FLAC] (Japan 2 Disc 32P2-2739)/CD1/06 - Kashmir.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Led Zeppelin - Physical Graffiti (1975) [FLAC] (Japan 2 Disc 32P2-2739)/CD2/Physical Graffiti [Disc 2].cue/1
 /mnt/synology/media/music/orpheus.network/flac/Led Zeppelin - Physical Graffiti (1975) [FLAC] (Japan 2 Disc 32P2-2739)/CD2/01 - In The Light.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Led Zeppelin - Physical Graffiti (1975) [FLAC] (Japan 2 Disc 32P2-2739)/CD2/Physical Graffiti [Disc 2].cue/2
 /mnt/synology/media/music/orpheus.network/flac/Led Zeppelin - Physical Graffiti (1975) [FLAC] (Japan 2 Disc 32P2-2739)/CD2/02 - Bron-Yr-Aur.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Led Zeppelin - Physical Graffiti (1975) [FLAC] (Japan 2 Disc 32P2-2739)/CD2/Physical Graffiti [Disc 2].cue/3
 /mnt/synology/media/music/orpheus.network/flac/Led Zeppelin - Physical Graffiti (1975) [FLAC] (Japan 2 Disc 32P2-2739)/CD2/03 - Down By The Seaside.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Led Zeppelin - Physical Graffiti (1975) [FLAC] (Japan 2 Disc 32P2-2739)/CD2/Physical Graffiti [Disc 2].cue/4
 /mnt/synology/media/music/orpheus.network/flac/Led Zeppelin - Physical Graffiti (1975) [FLAC] (Japan 2 Disc 32P2-2739)/CD2/04 - Ten Years Gone.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Led Zeppelin - Physical Graffiti (1975) [FLAC] (Japan 2 Disc 32P2-2739)/CD2/Physical Graffiti [Disc 2].cue/5
 /mnt/synology/media/music/orpheus.network/flac/Led Zeppelin - Physical Graffiti (1975) [FLAC] (Japan 2 Disc 32P2-2739)/CD2/05 - Night Flight.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Led Zeppelin - Physical Graffiti (1975) [FLAC] (Japan 2 Disc 32P2-2739)/CD2/Physical Graffiti [Disc 2].cue/6
 /mnt/synology/media/music/orpheus.network/flac/Led Zeppelin - Physical Graffiti (1975) [FLAC] (Japan 2 Disc 32P2-2739)/CD2/06 - The Wanton Song.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Led Zeppelin - Physical Graffiti (1975) [FLAC] (Japan 2 Disc 32P2-2739)/CD2/Physical Graffiti [Disc 2].cue/7
 /mnt/synology/media/music/orpheus.network/flac/Led Zeppelin - Physical Graffiti (1975) [FLAC] (Japan 2 Disc 32P2-2739)/CD2/07 - Boogie With Stu.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Led Zeppelin - Physical Graffiti (1975) [FLAC] (Japan 2 Disc 32P2-2739)/CD2/Physical Graffiti [Disc 2].cue/8
 /mnt/synology/media/music/orpheus.network/flac/Led Zeppelin - Physical Graffiti (1975) [FLAC] (Japan 2 Disc 32P2-2739)/CD2/08 - Black Country Woman.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Led Zeppelin - Physical Graffiti (1975) [FLAC] (Japan 2 Disc 32P2-2739)/CD2/Physical Graffiti [Disc 2].cue/9
 /mnt/synology/media/music/orpheus.network/flac/Led Zeppelin - Physical Graffiti (1975) [FLAC] (Japan 2 Disc 32P2-2739)/CD2/09 - Sick Again.flac
@@ -13736,36 +12863,6 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Led Zeppelin - Physical Gra
 /mnt/synology/media/music/orpheus.network/flac/Leonard Cohen - Songs of Love and Hate (1971)(COL CD 32219)/06 - Famous Blue Raincoat.flac
 /mnt/synology/media/music/orpheus.network/flac/Leonard Cohen - Songs of Love and Hate (1971)(COL CD 32219)/07 - Sing Another Song, Boys.flac
 /mnt/synology/media/music/orpheus.network/flac/Leonard Cohen - Songs of Love and Hate (1971)(COL CD 32219)/08 - Joan of Arc.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/VA - Leon Vynehall - Fabric presents Leon Vynehall {FABRIC211} (2022) [CD-FLAC]/fabric presents Leon Vynehall.cue/1
-cue:///mnt/synology/media/music/orpheus.network/flac/VA - Leon Vynehall - Fabric presents Leon Vynehall {FABRIC211} (2022) [CD-FLAC]/fabric presents Leon Vynehall.cue/2
-cue:///mnt/synology/media/music/orpheus.network/flac/VA - Leon Vynehall - Fabric presents Leon Vynehall {FABRIC211} (2022) [CD-FLAC]/fabric presents Leon Vynehall.cue/3
-cue:///mnt/synology/media/music/orpheus.network/flac/VA - Leon Vynehall - Fabric presents Leon Vynehall {FABRIC211} (2022) [CD-FLAC]/fabric presents Leon Vynehall.cue/4
-cue:///mnt/synology/media/music/orpheus.network/flac/VA - Leon Vynehall - Fabric presents Leon Vynehall {FABRIC211} (2022) [CD-FLAC]/fabric presents Leon Vynehall.cue/5
-cue:///mnt/synology/media/music/orpheus.network/flac/VA - Leon Vynehall - Fabric presents Leon Vynehall {FABRIC211} (2022) [CD-FLAC]/fabric presents Leon Vynehall.cue/6
-cue:///mnt/synology/media/music/orpheus.network/flac/VA - Leon Vynehall - Fabric presents Leon Vynehall {FABRIC211} (2022) [CD-FLAC]/fabric presents Leon Vynehall.cue/7
-cue:///mnt/synology/media/music/orpheus.network/flac/VA - Leon Vynehall - Fabric presents Leon Vynehall {FABRIC211} (2022) [CD-FLAC]/fabric presents Leon Vynehall.cue/8
-cue:///mnt/synology/media/music/orpheus.network/flac/VA - Leon Vynehall - Fabric presents Leon Vynehall {FABRIC211} (2022) [CD-FLAC]/fabric presents Leon Vynehall.cue/10
-cue:///mnt/synology/media/music/orpheus.network/flac/VA - Leon Vynehall - Fabric presents Leon Vynehall {FABRIC211} (2022) [CD-FLAC]/fabric presents Leon Vynehall.cue/11
-cue:///mnt/synology/media/music/orpheus.network/flac/VA - Leon Vynehall - Fabric presents Leon Vynehall {FABRIC211} (2022) [CD-FLAC]/fabric presents Leon Vynehall.cue/12
-cue:///mnt/synology/media/music/orpheus.network/flac/VA - Leon Vynehall - Fabric presents Leon Vynehall {FABRIC211} (2022) [CD-FLAC]/fabric presents Leon Vynehall.cue/13
-cue:///mnt/synology/media/music/orpheus.network/flac/VA - Leon Vynehall - Fabric presents Leon Vynehall {FABRIC211} (2022) [CD-FLAC]/fabric presents Leon Vynehall.cue/14
-cue:///mnt/synology/media/music/orpheus.network/flac/VA - Leon Vynehall - Fabric presents Leon Vynehall {FABRIC211} (2022) [CD-FLAC]/fabric presents Leon Vynehall.cue/15
-cue:///mnt/synology/media/music/orpheus.network/flac/VA - Leon Vynehall - Fabric presents Leon Vynehall {FABRIC211} (2022) [CD-FLAC]/fabric presents Leon Vynehall.cue/16
-cue:///mnt/synology/media/music/orpheus.network/flac/VA - Leon Vynehall - Fabric presents Leon Vynehall {FABRIC211} (2022) [CD-FLAC]/fabric presents Leon Vynehall.cue/17
-cue:///mnt/synology/media/music/orpheus.network/flac/VA - Leon Vynehall - Fabric presents Leon Vynehall {FABRIC211} (2022) [CD-FLAC]/fabric presents Leon Vynehall.cue/18
-cue:///mnt/synology/media/music/orpheus.network/flac/VA - Leon Vynehall - Fabric presents Leon Vynehall {FABRIC211} (2022) [CD-FLAC]/fabric presents Leon Vynehall.cue/19
-cue:///mnt/synology/media/music/orpheus.network/flac/VA - Leon Vynehall - Fabric presents Leon Vynehall {FABRIC211} (2022) [CD-FLAC]/fabric presents Leon Vynehall.cue/21
-cue:///mnt/synology/media/music/orpheus.network/flac/VA - Leon Vynehall - Fabric presents Leon Vynehall {FABRIC211} (2022) [CD-FLAC]/fabric presents Leon Vynehall.cue/22
-cue:///mnt/synology/media/music/orpheus.network/flac/VA - Leon Vynehall - Fabric presents Leon Vynehall {FABRIC211} (2022) [CD-FLAC]/fabric presents Leon Vynehall.cue/23
-cue:///mnt/synology/media/music/orpheus.network/flac/VA - Leon Vynehall - Fabric presents Leon Vynehall {FABRIC211} (2022) [CD-FLAC]/fabric presents Leon Vynehall.cue/24
-cue:///mnt/synology/media/music/orpheus.network/flac/VA - Leon Vynehall - Fabric presents Leon Vynehall {FABRIC211} (2022) [CD-FLAC]/fabric presents Leon Vynehall.cue/25
-cue:///mnt/synology/media/music/orpheus.network/flac/VA - Leon Vynehall - Fabric presents Leon Vynehall {FABRIC211} (2022) [CD-FLAC]/fabric presents Leon Vynehall.cue/26
-cue:///mnt/synology/media/music/orpheus.network/flac/VA - Leon Vynehall - Fabric presents Leon Vynehall {FABRIC211} (2022) [CD-FLAC]/fabric presents Leon Vynehall.cue/27
-cue:///mnt/synology/media/music/orpheus.network/flac/VA - Leon Vynehall - Fabric presents Leon Vynehall {FABRIC211} (2022) [CD-FLAC]/fabric presents Leon Vynehall.cue/28
-cue:///mnt/synology/media/music/orpheus.network/flac/VA - Leon Vynehall - Fabric presents Leon Vynehall {FABRIC211} (2022) [CD-FLAC]/fabric presents Leon Vynehall.cue/29
-cue:///mnt/synology/media/music/orpheus.network/flac/VA - Leon Vynehall - Fabric presents Leon Vynehall {FABRIC211} (2022) [CD-FLAC]/fabric presents Leon Vynehall.cue/30
-cue:///mnt/synology/media/music/orpheus.network/flac/VA - Leon Vynehall - Fabric presents Leon Vynehall {FABRIC211} (2022) [CD-FLAC]/fabric presents Leon Vynehall.cue/31
-cue:///mnt/synology/media/music/orpheus.network/flac/VA - Leon Vynehall - Fabric presents Leon Vynehall {FABRIC211} (2022) [CD-FLAC]/fabric presents Leon Vynehall.cue/32
 cue:///mnt/synology/media/music/orpheus.network/flac/VA - Leon Vynehall - Fabric presents Leon Vynehall {FABRIC211} (2022) [CD-FLAC]/fabric presents Leon Vynehall.cue/33
 /mnt/synology/media/music/orpheus.network/flac/VA - Leon Vynehall - Fabric presents Leon Vynehall {FABRIC211} (2022) [CD-FLAC]/01 - Leon Vynehall - Climb Into The Cistern.flac
 /mnt/synology/media/music/orpheus.network/flac/VA - Leon Vynehall - Fabric presents Leon Vynehall {FABRIC211} (2022) [CD-FLAC]/02 - Zebrablood - Whatcomesup96.flac
@@ -13884,11 +12981,6 @@ cue:///mnt/synology/media/music/orpheus.network/flac/VA - Leon Vynehall - Fabric
 /mnt/synology/media/music/orpheus.network/flac/Lester Bowie - The Great Pretender (2000) {ECM 1209_829 369-2} [FLAC-CD]/04 Rios Negroes.flac
 /mnt/synology/media/music/orpheus.network/flac/Lester Bowie - The Great Pretender (2000) {ECM 1209_829 369-2} [FLAC-CD]/05 Rose Drop.flac
 /mnt/synology/media/music/orpheus.network/flac/Lester Bowie - The Great Pretender (2000) {ECM 1209_829 369-2} [FLAC-CD]/06 Oh, How the Ghost Sings.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Lester Bowie - The Great Pretender (2000) {ECM 1209_829 369-2} [FLAC-CD]/The Great Pretender.cue/1
-cue:///mnt/synology/media/music/orpheus.network/flac/Lester Bowie - The Great Pretender (2000) {ECM 1209_829 369-2} [FLAC-CD]/The Great Pretender.cue/2
-cue:///mnt/synology/media/music/orpheus.network/flac/Lester Bowie - The Great Pretender (2000) {ECM 1209_829 369-2} [FLAC-CD]/The Great Pretender.cue/3
-cue:///mnt/synology/media/music/orpheus.network/flac/Lester Bowie - The Great Pretender (2000) {ECM 1209_829 369-2} [FLAC-CD]/The Great Pretender.cue/4
-cue:///mnt/synology/media/music/orpheus.network/flac/Lester Bowie - The Great Pretender (2000) {ECM 1209_829 369-2} [FLAC-CD]/The Great Pretender.cue/5
 cue:///mnt/synology/media/music/orpheus.network/flac/Lester Bowie - The Great Pretender (2000) {ECM 1209_829 369-2} [FLAC-CD]/The Great Pretender.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Leviathan - The Tenth Sub Level Of Suicide/01 - Introit.flac
 /mnt/synology/media/music/orpheus.network/flac/Leviathan - The Tenth Sub Level Of Suicide/02 - Fucking Your Ghost In Chains Of Ice.flac
@@ -13900,27 +12992,16 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Lester Bowie - The Great Pr
 /mnt/synology/media/music/orpheus.network/flac/Leviathan - The Tenth Sub Level Of Suicide/08 - Mine Molten Armor.flac
 /mnt/synology/media/music/orpheus.network/flac/Leviathan - The Tenth Sub Level Of Suicide/09 - The Idiot Sun.flac
 /mnt/synology/media/music/orpheus.network/flac/Leviathan - The Tenth Sub Level Of Suicide/10 - At The Door To The Tenth Sub Level Of Suicide.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Lifetime - Jersey's Best Dancers (1997) [FLAC]/Jersey's Best Dancers.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Lifetime - Jersey's Best Dancers (1997) [FLAC]/01 - Lifetime - Turnpike Gates.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Lifetime - Jersey's Best Dancers (1997) [FLAC]/Jersey's Best Dancers.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Lifetime - Jersey's Best Dancers (1997) [FLAC]/02 - Lifetime - Young, Loud And Scotty.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Lifetime - Jersey's Best Dancers (1997) [FLAC]/Jersey's Best Dancers.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Lifetime - Jersey's Best Dancers (1997) [FLAC]/03 - Lifetime - Francie Nolan.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Lifetime - Jersey's Best Dancers (1997) [FLAC]/Jersey's Best Dancers.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Lifetime - Jersey's Best Dancers (1997) [FLAC]/04 - Lifetime - 25 Cent Giraffes.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Lifetime - Jersey's Best Dancers (1997) [FLAC]/Jersey's Best Dancers.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Lifetime - Jersey's Best Dancers (1997) [FLAC]/05 - Lifetime - Hey Catrine.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Lifetime - Jersey's Best Dancers (1997) [FLAC]/Jersey's Best Dancers.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Lifetime - Jersey's Best Dancers (1997) [FLAC]/06 - Lifetime - Bringin' It Backwards.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Lifetime - Jersey's Best Dancers (1997) [FLAC]/Jersey's Best Dancers.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Lifetime - Jersey's Best Dancers (1997) [FLAC]/07 - Lifetime - How We Are.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Lifetime - Jersey's Best Dancers (1997) [FLAC]/Jersey's Best Dancers.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Lifetime - Jersey's Best Dancers (1997) [FLAC]/08 - Lifetime - Theme Song For A New Brunswick Basement Show.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Lifetime - Jersey's Best Dancers (1997) [FLAC]/Jersey's Best Dancers.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Lifetime - Jersey's Best Dancers (1997) [FLAC]/09 - Lifetime - Cut The Tension.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Lifetime - Jersey's Best Dancers (1997) [FLAC]/Jersey's Best Dancers.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Lifetime - Jersey's Best Dancers (1997) [FLAC]/10 - Lifetime - The Truth About Lars.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Lifetime - Jersey's Best Dancers (1997) [FLAC]/Jersey's Best Dancers.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Lifetime - Jersey's Best Dancers (1997) [FLAC]/11 - Lifetime - The Boy's No Good.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Lifetime - Jersey's Best Dancers (1997) [FLAC]/Jersey's Best Dancers.cue/12
 /mnt/synology/media/music/orpheus.network/flac/Lifetime - Jersey's Best Dancers (1997) [FLAC]/12 - Lifetime - The Verona Kings.flac
@@ -13936,19 +13017,14 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Lifetime - Jersey's Best Da
 /mnt/synology/media/music/orpheus.network/flac/Life Without Buildings - Any Other City (2014) - FLAC/10 Sorrow.flac
 /mnt/synology/media/music/orpheus.network/flac/Life Without Buildings - Any Other City (2014) - FLAC/11 The Leanover.flac
 /mnt/synology/media/music/orpheus.network/flac/Life Without Buildings - Any Other City (2014) - FLAC/12 New Town.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Lightwave - Mundus Subterraneus [2006 Edition][FLAC]/Lightwave - Mundus Subterraneus.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Lightwave - Mundus Subterraneus [2006 Edition][FLAC]/01 De Motu Pendolorum.flac
 /mnt/synology/media/music/orpheus.network/flac/Lightwave - Mundus Subterraneus [2006 Edition][FLAC]/02 Cabinet de Curiosités 1.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Lightwave - Mundus Subterraneus [2006 Edition][FLAC]/Lightwave - Mundus Subterraneus.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Lightwave - Mundus Subterraneus [2006 Edition][FLAC]/03 Cabinet de Curiosités 2.flac
 /mnt/synology/media/music/orpheus.network/flac/Lightwave - Mundus Subterraneus [2006 Edition][FLAC]/04 Nekyomanteia.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Lightwave - Mundus Subterraneus [2006 Edition][FLAC]/Lightwave - Mundus Subterraneus.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Lightwave - Mundus Subterraneus [2006 Edition][FLAC]/05 Sonnestürme.flac
 /mnt/synology/media/music/orpheus.network/flac/Lightwave - Mundus Subterraneus [2006 Edition][FLAC]/06 Towards the Abyss.flac
 /mnt/synology/media/music/orpheus.network/flac/Lightwave - Mundus Subterraneus [2006 Edition][FLAC]/07 Glissement d'âme.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Lightwave - Mundus Subterraneus [2006 Edition][FLAC]/Lightwave - Mundus Subterraneus.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Lightwave - Mundus Subterraneus [2006 Edition][FLAC]/08 Roma Barocca.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Lightwave - Mundus Subterraneus [2006 Edition][FLAC]/Lightwave - Mundus Subterraneus.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Lightwave - Mundus Subterraneus [2006 Edition][FLAC]/09 Ascension.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Lightwave - Mundus Subterraneus [2006 Edition][FLAC]/Lightwave - Mundus Subterraneus.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Lightwave - Mundus Subterraneus [2006 Edition][FLAC]/10 Mapping the Earth.flac
@@ -14103,11 +13179,6 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Lightwave - Mundus Subterra
 /mnt/synology/media/music/orpheus.network/flac/Long Distance Calling - Avoid the Light (2009) [CD FLAC] [SBMCD 009]/04 - I Know You, Stanley Milgram!.flac
 /mnt/synology/media/music/orpheus.network/flac/Long Distance Calling - Avoid the Light (2009) [CD FLAC] [SBMCD 009]/05 - The Nearing Grave.flac
 /mnt/synology/media/music/orpheus.network/flac/Long Distance Calling - Avoid the Light (2009) [CD FLAC] [SBMCD 009]/06 - Sundown Highway.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Long Distance Calling - Avoid the Light (2009) [CD FLAC] [SBMCD 009]/Avoid the Light.cue/1
-cue:///mnt/synology/media/music/orpheus.network/flac/Long Distance Calling - Avoid the Light (2009) [CD FLAC] [SBMCD 009]/Avoid the Light.cue/2
-cue:///mnt/synology/media/music/orpheus.network/flac/Long Distance Calling - Avoid the Light (2009) [CD FLAC] [SBMCD 009]/Avoid the Light.cue/3
-cue:///mnt/synology/media/music/orpheus.network/flac/Long Distance Calling - Avoid the Light (2009) [CD FLAC] [SBMCD 009]/Avoid the Light.cue/4
-cue:///mnt/synology/media/music/orpheus.network/flac/Long Distance Calling - Avoid the Light (2009) [CD FLAC] [SBMCD 009]/Avoid the Light.cue/5
 cue:///mnt/synology/media/music/orpheus.network/flac/Long Distance Calling - Avoid the Light (2009) [CD FLAC] [SBMCD 009]/Avoid the Light.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Lord Snow - Solitude (2013) FLAC/01. Selfish Sleep.flac
 /mnt/synology/media/music/orpheus.network/flac/Lord Snow - Solitude (2013) FLAC/02. Dark Cloud.flac
@@ -14205,25 +13276,15 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Long Distance Calling - Avo
 /mnt/synology/media/music/orpheus.network/flac/Lou Reed - The Blue Mask (1982) [FLAC] {1999 Reissue}/08. Waves of Fear.flac
 /mnt/synology/media/music/orpheus.network/flac/Lou Reed - The Blue Mask (1982) [FLAC] {1999 Reissue}/09. The Day John Kennedy Died.flac
 /mnt/synology/media/music/orpheus.network/flac/Lou Reed - The Blue Mask (1982) [FLAC] {1999 Reissue}/10. Heavenly Arms.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Love - 1967 - Forever Changes (MFSL) [FLAC]/Forever Changes (MFSL).cue/1
 /mnt/synology/media/music/orpheus.network/flac/Love - 1967 - Forever Changes (MFSL) [FLAC]/01 Alone Again Or.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Love - 1967 - Forever Changes (MFSL) [FLAC]/Forever Changes (MFSL).cue/2
 /mnt/synology/media/music/orpheus.network/flac/Love - 1967 - Forever Changes (MFSL) [FLAC]/02 A House Is Not A Motel.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Love - 1967 - Forever Changes (MFSL) [FLAC]/Forever Changes (MFSL).cue/3
 /mnt/synology/media/music/orpheus.network/flac/Love - 1967 - Forever Changes (MFSL) [FLAC]/03 Andmoreagain.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Love - 1967 - Forever Changes (MFSL) [FLAC]/Forever Changes (MFSL).cue/4
 /mnt/synology/media/music/orpheus.network/flac/Love - 1967 - Forever Changes (MFSL) [FLAC]/04 The Daily Planet.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Love - 1967 - Forever Changes (MFSL) [FLAC]/Forever Changes (MFSL).cue/5
 /mnt/synology/media/music/orpheus.network/flac/Love - 1967 - Forever Changes (MFSL) [FLAC]/05 Old Man.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Love - 1967 - Forever Changes (MFSL) [FLAC]/Forever Changes (MFSL).cue/6
 /mnt/synology/media/music/orpheus.network/flac/Love - 1967 - Forever Changes (MFSL) [FLAC]/06 The Red Telephone.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Love - 1967 - Forever Changes (MFSL) [FLAC]/Forever Changes (MFSL).cue/7
 /mnt/synology/media/music/orpheus.network/flac/Love - 1967 - Forever Changes (MFSL) [FLAC]/07 Maybe The People Would Be The Times Or Between Clark And Hilldale.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Love - 1967 - Forever Changes (MFSL) [FLAC]/Forever Changes (MFSL).cue/8
 /mnt/synology/media/music/orpheus.network/flac/Love - 1967 - Forever Changes (MFSL) [FLAC]/08 Live And Let Live.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Love - 1967 - Forever Changes (MFSL) [FLAC]/Forever Changes (MFSL).cue/9
 /mnt/synology/media/music/orpheus.network/flac/Love - 1967 - Forever Changes (MFSL) [FLAC]/09 The Good Humor Man He Sees Everything Like This.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Love - 1967 - Forever Changes (MFSL) [FLAC]/Forever Changes (MFSL).cue/10
 /mnt/synology/media/music/orpheus.network/flac/Love - 1967 - Forever Changes (MFSL) [FLAC]/10 Bummer In The Summer.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Love - 1967 - Forever Changes (MFSL) [FLAC]/Forever Changes (MFSL).cue/11
 /mnt/synology/media/music/orpheus.network/flac/Love - 1967 - Forever Changes (MFSL) [FLAC]/11 You Set The Scene.flac
@@ -14235,21 +13296,13 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Love - 1967 - Forever Chang
 /mnt/synology/media/music/redacted.ch/flac/Love, Claire - The Forgotten Cinema LP/Love, Claire - The Forgotten Cinema LP - 06 Infinite.flac
 /mnt/synology/media/music/redacted.ch/flac/Love, Claire - The Forgotten Cinema LP/Love, Claire - The Forgotten Cinema LP - 07 Seaplane.flac
 /mnt/synology/media/music/redacted.ch/flac/Love, Claire - The Forgotten Cinema LP/Love, Claire - The Forgotten Cinema LP - 08 The Lonesome Marauder.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Love Lost But Not Forgotten - Upon The Right, I Saw A New Misery (2002) [FLAC] {HCNL024}/Upon The Right, I Saw A New Misery.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Love Lost But Not Forgotten - Upon The Right, I Saw A New Misery (2002) [FLAC] {HCNL024}/01 New Misery.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Love Lost But Not Forgotten - Upon The Right, I Saw A New Misery (2002) [FLAC] {HCNL024}/Upon The Right, I Saw A New Misery.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Love Lost But Not Forgotten - Upon The Right, I Saw A New Misery (2002) [FLAC] {HCNL024}/02 Typical Fashion.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Love Lost But Not Forgotten - Upon The Right, I Saw A New Misery (2002) [FLAC] {HCNL024}/Upon The Right, I Saw A New Misery.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Love Lost But Not Forgotten - Upon The Right, I Saw A New Misery (2002) [FLAC] {HCNL024}/03 Headless. Sleeping Soundly.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Love Lost But Not Forgotten - Upon The Right, I Saw A New Misery (2002) [FLAC] {HCNL024}/Upon The Right, I Saw A New Misery.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Love Lost But Not Forgotten - Upon The Right, I Saw A New Misery (2002) [FLAC] {HCNL024}/04 Calm and Secure.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Love Lost But Not Forgotten - Upon The Right, I Saw A New Misery (2002) [FLAC] {HCNL024}/Upon The Right, I Saw A New Misery.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Love Lost But Not Forgotten - Upon The Right, I Saw A New Misery (2002) [FLAC] {HCNL024}/05 It Never Happened.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Love Lost But Not Forgotten - Upon The Right, I Saw A New Misery (2002) [FLAC] {HCNL024}/Upon The Right, I Saw A New Misery.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Love Lost But Not Forgotten - Upon The Right, I Saw A New Misery (2002) [FLAC] {HCNL024}/06 Perfectly Fucked.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Love Lost But Not Forgotten - Upon The Right, I Saw A New Misery (2002) [FLAC] {HCNL024}/Upon The Right, I Saw A New Misery.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Love Lost But Not Forgotten - Upon The Right, I Saw A New Misery (2002) [FLAC] {HCNL024}/07 What's Left of Shitlife.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Love Lost But Not Forgotten - Upon The Right, I Saw A New Misery (2002) [FLAC] {HCNL024}/Upon The Right, I Saw A New Misery.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Love Lost But Not Forgotten - Upon The Right, I Saw A New Misery (2002) [FLAC] {HCNL024}/08 Happy to be Alive.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Love Lost But Not Forgotten - Upon The Right, I Saw A New Misery (2002) [FLAC] {HCNL024}/Upon The Right, I Saw A New Misery.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Love Lost But Not Forgotten - Upon The Right, I Saw A New Misery (2002) [FLAC] {HCNL024}/09 Nobody's Watching Department 23.flac
@@ -14673,7 +13726,6 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Love Lost But Not Forgotten
 /mnt/synology/media/music/orpheus.network/flac/Mars - Mars LP (2004) [FLAC] [No. 14]/09 - Outside Africa.flac
 /mnt/synology/media/music/orpheus.network/flac/Mars - Mars LP (2004) [FLAC] [No. 14]/10 - Monopoly.flac
 /mnt/synology/media/music/orpheus.network/flac/Mars - Mars LP (2004) [FLAC] [No. 14]/11 - The Immediate Stages Of The Erotic.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Compilations - Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition) (2021) [FLAC]/Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition).cue/8
 /mnt/synology/media/music/orpheus.network/flac/Compilations - Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition) (2021) [FLAC]/08 3E.flac
 /mnt/synology/media/music/orpheus.network/flac/Masayuki Takayanagi & Kaoru Abe - Mass Projection (2001) CD FLAC/01 - Mass Projection 1.flac
 /mnt/synology/media/music/orpheus.network/flac/Masayuki Takayanagi & Kaoru Abe - Mass Projection (2001) CD FLAC/02 - Mass Projection 2.flac
@@ -14973,35 +14025,21 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Compilations - Fame- Jon Sa
 /mnt/synology/media/music/orpheus.network/flac/Mayhem-Henhouse_Recordings-(CDVILEDX771)-CD-FLAC-2019-WRE/10-mayhem-freezing_moon.flac
 /mnt/synology/media/music/orpheus.network/flac/Mayhem-Henhouse_Recordings-(CDVILEDX771)-CD-FLAC-2019-WRE/11-mayhem-chansaw_gutsfuck.flac
 /mnt/synology/media/music/orpheus.network/flac/Mayhem-Henhouse_Recordings-(CDVILEDX771)-CD-FLAC-2019-WRE/12-mayhem-pure_fucking_armageddon.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/MAYHEM Live in Jessheim (2019) [FLAC 16-44]/Live in Jessheim.cue/1
 /mnt/synology/media/music/orpheus.network/flac/MAYHEM Live in Jessheim (2019) [FLAC 16-44]/01 Deathcrush.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/MAYHEM Live in Jessheim (2019) [FLAC 16-44]/Live in Jessheim.cue/2
 /mnt/synology/media/music/orpheus.network/flac/MAYHEM Live in Jessheim (2019) [FLAC 16-44]/02 Necrolust.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/MAYHEM Live in Jessheim (2019) [FLAC 16-44]/Live in Jessheim.cue/3
 /mnt/synology/media/music/orpheus.network/flac/MAYHEM Live in Jessheim (2019) [FLAC 16-44]/03 Funeral Fog.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/MAYHEM Live in Jessheim (2019) [FLAC 16-44]/Live in Jessheim.cue/4
 /mnt/synology/media/music/orpheus.network/flac/MAYHEM Live in Jessheim (2019) [FLAC 16-44]/04 Freezing Moon.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/MAYHEM Live in Jessheim (2019) [FLAC 16-44]/Live in Jessheim.cue/5
 /mnt/synology/media/music/orpheus.network/flac/MAYHEM Live in Jessheim (2019) [FLAC 16-44]/05 Carnage.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/MAYHEM Live in Jessheim (2019) [FLAC 16-44]/Live in Jessheim.cue/6
 /mnt/synology/media/music/orpheus.network/flac/MAYHEM Live in Jessheim (2019) [FLAC 16-44]/06 Buried by Time and Dust.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/MAYHEM Live in Jessheim (2019) [FLAC 16-44]/Live in Jessheim.cue/7
 /mnt/synology/media/music/orpheus.network/flac/MAYHEM Live in Jessheim (2019) [FLAC 16-44]/07 Chainsaw Gutsfuck.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/MAYHEM Live in Jessheim (2019) [FLAC 16-44]/Live in Jessheim.cue/8
 /mnt/synology/media/music/orpheus.network/flac/MAYHEM Live in Jessheim (2019) [FLAC 16-44]/08 Pure Fucking Armageddon.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/MAYHEM Live in Sarpsborg (2019) [FLAC]/Live in Sarpsborg.cue/1
 /mnt/synology/media/music/orpheus.network/flac/MAYHEM Live in Sarpsborg (2019) [FLAC]/01 Deathcrush.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/MAYHEM Live in Sarpsborg (2019) [FLAC]/Live in Sarpsborg.cue/2
 /mnt/synology/media/music/orpheus.network/flac/MAYHEM Live in Sarpsborg (2019) [FLAC]/02 Necrolust.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/MAYHEM Live in Sarpsborg (2019) [FLAC]/Live in Sarpsborg.cue/3
 /mnt/synology/media/music/orpheus.network/flac/MAYHEM Live in Sarpsborg (2019) [FLAC]/03 Funeral Fog.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/MAYHEM Live in Sarpsborg (2019) [FLAC]/Live in Sarpsborg.cue/4
 /mnt/synology/media/music/orpheus.network/flac/MAYHEM Live in Sarpsborg (2019) [FLAC]/04 Freezing Moon.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/MAYHEM Live in Sarpsborg (2019) [FLAC]/Live in Sarpsborg.cue/5
 /mnt/synology/media/music/orpheus.network/flac/MAYHEM Live in Sarpsborg (2019) [FLAC]/05 Carnage.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/MAYHEM Live in Sarpsborg (2019) [FLAC]/Live in Sarpsborg.cue/6
 /mnt/synology/media/music/orpheus.network/flac/MAYHEM Live in Sarpsborg (2019) [FLAC]/06 Buried by Time and Dust.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/MAYHEM Live in Sarpsborg (2019) [FLAC]/Live in Sarpsborg.cue/7
 /mnt/synology/media/music/orpheus.network/flac/MAYHEM Live in Sarpsborg (2019) [FLAC]/07 Chainsaw Gutsfuck.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/MAYHEM Live in Sarpsborg (2019) [FLAC]/Live in Sarpsborg.cue/8
 /mnt/synology/media/music/orpheus.network/flac/MAYHEM Live in Sarpsborg (2019) [FLAC]/08 Pure Fucking Armageddon.flac
@@ -15103,19 +14141,12 @@ cue:///mnt/synology/media/music/orpheus.network/flac/MAYHEM Live in Sarpsborg (2
 /mnt/synology/media/music/redacted.ch/flac/Melechesh - Emissaries (2006)/09. Sand Grain Universe.flac
 /mnt/synology/media/music/redacted.ch/flac/Melechesh - Emissaries (2006)/10. Emissaries and the Mysterium Magnum.flac
 /mnt/synology/media/music/redacted.ch/flac/Melechesh - Emissaries (2006)/11. Extemporized Ophthalmic Release.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Melvins - Bullhead [FLAC]/Melvins - Bullhead.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Melvins - Bullhead [FLAC]/01 Boris.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Melvins - Bullhead [FLAC]/Melvins - Bullhead.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Melvins - Bullhead [FLAC]/02 Anaconda.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Melvins - Bullhead [FLAC]/Melvins - Bullhead.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Melvins - Bullhead [FLAC]/03 Ligature.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Melvins - Bullhead [FLAC]/Melvins - Bullhead.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Melvins - Bullhead [FLAC]/04 It's Shoved.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Melvins - Bullhead [FLAC]/Melvins - Bullhead.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Melvins - Bullhead [FLAC]/05 Zodiac.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Melvins - Bullhead [FLAC]/Melvins - Bullhead.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Melvins - Bullhead [FLAC]/06 If I Had an Exorcism.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Melvins - Bullhead [FLAC]/Melvins - Bullhead.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Melvins - Bullhead [FLAC]/07 Your Blessened.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Melvins - Bullhead [FLAC]/Melvins - Bullhead.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Melvins - Bullhead [FLAC]/08 Cow.flac
@@ -15173,87 +14204,51 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Melvins - Bullhead [FLAC]/M
 /mnt/synology/media/music/orpheus.network/flac/Mercury Rev – Deserter's Songs (1998) {63881-27027-2 CD} [FLAC]/10 - Pick Up If You're There.flac
 /mnt/synology/media/music/orpheus.network/flac/Mercury Rev – Deserter's Songs (1998) {63881-27027-2 CD} [FLAC]/11 - Delta Sun Bottleneck Stomp.flac
 /mnt/synology/media/music/orpheus.network/flac/Mercury Rev – Deserter's Songs (1998) {63881-27027-2 CD} [FLAC]/12 - [untitled].flac
-cue:///mnt/synology/media/music/redacted.ch/flac/Mercyful Fate - Melissa [2005 Remaster][FLAC]/Mercyful Fate - Melissa.cue/1
 /mnt/synology/media/music/redacted.ch/flac/Mercyful Fate - Melissa [2005 Remaster][FLAC]/01 Evil.flac
-cue:///mnt/synology/media/music/redacted.ch/flac/Mercyful Fate - Melissa [2005 Remaster][FLAC]/Mercyful Fate - Melissa.cue/2
 /mnt/synology/media/music/redacted.ch/flac/Mercyful Fate - Melissa [2005 Remaster][FLAC]/02 Curse of the Pharaohs.flac
-cue:///mnt/synology/media/music/redacted.ch/flac/Mercyful Fate - Melissa [2005 Remaster][FLAC]/Mercyful Fate - Melissa.cue/3
 /mnt/synology/media/music/redacted.ch/flac/Mercyful Fate - Melissa [2005 Remaster][FLAC]/03 Into the Coven.flac
-cue:///mnt/synology/media/music/redacted.ch/flac/Mercyful Fate - Melissa [2005 Remaster][FLAC]/Mercyful Fate - Melissa.cue/4
 /mnt/synology/media/music/redacted.ch/flac/Mercyful Fate - Melissa [2005 Remaster][FLAC]/04 At the Sound of the Demon Bell.flac
-cue:///mnt/synology/media/music/redacted.ch/flac/Mercyful Fate - Melissa [2005 Remaster][FLAC]/Mercyful Fate - Melissa.cue/5
 /mnt/synology/media/music/redacted.ch/flac/Mercyful Fate - Melissa [2005 Remaster][FLAC]/05 Black Funeral.flac
-cue:///mnt/synology/media/music/redacted.ch/flac/Mercyful Fate - Melissa [2005 Remaster][FLAC]/Mercyful Fate - Melissa.cue/6
 /mnt/synology/media/music/redacted.ch/flac/Mercyful Fate - Melissa [2005 Remaster][FLAC]/06 Satan's Fall.flac
-cue:///mnt/synology/media/music/redacted.ch/flac/Mercyful Fate - Melissa [2005 Remaster][FLAC]/Mercyful Fate - Melissa.cue/7
 /mnt/synology/media/music/redacted.ch/flac/Mercyful Fate - Melissa [2005 Remaster][FLAC]/07 Melissa.flac
-cue:///mnt/synology/media/music/redacted.ch/flac/Mercyful Fate - Melissa [2005 Remaster][FLAC]/Mercyful Fate - Melissa.cue/8
 /mnt/synology/media/music/redacted.ch/flac/Mercyful Fate - Melissa [2005 Remaster][FLAC]/08 Black Masses.flac
-cue:///mnt/synology/media/music/redacted.ch/flac/Mercyful Fate - Melissa [2005 Remaster][FLAC]/Mercyful Fate - Melissa.cue/9
 /mnt/synology/media/music/redacted.ch/flac/Mercyful Fate - Melissa [2005 Remaster][FLAC]/09 Curse of the Pharaohs [BBC Radio 1 Session].flac
-cue:///mnt/synology/media/music/redacted.ch/flac/Mercyful Fate - Melissa [2005 Remaster][FLAC]/Mercyful Fate - Melissa.cue/10
 /mnt/synology/media/music/redacted.ch/flac/Mercyful Fate - Melissa [2005 Remaster][FLAC]/10 Evil [BBC Radio 1 Session].flac
-cue:///mnt/synology/media/music/redacted.ch/flac/Mercyful Fate - Melissa [2005 Remaster][FLAC]/Mercyful Fate - Melissa.cue/11
 /mnt/synology/media/music/redacted.ch/flac/Mercyful Fate - Melissa [2005 Remaster][FLAC]/11 Satan's Fall [BBC Radio 1 Session].flac
-cue:///mnt/synology/media/music/redacted.ch/flac/Mercyful Fate - Melissa [2005 Remaster][FLAC]/Mercyful Fate - Melissa.cue/12
 /mnt/synology/media/music/redacted.ch/flac/Mercyful Fate - Melissa [2005 Remaster][FLAC]/12 Curse of the Pharaohs [Demo Version].flac
 cue:///mnt/synology/media/music/redacted.ch/flac/Mercyful Fate - Melissa [2005 Remaster][FLAC]/Mercyful Fate - Melissa.cue/13
 /mnt/synology/media/music/redacted.ch/flac/Mercyful Fate - Melissa [2005 Remaster][FLAC]/13 Black Funeral [Demo].flac
-cue:///mnt/synology/media/music/redacted.ch/flac/Mercyful Fate - Don't Break the Oath [1997 Remaster][FLAC]/Mercyful Fate - Don't Break the Oath.cue/1
 /mnt/synology/media/music/redacted.ch/flac/Mercyful Fate - Don't Break the Oath [1997 Remaster][FLAC]/01 A Dangerous Meeting.flac
-cue:///mnt/synology/media/music/redacted.ch/flac/Mercyful Fate - Don't Break the Oath [1997 Remaster][FLAC]/Mercyful Fate - Don't Break the Oath.cue/2
 /mnt/synology/media/music/redacted.ch/flac/Mercyful Fate - Don't Break the Oath [1997 Remaster][FLAC]/02 Nightmare.flac
-cue:///mnt/synology/media/music/redacted.ch/flac/Mercyful Fate - Don't Break the Oath [1997 Remaster][FLAC]/Mercyful Fate - Don't Break the Oath.cue/3
 /mnt/synology/media/music/redacted.ch/flac/Mercyful Fate - Don't Break the Oath [1997 Remaster][FLAC]/03 Desecration of Souls.flac
-cue:///mnt/synology/media/music/redacted.ch/flac/Mercyful Fate - Don't Break the Oath [1997 Remaster][FLAC]/Mercyful Fate - Don't Break the Oath.cue/4
 /mnt/synology/media/music/redacted.ch/flac/Mercyful Fate - Don't Break the Oath [1997 Remaster][FLAC]/04 Night of the Unborn.flac
-cue:///mnt/synology/media/music/redacted.ch/flac/Mercyful Fate - Don't Break the Oath [1997 Remaster][FLAC]/Mercyful Fate - Don't Break the Oath.cue/5
 /mnt/synology/media/music/redacted.ch/flac/Mercyful Fate - Don't Break the Oath [1997 Remaster][FLAC]/05 The Oath.flac
-cue:///mnt/synology/media/music/redacted.ch/flac/Mercyful Fate - Don't Break the Oath [1997 Remaster][FLAC]/Mercyful Fate - Don't Break the Oath.cue/6
 /mnt/synology/media/music/redacted.ch/flac/Mercyful Fate - Don't Break the Oath [1997 Remaster][FLAC]/06 Gypsy.flac
-cue:///mnt/synology/media/music/redacted.ch/flac/Mercyful Fate - Don't Break the Oath [1997 Remaster][FLAC]/Mercyful Fate - Don't Break the Oath.cue/7
 /mnt/synology/media/music/redacted.ch/flac/Mercyful Fate - Don't Break the Oath [1997 Remaster][FLAC]/07 Welcome Princes of Hell.flac
-cue:///mnt/synology/media/music/redacted.ch/flac/Mercyful Fate - Don't Break the Oath [1997 Remaster][FLAC]/Mercyful Fate - Don't Break the Oath.cue/8
 /mnt/synology/media/music/redacted.ch/flac/Mercyful Fate - Don't Break the Oath [1997 Remaster][FLAC]/08 To One Far Away.flac
-cue:///mnt/synology/media/music/redacted.ch/flac/Mercyful Fate - Don't Break the Oath [1997 Remaster][FLAC]/Mercyful Fate - Don't Break the Oath.cue/9
 /mnt/synology/media/music/redacted.ch/flac/Mercyful Fate - Don't Break the Oath [1997 Remaster][FLAC]/09 Come to the Sabbath.flac
 cue:///mnt/synology/media/music/redacted.ch/flac/Mercyful Fate - Don't Break the Oath [1997 Remaster][FLAC]/Mercyful Fate - Don't Break the Oath.cue/10
 /mnt/synology/media/music/redacted.ch/flac/Mercyful Fate - Don't Break the Oath [1997 Remaster][FLAC]/10 Death Kiss [Demo Version].flac
 /mnt/synology/media/music/orpheus.network/flac/Aphex_Twin-Classics_(Remastered)-(RS95035XI)-FLAC-2011/11-mescalinum_united-we_have_arrived_(aphex_twin_qqt_mix).flac
 /mnt/synology/media/music/orpheus.network/flac/Aphex_Twin-Classics_(Remastered)-(RS95035XI)-FLAC-2011/12-mescalinum_united-we_have_arrived_(aphex_twin_ttq_mix).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Metallica - Kill 'Em All (1983) {Megaforce Records MRI CD 069} [FLAC]/Kill 'Em All.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Metallica - Kill 'Em All (1983) {Megaforce Records MRI CD 069} [FLAC]/01 Hit The Lights.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Metallica - Kill 'Em All (1983) {Megaforce Records MRI CD 069} [FLAC]/Kill 'Em All.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Metallica - Kill 'Em All (1983) {Megaforce Records MRI CD 069} [FLAC]/02 The Four Horsemen.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Metallica - Kill 'Em All (1983) {Megaforce Records MRI CD 069} [FLAC]/Kill 'Em All.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Metallica - Kill 'Em All (1983) {Megaforce Records MRI CD 069} [FLAC]/03 Motorbreath.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Metallica - Kill 'Em All (1983) {Megaforce Records MRI CD 069} [FLAC]/Kill 'Em All.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Metallica - Kill 'Em All (1983) {Megaforce Records MRI CD 069} [FLAC]/04 Jump In The Fire.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Metallica - Kill 'Em All (1983) {Megaforce Records MRI CD 069} [FLAC]/Kill 'Em All.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Metallica - Kill 'Em All (1983) {Megaforce Records MRI CD 069} [FLAC]/05 (Anesthesia) Pulling Teeth.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Metallica - Kill 'Em All (1983) {Megaforce Records MRI CD 069} [FLAC]/Kill 'Em All.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Metallica - Kill 'Em All (1983) {Megaforce Records MRI CD 069} [FLAC]/06 Whiplash.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Metallica - Kill 'Em All (1983) {Megaforce Records MRI CD 069} [FLAC]/Kill 'Em All.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Metallica - Kill 'Em All (1983) {Megaforce Records MRI CD 069} [FLAC]/07 Phantom Lord.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Metallica - Kill 'Em All (1983) {Megaforce Records MRI CD 069} [FLAC]/Kill 'Em All.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Metallica - Kill 'Em All (1983) {Megaforce Records MRI CD 069} [FLAC]/08 No Remorse.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Metallica - Kill 'Em All (1983) {Megaforce Records MRI CD 069} [FLAC]/Kill 'Em All.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Metallica - Kill 'Em All (1983) {Megaforce Records MRI CD 069} [FLAC]/09 Seek And Destroy.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Metallica - Kill 'Em All (1983) {Megaforce Records MRI CD 069} [FLAC]/Kill 'Em All.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Metallica - Kill 'Em All (1983) {Megaforce Records MRI CD 069} [FLAC]/10 Metal Militia.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Metallica - Ride the Lightning (1984) {2000 DCC Gold GZS-1136, RM} [FLAC]/Ride The Lightning.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Metallica - Ride the Lightning (1984) {2000 DCC Gold GZS-1136, RM} [FLAC]/01 Fight Fire With Fire.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Metallica - Ride the Lightning (1984) {2000 DCC Gold GZS-1136, RM} [FLAC]/Ride The Lightning.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Metallica - Ride the Lightning (1984) {2000 DCC Gold GZS-1136, RM} [FLAC]/02 Ride the Lightning.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Metallica - Ride the Lightning (1984) {2000 DCC Gold GZS-1136, RM} [FLAC]/Ride The Lightning.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Metallica - Ride the Lightning (1984) {2000 DCC Gold GZS-1136, RM} [FLAC]/03 For Whom the Bell Tolls.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Metallica - Ride the Lightning (1984) {2000 DCC Gold GZS-1136, RM} [FLAC]/Ride The Lightning.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Metallica - Ride the Lightning (1984) {2000 DCC Gold GZS-1136, RM} [FLAC]/04 Fade to Black.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Metallica - Ride the Lightning (1984) {2000 DCC Gold GZS-1136, RM} [FLAC]/Ride The Lightning.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Metallica - Ride the Lightning (1984) {2000 DCC Gold GZS-1136, RM} [FLAC]/05 Trapped Under Ice.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Metallica - Ride the Lightning (1984) {2000 DCC Gold GZS-1136, RM} [FLAC]/Ride The Lightning.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Metallica - Ride the Lightning (1984) {2000 DCC Gold GZS-1136, RM} [FLAC]/06 Escape.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Metallica - Ride the Lightning (1984) {2000 DCC Gold GZS-1136, RM} [FLAC]/Ride The Lightning.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Metallica - Ride the Lightning (1984) {2000 DCC Gold GZS-1136, RM} [FLAC]/07 Creeping Death.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Metallica - Ride the Lightning (1984) {2000 DCC Gold GZS-1136, RM} [FLAC]/Ride The Lightning.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Metallica - Ride the Lightning (1984) {2000 DCC Gold GZS-1136, RM} [FLAC]/08 The Call of Ktulu.flac
@@ -15323,27 +14318,17 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Metallica - Ride the Lightn
 /mnt/synology/media/music/orpheus.network/flac/Metallica - Death Magnetic (2008) [FLAC] {00602517737280}/08 - The Judas Kiss.flac
 /mnt/synology/media/music/orpheus.network/flac/Metallica - Death Magnetic (2008) [FLAC] {00602517737280}/09 - Suicide & Redemption.flac
 /mnt/synology/media/music/orpheus.network/flac/Metallica - Death Magnetic (2008) [FLAC] {00602517737280}/10 - My Apocalypse.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Metallica - Hardwired...To Self-Destruct (2016) [flac]/Disc 1/Hardwired… To Self-Destruct .cue/1
 /mnt/synology/media/music/orpheus.network/flac/Metallica - Hardwired...To Self-Destruct (2016) [flac]/Disc 1/01 Metallica - Hardwired.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Metallica - Hardwired...To Self-Destruct (2016) [flac]/Disc 1/Hardwired… To Self-Destruct .cue/2
 /mnt/synology/media/music/orpheus.network/flac/Metallica - Hardwired...To Self-Destruct (2016) [flac]/Disc 1/02 Metallica - Atlas, Rise!.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Metallica - Hardwired...To Self-Destruct (2016) [flac]/Disc 1/Hardwired… To Self-Destruct .cue/3
 /mnt/synology/media/music/orpheus.network/flac/Metallica - Hardwired...To Self-Destruct (2016) [flac]/Disc 1/03 Metallica - Now That We're Dead.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Metallica - Hardwired...To Self-Destruct (2016) [flac]/Disc 1/Hardwired… To Self-Destruct .cue/4
 /mnt/synology/media/music/orpheus.network/flac/Metallica - Hardwired...To Self-Destruct (2016) [flac]/Disc 1/04 Metallica - Moth Into Flame.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Metallica - Hardwired...To Self-Destruct (2016) [flac]/Disc 1/Hardwired… To Self-Destruct .cue/5
 /mnt/synology/media/music/orpheus.network/flac/Metallica - Hardwired...To Self-Destruct (2016) [flac]/Disc 1/05 Metallica - Dream No More.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Metallica - Hardwired...To Self-Destruct (2016) [flac]/Disc 1/Hardwired… To Self-Destruct .cue/6
 /mnt/synology/media/music/orpheus.network/flac/Metallica - Hardwired...To Self-Destruct (2016) [flac]/Disc 1/06 Metallica - Halo On Fire.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Metallica - Hardwired...To Self-Destruct (2016) [flac]/Disc 2/Hardwired… To Self-Destruct .cue/1
 /mnt/synology/media/music/orpheus.network/flac/Metallica - Hardwired...To Self-Destruct (2016) [flac]/Disc 2/01 Metallica - Confusion.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Metallica - Hardwired...To Self-Destruct (2016) [flac]/Disc 2/Hardwired… To Self-Destruct .cue/2
 /mnt/synology/media/music/orpheus.network/flac/Metallica - Hardwired...To Self-Destruct (2016) [flac]/Disc 2/02 Metallica - ManUNkind.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Metallica - Hardwired...To Self-Destruct (2016) [flac]/Disc 2/Hardwired… To Self-Destruct .cue/3
 /mnt/synology/media/music/orpheus.network/flac/Metallica - Hardwired...To Self-Destruct (2016) [flac]/Disc 2/03 Metallica - Here Comes Revenge.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Metallica - Hardwired...To Self-Destruct (2016) [flac]/Disc 2/Hardwired… To Self-Destruct .cue/4
 /mnt/synology/media/music/orpheus.network/flac/Metallica - Hardwired...To Self-Destruct (2016) [flac]/Disc 2/04 Metallica - Am I Savage.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Metallica - Hardwired...To Self-Destruct (2016) [flac]/Disc 2/Hardwired… To Self-Destruct .cue/5
 /mnt/synology/media/music/orpheus.network/flac/Metallica - Hardwired...To Self-Destruct (2016) [flac]/Disc 2/05 Metallica - Murder One.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Metallica - Hardwired...To Self-Destruct (2016) [flac]/Disc 2/Hardwired… To Self-Destruct .cue/6
 /mnt/synology/media/music/orpheus.network/flac/Metallica - Hardwired...To Self-Destruct (2016) [flac]/Disc 2/06 Metallica - Spit Out The Bone.flac
@@ -15432,23 +14417,14 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Metallica - Hardwired...To 
 /mnt/synology/media/music/orpheus.network/flac/MGMT - Oracular Spectacular [Columbia Records]/08 Of Moons, Birds & Monsters.flac
 /mnt/synology/media/music/orpheus.network/flac/MGMT - Oracular Spectacular [Columbia Records]/09 The Handshake.flac
 /mnt/synology/media/music/orpheus.network/flac/MGMT - Oracular Spectacular [Columbia Records]/10 Future Reflections.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/MGMT - 2018 - Little Dark Age/Little Dark Age.cue/1
 /mnt/synology/media/music/orpheus.network/flac/MGMT - 2018 - Little Dark Age/01 She Works Out Too Much.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/MGMT - 2018 - Little Dark Age/Little Dark Age.cue/2
 /mnt/synology/media/music/orpheus.network/flac/MGMT - 2018 - Little Dark Age/02 Little Dark Age.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/MGMT - 2018 - Little Dark Age/Little Dark Age.cue/3
 /mnt/synology/media/music/orpheus.network/flac/MGMT - 2018 - Little Dark Age/03 When You Die.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/MGMT - 2018 - Little Dark Age/Little Dark Age.cue/4
 /mnt/synology/media/music/orpheus.network/flac/MGMT - 2018 - Little Dark Age/04 Me And Michael.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/MGMT - 2018 - Little Dark Age/Little Dark Age.cue/5
 /mnt/synology/media/music/orpheus.network/flac/MGMT - 2018 - Little Dark Age/05 TSLAMP.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/MGMT - 2018 - Little Dark Age/Little Dark Age.cue/6
 /mnt/synology/media/music/orpheus.network/flac/MGMT - 2018 - Little Dark Age/06 James.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/MGMT - 2018 - Little Dark Age/Little Dark Age.cue/7
 /mnt/synology/media/music/orpheus.network/flac/MGMT - 2018 - Little Dark Age/07 Days That Got Away.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/MGMT - 2018 - Little Dark Age/Little Dark Age.cue/8
 /mnt/synology/media/music/orpheus.network/flac/MGMT - 2018 - Little Dark Age/08 One Thing Left To Try.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/MGMT - 2018 - Little Dark Age/Little Dark Age.cue/9
 /mnt/synology/media/music/orpheus.network/flac/MGMT - 2018 - Little Dark Age/09 When You're Small.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/MGMT - 2018 - Little Dark Age/Little Dark Age.cue/10
 /mnt/synology/media/music/orpheus.network/flac/MGMT - 2018 - Little Dark Age/10 Hand It Over.flac
@@ -15553,15 +14529,11 @@ cue:///mnt/synology/media/music/orpheus.network/flac/MGMT - 2018 - Little Dark A
 /mnt/synology/media/music/orpheus.network/flac/Miles Davis - The Complete Birth of the Cool (1998) [FLAC]/23 - Move (live).flac
 /mnt/synology/media/music/orpheus.network/flac/Miles Davis - The Complete Birth of the Cool (1998) [FLAC]/24 - Moon Dreams (live).flac
 /mnt/synology/media/music/orpheus.network/flac/Miles Davis - The Complete Birth of the Cool (1998) [FLAC]/25 - Budo (Hallucinations) (live).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Miles Davis - Bitches Brew (MFSL - UDSACD 2-2149) (2014) [FLAC]/Disc 1/Bitches Brew [Disc 1].cue/1
 /mnt/synology/media/music/orpheus.network/flac/Miles Davis - Bitches Brew (MFSL - UDSACD 2-2149) (2014) [FLAC]/Disc 1/01 Pharaoh's Dance.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Miles Davis - Bitches Brew (MFSL - UDSACD 2-2149) (2014) [FLAC]/Disc 1/Bitches Brew [Disc 1].cue/2
 /mnt/synology/media/music/orpheus.network/flac/Miles Davis - Bitches Brew (MFSL - UDSACD 2-2149) (2014) [FLAC]/Disc 1/02 Bitches Brew.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Miles Davis - Bitches Brew (MFSL - UDSACD 2-2149) (2014) [FLAC]/Disc 2/Bitches Brew [Disc 2].cue/1
 /mnt/synology/media/music/orpheus.network/flac/Miles Davis - Bitches Brew (MFSL - UDSACD 2-2149) (2014) [FLAC]/Disc 2/01 Spanish Key.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Miles Davis - Bitches Brew (MFSL - UDSACD 2-2149) (2014) [FLAC]/Disc 2/Bitches Brew [Disc 2].cue/2
 /mnt/synology/media/music/orpheus.network/flac/Miles Davis - Bitches Brew (MFSL - UDSACD 2-2149) (2014) [FLAC]/Disc 2/02 John McLaughlin.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Miles Davis - Bitches Brew (MFSL - UDSACD 2-2149) (2014) [FLAC]/Disc 2/Bitches Brew [Disc 2].cue/3
 /mnt/synology/media/music/orpheus.network/flac/Miles Davis - Bitches Brew (MFSL - UDSACD 2-2149) (2014) [FLAC]/Disc 2/03 Miles Runs The Voodoo Down.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Miles Davis - Bitches Brew (MFSL - UDSACD 2-2149) (2014) [FLAC]/Disc 2/Bitches Brew [Disc 2].cue/4
 /mnt/synology/media/music/orpheus.network/flac/Miles Davis - Bitches Brew (MFSL - UDSACD 2-2149) (2014) [FLAC]/Disc 2/04 Sanctuary.flac
@@ -15579,23 +14551,14 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Miles Davis - Bitches Brew 
 /mnt/synology/media/music/orpheus.network/flac/Millencolin -2000- Pennybridge Pioneers [FLAC]/Millencolin -12- A-Ten.flac
 /mnt/synology/media/music/orpheus.network/flac/Millencolin -2000- Pennybridge Pioneers [FLAC]/Millencolin -13- Pepper.flac
 /mnt/synology/media/music/orpheus.network/flac/Millencolin -2000- Pennybridge Pioneers [FLAC]/Millencolin -14- The Ballad.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Mineral - The Power Of Failing (1997) [FLAC]/The Power Of Failing.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Mineral - The Power Of Failing (1997) [FLAC]/01 Five, Eight And Ten.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Mineral - The Power Of Failing (1997) [FLAC]/The Power Of Failing.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Mineral - The Power Of Failing (1997) [FLAC]/02 Gloria.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Mineral - The Power Of Failing (1997) [FLAC]/The Power Of Failing.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Mineral - The Power Of Failing (1997) [FLAC]/03 Slower.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Mineral - The Power Of Failing (1997) [FLAC]/The Power Of Failing.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Mineral - The Power Of Failing (1997) [FLAC]/04 Dolorosa.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Mineral - The Power Of Failing (1997) [FLAC]/The Power Of Failing.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Mineral - The Power Of Failing (1997) [FLAC]/05 80-37.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Mineral - The Power Of Failing (1997) [FLAC]/The Power Of Failing.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Mineral - The Power Of Failing (1997) [FLAC]/06 If I Could.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Mineral - The Power Of Failing (1997) [FLAC]/The Power Of Failing.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Mineral - The Power Of Failing (1997) [FLAC]/07 July.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Mineral - The Power Of Failing (1997) [FLAC]/The Power Of Failing.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Mineral - The Power Of Failing (1997) [FLAC]/08 Silver.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Mineral - The Power Of Failing (1997) [FLAC]/The Power Of Failing.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Mineral - The Power Of Failing (1997) [FLAC]/09 Take The Picture Now.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Mineral - The Power Of Failing (1997) [FLAC]/The Power Of Failing.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Mineral - The Power Of Failing (1997) [FLAC]/10 Parking Lot.flac
@@ -15613,88 +14576,47 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Mineral - The Power Of Fail
 /mnt/synology/media/music/orpheus.network/flac/Minor Threat . 1984 . First Two Seven Inches {WEB}/12. Minor Threat - Out Of Step (With The World).flac
 /mnt/synology/media/music/orpheus.network/flac/Minor Threat . 1984 . First Two Seven Inches {WEB}/13. Minor Threat - Guilty Of Being White.flac
 /mnt/synology/media/music/orpheus.network/flac/Minor Threat . 1984 . First Two Seven Inches {WEB}/14. Minor Threat - Steppin' Stone.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/Double Nickels on the Dime.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/01 D’s Car Jam ／ Anxious Mo-Fo.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/Double Nickels on the Dime.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/02 Theatre Is the Life of You.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/Double Nickels on the Dime.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/03 Viet Nam.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/Double Nickels on the Dime.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/04 Cohesion.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/Double Nickels on the Dime.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/05 It’s Expected I'm Gone.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/Double Nickels on the Dime.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/06 #1 Hit Song.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/Double Nickels on the Dime.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/07 Two Beads at the End.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/Double Nickels on the Dime.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/08 Do You Want New Wave or Do You Want the Truth.flac
 /mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/09 Don’t Look Now.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/Double Nickels on the Dime.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/10 Shit From an Old Notebook.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/Double Nickels on the Dime.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/11 Nature Without Man.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/Double Nickels on the Dime.cue/12
 /mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/12 One Reporter’s Opinion.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/Double Nickels on the Dime.cue/13
 /mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/13 Political Song for Michael Jackson to Sing.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/Double Nickels on the Dime.cue/14
 /mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/14 Maybe Partying Will Help.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/Double Nickels on the Dime.cue/15
 /mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/15 Toadies.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/Double Nickels on the Dime.cue/16
 /mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/16 Retreat.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/Double Nickels on the Dime.cue/17
 /mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/17 The Big Foist.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/Double Nickels on the Dime.cue/18
 /mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/18 God Bows to Math.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/Double Nickels on the Dime.cue/19
 /mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/19 Corona.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/Double Nickels on the Dime.cue/20
 /mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/20 The Glory of Man.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/Double Nickels on the Dime.cue/21
 /mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/21 Take 5, D..flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/Double Nickels on the Dime.cue/22
 /mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/22 My Heart and the Real World.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/Double Nickels on the Dime.cue/23
 /mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/23 History Lesson, Part II.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/Double Nickels on the Dime.cue/24
 /mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/24 You Need the Glory.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/Double Nickels on the Dime.cue/25
 /mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/25 The Roar of the Masses Could Be Farts.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/Double Nickels on the Dime.cue/26
 /mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/26 West Germany.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/Double Nickels on the Dime.cue/27
 /mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/27 The Politics of Time.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/Double Nickels on the Dime.cue/28
 /mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/28 Themselves.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/Double Nickels on the Dime.cue/29
 /mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/29 Please Don’t Be Gentle With Me.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/Double Nickels on the Dime.cue/30
 /mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/30 Nothing Indeed.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/Double Nickels on the Dime.cue/31
 /mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/31 No Exchange.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/Double Nickels on the Dime.cue/32
 /mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/32 There Ain’t Shit on T.V. Tonight.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/Double Nickels on the Dime.cue/33
 /mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/33 This Ain’t No Picnic.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/Double Nickels on the Dime.cue/34
 /mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/34 Spillage.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/Double Nickels on the Dime.cue/35
 /mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/35 Untitled Song for Latin America.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/Double Nickels on the Dime.cue/36
 /mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/36 Jesus and Tequila.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/Double Nickels on the Dime.cue/37
 /mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/37 June 16th.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/Double Nickels on the Dime.cue/38
 /mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/38 Storm in My House.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/Double Nickels on the Dime.cue/39
 /mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/39 Martin’s Story.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/Double Nickels on the Dime.cue/40
 /mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/40 Dr. Wu.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/Double Nickels on the Dime.cue/41
 /mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/41 The World According to Nouns.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/Double Nickels on the Dime.cue/42
 /mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/42 Love Dance.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/Double Nickels on the Dime.cue/43
 /mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels on the Dime (1989) [FLAC]/43 Three Car Jam.flac
@@ -16162,30 +15084,18 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels 
 /mnt/synology/media/music/orpheus.network/flac/Mr Wednesday - The Garden Where Parties Grow (2006) {CD} [FLAC]/11 - Wrong Tonight.flac
 /mnt/synology/media/music/orpheus.network/flac/Mr Wednesday - The Garden Where Parties Grow (2006) {CD} [FLAC]/12 - Enterprizing Midday Agreement.flac
 /mnt/synology/media/music/orpheus.network/flac/Mr Wednesday - The Garden Where Parties Grow (2006) {CD} [FLAC]/13 - I Get in Around This Time Each Night.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Mudhoney - Every Good Boy Deserves Fudge (1991) [FLAC]/Every Good Boy Deserves Fudge.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Mudhoney - Every Good Boy Deserves Fudge (1991) [FLAC]/01 Generation Genocide.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Mudhoney - Every Good Boy Deserves Fudge (1991) [FLAC]/Every Good Boy Deserves Fudge.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Mudhoney - Every Good Boy Deserves Fudge (1991) [FLAC]/02 Let It Slide.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Mudhoney - Every Good Boy Deserves Fudge (1991) [FLAC]/Every Good Boy Deserves Fudge.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Mudhoney - Every Good Boy Deserves Fudge (1991) [FLAC]/03 Good Enough.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Mudhoney - Every Good Boy Deserves Fudge (1991) [FLAC]/Every Good Boy Deserves Fudge.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Mudhoney - Every Good Boy Deserves Fudge (1991) [FLAC]/04 Something So Clear.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Mudhoney - Every Good Boy Deserves Fudge (1991) [FLAC]/Every Good Boy Deserves Fudge.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Mudhoney - Every Good Boy Deserves Fudge (1991) [FLAC]/05 Thorn.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Mudhoney - Every Good Boy Deserves Fudge (1991) [FLAC]/Every Good Boy Deserves Fudge.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Mudhoney - Every Good Boy Deserves Fudge (1991) [FLAC]/06 Into The Drink.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Mudhoney - Every Good Boy Deserves Fudge (1991) [FLAC]/Every Good Boy Deserves Fudge.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Mudhoney - Every Good Boy Deserves Fudge (1991) [FLAC]/07 Broken Hands.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Mudhoney - Every Good Boy Deserves Fudge (1991) [FLAC]/Every Good Boy Deserves Fudge.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Mudhoney - Every Good Boy Deserves Fudge (1991) [FLAC]/08 Who You Drivin' Now.flac
 /mnt/synology/media/music/orpheus.network/flac/Mudhoney - Every Good Boy Deserves Fudge (1991) [FLAC]/09 Move Out.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Mudhoney - Every Good Boy Deserves Fudge (1991) [FLAC]/Every Good Boy Deserves Fudge.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Mudhoney - Every Good Boy Deserves Fudge (1991) [FLAC]/10 Shoot The Moon.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Mudhoney - Every Good Boy Deserves Fudge (1991) [FLAC]/Every Good Boy Deserves Fudge.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Mudhoney - Every Good Boy Deserves Fudge (1991) [FLAC]/11 Fuzzgun '91.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Mudhoney - Every Good Boy Deserves Fudge (1991) [FLAC]/Every Good Boy Deserves Fudge.cue/12
 /mnt/synology/media/music/orpheus.network/flac/Mudhoney - Every Good Boy Deserves Fudge (1991) [FLAC]/12 Pokin' Around.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Mudhoney - Every Good Boy Deserves Fudge (1991) [FLAC]/Every Good Boy Deserves Fudge.cue/13
 /mnt/synology/media/music/orpheus.network/flac/Mudhoney - Every Good Boy Deserves Fudge (1991) [FLAC]/13 Don't Fade IV.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Mudhoney - Every Good Boy Deserves Fudge (1991) [FLAC]/Every Good Boy Deserves Fudge.cue/14
 /mnt/synology/media/music/orpheus.network/flac/Mudhoney - Every Good Boy Deserves Fudge (1991) [FLAC]/14 Check-Out Time.flac
@@ -16326,23 +15236,14 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Mudhoney - Every Good Boy D
 /mnt/synology/media/music/orpheus.network/flac/My Dead Girlfriend + Shojo Skip - Sweet Days and Her Last Kiss [FLAC]/03. My Dead Girlfriend - Nou ni Tokeru Asobi.flac
 /mnt/synology/media/music/orpheus.network/flac/My Dead Girlfriend + Shojo Skip - Sweet Days and Her Last Kiss [FLAC]/04. My Dead Girlfriend - Kinoshita Fuyou.flac
 /mnt/synology/media/music/orpheus.network/flac/The Emo Diaries, Chapter Two - A Million Miles Away (1998)/11 My Favorite Citizen - Kayla Learns To Dance.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/My Midnight Creeps - 2005 - My Midnight Creeps (MMC001)[FLAC]/My Midnight Creeps.cue/1
 /mnt/synology/media/music/orpheus.network/flac/My Midnight Creeps - 2005 - My Midnight Creeps (MMC001)[FLAC]/01 Die For A Ride.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/My Midnight Creeps - 2005 - My Midnight Creeps (MMC001)[FLAC]/My Midnight Creeps.cue/2
 /mnt/synology/media/music/orpheus.network/flac/My Midnight Creeps - 2005 - My Midnight Creeps (MMC001)[FLAC]/02 A Long Trip.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/My Midnight Creeps - 2005 - My Midnight Creeps (MMC001)[FLAC]/My Midnight Creeps.cue/3
 /mnt/synology/media/music/orpheus.network/flac/My Midnight Creeps - 2005 - My Midnight Creeps (MMC001)[FLAC]/03 Untrue.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/My Midnight Creeps - 2005 - My Midnight Creeps (MMC001)[FLAC]/My Midnight Creeps.cue/4
 /mnt/synology/media/music/orpheus.network/flac/My Midnight Creeps - 2005 - My Midnight Creeps (MMC001)[FLAC]/04 Nightmare, Nightmare.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/My Midnight Creeps - 2005 - My Midnight Creeps (MMC001)[FLAC]/My Midnight Creeps.cue/5
 /mnt/synology/media/music/orpheus.network/flac/My Midnight Creeps - 2005 - My Midnight Creeps (MMC001)[FLAC]/05 You Got Love.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/My Midnight Creeps - 2005 - My Midnight Creeps (MMC001)[FLAC]/My Midnight Creeps.cue/6
 /mnt/synology/media/music/orpheus.network/flac/My Midnight Creeps - 2005 - My Midnight Creeps (MMC001)[FLAC]/06 I Fell Into A Hole.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/My Midnight Creeps - 2005 - My Midnight Creeps (MMC001)[FLAC]/My Midnight Creeps.cue/7
 /mnt/synology/media/music/orpheus.network/flac/My Midnight Creeps - 2005 - My Midnight Creeps (MMC001)[FLAC]/07 A Perfect Kind Of Fall.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/My Midnight Creeps - 2005 - My Midnight Creeps (MMC001)[FLAC]/My Midnight Creeps.cue/8
 /mnt/synology/media/music/orpheus.network/flac/My Midnight Creeps - 2005 - My Midnight Creeps (MMC001)[FLAC]/08 Spoonful.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/My Midnight Creeps - 2005 - My Midnight Creeps (MMC001)[FLAC]/My Midnight Creeps.cue/9
 /mnt/synology/media/music/orpheus.network/flac/My Midnight Creeps - 2005 - My Midnight Creeps (MMC001)[FLAC]/09 Highflyin'.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/My Midnight Creeps - 2005 - My Midnight Creeps (MMC001)[FLAC]/My Midnight Creeps.cue/10
 /mnt/synology/media/music/orpheus.network/flac/My Midnight Creeps - 2005 - My Midnight Creeps (MMC001)[FLAC]/10 You Need A Substitute.flac
@@ -16371,13 +15272,6 @@ cue:///mnt/synology/media/music/orpheus.network/flac/My Midnight Creeps - 2005 -
 /mnt/synology/media/music/redacted.ch/flac/Mystic Forest - Welcome Back in the Forest (2001) [FLAC]/11. Le sourire de la nymphe.flac
 /mnt/synology/media/music/redacted.ch/flac/Mystic Forest - Welcome Back in the Forest (2001) [FLAC]/12. Pour enfin libérer ma vie.flac
 /mnt/synology/media/music/redacted.ch/flac/Mystic Forest - Welcome Back in the Forest (2001) [FLAC]/13. Requiem lunaire.flac
-cue:///mnt/synology/media/music/redacted.ch/flac/Mystic Forest - Welcome Back in the Forest (2001) [FLAC]/Mystic Forest - Welcome Back in the Forest.cue/1
-cue:///mnt/synology/media/music/redacted.ch/flac/Mystic Forest - Welcome Back in the Forest (2001) [FLAC]/Mystic Forest - Welcome Back in the Forest.cue/5
-cue:///mnt/synology/media/music/redacted.ch/flac/Mystic Forest - Welcome Back in the Forest (2001) [FLAC]/Mystic Forest - Welcome Back in the Forest.cue/6
-cue:///mnt/synology/media/music/redacted.ch/flac/Mystic Forest - Welcome Back in the Forest (2001) [FLAC]/Mystic Forest - Welcome Back in the Forest.cue/7
-cue:///mnt/synology/media/music/redacted.ch/flac/Mystic Forest - Welcome Back in the Forest (2001) [FLAC]/Mystic Forest - Welcome Back in the Forest.cue/9
-cue:///mnt/synology/media/music/redacted.ch/flac/Mystic Forest - Welcome Back in the Forest (2001) [FLAC]/Mystic Forest - Welcome Back in the Forest.cue/11
-cue:///mnt/synology/media/music/redacted.ch/flac/Mystic Forest - Welcome Back in the Forest (2001) [FLAC]/Mystic Forest - Welcome Back in the Forest.cue/12
 cue:///mnt/synology/media/music/redacted.ch/flac/Mystic Forest - Welcome Back in the Forest (2001) [FLAC]/Mystic Forest - Welcome Back in the Forest.cue/13
 /mnt/synology/media/music/orpheus.network/flac/Nara Leão - 1971 - Dez Anos Depois/01 Insensatez.flac
 /mnt/synology/media/music/orpheus.network/flac/Nara Leão - 1971 - Dez Anos Depois/02 Samba de uma nota só.flac
@@ -16425,16 +15319,6 @@ cue:///mnt/synology/media/music/redacted.ch/flac/Mystic Forest - Welcome Back in
 /mnt/synology/media/music/orpheus.network/flac/Natalie Rose LeBrecht -2003- Warraw (AH-080)/09. Track 09.flac
 /mnt/synology/media/music/orpheus.network/flac/Natalie Rose LeBrecht -2003- Warraw (AH-080)/10. Track 10.flac
 /mnt/synology/media/music/orpheus.network/flac/Natalie Rose LeBrecht -2003- Warraw (AH-080)/11. Track 11.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Natalie Rose LeBrecht -2003- Warraw (AH-080)/Warraw.cue/1
-cue:///mnt/synology/media/music/orpheus.network/flac/Natalie Rose LeBrecht -2003- Warraw (AH-080)/Warraw.cue/2
-cue:///mnt/synology/media/music/orpheus.network/flac/Natalie Rose LeBrecht -2003- Warraw (AH-080)/Warraw.cue/3
-cue:///mnt/synology/media/music/orpheus.network/flac/Natalie Rose LeBrecht -2003- Warraw (AH-080)/Warraw.cue/4
-cue:///mnt/synology/media/music/orpheus.network/flac/Natalie Rose LeBrecht -2003- Warraw (AH-080)/Warraw.cue/5
-cue:///mnt/synology/media/music/orpheus.network/flac/Natalie Rose LeBrecht -2003- Warraw (AH-080)/Warraw.cue/6
-cue:///mnt/synology/media/music/orpheus.network/flac/Natalie Rose LeBrecht -2003- Warraw (AH-080)/Warraw.cue/7
-cue:///mnt/synology/media/music/orpheus.network/flac/Natalie Rose LeBrecht -2003- Warraw (AH-080)/Warraw.cue/8
-cue:///mnt/synology/media/music/orpheus.network/flac/Natalie Rose LeBrecht -2003- Warraw (AH-080)/Warraw.cue/9
-cue:///mnt/synology/media/music/orpheus.network/flac/Natalie Rose LeBrecht -2003- Warraw (AH-080)/Warraw.cue/10
 cue:///mnt/synology/media/music/orpheus.network/flac/Natalie Rose LeBrecht -2003- Warraw (AH-080)/Warraw.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Nationalteatern - Barn av vår tid (1978) [FLAC]/01 - Popens Mussolinis.flac
 /mnt/synology/media/music/orpheus.network/flac/Nationalteatern - Barn av vår tid (1978) [FLAC]/02 - Kolla kolla.flac
@@ -16593,24 +15477,15 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Natalie Rose LeBrecht -2003
 /mnt/synology/media/music/orpheus.network/flac/Nektar - Magnolia/07 - Älskar Dig (Oändligt Föralltid).flac
 /mnt/synology/media/music/orpheus.network/flac/Nektar - Magnolia/08 - Kulör.flac
 /mnt/synology/media/music/orpheus.network/flac/Nektar - Magnolia/09 - Stå Upp.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Nena - 99 Luftballons [FLAC]/99 Luftballons.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Nena - 99 Luftballons [FLAC]/01 99 Red Balloons.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Nena - 99 Luftballons [FLAC]/99 Luftballons.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Nena - 99 Luftballons [FLAC]/02 _ (Fragezeichen).flac
 /mnt/synology/media/music/orpheus.network/flac/Nena - 99 Luftballons [FLAC]/03 Hangin' on You.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Nena - 99 Luftballons [FLAC]/99 Luftballons.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Nena - 99 Luftballons [FLAC]/04 Just a Dream.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Nena - 99 Luftballons [FLAC]/99 Luftballons.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Nena - 99 Luftballons [FLAC]/05 Let Me Be Your Pirate.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Nena - 99 Luftballons [FLAC]/99 Luftballons.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Nena - 99 Luftballons [FLAC]/06 Kino.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Nena - 99 Luftballons [FLAC]/99 Luftballons.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Nena - 99 Luftballons [FLAC]/07 Das Land der Elefanten.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Nena - 99 Luftballons [FLAC]/99 Luftballons.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Nena - 99 Luftballons [FLAC]/08 Leuchtturm.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Nena - 99 Luftballons [FLAC]/99 Luftballons.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Nena - 99 Luftballons [FLAC]/09 Rette mich.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Nena - 99 Luftballons [FLAC]/99 Luftballons.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Nena - 99 Luftballons [FLAC]/10 Unerkannt durch's Ma_rchenland.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Nena - 99 Luftballons [FLAC]/99 Luftballons.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Nena - 99 Luftballons [FLAC]/11 99 Luftballons.flac
@@ -16672,51 +15547,30 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Nena - 99 Luftballons [FLAC
 /mnt/synology/media/music/redacted.ch/flac/New Dreams - Leaving The Magnetic Garden [2024] (WEB - FLAC - Lossless)/New Dreams - Leaving The Magnetic Garden - 17 Orchards.flac
 /mnt/synology/media/music/redacted.ch/flac/New Dreams - Leaving The Magnetic Garden [2024] (WEB - FLAC - Lossless)/New Dreams - Leaving The Magnetic Garden - 18 The Fall.flac
 /mnt/synology/media/music/redacted.ch/flac/New Dreams - Leaving The Magnetic Garden [2024] (WEB - FLAC - Lossless)/New Dreams - Leaving The Magnetic Garden - 19 Planktonic Bloom.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/New Order - Power Corruption and Lies (1983) [FLAC] {1986 - Factory - FACD 75}/Power Corruption and Lies.cue/1
 /mnt/synology/media/music/orpheus.network/flac/New Order - Power Corruption and Lies (1983) [FLAC] {1986 - Factory - FACD 75}/01 Age Of Consent.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/New Order - Power Corruption and Lies (1983) [FLAC] {1986 - Factory - FACD 75}/Power Corruption and Lies.cue/2
 /mnt/synology/media/music/orpheus.network/flac/New Order - Power Corruption and Lies (1983) [FLAC] {1986 - Factory - FACD 75}/02 We All Stand.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/New Order - Power Corruption and Lies (1983) [FLAC] {1986 - Factory - FACD 75}/Power Corruption and Lies.cue/3
 /mnt/synology/media/music/orpheus.network/flac/New Order - Power Corruption and Lies (1983) [FLAC] {1986 - Factory - FACD 75}/03 The Village.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/New Order - Power Corruption and Lies (1983) [FLAC] {1986 - Factory - FACD 75}/Power Corruption and Lies.cue/4
 /mnt/synology/media/music/orpheus.network/flac/New Order - Power Corruption and Lies (1983) [FLAC] {1986 - Factory - FACD 75}/04 5-8-6.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/New Order - Power Corruption and Lies (1983) [FLAC] {1986 - Factory - FACD 75}/Power Corruption and Lies.cue/5
 /mnt/synology/media/music/orpheus.network/flac/New Order - Power Corruption and Lies (1983) [FLAC] {1986 - Factory - FACD 75}/05 Your Silent Face.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/New Order - Power Corruption and Lies (1983) [FLAC] {1986 - Factory - FACD 75}/Power Corruption and Lies.cue/6
 /mnt/synology/media/music/orpheus.network/flac/New Order - Power Corruption and Lies (1983) [FLAC] {1986 - Factory - FACD 75}/06 Ultraviolence.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/New Order - Power Corruption and Lies (1983) [FLAC] {1986 - Factory - FACD 75}/Power Corruption and Lies.cue/7
 /mnt/synology/media/music/orpheus.network/flac/New Order - Power Corruption and Lies (1983) [FLAC] {1986 - Factory - FACD 75}/07 Ecstasy.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/New Order - Power Corruption and Lies (1983) [FLAC] {1986 - Factory - FACD 75}/Power Corruption and Lies.cue/8
 /mnt/synology/media/music/orpheus.network/flac/New Order - Power Corruption and Lies (1983) [FLAC] {1986 - Factory - FACD 75}/08 Leave Me Alone.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/New Order - Low-Life [2009 2nd Edition] (1985) [FLAC]/1/Low-Life [2009 2nd Edition].cue/1
 /mnt/synology/media/music/orpheus.network/flac/New Order - Low-Life [2009 2nd Edition] (1985) [FLAC]/1/01 - New Order - Love Vigilantes.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/New Order - Low-Life [2009 2nd Edition] (1985) [FLAC]/1/Low-Life [2009 2nd Edition].cue/2
 /mnt/synology/media/music/orpheus.network/flac/New Order - Low-Life [2009 2nd Edition] (1985) [FLAC]/1/02 - New Order - The Perfect Kiss.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/New Order - Low-Life [2009 2nd Edition] (1985) [FLAC]/1/Low-Life [2009 2nd Edition].cue/3
 /mnt/synology/media/music/orpheus.network/flac/New Order - Low-Life [2009 2nd Edition] (1985) [FLAC]/1/03 - New Order - This Time Of Night.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/New Order - Low-Life [2009 2nd Edition] (1985) [FLAC]/1/Low-Life [2009 2nd Edition].cue/4
 /mnt/synology/media/music/orpheus.network/flac/New Order - Low-Life [2009 2nd Edition] (1985) [FLAC]/1/04 - New Order - Sunrise.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/New Order - Low-Life [2009 2nd Edition] (1985) [FLAC]/1/Low-Life [2009 2nd Edition].cue/5
 /mnt/synology/media/music/orpheus.network/flac/New Order - Low-Life [2009 2nd Edition] (1985) [FLAC]/1/05 - New Order - Elegia.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/New Order - Low-Life [2009 2nd Edition] (1985) [FLAC]/1/Low-Life [2009 2nd Edition].cue/6
 /mnt/synology/media/music/orpheus.network/flac/New Order - Low-Life [2009 2nd Edition] (1985) [FLAC]/1/06 - New Order - Sooner Than You Think.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/New Order - Low-Life [2009 2nd Edition] (1985) [FLAC]/1/Low-Life [2009 2nd Edition].cue/7
 /mnt/synology/media/music/orpheus.network/flac/New Order - Low-Life [2009 2nd Edition] (1985) [FLAC]/1/07 - New Order - Sub-Culture.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/New Order - Low-Life [2009 2nd Edition] (1985) [FLAC]/1/Low-Life [2009 2nd Edition].cue/8
 /mnt/synology/media/music/orpheus.network/flac/New Order - Low-Life [2009 2nd Edition] (1985) [FLAC]/1/08 - New Order - Face Up.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/New Order - Low-Life [2009 2nd Edition] (1985) [FLAC]/2/Low-Life [2009 2nd Edition].cue/1
 /mnt/synology/media/music/orpheus.network/flac/New Order - Low-Life [2009 2nd Edition] (1985) [FLAC]/2/01 - New Order - The Perfect Kiss (12'').flac
-cue:///mnt/synology/media/music/orpheus.network/flac/New Order - Low-Life [2009 2nd Edition] (1985) [FLAC]/2/Low-Life [2009 2nd Edition].cue/2
 /mnt/synology/media/music/orpheus.network/flac/New Order - Low-Life [2009 2nd Edition] (1985) [FLAC]/2/02 - New Order - Subculture (John Robie Remix).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/New Order - Low-Life [2009 2nd Edition] (1985) [FLAC]/2/Low-Life [2009 2nd Edition].cue/3
 /mnt/synology/media/music/orpheus.network/flac/New Order - Low-Life [2009 2nd Edition] (1985) [FLAC]/2/03 - New Order - Shellshock (Substance Edit).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/New Order - Low-Life [2009 2nd Edition] (1985) [FLAC]/2/Low-Life [2009 2nd Edition].cue/4
 /mnt/synology/media/music/orpheus.network/flac/New Order - Low-Life [2009 2nd Edition] (1985) [FLAC]/2/04 - New Order - Shame Of The Nation (12'').flac
-cue:///mnt/synology/media/music/orpheus.network/flac/New Order - Low-Life [2009 2nd Edition] (1985) [FLAC]/2/Low-Life [2009 2nd Edition].cue/5
 /mnt/synology/media/music/orpheus.network/flac/New Order - Low-Life [2009 2nd Edition] (1985) [FLAC]/2/05 - New Order - Elegia (Full Length Un-Edited).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/New Order - Low-Life [2009 2nd Edition] (1985) [FLAC]/2/Low-Life [2009 2nd Edition].cue/6
 /mnt/synology/media/music/orpheus.network/flac/New Order - Low-Life [2009 2nd Edition] (1985) [FLAC]/2/06 - New Order - Let's Go.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/New Order - Low-Life [2009 2nd Edition] (1985) [FLAC]/2/Low-Life [2009 2nd Edition].cue/7
 /mnt/synology/media/music/orpheus.network/flac/New Order - Low-Life [2009 2nd Edition] (1985) [FLAC]/2/07 - New Order - Salvation (Theme).flac
 cue:///mnt/synology/media/music/orpheus.network/flac/New Order - Low-Life [2009 2nd Edition] (1985) [FLAC]/2/Low-Life [2009 2nd Edition].cue/8
 /mnt/synology/media/music/orpheus.network/flac/New Order - Low-Life [2009 2nd Edition] (1985) [FLAC]/2/08 - New Order - Dub Vulture.flac
@@ -16730,14 +15584,6 @@ cue:///mnt/synology/media/music/orpheus.network/flac/New Order - Low-Life [2009 
 /mnt/synology/media/music/orpheus.network/flac/Nick Cave and The Bad Seeds – From Her to Eternity (1984) {1997 61720-2 CD} [FLAC]/08 - Wings Off Flies.flac
 /mnt/synology/media/music/orpheus.network/flac/Nick Cave and The Bad Seeds – From Her to Eternity (1984) {1997 61720-2 CD} [FLAC]/09 - A Box for Black Paul.flac
 /mnt/synology/media/music/orpheus.network/flac/Nick Cave and The Bad Seeds – From Her to Eternity (1984) {1997 61720-2 CD} [FLAC]/10 - From Her to Eternity (1987).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Nick Cave & The Bad Seeds - The Good Son [2010 Remastered][FLAC]/Nick Cave & The Bad Seeds - The Good Son.cue/1
-cue:///mnt/synology/media/music/orpheus.network/flac/Nick Cave & The Bad Seeds - The Good Son [2010 Remastered][FLAC]/Nick Cave & The Bad Seeds - The Good Son.cue/2
-cue:///mnt/synology/media/music/orpheus.network/flac/Nick Cave & The Bad Seeds - The Good Son [2010 Remastered][FLAC]/Nick Cave & The Bad Seeds - The Good Son.cue/3
-cue:///mnt/synology/media/music/orpheus.network/flac/Nick Cave & The Bad Seeds - The Good Son [2010 Remastered][FLAC]/Nick Cave & The Bad Seeds - The Good Son.cue/4
-cue:///mnt/synology/media/music/orpheus.network/flac/Nick Cave & The Bad Seeds - The Good Son [2010 Remastered][FLAC]/Nick Cave & The Bad Seeds - The Good Son.cue/5
-cue:///mnt/synology/media/music/orpheus.network/flac/Nick Cave & The Bad Seeds - The Good Son [2010 Remastered][FLAC]/Nick Cave & The Bad Seeds - The Good Son.cue/6
-cue:///mnt/synology/media/music/orpheus.network/flac/Nick Cave & The Bad Seeds - The Good Son [2010 Remastered][FLAC]/Nick Cave & The Bad Seeds - The Good Son.cue/7
-cue:///mnt/synology/media/music/orpheus.network/flac/Nick Cave & The Bad Seeds - The Good Son [2010 Remastered][FLAC]/Nick Cave & The Bad Seeds - The Good Son.cue/8
 cue:///mnt/synology/media/music/orpheus.network/flac/Nick Cave & The Bad Seeds - The Good Son [2010 Remastered][FLAC]/Nick Cave & The Bad Seeds - The Good Son.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Nick Cave & The Bad Seeds - The Good Son [2010 Remastered][FLAC]/01 Foi Na Cruz.flac
 /mnt/synology/media/music/orpheus.network/flac/Nick Cave & The Bad Seeds - The Good Son [2010 Remastered][FLAC]/02 The Good Son.flac
@@ -16807,26 +15653,18 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Nick Cave & The Bad Seeds -
 /mnt/synology/media/music/orpheus.network/flac/Nico - The End... (1974) {1994} [FLAC]/06 We've Got the Gold.flac
 /mnt/synology/media/music/orpheus.network/flac/Nico - The End... (1974) {1994} [FLAC]/07 The End.flac
 /mnt/synology/media/music/orpheus.network/flac/Nico - The End... (1974) {1994} [FLAC]/08 Das Lied der Deutschen.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Nico - Desert shore [1970] flac [R 925 870-2]/Desertshore.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Nico - Desert shore [1970] flac [R 925 870-2]/Desertshore - 01 Janitor of Lunacy.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Nico - Desert shore [1970] flac [R 925 870-2]/Desertshore.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Nico - Desert shore [1970] flac [R 925 870-2]/Desertshore - 02 The Falconer.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Nico - Desert shore [1970] flac [R 925 870-2]/Desertshore.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Nico - Desert shore [1970] flac [R 925 870-2]/Desertshore - 03 My Only Child.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Nico - Desert shore [1970] flac [R 925 870-2]/Desertshore.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Nico - Desert shore [1970] flac [R 925 870-2]/Desertshore - 04 Le Petit Chevalier.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Nico - Desert shore [1970] flac [R 925 870-2]/Desertshore.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Nico - Desert shore [1970] flac [R 925 870-2]/Desertshore - 05 Abschied.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Nico - Desert shore [1970] flac [R 925 870-2]/Desertshore.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Nico - Desert shore [1970] flac [R 925 870-2]/Desertshore - 06 Afraid.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Nico - Desert shore [1970] flac [R 925 870-2]/Desertshore.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Nico - Desert shore [1970] flac [R 925 870-2]/Desertshore - 07 Mütterlein.flac
 /mnt/synology/media/music/orpheus.network/flac/Nico - Desert shore [1970] flac [R 925 870-2]/Desertshore - 08 All That Is My Own.flac
 /mnt/synology/media/music/orpheus.network/flac/Czeslaw Niemen - Strange Is This World -1972 (2003 Citystudio Media CMP 613) [CD flac]/01 - Strange Is This World.flac
 /mnt/synology/media/music/orpheus.network/flac/Czeslaw Niemen - Strange Is This World -1972 (2003 Citystudio Media CMP 613) [CD flac]/02 - Why Did You Stop Loving Me.flac
 /mnt/synology/media/music/orpheus.network/flac/Czeslaw Niemen - Strange Is This World -1972 (2003 Citystudio Media CMP 613) [CD flac]/03 - I've Been Loving You Too Long.flac
 /mnt/synology/media/music/orpheus.network/flac/Czeslaw Niemen - Strange Is This World -1972 (2003 Citystudio Media CMP 613) [CD flac]/04 - A Song For The Deceased.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Compilations - Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition) (2021) [FLAC]/Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition).cue/3
 /mnt/synology/media/music/orpheus.network/flac/Compilations - Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition) (2021) [FLAC]/03 Times Encounter.flac
 /mnt/synology/media/music/orpheus.network/flac/Nina Simone - Little Girl Blue (1957) [FLAC] {2017 51018}/01 - My Baby Just Cares For Me.flac
 /mnt/synology/media/music/orpheus.network/flac/Nina Simone - Little Girl Blue (1957) [FLAC] {2017 51018}/02 - Mood Indigo.flac
@@ -16870,21 +15708,13 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Compilations - Fame- Jon Sa
 /mnt/synology/media/music/orpheus.network/flac/Nina Simone - I Put A Spell On You/10 - Beautiful Land.flac
 /mnt/synology/media/music/orpheus.network/flac/Nina Simone - I Put A Spell On You/11 - You've Got To Learn.flac
 /mnt/synology/media/music/orpheus.network/flac/Nina Simone - I Put A Spell On You/12 - Take Care Of Business.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Nina Simone - Pastel Blues (2006) {0602498887004} [FLAC]/Pastel Blues.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Nina Simone - Pastel Blues (2006) {0602498887004} [FLAC]/01 - Be My Husband.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Nina Simone - Pastel Blues (2006) {0602498887004} [FLAC]/Pastel Blues.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Nina Simone - Pastel Blues (2006) {0602498887004} [FLAC]/02 - Nobody Knows You When You're Down And Out.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Nina Simone - Pastel Blues (2006) {0602498887004} [FLAC]/Pastel Blues.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Nina Simone - Pastel Blues (2006) {0602498887004} [FLAC]/03 - End Of The Line.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Nina Simone - Pastel Blues (2006) {0602498887004} [FLAC]/Pastel Blues.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Nina Simone - Pastel Blues (2006) {0602498887004} [FLAC]/04 - Trouble In Mind.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Nina Simone - Pastel Blues (2006) {0602498887004} [FLAC]/Pastel Blues.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Nina Simone - Pastel Blues (2006) {0602498887004} [FLAC]/05 - Tell Me More And More And Then Some.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Nina Simone - Pastel Blues (2006) {0602498887004} [FLAC]/Pastel Blues.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Nina Simone - Pastel Blues (2006) {0602498887004} [FLAC]/06 - Chilly Winds Don't Blow.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Nina Simone - Pastel Blues (2006) {0602498887004} [FLAC]/Pastel Blues.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Nina Simone - Pastel Blues (2006) {0602498887004} [FLAC]/07 - Ain't No Use.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Nina Simone - Pastel Blues (2006) {0602498887004} [FLAC]/Pastel Blues.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Nina Simone - Pastel Blues (2006) {0602498887004} [FLAC]/08 - Strange Fruit.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Nina Simone - Pastel Blues (2006) {0602498887004} [FLAC]/Pastel Blues.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Nina Simone - Pastel Blues (2006) {0602498887004} [FLAC]/09 - Sinnerman.flac
@@ -16902,29 +15732,17 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Nina Simone - Pastel Blues 
 /mnt/synology/media/music/orpheus.network/flac/Nine Inch Nails - The Downward Spiral (1994) - [FLAC]/12 - Reptile.flac
 /mnt/synology/media/music/orpheus.network/flac/Nine Inch Nails - The Downward Spiral (1994) - [FLAC]/13 - The Downward Spiral.flac
 /mnt/synology/media/music/orpheus.network/flac/Nine Inch Nails - The Downward Spiral (1994) - [FLAC]/14 - Hurt.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Nirvana - Bleach (1989) [FLAC]/Bleach.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Nirvana - Bleach (1989) [FLAC]/01 - Nirvana - Blew.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Nirvana - Bleach (1989) [FLAC]/Bleach.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Nirvana - Bleach (1989) [FLAC]/02 - Nirvana - Floyd the Barber.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Nirvana - Bleach (1989) [FLAC]/Bleach.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Nirvana - Bleach (1989) [FLAC]/03 - Nirvana - About a Girl.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Nirvana - Bleach (1989) [FLAC]/Bleach.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Nirvana - Bleach (1989) [FLAC]/04 - Nirvana - School.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Nirvana - Bleach (1989) [FLAC]/Bleach.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Nirvana - Bleach (1989) [FLAC]/05 - Nirvana - Love Buzz.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Nirvana - Bleach (1989) [FLAC]/Bleach.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Nirvana - Bleach (1989) [FLAC]/06 - Nirvana - Paper Cuts.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Nirvana - Bleach (1989) [FLAC]/Bleach.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Nirvana - Bleach (1989) [FLAC]/07 - Nirvana - Negative Creep.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Nirvana - Bleach (1989) [FLAC]/Bleach.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Nirvana - Bleach (1989) [FLAC]/08 - Nirvana - Scoff.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Nirvana - Bleach (1989) [FLAC]/Bleach.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Nirvana - Bleach (1989) [FLAC]/09 - Nirvana - Swap Meet.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Nirvana - Bleach (1989) [FLAC]/Bleach.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Nirvana - Bleach (1989) [FLAC]/10 - Nirvana - Mr. Moustache.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Nirvana - Bleach (1989) [FLAC]/Bleach.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Nirvana - Bleach (1989) [FLAC]/11 - Nirvana - Sifting.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Nirvana - Bleach (1989) [FLAC]/Bleach.cue/12
 /mnt/synology/media/music/orpheus.network/flac/Nirvana - Bleach (1989) [FLAC]/12 - Nirvana - Big Cheese.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Nirvana - Bleach (1989) [FLAC]/Bleach.cue/13
 /mnt/synology/media/music/orpheus.network/flac/Nirvana - Bleach (1989) [FLAC]/13 - Nirvana - Downer.flac
@@ -16940,33 +15758,19 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Nirvana - Bleach (1989) [FL
 /mnt/synology/media/music/orpheus.network/flac/Nirvana - Nevermind (1991) [FLAC] {1996 24kt Gold Remastered UDCD 666}/10 - Stay Away.flac
 /mnt/synology/media/music/orpheus.network/flac/Nirvana - Nevermind (1991) [FLAC] {1996 24kt Gold Remastered UDCD 666}/11 - On A Plain.flac
 /mnt/synology/media/music/orpheus.network/flac/Nirvana - Nevermind (1991) [FLAC] {1996 24kt Gold Remastered UDCD 666}/12 - Something In The Way - Endless, Nameless.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Nirvana - Incesticide [FLAC]/Nirvana - Incesticide.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Nirvana - Incesticide [FLAC]/01 Dive.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Nirvana - Incesticide [FLAC]/Nirvana - Incesticide.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Nirvana - Incesticide [FLAC]/02 Sliver.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Nirvana - Incesticide [FLAC]/Nirvana - Incesticide.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Nirvana - Incesticide [FLAC]/03 Stain.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Nirvana - Incesticide [FLAC]/Nirvana - Incesticide.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Nirvana - Incesticide [FLAC]/04 Been a Son.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Nirvana - Incesticide [FLAC]/Nirvana - Incesticide.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Nirvana - Incesticide [FLAC]/05 Turn Around.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Nirvana - Incesticide [FLAC]/Nirvana - Incesticide.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Nirvana - Incesticide [FLAC]/06 Molly's Lips.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Nirvana - Incesticide [FLAC]/Nirvana - Incesticide.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Nirvana - Incesticide [FLAC]/07 Son of a Gun.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Nirvana - Incesticide [FLAC]/Nirvana - Incesticide.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Nirvana - Incesticide [FLAC]/08 (New Wave) Polly.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Nirvana - Incesticide [FLAC]/Nirvana - Incesticide.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Nirvana - Incesticide [FLAC]/09 Beeswax.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Nirvana - Incesticide [FLAC]/Nirvana - Incesticide.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Nirvana - Incesticide [FLAC]/10 Downer.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Nirvana - Incesticide [FLAC]/Nirvana - Incesticide.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Nirvana - Incesticide [FLAC]/11 Mexican Seafood.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Nirvana - Incesticide [FLAC]/Nirvana - Incesticide.cue/12
 /mnt/synology/media/music/orpheus.network/flac/Nirvana - Incesticide [FLAC]/12 Hairspray Queen.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Nirvana - Incesticide [FLAC]/Nirvana - Incesticide.cue/13
 /mnt/synology/media/music/orpheus.network/flac/Nirvana - Incesticide [FLAC]/13 Aero Zeppelin.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Nirvana - Incesticide [FLAC]/Nirvana - Incesticide.cue/14
 /mnt/synology/media/music/orpheus.network/flac/Nirvana - Incesticide [FLAC]/14 Big Long Now.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Nirvana - Incesticide [FLAC]/Nirvana - Incesticide.cue/15
 /mnt/synology/media/music/orpheus.network/flac/Nirvana - Incesticide [FLAC]/15 Aneurysm.flac
@@ -17068,7 +15872,6 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Nirvana - Incesticide [FLAC
 /mnt/synology/media/music/orpheus.network/flac/NOFX - Single Album (2021) - WEB FLAC/08. Grieve Soto.flac
 /mnt/synology/media/music/orpheus.network/flac/NOFX - Single Album (2021) - WEB FLAC/09. Doors and Fours.flac
 /mnt/synology/media/music/orpheus.network/flac/NOFX - Single Album (2021) - WEB FLAC/10. Your Last Resort.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Compilations - Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition) (2021) [FLAC]/Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition).cue/12
 /mnt/synology/media/music/orpheus.network/flac/Compilations - Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition) (2021) [FLAC]/12 Caucasian Guilt.flac
 /mnt/synology/media/music/redacted.ch/flac/Nokturnal Mortum - 1997 - Goat Horns - OMCD6/01 - Black Moon Overture.flac
 /mnt/synology/media/music/redacted.ch/flac/Nokturnal Mortum - 1997 - Goat Horns - OMCD6/02 - Kuyaviya.flac
@@ -17112,21 +15915,13 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Compilations - Fame- Jon Sa
 /mnt/synology/media/music/orpheus.network/flac/Norma Jean (2006) - Redeemer [FLAC]/11 No Passenger - No Parasite.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Norma Jean (2008) - The Anti Mother [FLAC]/The Anti Mother.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Norma Jean (2008) - The Anti Mother [FLAC]/01 Vipers, Snakes, and Actors.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Norma Jean (2008) - The Anti Mother [FLAC]/The Anti Mother.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Norma Jean (2008) - The Anti Mother [FLAC]/02 Self Employed Chemist.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Norma Jean (2008) - The Anti Mother [FLAC]/The Anti Mother.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Norma Jean (2008) - The Anti Mother [FLAC]/03 Birth of the Anti Mother.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Norma Jean (2008) - The Anti Mother [FLAC]/The Anti Mother.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Norma Jean (2008) - The Anti Mother [FLAC]/04 Robots 3 Humans 0.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Norma Jean (2008) - The Anti Mother [FLAC]/The Anti Mother.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Norma Jean (2008) - The Anti Mother [FLAC]/05 Death of the Anti Mother.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Norma Jean (2008) - The Anti Mother [FLAC]/The Anti Mother.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Norma Jean (2008) - The Anti Mother [FLAC]/06 Surrender Your Sons....flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Norma Jean (2008) - The Anti Mother [FLAC]/The Anti Mother.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Norma Jean (2008) - The Anti Mother [FLAC]/07 Murphy Was an Optimist.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Norma Jean (2008) - The Anti Mother [FLAC]/The Anti Mother.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Norma Jean (2008) - The Anti Mother [FLAC]/08 Opposite of Left and Wrong.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Norma Jean (2008) - The Anti Mother [FLAC]/The Anti Mother.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Norma Jean (2008) - The Anti Mother [FLAC]/09 ...Discipline Your Daughters.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Norma Jean (2008) - The Anti Mother [FLAC]/The Anti Mother.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Norma Jean (2008) - The Anti Mother [FLAC]/10 And There Will Be a Swarm of Hornets.flac
@@ -17228,25 +16023,15 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Norma Jean (2008) - The Ant
 /mnt/synology/media/music/orpheus.network/flac/Oakwood - Oakwood [FLAC)/Oakwood - Oakwood - 06 I Used to Have Two Pen Pals (Acoustic).flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Oasis - (What’s the Story) Morning Glory (1995) [FLAC] {CRE CD 189}/(What’s the Story) Morning Glory.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Oasis - (What’s the Story) Morning Glory (1995) [FLAC] {CRE CD 189}/01 - Oasis - Hello.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Oasis - (What’s the Story) Morning Glory (1995) [FLAC] {CRE CD 189}/(What’s the Story) Morning Glory.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Oasis - (What’s the Story) Morning Glory (1995) [FLAC] {CRE CD 189}/02 - Oasis - Roll With It.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Oasis - (What’s the Story) Morning Glory (1995) [FLAC] {CRE CD 189}/(What’s the Story) Morning Glory.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Oasis - (What’s the Story) Morning Glory (1995) [FLAC] {CRE CD 189}/03 - Oasis - Wonderwall.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Oasis - (What’s the Story) Morning Glory (1995) [FLAC] {CRE CD 189}/(What’s the Story) Morning Glory.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Oasis - (What’s the Story) Morning Glory (1995) [FLAC] {CRE CD 189}/04 - Oasis - Don’t Look Back in Anger.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Oasis - (What’s the Story) Morning Glory (1995) [FLAC] {CRE CD 189}/(What’s the Story) Morning Glory.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Oasis - (What’s the Story) Morning Glory (1995) [FLAC] {CRE CD 189}/05 - Oasis - Hey Now!.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Oasis - (What’s the Story) Morning Glory (1995) [FLAC] {CRE CD 189}/(What’s the Story) Morning Glory.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Oasis - (What’s the Story) Morning Glory (1995) [FLAC] {CRE CD 189}/06 - Oasis - [untitled].flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Oasis - (What’s the Story) Morning Glory (1995) [FLAC] {CRE CD 189}/(What’s the Story) Morning Glory.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Oasis - (What’s the Story) Morning Glory (1995) [FLAC] {CRE CD 189}/07 - Oasis - Some Might Say.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Oasis - (What’s the Story) Morning Glory (1995) [FLAC] {CRE CD 189}/(What’s the Story) Morning Glory.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Oasis - (What’s the Story) Morning Glory (1995) [FLAC] {CRE CD 189}/08 - Oasis - Cast No Shadow.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Oasis - (What’s the Story) Morning Glory (1995) [FLAC] {CRE CD 189}/(What’s the Story) Morning Glory.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Oasis - (What’s the Story) Morning Glory (1995) [FLAC] {CRE CD 189}/09 - Oasis - She’s Electric.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Oasis - (What’s the Story) Morning Glory (1995) [FLAC] {CRE CD 189}/(What’s the Story) Morning Glory.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Oasis - (What’s the Story) Morning Glory (1995) [FLAC] {CRE CD 189}/10 - Oasis - Morning Glory.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Oasis - (What’s the Story) Morning Glory (1995) [FLAC] {CRE CD 189}/(What’s the Story) Morning Glory.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Oasis - (What’s the Story) Morning Glory (1995) [FLAC] {CRE CD 189}/11 - Oasis - [untitled].flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Oasis - (What’s the Story) Morning Glory (1995) [FLAC] {CRE CD 189}/(What’s the Story) Morning Glory.cue/12
 /mnt/synology/media/music/orpheus.network/flac/Oasis - (What’s the Story) Morning Glory (1995) [FLAC] {CRE CD 189}/12 - Oasis - Champagne Supernova.flac
@@ -17273,16 +16058,6 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Oasis - (What’s the Story
 /mnt/synology/media/music/orpheus.network/flac/Off Minor - The Heat Death of the Universe [2003]/07-Off Minor-Spartan.flac
 /mnt/synology/media/music/orpheus.network/flac/Off Minor - The Heat Death of the Universe [2003]/08-Off Minor-Monday Morning Quarterbacks.flac
 /mnt/synology/media/music/orpheus.network/flac/Off Minor - The Heat Death of the Universe [2003]/09-Off Minor-Off Minor.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Of Monsters and Men - 2011 - My Head is an Animal [FLAC]/My Head is an Animal.cue/1
-cue:///mnt/synology/media/music/orpheus.network/flac/Of Monsters and Men - 2011 - My Head is an Animal [FLAC]/My Head is an Animal.cue/2
-cue:///mnt/synology/media/music/orpheus.network/flac/Of Monsters and Men - 2011 - My Head is an Animal [FLAC]/My Head is an Animal.cue/3
-cue:///mnt/synology/media/music/orpheus.network/flac/Of Monsters and Men - 2011 - My Head is an Animal [FLAC]/My Head is an Animal.cue/4
-cue:///mnt/synology/media/music/orpheus.network/flac/Of Monsters and Men - 2011 - My Head is an Animal [FLAC]/My Head is an Animal.cue/5
-cue:///mnt/synology/media/music/orpheus.network/flac/Of Monsters and Men - 2011 - My Head is an Animal [FLAC]/My Head is an Animal.cue/6
-cue:///mnt/synology/media/music/orpheus.network/flac/Of Monsters and Men - 2011 - My Head is an Animal [FLAC]/My Head is an Animal.cue/7
-cue:///mnt/synology/media/music/orpheus.network/flac/Of Monsters and Men - 2011 - My Head is an Animal [FLAC]/My Head is an Animal.cue/8
-cue:///mnt/synology/media/music/orpheus.network/flac/Of Monsters and Men - 2011 - My Head is an Animal [FLAC]/My Head is an Animal.cue/9
-cue:///mnt/synology/media/music/orpheus.network/flac/Of Monsters and Men - 2011 - My Head is an Animal [FLAC]/My Head is an Animal.cue/10
 cue:///mnt/synology/media/music/orpheus.network/flac/Of Monsters and Men - 2011 - My Head is an Animal [FLAC]/My Head is an Animal.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Of Monsters and Men - 2011 - My Head is an Animal [FLAC]/01. Dirty Paws.flac
 /mnt/synology/media/music/orpheus.network/flac/Of Monsters and Men - 2011 - My Head is an Animal [FLAC]/02. King and Lionheart.flac
@@ -17346,11 +16121,8 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Of Monsters and Men - 2011 
 /mnt/synology/media/music/orpheus.network/flac/Om-Variations.On.A.Theme-2005-FLAC/03 - Annapurna.flac
 /mnt/synology/media/music/orpheus.network/flac/OM - Conference of the Birds [2006]/01 - At Giza.flac
 /mnt/synology/media/music/orpheus.network/flac/OM - Conference of the Birds [2006]/02 - Flight of the Eagle.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Om - God Is Good (2009) [FLAC]/God Is Good.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Om - God Is Good (2009) [FLAC]/01 Thebes.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Om - God Is Good (2009) [FLAC]/God Is Good.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Om - God Is Good (2009) [FLAC]/02 Meditation Is the Practice of Death.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Om - God Is Good (2009) [FLAC]/God Is Good.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Om - God Is Good (2009) [FLAC]/03 Cremation Ghat I.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Om - God Is Good (2009) [FLAC]/God Is Good.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Om - God Is Good (2009) [FLAC]/04 Cremation Ghat II.flac
@@ -17483,41 +16255,24 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Om - God Is Good (2009) [FL
 /mnt/synology/media/music/orpheus.network/flac/Ornette Coleman - 1959 - Change of the Century [FLAC] {Atlantic 7 81341-2}/05 - Bird Food.flac
 /mnt/synology/media/music/orpheus.network/flac/Ornette Coleman - 1959 - Change of the Century [FLAC] {Atlantic 7 81341-2}/06 - Una Muy Bonita.flac
 /mnt/synology/media/music/orpheus.network/flac/Ornette Coleman - 1959 - Change of the Century [FLAC] {Atlantic 7 81341-2}/07 - Change of the Century.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Ornette Coleman - 2000 - The Complete Science Fiction Sessions [FLAC]/2/Complete Science Fiction Sessions (1971-72) (Disc 2).cue/1
 /mnt/synology/media/music/orpheus.network/flac/Ornette Coleman - 2000 - The Complete Science Fiction Sessions [FLAC]/2/01 Happy House.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Ornette Coleman - 2000 - The Complete Science Fiction Sessions [FLAC]/2/Complete Science Fiction Sessions (1971-72) (Disc 2).cue/2
 /mnt/synology/media/music/orpheus.network/flac/Ornette Coleman - 2000 - The Complete Science Fiction Sessions [FLAC]/2/02 Elizabeth.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Ornette Coleman - 2000 - The Complete Science Fiction Sessions [FLAC]/2/Complete Science Fiction Sessions (1971-72) (Disc 2).cue/3
 /mnt/synology/media/music/orpheus.network/flac/Ornette Coleman - 2000 - The Complete Science Fiction Sessions [FLAC]/2/03 Written Word.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Ornette Coleman - 2000 - The Complete Science Fiction Sessions [FLAC]/2/Complete Science Fiction Sessions (1971-72) (Disc 2).cue/4
 /mnt/synology/media/music/orpheus.network/flac/Ornette Coleman - 2000 - The Complete Science Fiction Sessions [FLAC]/2/04 Broken Shadows.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Ornette Coleman - 2000 - The Complete Science Fiction Sessions [FLAC]/2/Complete Science Fiction Sessions (1971-72) (Disc 2).cue/5
 /mnt/synology/media/music/orpheus.network/flac/Ornette Coleman - 2000 - The Complete Science Fiction Sessions [FLAC]/2/05 Rubber Gloves.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Ornette Coleman - 2000 - The Complete Science Fiction Sessions [FLAC]/2/Complete Science Fiction Sessions (1971-72) (Disc 2).cue/6
 /mnt/synology/media/music/orpheus.network/flac/Ornette Coleman - 2000 - The Complete Science Fiction Sessions [FLAC]/2/06 Good Girl Blues.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Ornette Coleman - 2000 - The Complete Science Fiction Sessions [FLAC]/2/Complete Science Fiction Sessions (1971-72) (Disc 2).cue/7
 /mnt/synology/media/music/orpheus.network/flac/Ornette Coleman - 2000 - The Complete Science Fiction Sessions [FLAC]/2/07 Is It Forever.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Ornette Coleman - 2000 - The Complete Science Fiction Sessions [FLAC]/1/The Complete Science Fiction Sessions  CD1.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Ornette Coleman - 2000 - The Complete Science Fiction Sessions [FLAC]/1/01 What reason could I give.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Ornette Coleman - 2000 - The Complete Science Fiction Sessions [FLAC]/1/The Complete Science Fiction Sessions  CD1.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Ornette Coleman - 2000 - The Complete Science Fiction Sessions [FLAC]/1/02 Civilization day.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Ornette Coleman - 2000 - The Complete Science Fiction Sessions [FLAC]/1/The Complete Science Fiction Sessions  CD1.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Ornette Coleman - 2000 - The Complete Science Fiction Sessions [FLAC]/1/03 Street woman.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Ornette Coleman - 2000 - The Complete Science Fiction Sessions [FLAC]/1/The Complete Science Fiction Sessions  CD1.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Ornette Coleman - 2000 - The Complete Science Fiction Sessions [FLAC]/1/04 Science fiction.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Ornette Coleman - 2000 - The Complete Science Fiction Sessions [FLAC]/1/The Complete Science Fiction Sessions  CD1.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Ornette Coleman - 2000 - The Complete Science Fiction Sessions [FLAC]/1/05 Rock the clock.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Ornette Coleman - 2000 - The Complete Science Fiction Sessions [FLAC]/1/The Complete Science Fiction Sessions  CD1.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Ornette Coleman - 2000 - The Complete Science Fiction Sessions [FLAC]/1/06 All my life.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Ornette Coleman - 2000 - The Complete Science Fiction Sessions [FLAC]/1/The Complete Science Fiction Sessions  CD1.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Ornette Coleman - 2000 - The Complete Science Fiction Sessions [FLAC]/1/07 Law years.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Ornette Coleman - 2000 - The Complete Science Fiction Sessions [FLAC]/1/The Complete Science Fiction Sessions  CD1.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Ornette Coleman - 2000 - The Complete Science Fiction Sessions [FLAC]/1/08 The jungle is a skyscraper.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Ornette Coleman - 2000 - The Complete Science Fiction Sessions [FLAC]/1/The Complete Science Fiction Sessions  CD1.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Ornette Coleman - 2000 - The Complete Science Fiction Sessions [FLAC]/1/09 School work.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Ornette Coleman - 2000 - The Complete Science Fiction Sessions [FLAC]/1/The Complete Science Fiction Sessions  CD1.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Ornette Coleman - 2000 - The Complete Science Fiction Sessions [FLAC]/1/10 Country town blues.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Ornette Coleman - 2000 - The Complete Science Fiction Sessions [FLAC]/1/The Complete Science Fiction Sessions  CD1.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Ornette Coleman - 2000 - The Complete Science Fiction Sessions [FLAC]/1/11 Street woman [Alternate take].flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Ornette Coleman - 2000 - The Complete Science Fiction Sessions [FLAC]/1/The Complete Science Fiction Sessions  CD1.cue/12
 /mnt/synology/media/music/orpheus.network/flac/Ornette Coleman - 2000 - The Complete Science Fiction Sessions [FLAC]/1/12 Civilization day [Alternate mix].flac
@@ -17534,11 +16289,8 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Ornette Coleman - 2000 - Th
 /mnt/synology/media/music/orpheus.network/flac/Ornette Coleman Quartet - This Is Our Music - FLAC/05.Poise.flac
 /mnt/synology/media/music/orpheus.network/flac/Ornette Coleman Quartet - This Is Our Music - FLAC/06.Humpty Dumpty.flac
 /mnt/synology/media/music/orpheus.network/flac/Ornette Coleman Quartet - This Is Our Music - FLAC/07.Folk Tale.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Otomo Yoshihide (2006) ONJQ - Live In Lisbon [FLAC]/ONJQ Live in Lisbon.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Otomo Yoshihide (2006) ONJQ - Live In Lisbon [FLAC]/01 - Song for Che,Reducing Agent.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Otomo Yoshihide (2006) ONJQ - Live In Lisbon [FLAC]/ONJQ Live in Lisbon.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Otomo Yoshihide (2006) ONJQ - Live In Lisbon [FLAC]/02 - Serene.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Otomo Yoshihide (2006) ONJQ - Live In Lisbon [FLAC]/ONJQ Live in Lisbon.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Otomo Yoshihide (2006) ONJQ - Live In Lisbon [FLAC]/03 - Flutter.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Otomo Yoshihide (2006) ONJQ - Live In Lisbon [FLAC]/ONJQ Live in Lisbon.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Otomo Yoshihide (2006) ONJQ - Live In Lisbon [FLAC]/04 - Eureka.flac
@@ -17555,25 +16307,15 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Otomo Yoshihide (2006) ONJQ
 /mnt/synology/media/music/orpheus.network/flac/Otomo Yoshihide's New Jazz Orchestra - Plays Eric Dolphy's 'Out To Lunch' (2005) CD FLAC/04 - Out To Lunch.flac
 /mnt/synology/media/music/orpheus.network/flac/Otomo Yoshihide's New Jazz Orchestra - Plays Eric Dolphy's 'Out To Lunch' (2005) CD FLAC/05 - Straight Up And Down ~ Will Be Back.flac
 /mnt/synology/media/music/bandcamp/ourbluewounds - what am i supposed to be-.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Oval - Systemisch (1996) [FLAC] {thrill032 CD}/Systemisch.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Oval - Systemisch (1996) [FLAC] {thrill032 CD}/01 Textuell.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Oval - Systemisch (1996) [FLAC] {thrill032 CD}/Systemisch.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Oval - Systemisch (1996) [FLAC] {thrill032 CD}/02 Aero Deck.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Oval - Systemisch (1996) [FLAC] {thrill032 CD}/Systemisch.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Oval - Systemisch (1996) [FLAC] {thrill032 CD}/03 The Politics of Digital Audio.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Oval - Systemisch (1996) [FLAC] {thrill032 CD}/Systemisch.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Oval - Systemisch (1996) [FLAC] {thrill032 CD}/04 Schöner wissen.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Oval - Systemisch (1996) [FLAC] {thrill032 CD}/Systemisch.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Oval - Systemisch (1996) [FLAC] {thrill032 CD}/05 Catchy DAAD.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Oval - Systemisch (1996) [FLAC] {thrill032 CD}/Systemisch.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Oval - Systemisch (1996) [FLAC] {thrill032 CD}/06 Mediaton.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Oval - Systemisch (1996) [FLAC] {thrill032 CD}/Systemisch.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Oval - Systemisch (1996) [FLAC] {thrill032 CD}/07 Tonregie.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Oval - Systemisch (1996) [FLAC] {thrill032 CD}/Systemisch.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Oval - Systemisch (1996) [FLAC] {thrill032 CD}/08 Oval Office.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Oval - Systemisch (1996) [FLAC] {thrill032 CD}/Systemisch.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Oval - Systemisch (1996) [FLAC] {thrill032 CD}/09 Compact Disc.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Oval - Systemisch (1996) [FLAC] {thrill032 CD}/Systemisch.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Oval - Systemisch (1996) [FLAC] {thrill032 CD}/10 Post-Post.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Oval - Systemisch (1996) [FLAC] {thrill032 CD}/Systemisch.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Oval - Systemisch (1996) [FLAC] {thrill032 CD}/11 Gabba Nation.flac
@@ -17971,19 +16713,12 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Oval - Systemisch (1996) [F
 /mnt/synology/media/music/orpheus.network/flac/Patterns Make Sunrise - Patterns Make Sunrise (1995) [FLAC24] {Numero Group}/02. Quilceda Creek.flac
 /mnt/synology/media/music/orpheus.network/flac/Patterns Make Sunrise - Patterns Make Sunrise (1995) [FLAC24] {Numero Group}/03. So As To.flac
 /mnt/synology/media/music/orpheus.network/flac/Patterns Make Sunrise - Patterns Make Sunrise (1995) [FLAC24] {Numero Group}/04. Light To Your Heart.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Patti Smith - Horses [1975] flac [1988 Arista 251 112]/Horses.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Patti Smith - Horses [1975] flac [1988 Arista 251 112]/Horses - 01 Gloria： In Excelsis Deo ／ Gloria (version).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Patti Smith - Horses [1975] flac [1988 Arista 251 112]/Horses.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Patti Smith - Horses [1975] flac [1988 Arista 251 112]/Horses - 02 Redondo Beach.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Patti Smith - Horses [1975] flac [1988 Arista 251 112]/Horses.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Patti Smith - Horses [1975] flac [1988 Arista 251 112]/Horses - 03 Birdland.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Patti Smith - Horses [1975] flac [1988 Arista 251 112]/Horses.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Patti Smith - Horses [1975] flac [1988 Arista 251 112]/Horses - 04 Free Money.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Patti Smith - Horses [1975] flac [1988 Arista 251 112]/Horses.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Patti Smith - Horses [1975] flac [1988 Arista 251 112]/Horses - 05 Kimberly.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Patti Smith - Horses [1975] flac [1988 Arista 251 112]/Horses.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Patti Smith - Horses [1975] flac [1988 Arista 251 112]/Horses - 06 Break It Up.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Patti Smith - Horses [1975] flac [1988 Arista 251 112]/Horses.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Patti Smith - Horses [1975] flac [1988 Arista 251 112]/Horses - 07 Land： Horses ／ Land of a Thousand Dances ／ La Mer (De).flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Patti Smith - Horses [1975] flac [1988 Arista 251 112]/Horses.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Patti Smith - Horses [1975] flac [1988 Arista 251 112]/Horses - 08 Elegie.flac
@@ -18115,27 +16850,17 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Patti Smith - Horses [1975]
 /mnt/synology/media/music/orpheus.network/flac/Penfold - Amateurs and Professionals (1999) [FLAC]/05 - Traveling Theory.flac
 /mnt/synology/media/music/orpheus.network/flac/Penfold - Amateurs and Professionals (1999) [FLAC]/06 - Breathing Lessons.flac
 /mnt/synology/media/music/orpheus.network/flac/Penfold - Amateurs and Professionals (1999) [FLAC]/07 - Amateur Standing.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Pere Ubu - The Modern Dance (1977) [FLAC]/The Modern Dance.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Pere Ubu - The Modern Dance (1977) [FLAC]/01 Nonalignment Pact.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Pere Ubu - The Modern Dance (1977) [FLAC]/The Modern Dance.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Pere Ubu - The Modern Dance (1977) [FLAC]/02 Modern Dance.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Pere Ubu - The Modern Dance (1977) [FLAC]/The Modern Dance.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Pere Ubu - The Modern Dance (1977) [FLAC]/03 Laughing.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Pere Ubu - The Modern Dance (1977) [FLAC]/The Modern Dance.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Pere Ubu - The Modern Dance (1977) [FLAC]/04 Street Waves.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Pere Ubu - The Modern Dance (1977) [FLAC]/The Modern Dance.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Pere Ubu - The Modern Dance (1977) [FLAC]/05 Chinese Radiation.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Pere Ubu - The Modern Dance (1977) [FLAC]/The Modern Dance.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Pere Ubu - The Modern Dance (1977) [FLAC]/06 Life Stinks.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Pere Ubu - The Modern Dance (1977) [FLAC]/The Modern Dance.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Pere Ubu - The Modern Dance (1977) [FLAC]/07 Real World.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Pere Ubu - The Modern Dance (1977) [FLAC]/The Modern Dance.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Pere Ubu - The Modern Dance (1977) [FLAC]/08 Over My Head.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Pere Ubu - The Modern Dance (1977) [FLAC]/The Modern Dance.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Pere Ubu - The Modern Dance (1977) [FLAC]/09 Sentimental Journey.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Pere Ubu - The Modern Dance (1977) [FLAC]/The Modern Dance.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Pere Ubu - The Modern Dance (1977) [FLAC]/10 Humor Me.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Compilations - Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition) (2021) [FLAC]/Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition).cue/1
 /mnt/synology/media/music/orpheus.network/flac/Compilations - Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition) (2021) [FLAC]/01 Heart Of Darkness.flac
 /mnt/synology/media/music/redacted.ch/flac/Peste Noire - La Sanie Des Siècles - Panégyrique De La Dégénérescence/01 - Nous Sommes Fanés.flac
 /mnt/synology/media/music/redacted.ch/flac/Peste Noire - La Sanie Des Siècles - Panégyrique De La Dégénérescence/02 - Le Mort Joyeux.flac
@@ -18176,13 +16901,9 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Compilations - Fame- Jon Sa
 /mnt/synology/media/music/orpheus.network/flac/Document #5 (2000) [FLAC]/08 (................).flac
 /mnt/synology/media/music/orpheus.network/flac/Document #5 (2000) [FLAC]/09 Sounds of Gravesites (Upturned).flac
 /mnt/synology/media/music/orpheus.network/flac/Document #5 (2000) [FLAC]/10 By the Fireplace in White.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/pg.99 - Document#7 (2001) [FLAC]/Document#7.cue/1
 /mnt/synology/media/music/orpheus.network/flac/pg.99 - Document#7 (2001) [FLAC]/01 Living In The Skeleton Of A Happy Memory.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/pg.99 - Document#7 (2001) [FLAC]/Document#7.cue/2
 /mnt/synology/media/music/orpheus.network/flac/pg.99 - Document#7 (2001) [FLAC]/02 Del Mundo....flac
-cue:///mnt/synology/media/music/orpheus.network/flac/pg.99 - Document#7 (2001) [FLAC]/Document#7.cue/3
 /mnt/synology/media/music/orpheus.network/flac/pg.99 - Document#7 (2001) [FLAC]/03 The Mangled Hand.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/pg.99 - Document#7 (2001) [FLAC]/Document#7.cue/4
 /mnt/synology/media/music/orpheus.network/flac/pg.99 - Document#7 (2001) [FLAC]/04 Love Goes Tisk...Tisk...Tisk.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/pg.99 - Document#7 (2001) [FLAC]/Document#7.cue/5
 /mnt/synology/media/music/orpheus.network/flac/pg.99 - Document#7 (2001) [FLAC]/05 A Sommet To Both Ugly And Murderous.flac
@@ -18202,7 +16923,6 @@ cue:///mnt/synology/media/music/orpheus.network/flac/pg.99 - Document#7 (2001) [
 /mnt/synology/media/music/orpheus.network/flac/pg.99_&_Majority_Rule-Document#12-2002-FLAC/07-Majority_Rule-These_Hands.flac
 /mnt/synology/media/music/orpheus.network/flac/pg.99_&_Majority_Rule-Document#12-2002-FLAC/08-Majority_Rule-My_Version_Of_Paris.flac
 /mnt/synology/media/music/orpheus.network/flac/pg.99_&_Majority_Rule-Document#12-2002-FLAC/09-Majority_Rule-Pack_Aged_Poison.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Pharoah Sanders - Karma (1969) [FLAC]/Karma.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Pharoah Sanders - Karma (1969) [FLAC]/01 The Creator Has a Master Plan.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Pharoah Sanders - Karma (1969) [FLAC]/Karma.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Pharoah Sanders - Karma (1969) [FLAC]/02 Colors.flac
@@ -18248,27 +16968,17 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Pharoah Sanders - Black Uni
 /mnt/synology/media/music/orpheus.network/flac/Phish - A Picture of Nectar (1992) [FLAC]/14 Faht.flac
 /mnt/synology/media/music/orpheus.network/flac/Phish - A Picture of Nectar (1992) [FLAC]/15 Catapult.flac
 /mnt/synology/media/music/orpheus.network/flac/Phish - A Picture of Nectar (1992) [FLAC]/16 Tweezer Reprise.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Phish - A Live One (1995) [FLAC]/Disc 1/A Live One.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Phish - A Live One (1995) [FLAC]/Disc 1/01 Bouncing Around The Room.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Phish - A Live One (1995) [FLAC]/Disc 1/A Live One.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Phish - A Live One (1995) [FLAC]/Disc 1/02 Stash.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Phish - A Live One (1995) [FLAC]/Disc 1/A Live One.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Phish - A Live One (1995) [FLAC]/Disc 1/03 Gumbo.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Phish - A Live One (1995) [FLAC]/Disc 1/A Live One.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Phish - A Live One (1995) [FLAC]/Disc 1/04 Montana.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Phish - A Live One (1995) [FLAC]/Disc 1/A Live One.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Phish - A Live One (1995) [FLAC]/Disc 1/05 You Enjoy Myself.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Phish - A Live One (1995) [FLAC]/Disc 1/A Live One.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Phish - A Live One (1995) [FLAC]/Disc 1/06 Chalkdust Torture.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Phish - A Live One (1995) [FLAC]/Disc 1/A Live One.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Phish - A Live One (1995) [FLAC]/Disc 1/07 Slave To The Traffic Light.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Phish - A Live One (1995) [FLAC]/Disc 2/A Live One.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Phish - A Live One (1995) [FLAC]/Disc 2/01 Wilson.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Phish - A Live One (1995) [FLAC]/Disc 2/A Live One.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Phish - A Live One (1995) [FLAC]/Disc 2/02 Tweezer.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Phish - A Live One (1995) [FLAC]/Disc 2/A Live One.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Phish - A Live One (1995) [FLAC]/Disc 2/03 Simple.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Phish - A Live One (1995) [FLAC]/Disc 2/A Live One.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Phish - A Live One (1995) [FLAC]/Disc 2/04 Harry Hood.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Phish - A Live One (1995) [FLAC]/Disc 2/A Live One.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Phish - A Live One (1995) [FLAC]/Disc 2/05 The Squirming Coil.flac
@@ -18686,33 +17396,19 @@ cue:///mnt/synology/media/music/orpheus.network/flac/2016 - Cardinal (Expanded E
 /mnt/synology/media/music/orpheus.network/flac/Pixies - Surfer Rosa [1992 4AD-Elektra Records]/12 - Vamos.flac
 /mnt/synology/media/music/orpheus.network/flac/Pixies - Surfer Rosa [1992 4AD-Elektra Records]/13 - I'm Amazed.flac
 /mnt/synology/media/music/orpheus.network/flac/Pixies - Surfer Rosa [1992 4AD-Elektra Records]/14 - Brick Is Red.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Pixies - Doolittle (1989) [FLAC] (CAD 905 CD 4AD 1989)/Doolittle.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Pixies - Doolittle (1989) [FLAC] (CAD 905 CD 4AD 1989)/01 - Debaser.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Pixies - Doolittle (1989) [FLAC] (CAD 905 CD 4AD 1989)/Doolittle.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Pixies - Doolittle (1989) [FLAC] (CAD 905 CD 4AD 1989)/02 - Tame.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Pixies - Doolittle (1989) [FLAC] (CAD 905 CD 4AD 1989)/Doolittle.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Pixies - Doolittle (1989) [FLAC] (CAD 905 CD 4AD 1989)/03 - Wave of Mutilation.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Pixies - Doolittle (1989) [FLAC] (CAD 905 CD 4AD 1989)/Doolittle.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Pixies - Doolittle (1989) [FLAC] (CAD 905 CD 4AD 1989)/04 - I Bleed.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Pixies - Doolittle (1989) [FLAC] (CAD 905 CD 4AD 1989)/Doolittle.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Pixies - Doolittle (1989) [FLAC] (CAD 905 CD 4AD 1989)/05 - Here Comes Your Man.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Pixies - Doolittle (1989) [FLAC] (CAD 905 CD 4AD 1989)/Doolittle.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Pixies - Doolittle (1989) [FLAC] (CAD 905 CD 4AD 1989)/06 - Dead.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Pixies - Doolittle (1989) [FLAC] (CAD 905 CD 4AD 1989)/Doolittle.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Pixies - Doolittle (1989) [FLAC] (CAD 905 CD 4AD 1989)/07 - Monkey Gone to Heaven.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Pixies - Doolittle (1989) [FLAC] (CAD 905 CD 4AD 1989)/Doolittle.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Pixies - Doolittle (1989) [FLAC] (CAD 905 CD 4AD 1989)/08 - Mr. Grieves.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Pixies - Doolittle (1989) [FLAC] (CAD 905 CD 4AD 1989)/Doolittle.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Pixies - Doolittle (1989) [FLAC] (CAD 905 CD 4AD 1989)/09 - Crackity Jones.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Pixies - Doolittle (1989) [FLAC] (CAD 905 CD 4AD 1989)/Doolittle.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Pixies - Doolittle (1989) [FLAC] (CAD 905 CD 4AD 1989)/10 - La La Love You.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Pixies - Doolittle (1989) [FLAC] (CAD 905 CD 4AD 1989)/Doolittle.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Pixies - Doolittle (1989) [FLAC] (CAD 905 CD 4AD 1989)/11 - No. 13 Baby.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Pixies - Doolittle (1989) [FLAC] (CAD 905 CD 4AD 1989)/Doolittle.cue/12
 /mnt/synology/media/music/orpheus.network/flac/Pixies - Doolittle (1989) [FLAC] (CAD 905 CD 4AD 1989)/12 - There Goes My Gun.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Pixies - Doolittle (1989) [FLAC] (CAD 905 CD 4AD 1989)/Doolittle.cue/13
 /mnt/synology/media/music/orpheus.network/flac/Pixies - Doolittle (1989) [FLAC] (CAD 905 CD 4AD 1989)/13 - Hey.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Pixies - Doolittle (1989) [FLAC] (CAD 905 CD 4AD 1989)/Doolittle.cue/14
 /mnt/synology/media/music/orpheus.network/flac/Pixies - Doolittle (1989) [FLAC] (CAD 905 CD 4AD 1989)/14 - Silver.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Pixies - Doolittle (1989) [FLAC] (CAD 905 CD 4AD 1989)/Doolittle.cue/15
 /mnt/synology/media/music/orpheus.network/flac/Pixies - Doolittle (1989) [FLAC] (CAD 905 CD 4AD 1989)/15 - Gouge Away.flac
@@ -18735,27 +17431,16 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Pixies - Doolittle (1989) [
 /mnt/synology/media/music/orpheus.network/flac/Pixies - Trompe Le Monde (1991) [FLAC] {2013 MFSL Remaster}/13 Lovely Day.flac
 /mnt/synology/media/music/orpheus.network/flac/Pixies - Trompe Le Monde (1991) [FLAC] {2013 MFSL Remaster}/14 Motorway To Roswell.flac
 /mnt/synology/media/music/orpheus.network/flac/Pixies - Trompe Le Monde (1991) [FLAC] {2013 MFSL Remaster}/15 The Navajo Know.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Pixies - (2016) Head Carrier [FLAC]/Head Carrier.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Pixies - (2016) Head Carrier [FLAC]/01 Head Carrier .flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Pixies - (2016) Head Carrier [FLAC]/Head Carrier.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Pixies - (2016) Head Carrier [FLAC]/02 Classic Masher .flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Pixies - (2016) Head Carrier [FLAC]/Head Carrier.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Pixies - (2016) Head Carrier [FLAC]/03 Baal’s Back .flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Pixies - (2016) Head Carrier [FLAC]/Head Carrier.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Pixies - (2016) Head Carrier [FLAC]/04 Might As Well Be Gone .flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Pixies - (2016) Head Carrier [FLAC]/Head Carrier.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Pixies - (2016) Head Carrier [FLAC]/05 Oona.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Pixies - (2016) Head Carrier [FLAC]/Head Carrier.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Pixies - (2016) Head Carrier [FLAC]/06 Talent.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Pixies - (2016) Head Carrier [FLAC]/Head Carrier.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Pixies - (2016) Head Carrier [FLAC]/07 Tenement Song .flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Pixies - (2016) Head Carrier [FLAC]/Head Carrier.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Pixies - (2016) Head Carrier [FLAC]/08 Bel Esprit .flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Pixies - (2016) Head Carrier [FLAC]/Head Carrier.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Pixies - (2016) Head Carrier [FLAC]/09 All I Think About Now.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Pixies - (2016) Head Carrier [FLAC]/Head Carrier.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Pixies - (2016) Head Carrier [FLAC]/10 Um Chagga Lagga .flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Pixies - (2016) Head Carrier [FLAC]/Head Carrier.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Pixies - (2016) Head Carrier [FLAC]/11 Plaster Of Paris .flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Pixies - (2016) Head Carrier [FLAC]/Head Carrier.cue/12
 /mnt/synology/media/music/orpheus.network/flac/Pixies - (2016) Head Carrier [FLAC]/12 All The Saints.flac
@@ -18865,27 +17550,16 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Pixies - (2016) Head Carrie
 /mnt/synology/media/music/orpheus.network/flac/Plastic Girl In Closet - eye cue rew see (2014) [CD FLAC] {DQC-1345 Only Feeback}/09 SAD DREAM.flac
 /mnt/synology/media/music/orpheus.network/flac/Plastic Girl In Closet - eye cue rew see (2014) [CD FLAC] {DQC-1345 Only Feeback}/10 AFTER DARK.flac
 /mnt/synology/media/music/orpheus.network/flac/Plastic Girl In Closet - eye cue rew see (2014) [CD FLAC] {DQC-1345 Only Feeback}/11 COLOURS OF THE WORLD.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Pluto - Pipeline Under the Ocean (2005) [FLAC]/Pipeline Under the Ocean.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Pluto - Pipeline Under the Ocean (2005) [FLAC]/01 Radio Crimes.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Pluto - Pipeline Under the Ocean (2005) [FLAC]/Pipeline Under the Ocean.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Pluto - Pipeline Under the Ocean (2005) [FLAC]/02 Long White Cross.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Pluto - Pipeline Under the Ocean (2005) [FLAC]/Pipeline Under the Ocean.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Pluto - Pipeline Under the Ocean (2005) [FLAC]/03 Madeline.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Pluto - Pipeline Under the Ocean (2005) [FLAC]/Pipeline Under the Ocean.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Pluto - Pipeline Under the Ocean (2005) [FLAC]/04 8 O'Clock.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Pluto - Pipeline Under the Ocean (2005) [FLAC]/Pipeline Under the Ocean.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Pluto - Pipeline Under the Ocean (2005) [FLAC]/05 Dance Stamina.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Pluto - Pipeline Under the Ocean (2005) [FLAC]/Pipeline Under the Ocean.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Pluto - Pipeline Under the Ocean (2005) [FLAC]/06 On Your Own.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Pluto - Pipeline Under the Ocean (2005) [FLAC]/Pipeline Under the Ocean.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Pluto - Pipeline Under the Ocean (2005) [FLAC]/07 Baghdad Boy.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Pluto - Pipeline Under the Ocean (2005) [FLAC]/Pipeline Under the Ocean.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Pluto - Pipeline Under the Ocean (2005) [FLAC]/08 Moja Rijeka.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Pluto - Pipeline Under the Ocean (2005) [FLAC]/Pipeline Under the Ocean.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Pluto - Pipeline Under the Ocean (2005) [FLAC]/09 Baby Cruel.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Pluto - Pipeline Under the Ocean (2005) [FLAC]/Pipeline Under the Ocean.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Pluto - Pipeline Under the Ocean (2005) [FLAC]/10 Rock 'n' Roll.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Pluto - Pipeline Under the Ocean (2005) [FLAC]/Pipeline Under the Ocean.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Pluto - Pipeline Under the Ocean (2005) [FLAC]/11 Perfectly Evil.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Pluto - Pipeline Under the Ocean (2005) [FLAC]/Pipeline Under the Ocean.cue/12
 /mnt/synology/media/music/orpheus.network/flac/Pluto - Pipeline Under the Ocean (2005) [FLAC]/12 Broken Hearted.flac
@@ -18910,7 +17584,6 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Pluto - Pipeline Under the 
 /mnt/synology/media/music/orpheus.network/flac/Polvo - Today's Active Lifestyles (1993) [FLAC] {Merge Records - mrg040cd}/08 - Time Isn't on My Side.flac
 /mnt/synology/media/music/orpheus.network/flac/Polvo - Today's Active Lifestyles (1993) [FLAC] {Merge Records - mrg040cd}/09 - Action Vs. Vibe.flac
 /mnt/synology/media/music/orpheus.network/flac/Polvo - Today's Active Lifestyles (1993) [FLAC] {Merge Records - mrg040cd}/10 - Gemini Cup.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Popol Vuh - Letzte Tage - Letzte Nächte (1976) {2006 ARC-7189 RE,RM} [CD FLAC]/Letzte Tage - Letzte Nächte.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Popol Vuh - Hosianna Mantra (1972)[2004 SPV Recordings SPV 085-70122]{CD FLAC}/01. Hosianna-Mantra - Ah!.flac
 /mnt/synology/media/music/orpheus.network/flac/Popol Vuh - Hosianna Mantra (1972)[2004 SPV Recordings SPV 085-70122]{CD FLAC}/02. Hosianna-Mantra - Kyrie.flac
 /mnt/synology/media/music/orpheus.network/flac/Popol Vuh - Hosianna Mantra (1972)[2004 SPV Recordings SPV 085-70122]{CD FLAC}/03. Hosianna-Mantra.flac
@@ -18921,23 +17594,14 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Popol Vuh - Letzte Tage - L
 /mnt/synology/media/music/orpheus.network/flac/Popol Vuh - Hosianna Mantra (1972)[2004 SPV Recordings SPV 085-70122]{CD FLAC}/08. Das V Buch Mose - 5 Andacht.flac
 /mnt/synology/media/music/orpheus.network/flac/Popol Vuh - Hosianna Mantra (1972)[2004 SPV Recordings SPV 085-70122]{CD FLAC}/09. Maria (Ave Maria - Bonus Track).flac
 /mnt/synology/media/music/orpheus.network/flac/Popol Vuh - Letzte Tage - Letzte Nächte (1976) {2006 ARC-7189 RE,RM} [CD FLAC]/01. Der Gross Krieger.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Popol Vuh - Letzte Tage - Letzte Nächte (1976) {2006 ARC-7189 RE,RM} [CD FLAC]/Letzte Tage - Letzte Nächte.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Popol Vuh - Letzte Tage - Letzte Nächte (1976) {2006 ARC-7189 RE,RM} [CD FLAC]/02. Oh Wie Nah Ist Der Weg Hinab.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Popol Vuh - Letzte Tage - Letzte Nächte (1976) {2006 ARC-7189 RE,RM} [CD FLAC]/Letzte Tage - Letzte Nächte.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Popol Vuh - Letzte Tage - Letzte Nächte (1976) {2006 ARC-7189 RE,RM} [CD FLAC]/03. Oh Wie Weit Ist Der Weg Hinauf.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Popol Vuh - Letzte Tage - Letzte Nächte (1976) {2006 ARC-7189 RE,RM} [CD FLAC]/Letzte Tage - Letzte Nächte.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Popol Vuh - Letzte Tage - Letzte Nächte (1976) {2006 ARC-7189 RE,RM} [CD FLAC]/04. In Deine Hände.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Popol Vuh - Letzte Tage - Letzte Nächte (1976) {2006 ARC-7189 RE,RM} [CD FLAC]/Letzte Tage - Letzte Nächte.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Popol Vuh - Letzte Tage - Letzte Nächte (1976) {2006 ARC-7189 RE,RM} [CD FLAC]/05. Kyrie.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Popol Vuh - Letzte Tage - Letzte Nächte (1976) {2006 ARC-7189 RE,RM} [CD FLAC]/Letzte Tage - Letzte Nächte.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Popol Vuh - Letzte Tage - Letzte Nächte (1976) {2006 ARC-7189 RE,RM} [CD FLAC]/06. Haram Dei Raram Dei Haram Dei Ra.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Popol Vuh - Letzte Tage - Letzte Nächte (1976) {2006 ARC-7189 RE,RM} [CD FLAC]/Letzte Tage - Letzte Nächte.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Popol Vuh - Letzte Tage - Letzte Nächte (1976) {2006 ARC-7189 RE,RM} [CD FLAC]/07. Dort Ist Der Weg.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Popol Vuh - Letzte Tage - Letzte Nächte (1976) {2006 ARC-7189 RE,RM} [CD FLAC]/Letzte Tage - Letzte Nächte.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Popol Vuh - Letzte Tage - Letzte Nächte (1976) {2006 ARC-7189 RE,RM} [CD FLAC]/08. Letzte Tage - Letzte Nächte.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Popol Vuh - Letzte Tage - Letzte Nächte (1976) {2006 ARC-7189 RE,RM} [CD FLAC]/Letzte Tage - Letzte Nächte.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Popol Vuh - Letzte Tage - Letzte Nächte (1976) {2006 ARC-7189 RE,RM} [CD FLAC]/09. Wanderschaft - Wanderings.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Popol Vuh - Letzte Tage - Letzte Nächte (1976) {2006 ARC-7189 RE,RM} [CD FLAC]/Letzte Tage - Letzte Nächte.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Popol Vuh - Letzte Tage - Letzte Nächte (1976) {2006 ARC-7189 RE,RM} [CD FLAC]/10. Gib Hin (Session Version).flac
 /mnt/synology/media/music/orpheus.network/flac/Popol Vuh - Letzte Tage - Letzte Nächte (1976) {2006 ARC-7189 RE,RM} [CD FLAC]/11. Haram Dei Ra (Alternative Version).flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Popol Vuh - Letzte Tage - Letzte Nächte (1976) {2006 ARC-7189 RE,RM} [CD FLAC]/Letzte Tage - Letzte Nächte.cue/11
@@ -18953,23 +17617,14 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Popol Vuh - Letzte Tage - L
 /mnt/synology/media/music/orpheus.network/flac/Porno for Pyros - Porno for Pyros (1993) (US 9 45228-2) [CD FLAC]/09. Black Girlfriend.flac
 /mnt/synology/media/music/orpheus.network/flac/Porno for Pyros - Porno for Pyros (1993) (US 9 45228-2) [CD FLAC]/10. Blood Rag.flac
 /mnt/synology/media/music/orpheus.network/flac/Porno for Pyros - Porno for Pyros (1993) (US 9 45228-2) [CD FLAC]/11. Orgasm.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Porno For Pyros - Good God's Urge (1996) [FLAC]/Good God's Urge.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Porno For Pyros - Good God's Urge (1996) [FLAC]/01 Porno For Pyros - Porpoise Head.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Porno For Pyros - Good God's Urge (1996) [FLAC]/Good God's Urge.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Porno For Pyros - Good God's Urge (1996) [FLAC]/02 Porno For Pyros - 100 Ways.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Porno For Pyros - Good God's Urge (1996) [FLAC]/Good God's Urge.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Porno For Pyros - Good God's Urge (1996) [FLAC]/03 Porno For Pyros - Tahitian Moon.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Porno For Pyros - Good God's Urge (1996) [FLAC]/Good God's Urge.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Porno For Pyros - Good God's Urge (1996) [FLAC]/04 Porno For Pyros - Kimberly Austin.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Porno For Pyros - Good God's Urge (1996) [FLAC]/Good God's Urge.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Porno For Pyros - Good God's Urge (1996) [FLAC]/05 Porno For Pyros - Thick Of It All.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Porno For Pyros - Good God's Urge (1996) [FLAC]/Good God's Urge.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Porno For Pyros - Good God's Urge (1996) [FLAC]/06 Porno For Pyros - Good God's_-Urge!.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Porno For Pyros - Good God's Urge (1996) [FLAC]/Good God's Urge.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Porno For Pyros - Good God's Urge (1996) [FLAC]/07 Porno For Pyros - Wishing Well.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Porno For Pyros - Good God's Urge (1996) [FLAC]/Good God's Urge.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Porno For Pyros - Good God's Urge (1996) [FLAC]/08 Porno For Pyros - dogs rule the night.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Porno For Pyros - Good God's Urge (1996) [FLAC]/Good God's Urge.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Porno For Pyros - Good God's Urge (1996) [FLAC]/09 Porno For Pyros - Freeway.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Porno For Pyros - Good God's Urge (1996) [FLAC]/Good God's Urge.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Porno For Pyros - Good God's Urge (1996) [FLAC]/10 Porno For Pyros - Bali Eyes.flac
@@ -19097,111 +17752,61 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Porno For Pyros - Good God'
 /mnt/synology/media/music/orpheus.network/flac/Pretty Sick - Deep Divine (2020) - WEB FLAC/05. Telephone.flac
 /mnt/synology/media/music/orpheus.network/flac/Pretty Sick - Deep Divine (2020) - WEB FLAC/06. Undress.flac
 /mnt/synology/media/music/orpheus.network/flac/Pretty Sick - Deep Divine (2020) - WEB FLAC/07. Angel Landing.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 1 - Stereo Mix/Shine On Brightly.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 1 - Stereo Mix/01 - Quite Rightly So.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 1 - Stereo Mix/Shine On Brightly.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 1 - Stereo Mix/02 - Shine On Brightly.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 1 - Stereo Mix/Shine On Brightly.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 1 - Stereo Mix/03 - Skip Softly (My Moonbeams).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 1 - Stereo Mix/Shine On Brightly.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 1 - Stereo Mix/04 - Wish Me Well.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 1 - Stereo Mix/Shine On Brightly.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 1 - Stereo Mix/05 - Rambling On.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 1 - Stereo Mix/Shine On Brightly.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 1 - Stereo Mix/06 - Magdalene (My Regal Zonophone).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 1 - Stereo Mix/Shine On Brightly.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 1 - Stereo Mix/07 - In Held 'Twas In I_ Glimpses Of Nirvana.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 1 - Stereo Mix/Shine On Brightly.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 1 - Stereo Mix/08 - In Held 'Twas In I_ Twas Tea Time At The Circus.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 1 - Stereo Mix/Shine On Brightly.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 1 - Stereo Mix/09 - In Held 'Twas In I_ In The Autumn Of My Madness.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 1 - Stereo Mix/Shine On Brightly.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 1 - Stereo Mix/10 - In Held 'Twas In I_ Look To Your Soul.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 1 - Stereo Mix/Shine On Brightly.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 1 - Stereo Mix/11 - In Held 'Twas In I_ Grand Finale.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 1 - Stereo Mix/Shine On Brightly.cue/12
 /mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 1 - Stereo Mix/12 - Il Tuo Diamante [Shine On Brightly Italian Version - Mono].flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 1 - Stereo Mix/Shine On Brightly.cue/13
 /mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 1 - Stereo Mix/13 - Quite Rightly So [Single Version].flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 1 - Stereo Mix/Shine On Brightly.cue/14
 /mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 1 - Stereo Mix/14 - In The Wee Small Hours Of Sixpence [Single Version].flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 2 - Mono Mix/Shine On Brightly.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 2 - Mono Mix/01 - Quite Rightly So.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 2 - Mono Mix/Shine On Brightly.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 2 - Mono Mix/02 - Shine On Brightly.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 2 - Mono Mix/Shine On Brightly.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 2 - Mono Mix/03 - Skip Softly (My Moonbeams).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 2 - Mono Mix/Shine On Brightly.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 2 - Mono Mix/04 - Wish Me Well.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 2 - Mono Mix/Shine On Brightly.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 2 - Mono Mix/05 - Rambling On.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 2 - Mono Mix/Shine On Brightly.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 2 - Mono Mix/06 - Magdalene (My Regal Zonophone).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 2 - Mono Mix/Shine On Brightly.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 2 - Mono Mix/07 - In Held 'Twas in I_ Glimpses of Nirvana.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 2 - Mono Mix/Shine On Brightly.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 2 - Mono Mix/08 - In Held 'Twas in I_ Twas Tea Time at the Circus.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 2 - Mono Mix/Shine On Brightly.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 2 - Mono Mix/09 - In Held 'Twas in I_ In the Autumn of My Madness.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 2 - Mono Mix/Shine On Brightly.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 2 - Mono Mix/10 - In Held 'Twas in I_ Look to Your Soul.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 2 - Mono Mix/Shine On Brightly.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 2 - Mono Mix/11 - In Held 'Twas in I_ Grand Finale.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 3 - Bonus/Shine On Brightly.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 3 - Bonus/01 - Monsieur Armand.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 3 - Bonus/Shine On Brightly.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 3 - Bonus/02 - Seem To Have The Blues (Most All The Time).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 3 - Bonus/Shine On Brightly.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 3 - Bonus/03 - Magdalene (My Regal Zonophone).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 3 - Bonus/Shine On Brightly.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 3 - Bonus/04 - Shine On Brightly.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 3 - Bonus/Shine On Brightly.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 3 - Bonus/05 - In The Wee Small Hours Of Sixpence.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 3 - Bonus/Shine On Brightly.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 3 - Bonus/06 - Monsieur Armand.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 3 - Bonus/Shine On Brightly.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 3 - Bonus/07 - A Robe of Silk.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 3 - Bonus/Shine On Brightly.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 3 - Bonus/08 - McGreggor.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 3 - Bonus/Shine On Brightly.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 3 - Bonus/09 - The Gospel According To... (Wish Me Well).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 3 - Bonus/Shine On Brightly.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 3 - Bonus/10 - Skip Softly (My Moonbeams).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 3 - Bonus/Shine On Brightly.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 3 - Bonus/11 - Quite Rightly So.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 3 - Bonus/Shine On Brightly.cue/12
 /mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 3 - Bonus/12 - Ramblin' On.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 3 - Bonus/Shine On Brightly.cue/13
 /mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 3 - Bonus/13 - Shine On Brightly.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 3 - Bonus/Shine On Brightly.cue/14
 /mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 3 - Bonus/14 - Skip Softly (My Moonbeams).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 3 - Bonus/Shine On Brightly.cue/15
 /mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 3 - Bonus/15 - Wish Me Well.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 3 - Bonus/Shine On Brightly.cue/16
 /mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 3 - Bonus/16 - Long Gone Geek.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 3 - Bonus/Shine On Brightly.cue/17
 /mnt/synology/media/music/orpheus.network/flac/Procol Harum - Shine On Brightly (3CD) (2015) {Deluxe Edition}/CD 3 - Bonus/17 - In Held 'Twas in I (Look to Your Soul _ Grand Finale).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Public Image Ltd. - Metal Box [1990 Edition][FLAC]/Public Image Ltd. - Metal Box.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Public Image Ltd. - Metal Box [1990 Edition][FLAC]/01 Albatross.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Public Image Ltd. - Metal Box [1990 Edition][FLAC]/Public Image Ltd. - Metal Box.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Public Image Ltd. - Metal Box [1990 Edition][FLAC]/02 Memories.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Public Image Ltd. - Metal Box [1990 Edition][FLAC]/Public Image Ltd. - Metal Box.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Public Image Ltd. - Metal Box [1990 Edition][FLAC]/03 Swan Lake.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Public Image Ltd. - Metal Box [1990 Edition][FLAC]/Public Image Ltd. - Metal Box.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Public Image Ltd. - Metal Box [1990 Edition][FLAC]/04 Poptones.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Public Image Ltd. - Metal Box [1990 Edition][FLAC]/Public Image Ltd. - Metal Box.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Public Image Ltd. - Metal Box [1990 Edition][FLAC]/05 Careering.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Public Image Ltd. - Metal Box [1990 Edition][FLAC]/Public Image Ltd. - Metal Box.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Public Image Ltd. - Metal Box [1990 Edition][FLAC]/06 No Birds.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Public Image Ltd. - Metal Box [1990 Edition][FLAC]/Public Image Ltd. - Metal Box.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Public Image Ltd. - Metal Box [1990 Edition][FLAC]/07 Graveyard.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Public Image Ltd. - Metal Box [1990 Edition][FLAC]/Public Image Ltd. - Metal Box.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Public Image Ltd. - Metal Box [1990 Edition][FLAC]/08 The Suit.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Public Image Ltd. - Metal Box [1990 Edition][FLAC]/Public Image Ltd. - Metal Box.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Public Image Ltd. - Metal Box [1990 Edition][FLAC]/09 Bad Baby.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Public Image Ltd. - Metal Box [1990 Edition][FLAC]/Public Image Ltd. - Metal Box.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Public Image Ltd. - Metal Box [1990 Edition][FLAC]/10 Socialist.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Public Image Ltd. - Metal Box [1990 Edition][FLAC]/Public Image Ltd. - Metal Box.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Public Image Ltd. - Metal Box [1990 Edition][FLAC]/11 Chant.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Public Image Ltd. - Metal Box [1990 Edition][FLAC]/Public Image Ltd. - Metal Box.cue/12
 /mnt/synology/media/music/orpheus.network/flac/Public Image Ltd. - Metal Box [1990 Edition][FLAC]/12 Radio 4.flac
@@ -19226,23 +17831,14 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Public Image Ltd. - Metal B
 /mnt/synology/media/music/orpheus.network/flac/Pup - Pup [FLAC]/08 - Cul-De-Sac.flac
 /mnt/synology/media/music/orpheus.network/flac/Pup - Pup [FLAC]/09 - Back Against The Wall.flac
 /mnt/synology/media/music/orpheus.network/flac/Pup - Pup [FLAC]/10 - Factories.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/PUP - The Dream Is Over (2016) [FLAC]/The Dream Is Over.cue/1
 /mnt/synology/media/music/orpheus.network/flac/PUP - The Dream Is Over (2016) [FLAC]/01 If This Tour Doesn't Kill You, I Will.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/PUP - The Dream Is Over (2016) [FLAC]/The Dream Is Over.cue/2
 /mnt/synology/media/music/orpheus.network/flac/PUP - The Dream Is Over (2016) [FLAC]/02 DVP.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/PUP - The Dream Is Over (2016) [FLAC]/The Dream Is Over.cue/3
 /mnt/synology/media/music/orpheus.network/flac/PUP - The Dream Is Over (2016) [FLAC]/03 Doubts.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/PUP - The Dream Is Over (2016) [FLAC]/The Dream Is Over.cue/4
 /mnt/synology/media/music/orpheus.network/flac/PUP - The Dream Is Over (2016) [FLAC]/04 Sleep in the Heat.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/PUP - The Dream Is Over (2016) [FLAC]/The Dream Is Over.cue/5
 /mnt/synology/media/music/orpheus.network/flac/PUP - The Dream Is Over (2016) [FLAC]/05 The Coast.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/PUP - The Dream Is Over (2016) [FLAC]/The Dream Is Over.cue/6
 /mnt/synology/media/music/orpheus.network/flac/PUP - The Dream Is Over (2016) [FLAC]/06 Old Wounds.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/PUP - The Dream Is Over (2016) [FLAC]/The Dream Is Over.cue/7
 /mnt/synology/media/music/orpheus.network/flac/PUP - The Dream Is Over (2016) [FLAC]/07 My Life Is Over and I Couldn't Be Happier.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/PUP - The Dream Is Over (2016) [FLAC]/The Dream Is Over.cue/8
 /mnt/synology/media/music/orpheus.network/flac/PUP - The Dream Is Over (2016) [FLAC]/08 Can't Win.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/PUP - The Dream Is Over (2016) [FLAC]/The Dream Is Over.cue/9
 /mnt/synology/media/music/orpheus.network/flac/PUP - The Dream Is Over (2016) [FLAC]/09 Familiar Patterns.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/PUP - The Dream Is Over (2016) [FLAC]/The Dream Is Over.cue/10
 /mnt/synology/media/music/orpheus.network/flac/PUP - The Dream Is Over (2016) [FLAC]/10 Pine Point.flac
@@ -19345,21 +17941,13 @@ cue:///mnt/synology/media/music/orpheus.network/flac/PUP - The Dream Is Over (20
 /mnt/synology/media/music/orpheus.network/flac/Queens of the Stone Age - …Like Clockwork (2013) [FLAC]/08 - Smooth Sailing.flac
 /mnt/synology/media/music/orpheus.network/flac/Queens of the Stone Age - …Like Clockwork (2013) [FLAC]/09 - I Appear Missing.flac
 /mnt/synology/media/music/orpheus.network/flac/Queens of the Stone Age - …Like Clockwork (2013) [FLAC]/10 - …Like Clockwork.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Queens Of The Stone Age - Villains (2017) {OLE-1125-2 CD} [FLAC]/Villains.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Queens Of The Stone Age - Villains (2017) {OLE-1125-2 CD} [FLAC]/01 Feet Don't Fail Me.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Queens Of The Stone Age - Villains (2017) {OLE-1125-2 CD} [FLAC]/Villains.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Queens Of The Stone Age - Villains (2017) {OLE-1125-2 CD} [FLAC]/02 The Way You Used To Do.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Queens Of The Stone Age - Villains (2017) {OLE-1125-2 CD} [FLAC]/Villains.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Queens Of The Stone Age - Villains (2017) {OLE-1125-2 CD} [FLAC]/03 Domesticated Animals.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Queens Of The Stone Age - Villains (2017) {OLE-1125-2 CD} [FLAC]/Villains.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Queens Of The Stone Age - Villains (2017) {OLE-1125-2 CD} [FLAC]/04 Fortress.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Queens Of The Stone Age - Villains (2017) {OLE-1125-2 CD} [FLAC]/Villains.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Queens Of The Stone Age - Villains (2017) {OLE-1125-2 CD} [FLAC]/05 Head Like A Haunted House.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Queens Of The Stone Age - Villains (2017) {OLE-1125-2 CD} [FLAC]/Villains.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Queens Of The Stone Age - Villains (2017) {OLE-1125-2 CD} [FLAC]/06 Un-Reborn Again.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Queens Of The Stone Age - Villains (2017) {OLE-1125-2 CD} [FLAC]/Villains.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Queens Of The Stone Age - Villains (2017) {OLE-1125-2 CD} [FLAC]/07 Hideaway.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Queens Of The Stone Age - Villains (2017) {OLE-1125-2 CD} [FLAC]/Villains.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Queens Of The Stone Age - Villains (2017) {OLE-1125-2 CD} [FLAC]/08 The Evil Has Landed.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Queens Of The Stone Age - Villains (2017) {OLE-1125-2 CD} [FLAC]/Villains.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Queens Of The Stone Age - Villains (2017) {OLE-1125-2 CD} [FLAC]/09 Villains Of Circumstance.flac
@@ -19407,19 +17995,12 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Queens Of The Stone Age - V
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - My Iron Lung (UK) [Parlophone Records]/06 - Lozenge of Love.flac
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - My Iron Lung (UK) [Parlophone Records]/07 - You Never Wash Up After Yourself.flac
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - My Iron Lung (UK) [Parlophone Records]/08 - Creep (Acoustic).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Radiohead - Itch (1994) [FLAC]/Itch.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - Itch (1994) [FLAC]/01 - Radiohead - Stop Whispering (U.S. Version).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Radiohead - Itch (1994) [FLAC]/Itch.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - Itch (1994) [FLAC]/02 - Radiohead - Thinking About You (Drill Ep Version).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Radiohead - Itch (1994) [FLAC]/Itch.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - Itch (1994) [FLAC]/03 - Radiohead - Faithless, The Wonder Boy.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Radiohead - Itch (1994) [FLAC]/Itch.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - Itch (1994) [FLAC]/04 - Radiohead - Banana Co..flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Radiohead - Itch (1994) [FLAC]/Itch.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - Itch (1994) [FLAC]/05 - Radiohead - Killer Cars [Live].flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Radiohead - Itch (1994) [FLAC]/Itch.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - Itch (1994) [FLAC]/06 - Radiohead - Vegetable (Live).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Radiohead - Itch (1994) [FLAC]/Itch.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - Itch (1994) [FLAC]/07 - Radiohead - You (Live).flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Radiohead - Itch (1994) [FLAC]/Itch.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - Itch (1994) [FLAC]/08 - Radiohead - Creep [Acoustic].flac
@@ -19447,9 +18028,7 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Radiohead - Itch (1994) [FL
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - 1997 - OK Computer (1997 - 7243 8 55229 2 5 CD) [FLAC]/10 - No Surprises.flac
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - 1997 - OK Computer (1997 - 7243 8 55229 2 5 CD) [FLAC]/11 - Lucky.flac
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - 1997 - OK Computer (1997 - 7243 8 55229 2 5 CD) [FLAC]/12 - The Tourist.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Radiohead - No Surprises (CD 1) (1998) (FLAC)/No Surprises (CD 1).cue/1
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - No Surprises (CD 1) (1998) (FLAC)/01 - No Surprises.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Radiohead - No Surprises (CD 1) (1998) (FLAC)/No Surprises (CD 1).cue/2
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - No Surprises (CD 1) (1998) (FLAC)/02 - Palo Alto.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Radiohead - No Surprises (CD 1) (1998) (FLAC)/No Surprises (CD 1).cue/3
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - No Surprises (CD 1) (1998) (FLAC)/03 - How I Made My Millions.flac
@@ -19463,24 +18042,15 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Radiohead - No Surprises (C
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - Kid A (2000) [FLAC]/08 - Idioteque.flac
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - Kid A (2000) [FLAC]/09 - Morning Bell.flac
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - Kid A (2000) [FLAC]/10 - Motion Picture Soundtrack.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Radiohead - Amnesiac (2001) [CD FLAC]/Amnesiac.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - Amnesiac (2001) [CD FLAC]/01 - Radiohead - Packt Like Sardines In A Crushd Tin Box.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Radiohead - Amnesiac (2001) [CD FLAC]/Amnesiac.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - Amnesiac (2001) [CD FLAC]/02 - Radiohead - Pyramid Song.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Radiohead - Amnesiac (2001) [CD FLAC]/Amnesiac.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - Amnesiac (2001) [CD FLAC]/03 - Radiohead - Pulk／Pull Revolving Doors.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Radiohead - Amnesiac (2001) [CD FLAC]/Amnesiac.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - Amnesiac (2001) [CD FLAC]/04 - Radiohead - You And Whose Army.flac
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - Amnesiac (2001) [CD FLAC]/05 - Radiohead - I Might Be Wrong.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Radiohead - Amnesiac (2001) [CD FLAC]/Amnesiac.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - Amnesiac (2001) [CD FLAC]/06 - Radiohead - Knives Out.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Radiohead - Amnesiac (2001) [CD FLAC]/Amnesiac.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - Amnesiac (2001) [CD FLAC]/07 - Radiohead - Morning Bell／Amnesiac.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Radiohead - Amnesiac (2001) [CD FLAC]/Amnesiac.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - Amnesiac (2001) [CD FLAC]/08 - Radiohead - Dollars & Cents.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Radiohead - Amnesiac (2001) [CD FLAC]/Amnesiac.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - Amnesiac (2001) [CD FLAC]/09 - Radiohead - Hunting Bears.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Radiohead - Amnesiac (2001) [CD FLAC]/Amnesiac.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - Amnesiac (2001) [CD FLAC]/10 - Radiohead - Like Spinning Plates.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Radiohead - Amnesiac (2001) [CD FLAC]/Amnesiac.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - Amnesiac (2001) [CD FLAC]/11 - Radiohead - Life In A Glass House.flac
@@ -19492,31 +18062,18 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Radiohead - Amnesiac (2001)
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - I Might Be Wrong - Live Recordings (2001) [FLAC]/06 - Everything In Its Right Place.flac
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - I Might Be Wrong - Live Recordings (2001) [FLAC]/07 - Dollars And Cents.flac
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - I Might Be Wrong - Live Recordings (2001) [FLAC]/08 - True Love Waits.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Radiohead - Hail To The Thief [FLAC]/Radiohead - Hail To The Thief.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - Hail To The Thief [FLAC]/01 - 2 + 2 = 5.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Radiohead - Hail To The Thief [FLAC]/Radiohead - Hail To The Thief.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - Hail To The Thief [FLAC]/02 - Sit Down. Stand Up..flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Radiohead - Hail To The Thief [FLAC]/Radiohead - Hail To The Thief.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - Hail To The Thief [FLAC]/03 - Sail To The Moon.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Radiohead - Hail To The Thief [FLAC]/Radiohead - Hail To The Thief.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - Hail To The Thief [FLAC]/04 - Backdrifts.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Radiohead - Hail To The Thief [FLAC]/Radiohead - Hail To The Thief.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - Hail To The Thief [FLAC]/05 - Go To Sleep.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Radiohead - Hail To The Thief [FLAC]/Radiohead - Hail To The Thief.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - Hail To The Thief [FLAC]/06 - Where I End And You Begin.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Radiohead - Hail To The Thief [FLAC]/Radiohead - Hail To The Thief.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - Hail To The Thief [FLAC]/07 - We Suck Young Blood.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Radiohead - Hail To The Thief [FLAC]/Radiohead - Hail To The Thief.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - Hail To The Thief [FLAC]/08 - The Gloaming.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Radiohead - Hail To The Thief [FLAC]/Radiohead - Hail To The Thief.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - Hail To The Thief [FLAC]/09 - There There.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Radiohead - Hail To The Thief [FLAC]/Radiohead - Hail To The Thief.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - Hail To The Thief [FLAC]/10 - I Will.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Radiohead - Hail To The Thief [FLAC]/Radiohead - Hail To The Thief.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - Hail To The Thief [FLAC]/11 - A Punchup At A Wedding.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Radiohead - Hail To The Thief [FLAC]/Radiohead - Hail To The Thief.cue/12
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - Hail To The Thief [FLAC]/12 - Myxomatosis.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Radiohead - Hail To The Thief [FLAC]/Radiohead - Hail To The Thief.cue/13
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - Hail To The Thief [FLAC]/13 - Scatterbrain.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Radiohead - Hail To The Thief [FLAC]/Radiohead - Hail To The Thief.cue/14
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - Hail To The Thief [FLAC]/14 - A Wolf At The Door.flac
@@ -19538,13 +18095,6 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Radiohead - Hail To The Thi
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - In Rainbows Disk 2/06 - Up on the Ladder.flac
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - In Rainbows Disk 2/07 - Bangers + Mash.flac
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - In Rainbows Disk 2/08 - 4 Minute Warning.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Radiohead - 2011 - The King of Limbs - FLAC/The King of Limbs.cue/1
-cue:///mnt/synology/media/music/orpheus.network/flac/Radiohead - 2011 - The King of Limbs - FLAC/The King of Limbs.cue/2
-cue:///mnt/synology/media/music/orpheus.network/flac/Radiohead - 2011 - The King of Limbs - FLAC/The King of Limbs.cue/3
-cue:///mnt/synology/media/music/orpheus.network/flac/Radiohead - 2011 - The King of Limbs - FLAC/The King of Limbs.cue/4
-cue:///mnt/synology/media/music/orpheus.network/flac/Radiohead - 2011 - The King of Limbs - FLAC/The King of Limbs.cue/5
-cue:///mnt/synology/media/music/orpheus.network/flac/Radiohead - 2011 - The King of Limbs - FLAC/The King of Limbs.cue/6
-cue:///mnt/synology/media/music/orpheus.network/flac/Radiohead - 2011 - The King of Limbs - FLAC/The King of Limbs.cue/7
 cue:///mnt/synology/media/music/orpheus.network/flac/Radiohead - 2011 - The King of Limbs - FLAC/The King of Limbs.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - 2011 - The King of Limbs - FLAC/01 - Bloom.flac
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - 2011 - The King of Limbs - FLAC/02 - Morning Mr Magpie.flac
@@ -19554,25 +18104,15 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Radiohead - 2011 - The King
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - 2011 - The King of Limbs - FLAC/06 - Codex.flac
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - 2011 - The King of Limbs - FLAC/07 - Give Up the Ghost.flac
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - 2011 - The King of Limbs - FLAC/08 - Separator.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Radiohead - A Moon Shaped Pool (2016) [FLAC]/A Moon Shaped Pool.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - A Moon Shaped Pool (2016) [FLAC]/01 Burn the Witch.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Radiohead - A Moon Shaped Pool (2016) [FLAC]/A Moon Shaped Pool.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - A Moon Shaped Pool (2016) [FLAC]/02 Daydreaming.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Radiohead - A Moon Shaped Pool (2016) [FLAC]/A Moon Shaped Pool.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - A Moon Shaped Pool (2016) [FLAC]/03 Decks Dark.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Radiohead - A Moon Shaped Pool (2016) [FLAC]/A Moon Shaped Pool.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - A Moon Shaped Pool (2016) [FLAC]/04 Desert Island Disk.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Radiohead - A Moon Shaped Pool (2016) [FLAC]/A Moon Shaped Pool.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - A Moon Shaped Pool (2016) [FLAC]/05 Ful Stop.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Radiohead - A Moon Shaped Pool (2016) [FLAC]/A Moon Shaped Pool.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - A Moon Shaped Pool (2016) [FLAC]/06 Glass Eyes.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Radiohead - A Moon Shaped Pool (2016) [FLAC]/A Moon Shaped Pool.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - A Moon Shaped Pool (2016) [FLAC]/07 Identikit.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Radiohead - A Moon Shaped Pool (2016) [FLAC]/A Moon Shaped Pool.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - A Moon Shaped Pool (2016) [FLAC]/08 The Numbers.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Radiohead - A Moon Shaped Pool (2016) [FLAC]/A Moon Shaped Pool.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - A Moon Shaped Pool (2016) [FLAC]/09 Present Tense.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Radiohead - A Moon Shaped Pool (2016) [FLAC]/A Moon Shaped Pool.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - A Moon Shaped Pool (2016) [FLAC]/10 Tinker Tailor Soldier Sailor Rich Man Poor Man Beggar Thief.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Radiohead - A Moon Shaped Pool (2016) [FLAC]/A Moon Shaped Pool.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Radiohead - A Moon Shaped Pool (2016) [FLAC]/11 True Love Waits.flac
@@ -19756,81 +18296,45 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Radiohead - A Moon Shaped P
 /mnt/synology/media/music/orpheus.network/flac/Red Hot Chili Peppers - Californication - FLAC/13 -  Purple stain.flac
 /mnt/synology/media/music/orpheus.network/flac/Red Hot Chili Peppers - Californication - FLAC/14 -  Right on time.flac
 /mnt/synology/media/music/orpheus.network/flac/Red Hot Chili Peppers - Californication - FLAC/15 -  Road trippin'.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Red Hot Chili Peppers - Stadium Arcadium (2006) [FLAC] {CD}/Stadium Arcadium- Jupiter [Disc 1]/Stadium Arcadium- Jupiter [Disc 1].cue/1
 /mnt/synology/media/music/orpheus.network/flac/Red Hot Chili Peppers - Stadium Arcadium (2006) [FLAC] {CD}/Stadium Arcadium- Jupiter [Disc 1]/01 Dani California.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Red Hot Chili Peppers - Stadium Arcadium (2006) [FLAC] {CD}/Stadium Arcadium- Jupiter [Disc 1]/Stadium Arcadium- Jupiter [Disc 1].cue/2
 /mnt/synology/media/music/orpheus.network/flac/Red Hot Chili Peppers - Stadium Arcadium (2006) [FLAC] {CD}/Stadium Arcadium- Jupiter [Disc 1]/02 Snow (Hey Oh).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Red Hot Chili Peppers - Stadium Arcadium (2006) [FLAC] {CD}/Stadium Arcadium- Jupiter [Disc 1]/Stadium Arcadium- Jupiter [Disc 1].cue/3
 /mnt/synology/media/music/orpheus.network/flac/Red Hot Chili Peppers - Stadium Arcadium (2006) [FLAC] {CD}/Stadium Arcadium- Jupiter [Disc 1]/03 Charlie.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Red Hot Chili Peppers - Stadium Arcadium (2006) [FLAC] {CD}/Stadium Arcadium- Jupiter [Disc 1]/Stadium Arcadium- Jupiter [Disc 1].cue/4
 /mnt/synology/media/music/orpheus.network/flac/Red Hot Chili Peppers - Stadium Arcadium (2006) [FLAC] {CD}/Stadium Arcadium- Jupiter [Disc 1]/04 Stadium Arcadium.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Red Hot Chili Peppers - Stadium Arcadium (2006) [FLAC] {CD}/Stadium Arcadium- Jupiter [Disc 1]/Stadium Arcadium- Jupiter [Disc 1].cue/5
 /mnt/synology/media/music/orpheus.network/flac/Red Hot Chili Peppers - Stadium Arcadium (2006) [FLAC] {CD}/Stadium Arcadium- Jupiter [Disc 1]/05 Hump De Bump.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Red Hot Chili Peppers - Stadium Arcadium (2006) [FLAC] {CD}/Stadium Arcadium- Jupiter [Disc 1]/Stadium Arcadium- Jupiter [Disc 1].cue/6
 /mnt/synology/media/music/orpheus.network/flac/Red Hot Chili Peppers - Stadium Arcadium (2006) [FLAC] {CD}/Stadium Arcadium- Jupiter [Disc 1]/06 She's Only 18.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Red Hot Chili Peppers - Stadium Arcadium (2006) [FLAC] {CD}/Stadium Arcadium- Jupiter [Disc 1]/Stadium Arcadium- Jupiter [Disc 1].cue/7
 /mnt/synology/media/music/orpheus.network/flac/Red Hot Chili Peppers - Stadium Arcadium (2006) [FLAC] {CD}/Stadium Arcadium- Jupiter [Disc 1]/07 Slow Cheetah.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Red Hot Chili Peppers - Stadium Arcadium (2006) [FLAC] {CD}/Stadium Arcadium- Jupiter [Disc 1]/Stadium Arcadium- Jupiter [Disc 1].cue/8
 /mnt/synology/media/music/orpheus.network/flac/Red Hot Chili Peppers - Stadium Arcadium (2006) [FLAC] {CD}/Stadium Arcadium- Jupiter [Disc 1]/08 Torture Me.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Red Hot Chili Peppers - Stadium Arcadium (2006) [FLAC] {CD}/Stadium Arcadium- Jupiter [Disc 1]/Stadium Arcadium- Jupiter [Disc 1].cue/9
 /mnt/synology/media/music/orpheus.network/flac/Red Hot Chili Peppers - Stadium Arcadium (2006) [FLAC] {CD}/Stadium Arcadium- Jupiter [Disc 1]/09 Strip My Mind.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Red Hot Chili Peppers - Stadium Arcadium (2006) [FLAC] {CD}/Stadium Arcadium- Jupiter [Disc 1]/Stadium Arcadium- Jupiter [Disc 1].cue/10
 /mnt/synology/media/music/orpheus.network/flac/Red Hot Chili Peppers - Stadium Arcadium (2006) [FLAC] {CD}/Stadium Arcadium- Jupiter [Disc 1]/10 Especially In Michigan.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Red Hot Chili Peppers - Stadium Arcadium (2006) [FLAC] {CD}/Stadium Arcadium- Jupiter [Disc 1]/Stadium Arcadium- Jupiter [Disc 1].cue/11
 /mnt/synology/media/music/orpheus.network/flac/Red Hot Chili Peppers - Stadium Arcadium (2006) [FLAC] {CD}/Stadium Arcadium- Jupiter [Disc 1]/11 Warlocks.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Red Hot Chili Peppers - Stadium Arcadium (2006) [FLAC] {CD}/Stadium Arcadium- Jupiter [Disc 1]/Stadium Arcadium- Jupiter [Disc 1].cue/12
 /mnt/synology/media/music/orpheus.network/flac/Red Hot Chili Peppers - Stadium Arcadium (2006) [FLAC] {CD}/Stadium Arcadium- Jupiter [Disc 1]/12 C'mon Girl.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Red Hot Chili Peppers - Stadium Arcadium (2006) [FLAC] {CD}/Stadium Arcadium- Jupiter [Disc 1]/Stadium Arcadium- Jupiter [Disc 1].cue/13
 /mnt/synology/media/music/orpheus.network/flac/Red Hot Chili Peppers - Stadium Arcadium (2006) [FLAC] {CD}/Stadium Arcadium- Jupiter [Disc 1]/13 Wet Sand.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Red Hot Chili Peppers - Stadium Arcadium (2006) [FLAC] {CD}/Stadium Arcadium- Jupiter [Disc 1]/Stadium Arcadium- Jupiter [Disc 1].cue/14
 /mnt/synology/media/music/orpheus.network/flac/Red Hot Chili Peppers - Stadium Arcadium (2006) [FLAC] {CD}/Stadium Arcadium- Jupiter [Disc 1]/14 Hey.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Red Hot Chili Peppers - Stadium Arcadium (2006) [FLAC] {CD}/Stadium Arcadium- Mars [Disc 2]/Stadium Arcadium- Mars [Disc 2].cue/1
 /mnt/synology/media/music/orpheus.network/flac/Red Hot Chili Peppers - Stadium Arcadium (2006) [FLAC] {CD}/Stadium Arcadium- Mars [Disc 2]/01 Desecration Smile.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Red Hot Chili Peppers - Stadium Arcadium (2006) [FLAC] {CD}/Stadium Arcadium- Mars [Disc 2]/Stadium Arcadium- Mars [Disc 2].cue/2
 /mnt/synology/media/music/orpheus.network/flac/Red Hot Chili Peppers - Stadium Arcadium (2006) [FLAC] {CD}/Stadium Arcadium- Mars [Disc 2]/02 Tell Me Baby.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Red Hot Chili Peppers - Stadium Arcadium (2006) [FLAC] {CD}/Stadium Arcadium- Mars [Disc 2]/Stadium Arcadium- Mars [Disc 2].cue/3
 /mnt/synology/media/music/orpheus.network/flac/Red Hot Chili Peppers - Stadium Arcadium (2006) [FLAC] {CD}/Stadium Arcadium- Mars [Disc 2]/03 Hard To Concentrate.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Red Hot Chili Peppers - Stadium Arcadium (2006) [FLAC] {CD}/Stadium Arcadium- Mars [Disc 2]/Stadium Arcadium- Mars [Disc 2].cue/4
 /mnt/synology/media/music/orpheus.network/flac/Red Hot Chili Peppers - Stadium Arcadium (2006) [FLAC] {CD}/Stadium Arcadium- Mars [Disc 2]/04 21st Century.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Red Hot Chili Peppers - Stadium Arcadium (2006) [FLAC] {CD}/Stadium Arcadium- Mars [Disc 2]/Stadium Arcadium- Mars [Disc 2].cue/5
 /mnt/synology/media/music/orpheus.network/flac/Red Hot Chili Peppers - Stadium Arcadium (2006) [FLAC] {CD}/Stadium Arcadium- Mars [Disc 2]/05 She Looks To Me.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Red Hot Chili Peppers - Stadium Arcadium (2006) [FLAC] {CD}/Stadium Arcadium- Mars [Disc 2]/Stadium Arcadium- Mars [Disc 2].cue/6
 /mnt/synology/media/music/orpheus.network/flac/Red Hot Chili Peppers - Stadium Arcadium (2006) [FLAC] {CD}/Stadium Arcadium- Mars [Disc 2]/06 Readymade.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Red Hot Chili Peppers - Stadium Arcadium (2006) [FLAC] {CD}/Stadium Arcadium- Mars [Disc 2]/Stadium Arcadium- Mars [Disc 2].cue/7
 /mnt/synology/media/music/orpheus.network/flac/Red Hot Chili Peppers - Stadium Arcadium (2006) [FLAC] {CD}/Stadium Arcadium- Mars [Disc 2]/07 If.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Red Hot Chili Peppers - Stadium Arcadium (2006) [FLAC] {CD}/Stadium Arcadium- Mars [Disc 2]/Stadium Arcadium- Mars [Disc 2].cue/8
 /mnt/synology/media/music/orpheus.network/flac/Red Hot Chili Peppers - Stadium Arcadium (2006) [FLAC] {CD}/Stadium Arcadium- Mars [Disc 2]/08 Make You Feel Better.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Red Hot Chili Peppers - Stadium Arcadium (2006) [FLAC] {CD}/Stadium Arcadium- Mars [Disc 2]/Stadium Arcadium- Mars [Disc 2].cue/9
 /mnt/synology/media/music/orpheus.network/flac/Red Hot Chili Peppers - Stadium Arcadium (2006) [FLAC] {CD}/Stadium Arcadium- Mars [Disc 2]/09 Animal Bar.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Red Hot Chili Peppers - Stadium Arcadium (2006) [FLAC] {CD}/Stadium Arcadium- Mars [Disc 2]/Stadium Arcadium- Mars [Disc 2].cue/10
 /mnt/synology/media/music/orpheus.network/flac/Red Hot Chili Peppers - Stadium Arcadium (2006) [FLAC] {CD}/Stadium Arcadium- Mars [Disc 2]/10 So Much I.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Red Hot Chili Peppers - Stadium Arcadium (2006) [FLAC] {CD}/Stadium Arcadium- Mars [Disc 2]/Stadium Arcadium- Mars [Disc 2].cue/11
 /mnt/synology/media/music/orpheus.network/flac/Red Hot Chili Peppers - Stadium Arcadium (2006) [FLAC] {CD}/Stadium Arcadium- Mars [Disc 2]/11 Storm In A Teacup.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Red Hot Chili Peppers - Stadium Arcadium (2006) [FLAC] {CD}/Stadium Arcadium- Mars [Disc 2]/Stadium Arcadium- Mars [Disc 2].cue/12
 /mnt/synology/media/music/orpheus.network/flac/Red Hot Chili Peppers - Stadium Arcadium (2006) [FLAC] {CD}/Stadium Arcadium- Mars [Disc 2]/12 We Believe.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Red Hot Chili Peppers - Stadium Arcadium (2006) [FLAC] {CD}/Stadium Arcadium- Mars [Disc 2]/Stadium Arcadium- Mars [Disc 2].cue/13
 /mnt/synology/media/music/orpheus.network/flac/Red Hot Chili Peppers - Stadium Arcadium (2006) [FLAC] {CD}/Stadium Arcadium- Mars [Disc 2]/13 Turn It Again.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Red Hot Chili Peppers - Stadium Arcadium (2006) [FLAC] {CD}/Stadium Arcadium- Mars [Disc 2]/Stadium Arcadium- Mars [Disc 2].cue/14
 /mnt/synology/media/music/orpheus.network/flac/Red Hot Chili Peppers - Stadium Arcadium (2006) [FLAC] {CD}/Stadium Arcadium- Mars [Disc 2]/14 Death Of A Martian.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Red Temple Spirits - Dancing to Restore an Eclipsed Moon [FLAC]/Red Temple Spirits - Dancing to Restore an Eclipsed Moon.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Red Temple Spirits - Dancing to Restore an Eclipsed Moon [FLAC]/01 Exorcism-Waiting for the Sun.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Red Temple Spirits - Dancing to Restore an Eclipsed Moon [FLAC]/Red Temple Spirits - Dancing to Restore an Eclipsed Moon.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Red Temple Spirits - Dancing to Restore an Eclipsed Moon [FLAC]/02 Liquid Temple.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Red Temple Spirits - Dancing to Restore an Eclipsed Moon [FLAC]/Red Temple Spirits - Dancing to Restore an Eclipsed Moon.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Red Temple Spirits - Dancing to Restore an Eclipsed Moon [FLAC]/03 Dark Spirits.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Red Temple Spirits - Dancing to Restore an Eclipsed Moon [FLAC]/Red Temple Spirits - Dancing to Restore an Eclipsed Moon.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Red Temple Spirits - Dancing to Restore an Eclipsed Moon [FLAC]/04 Bear Cave.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Red Temple Spirits - Dancing to Restore an Eclipsed Moon [FLAC]/Red Temple Spirits - Dancing to Restore an Eclipsed Moon.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Red Temple Spirits - Dancing to Restore an Eclipsed Moon [FLAC]/05 Dreamings Ending.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Red Temple Spirits - Dancing to Restore an Eclipsed Moon [FLAC]/Red Temple Spirits - Dancing to Restore an Eclipsed Moon.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Red Temple Spirits - Dancing to Restore an Eclipsed Moon [FLAC]/06 Electric Flowers.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Red Temple Spirits - Dancing to Restore an Eclipsed Moon [FLAC]/Red Temple Spirits - Dancing to Restore an Eclipsed Moon.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Red Temple Spirits - Dancing to Restore an Eclipsed Moon [FLAC]/07 Moonlight.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Red Temple Spirits - Dancing to Restore an Eclipsed Moon [FLAC]/Red Temple Spirits - Dancing to Restore an Eclipsed Moon.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Red Temple Spirits - Dancing to Restore an Eclipsed Moon [FLAC]/08 Where Merlin Played.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Red Temple Spirits - Dancing to Restore an Eclipsed Moon [FLAC]/Red Temple Spirits - Dancing to Restore an Eclipsed Moon.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Red Temple Spirits - Dancing to Restore an Eclipsed Moon [FLAC]/09 Nile Song.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Red Temple Spirits - Dancing to Restore an Eclipsed Moon [FLAC]/Red Temple Spirits - Dancing to Restore an Eclipsed Moon.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Red Temple Spirits - Dancing to Restore an Eclipsed Moon [FLAC]/10 Lost in Dreaming.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Red Temple Spirits - Dancing to Restore an Eclipsed Moon [FLAC]/Red Temple Spirits - Dancing to Restore an Eclipsed Moon.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Red Temple Spirits - Dancing to Restore an Eclipsed Moon [FLAC]/11 Light of Christ-This Hollow Ground.flac
@@ -19938,27 +18442,16 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Red Temple Spirits - Dancin
 /mnt/synology/media/music/orpheus.network/flac/Rilo Kiley - Take Offs and Landings [Barsuk Records]/13 - Rest of My Life.flac
 /mnt/synology/media/music/orpheus.network/flac/Rilo Kiley - Take Offs and Landings [Barsuk Records]/14 - Variations on a Theme (Plane Crash in C).flac
 /mnt/synology/media/music/orpheus.network/flac/Rilo Kiley - Take Offs and Landings [Barsuk Records]/15 - Salute My Shorts.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Rise Against - Siren Song of the Counter Culture (2004) [FLAC] Geffen Records - B000296702/Siren Song of the Counter Culture.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Rise Against - Siren Song of the Counter Culture (2004) [FLAC] Geffen Records - B000296702/01 State of the Union.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Rise Against - Siren Song of the Counter Culture (2004) [FLAC] Geffen Records - B000296702/Siren Song of the Counter Culture.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Rise Against - Siren Song of the Counter Culture (2004) [FLAC] Geffen Records - B000296702/02 The First Drop.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Rise Against - Siren Song of the Counter Culture (2004) [FLAC] Geffen Records - B000296702/Siren Song of the Counter Culture.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Rise Against - Siren Song of the Counter Culture (2004) [FLAC] Geffen Records - B000296702/03 Life Less Frightening.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Rise Against - Siren Song of the Counter Culture (2004) [FLAC] Geffen Records - B000296702/Siren Song of the Counter Culture.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Rise Against - Siren Song of the Counter Culture (2004) [FLAC] Geffen Records - B000296702/04 Paper Wings.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Rise Against - Siren Song of the Counter Culture (2004) [FLAC] Geffen Records - B000296702/Siren Song of the Counter Culture.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Rise Against - Siren Song of the Counter Culture (2004) [FLAC] Geffen Records - B000296702/05 Blood to Bleed.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Rise Against - Siren Song of the Counter Culture (2004) [FLAC] Geffen Records - B000296702/Siren Song of the Counter Culture.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Rise Against - Siren Song of the Counter Culture (2004) [FLAC] Geffen Records - B000296702/06 To Them These Streets Belong.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Rise Against - Siren Song of the Counter Culture (2004) [FLAC] Geffen Records - B000296702/Siren Song of the Counter Culture.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Rise Against - Siren Song of the Counter Culture (2004) [FLAC] Geffen Records - B000296702/07 Tip the Scales.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Rise Against - Siren Song of the Counter Culture (2004) [FLAC] Geffen Records - B000296702/Siren Song of the Counter Culture.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Rise Against - Siren Song of the Counter Culture (2004) [FLAC] Geffen Records - B000296702/08 Anywhere but Here.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Rise Against - Siren Song of the Counter Culture (2004) [FLAC] Geffen Records - B000296702/Siren Song of the Counter Culture.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Rise Against - Siren Song of the Counter Culture (2004) [FLAC] Geffen Records - B000296702/09 Give It All.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Rise Against - Siren Song of the Counter Culture (2004) [FLAC] Geffen Records - B000296702/Siren Song of the Counter Culture.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Rise Against - Siren Song of the Counter Culture (2004) [FLAC] Geffen Records - B000296702/10 Dancing for Rain.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Rise Against - Siren Song of the Counter Culture (2004) [FLAC] Geffen Records - B000296702/Siren Song of the Counter Culture.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Rise Against - Siren Song of the Counter Culture (2004) [FLAC] Geffen Records - B000296702/11 Swing Life Away.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Rise Against - Siren Song of the Counter Culture (2004) [FLAC] Geffen Records - B000296702/Siren Song of the Counter Culture.cue/12
 /mnt/synology/media/music/orpheus.network/flac/Rise Against - Siren Song of the Counter Culture (2004) [FLAC] Geffen Records - B000296702/12 Rumors of My Demise Have Been Greatly Exaggerated.flac
@@ -19975,29 +18468,17 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Rise Against - Siren Song o
 /mnt/synology/media/music/orpheus.network/flac/Rise Against-2006-The Sufferer and the Witness [FLAC]/11 Roadside.flac
 /mnt/synology/media/music/orpheus.network/flac/Rise Against-2006-The Sufferer and the Witness [FLAC]/12 The Good Left Undone.flac
 /mnt/synology/media/music/orpheus.network/flac/Rise Against-2006-The Sufferer and the Witness [FLAC]/13 Survive.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Rise Against - Appeal to Reason (2008) {DGC_Interscope B0011904-02} [FLAC-CD]/Appeal to Reason.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Rise Against - Appeal to Reason (2008) {DGC_Interscope B0011904-02} [FLAC-CD]/01 Collapse (Post‐Amerika).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Rise Against - Appeal to Reason (2008) {DGC_Interscope B0011904-02} [FLAC-CD]/Appeal to Reason.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Rise Against - Appeal to Reason (2008) {DGC_Interscope B0011904-02} [FLAC-CD]/02 Long Forgotten Sons.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Rise Against - Appeal to Reason (2008) {DGC_Interscope B0011904-02} [FLAC-CD]/Appeal to Reason.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Rise Against - Appeal to Reason (2008) {DGC_Interscope B0011904-02} [FLAC-CD]/03 Re‐Education (Through Labor).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Rise Against - Appeal to Reason (2008) {DGC_Interscope B0011904-02} [FLAC-CD]/Appeal to Reason.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Rise Against - Appeal to Reason (2008) {DGC_Interscope B0011904-02} [FLAC-CD]/04 The Dirt Whispered.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Rise Against - Appeal to Reason (2008) {DGC_Interscope B0011904-02} [FLAC-CD]/Appeal to Reason.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Rise Against - Appeal to Reason (2008) {DGC_Interscope B0011904-02} [FLAC-CD]/05 Kotov Syndrome.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Rise Against - Appeal to Reason (2008) {DGC_Interscope B0011904-02} [FLAC-CD]/Appeal to Reason.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Rise Against - Appeal to Reason (2008) {DGC_Interscope B0011904-02} [FLAC-CD]/06 From Heads Unworthy.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Rise Against - Appeal to Reason (2008) {DGC_Interscope B0011904-02} [FLAC-CD]/Appeal to Reason.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Rise Against - Appeal to Reason (2008) {DGC_Interscope B0011904-02} [FLAC-CD]/07 The Strength to Go On.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Rise Against - Appeal to Reason (2008) {DGC_Interscope B0011904-02} [FLAC-CD]/Appeal to Reason.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Rise Against - Appeal to Reason (2008) {DGC_Interscope B0011904-02} [FLAC-CD]/08 Audience of One.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Rise Against - Appeal to Reason (2008) {DGC_Interscope B0011904-02} [FLAC-CD]/Appeal to Reason.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Rise Against - Appeal to Reason (2008) {DGC_Interscope B0011904-02} [FLAC-CD]/09 Entertainment.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Rise Against - Appeal to Reason (2008) {DGC_Interscope B0011904-02} [FLAC-CD]/Appeal to Reason.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Rise Against - Appeal to Reason (2008) {DGC_Interscope B0011904-02} [FLAC-CD]/10 Hero of War.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Rise Against - Appeal to Reason (2008) {DGC_Interscope B0011904-02} [FLAC-CD]/Appeal to Reason.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Rise Against - Appeal to Reason (2008) {DGC_Interscope B0011904-02} [FLAC-CD]/11 Savior.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Rise Against - Appeal to Reason (2008) {DGC_Interscope B0011904-02} [FLAC-CD]/Appeal to Reason.cue/12
 /mnt/synology/media/music/orpheus.network/flac/Rise Against - Appeal to Reason (2008) {DGC_Interscope B0011904-02} [FLAC-CD]/12 Hairline Fracture.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Rise Against - Appeal to Reason (2008) {DGC_Interscope B0011904-02} [FLAC-CD]/Appeal to Reason.cue/13
 /mnt/synology/media/music/orpheus.network/flac/Rise Against - Appeal to Reason (2008) {DGC_Interscope B0011904-02} [FLAC-CD]/13 Whereabouts Unknown.flac
@@ -20054,43 +18535,25 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Rise Against - Appeal to Re
 /mnt/synology/media/music/orpheus.network/flac/Robert Wyatt - 1982 - Nothing Can Stop Us [FLAC CD RE 1998]/08 - Arauco.flac
 /mnt/synology/media/music/orpheus.network/flac/Robert Wyatt - 1982 - Nothing Can Stop Us [FLAC CD RE 1998]/09 - Trade Union.flac
 /mnt/synology/media/music/orpheus.network/flac/Robert Wyatt - 1982 - Nothing Can Stop Us [FLAC CD RE 1998]/10 - Stalingrad.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Robert Wyatt - Old Rottenhat (1986) [FLAC]/Old Rottenhat.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Robert Wyatt - Old Rottenhat (1986) [FLAC]/01 Alliance.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Robert Wyatt - Old Rottenhat (1986) [FLAC]/Old Rottenhat.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Robert Wyatt - Old Rottenhat (1986) [FLAC]/02 The United States of Amnesia.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Robert Wyatt - Old Rottenhat (1986) [FLAC]/Old Rottenhat.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Robert Wyatt - Old Rottenhat (1986) [FLAC]/03 East Timor.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Robert Wyatt - Old Rottenhat (1986) [FLAC]/Old Rottenhat.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Robert Wyatt - Old Rottenhat (1986) [FLAC]/04 Speechless.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Robert Wyatt - Old Rottenhat (1986) [FLAC]/Old Rottenhat.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Robert Wyatt - Old Rottenhat (1986) [FLAC]/05 The Age of Self.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Robert Wyatt - Old Rottenhat (1986) [FLAC]/Old Rottenhat.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Robert Wyatt - Old Rottenhat (1986) [FLAC]/06 Vandalusia.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Robert Wyatt - Old Rottenhat (1986) [FLAC]/Old Rottenhat.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Robert Wyatt - Old Rottenhat (1986) [FLAC]/07 The British Road.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Robert Wyatt - Old Rottenhat (1986) [FLAC]/Old Rottenhat.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Robert Wyatt - Old Rottenhat (1986) [FLAC]/08 Mass Medium.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Robert Wyatt - Old Rottenhat (1986) [FLAC]/Old Rottenhat.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Robert Wyatt - Old Rottenhat (1986) [FLAC]/09 Gharbzadegi.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Robert Wyatt - Old Rottenhat (1986) [FLAC]/Old Rottenhat.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Robert Wyatt - Old Rottenhat (1986) [FLAC]/10 P.L.A..flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Robert Wyatt - Dondestan (1991) [FLAC]/Dondestan.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Robert Wyatt - Dondestan (1991) [FLAC]/01 Costa.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Robert Wyatt - Dondestan (1991) [FLAC]/Dondestan.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Robert Wyatt - Dondestan (1991) [FLAC]/02 The Sight of the Wind.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Robert Wyatt - Dondestan (1991) [FLAC]/Dondestan.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Robert Wyatt - Dondestan (1991) [FLAC]/03 Catholic Architecture.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Robert Wyatt - Dondestan (1991) [FLAC]/Dondestan.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Robert Wyatt - Dondestan (1991) [FLAC]/04 Worship.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Robert Wyatt - Dondestan (1991) [FLAC]/Dondestan.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Robert Wyatt - Dondestan (1991) [FLAC]/05 Shrinkrap.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Robert Wyatt - Dondestan (1991) [FLAC]/Dondestan.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Robert Wyatt - Dondestan (1991) [FLAC]/06 CP Jeebies.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Robert Wyatt - Dondestan (1991) [FLAC]/Dondestan.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Robert Wyatt - Dondestan (1991) [FLAC]/07 Left on Man.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Robert Wyatt - Dondestan (1991) [FLAC]/Dondestan.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Robert Wyatt - Dondestan (1991) [FLAC]/08 Lisp Service.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Robert Wyatt - Dondestan (1991) [FLAC]/Dondestan.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Robert Wyatt - Dondestan (1991) [FLAC]/09 N.I.O. (New Information Order).flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Robert Wyatt - Dondestan (1991) [FLAC]/Dondestan.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Robert Wyatt - Dondestan (1991) [FLAC]/10 Dondestan.flac
@@ -20170,7 +18633,6 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Robert Wyatt - Dondestan (1
 /mnt/synology/media/music/orpheus.network/flac/Rosa Yemen - Rosa Yemen (1979) @ Celluloid [CEL 2-6566] [Vinyl]/04 - Larousse Baron Bic.flac
 /mnt/synology/media/music/orpheus.network/flac/Rosa Yemen - Rosa Yemen (1979) @ Celluloid [CEL 2-6566] [Vinyl]/05 - Tso Xin Yu Xin.flac
 /mnt/synology/media/music/orpheus.network/flac/Rosa Yemen - Rosa Yemen (1979) @ Celluloid [CEL 2-6566] [Vinyl]/06 - Nina Con Un Tercer Ojo.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Compilations - Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition) (2021) [FLAC]/Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition).cue/9
 /mnt/synology/media/music/orpheus.network/flac/Compilations - Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition) (2021) [FLAC]/09 Herpes Simplex.flac
 /mnt/synology/media/music/redacted.ch/flac/Rotting Christ - Thy Mighty  Contract (1993) [FLAC] { OPCD 012 }/01 The Sign of Evil Existance.flac
 /mnt/synology/media/music/redacted.ch/flac/Rotting Christ - Thy Mighty  Contract (1993) [FLAC] { OPCD 012 }/02 Transform All Suffering into Plagues.flac
@@ -20189,11 +18651,8 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Compilations - Fame- Jon Sa
 /mnt/synology/media/music/redacted.ch/flac/Rotting Christ - 1994 - Non Serviam {Unisound Records USR 012} FLAC/07 - Mephesis of Black Crystal.flac
 /mnt/synology/media/music/redacted.ch/flac/Rotting Christ - 1994 - Non Serviam {Unisound Records USR 012} FLAC/08 - Ice Shaped God.flac
 /mnt/synology/media/music/redacted.ch/flac/Rotting Christ - 1994 - Non Serviam {Unisound Records USR 012} FLAC/09 - Saturn Unlock Avey's Son.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Royal Trux - Twin Infinitives [FLAC]/Royal Trux - Twin Infinitives.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Royal Trux - Twin Infinitives [FLAC]/01 Solid Gold Tooth-Ice Cream-Jet Pet-RTX-USA-Kool Down Wheels.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Royal Trux - Twin Infinitives [FLAC]/Royal Trux - Twin Infinitives.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Royal Trux - Twin Infinitives [FLAC]/02 Chances Are Comets in Our Future-Yin Jim Versus the Comet Creature-Osiris.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Royal Trux - Twin Infinitives [FLAC]/Royal Trux - Twin Infinitives.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Royal Trux - Twin Infinitives [FLAC]/03 (Edge of the) Ape Oven.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Royal Trux - Twin Infinitives [FLAC]/Royal Trux - Twin Infinitives.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Royal Trux - Twin Infinitives [FLAC]/04 Florida Avenue Theme-Lick My Boots-Glitterbust-Funky Son-Ratcreeps-NY Avenue Bridge.flac
@@ -20238,13 +18697,9 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Royal Trux - Twin Infinitiv
 /mnt/synology/media/music/orpheus.network/flac/Rudimentary Peni - Death Church (1983) [FLAC]/19 - Alice Crucifies The Paedophiles.flac
 /mnt/synology/media/music/orpheus.network/flac/Rudimentary Peni - Death Church (1983) [FLAC]/20 - Army Of Jesus.flac
 /mnt/synology/media/music/orpheus.network/flac/Rudimentary Peni - Death Church (1983) [FLAC]/21 - Dutchmen.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Rush - Caress Of Steel (1975) [FLAC]/Caress Of Steel.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Rush - Caress Of Steel (1975) [FLAC]/01 Bastille Day.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Rush - Caress Of Steel (1975) [FLAC]/Caress Of Steel.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Rush - Caress Of Steel (1975) [FLAC]/02 I Think I'm Going Bald.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Rush - Caress Of Steel (1975) [FLAC]/Caress Of Steel.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Rush - Caress Of Steel (1975) [FLAC]/03 Lakeside Park.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Rush - Caress Of Steel (1975) [FLAC]/Caress Of Steel.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Rush - Caress Of Steel (1975) [FLAC]/04 The Necromancer.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Rush - Caress Of Steel (1975) [FLAC]/Caress Of Steel.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Rush - Caress Of Steel (1975) [FLAC]/05 The Fountain Of Lamneth.flac
@@ -20254,17 +18709,11 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Rush - Caress Of Steel (197
 /mnt/synology/media/music/orpheus.network/flac/Rush - 1976 - 2112 {1976 US SRM-1-1079 1st Press Vinyl 16-48} [FLAC]/04 - Lessons.flac
 /mnt/synology/media/music/orpheus.network/flac/Rush - 1976 - 2112 {1976 US SRM-1-1079 1st Press Vinyl 16-48} [FLAC]/05 - Tears.flac
 /mnt/synology/media/music/orpheus.network/flac/Rush - 1976 - 2112 {1976 US SRM-1-1079 1st Press Vinyl 16-48} [FLAC]/06 - Something For Nothing.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Rush - Moving Pictures (1992 MFSL Ultradisc II UDCD 569) (1981) [FLAC]/Moving Pictures (1992 MFSL Ultradisc II UDCD 569).cue/1
 /mnt/synology/media/music/orpheus.network/flac/Rush - Moving Pictures (1992 MFSL Ultradisc II UDCD 569) (1981) [FLAC]/01 Tom Sawyer.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Rush - Moving Pictures (1992 MFSL Ultradisc II UDCD 569) (1981) [FLAC]/Moving Pictures (1992 MFSL Ultradisc II UDCD 569).cue/2
 /mnt/synology/media/music/orpheus.network/flac/Rush - Moving Pictures (1992 MFSL Ultradisc II UDCD 569) (1981) [FLAC]/02 Red Barchetta.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Rush - Moving Pictures (1992 MFSL Ultradisc II UDCD 569) (1981) [FLAC]/Moving Pictures (1992 MFSL Ultradisc II UDCD 569).cue/3
 /mnt/synology/media/music/orpheus.network/flac/Rush - Moving Pictures (1992 MFSL Ultradisc II UDCD 569) (1981) [FLAC]/03 YYZ.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Rush - Moving Pictures (1992 MFSL Ultradisc II UDCD 569) (1981) [FLAC]/Moving Pictures (1992 MFSL Ultradisc II UDCD 569).cue/4
 /mnt/synology/media/music/orpheus.network/flac/Rush - Moving Pictures (1992 MFSL Ultradisc II UDCD 569) (1981) [FLAC]/04 Limelight.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Rush - Moving Pictures (1992 MFSL Ultradisc II UDCD 569) (1981) [FLAC]/Moving Pictures (1992 MFSL Ultradisc II UDCD 569).cue/5
 /mnt/synology/media/music/orpheus.network/flac/Rush - Moving Pictures (1992 MFSL Ultradisc II UDCD 569) (1981) [FLAC]/05 The Camera Eye.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Rush - Moving Pictures (1992 MFSL Ultradisc II UDCD 569) (1981) [FLAC]/Moving Pictures (1992 MFSL Ultradisc II UDCD 569).cue/6
 /mnt/synology/media/music/orpheus.network/flac/Rush - Moving Pictures (1992 MFSL Ultradisc II UDCD 569) (1981) [FLAC]/06 Witch Hunt.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Rush - Moving Pictures (1992 MFSL Ultradisc II UDCD 569) (1981) [FLAC]/Moving Pictures (1992 MFSL Ultradisc II UDCD 569).cue/7
 /mnt/synology/media/music/orpheus.network/flac/Rush - Moving Pictures (1992 MFSL Ultradisc II UDCD 569) (1981) [FLAC]/07 Vital Signs.flac
@@ -20286,19 +18735,12 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Rush - Moving Pictures (199
 /mnt/synology/media/music/orpheus.network/flac/Rush - Visions and Illusions v2.02 (The Spectrum, Philadelphia 1986-04-16) [bootleg] [FLAC]/CD2/06 - Territories.flac
 /mnt/synology/media/music/orpheus.network/flac/Rush - Visions and Illusions v2.02 (The Spectrum, Philadelphia 1986-04-16) [bootleg] [FLAC]/CD2/07 - YYZ.flac
 /mnt/synology/media/music/orpheus.network/flac/Rush - Visions and Illusions v2.02 (The Spectrum, Philadelphia 1986-04-16) [bootleg] [FLAC]/CD2/08 - Drum Solo.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Ryo Fukui (1976) Scenery (2005 - Reissue) [FLAC] {CDSOL1107}/Scenery +2.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Ryo Fukui (1976) Scenery (2005 - Reissue) [FLAC] {CDSOL1107}/01 It Could Happen To You.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Ryo Fukui (1976) Scenery (2005 - Reissue) [FLAC] {CDSOL1107}/Scenery +2.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Ryo Fukui (1976) Scenery (2005 - Reissue) [FLAC] {CDSOL1107}/02 I Want To Talk About You.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Ryo Fukui (1976) Scenery (2005 - Reissue) [FLAC] {CDSOL1107}/Scenery +2.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Ryo Fukui (1976) Scenery (2005 - Reissue) [FLAC] {CDSOL1107}/03 Early Summer.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Ryo Fukui (1976) Scenery (2005 - Reissue) [FLAC] {CDSOL1107}/Scenery +2.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Ryo Fukui (1976) Scenery (2005 - Reissue) [FLAC] {CDSOL1107}/04 Willow Weep For Me.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Ryo Fukui (1976) Scenery (2005 - Reissue) [FLAC] {CDSOL1107}/Scenery +2.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Ryo Fukui (1976) Scenery (2005 - Reissue) [FLAC] {CDSOL1107}/05 Autumn Leaves.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Ryo Fukui (1976) Scenery (2005 - Reissue) [FLAC] {CDSOL1107}/Scenery +2.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Ryo Fukui (1976) Scenery (2005 - Reissue) [FLAC] {CDSOL1107}/06 Scenery.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Ryo Fukui (1976) Scenery (2005 - Reissue) [FLAC] {CDSOL1107}/Scenery +2.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Ryo Fukui (1976) Scenery (2005 - Reissue) [FLAC] {CDSOL1107}/07 Mellow Dream.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Ryo Fukui (1976) Scenery (2005 - Reissue) [FLAC] {CDSOL1107}/Scenery +2.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Ryo Fukui (1976) Scenery (2005 - Reissue) [FLAC] {CDSOL1107}/08 Horizon.flac
@@ -20323,31 +18765,18 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Ryo Fukui (1976) Scenery (2
 /mnt/synology/media/music/orpheus.network/flac/Ryuichi Sakamoto - 1996 - 15 Tracks Edition/13. Parolibre.flac
 /mnt/synology/media/music/orpheus.network/flac/Ryuichi Sakamoto - 1996 - 15 Tracks Edition/14. Acceptance (end credit) . Little Buddha.flac
 /mnt/synology/media/music/orpheus.network/flac/Ryuichi Sakamoto - 1996 - 15 Tracks Edition/15. Before Long.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Ryuichi Sakamoto - async [CD] [FLAC]/async.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Ryuichi Sakamoto - async [CD] [FLAC]/01 andata.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Ryuichi Sakamoto - async [CD] [FLAC]/async.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Ryuichi Sakamoto - async [CD] [FLAC]/02 disintegration.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Ryuichi Sakamoto - async [CD] [FLAC]/async.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Ryuichi Sakamoto - async [CD] [FLAC]/03 solari.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Ryuichi Sakamoto - async [CD] [FLAC]/async.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Ryuichi Sakamoto - async [CD] [FLAC]/04 ZURE.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Ryuichi Sakamoto - async [CD] [FLAC]/async.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Ryuichi Sakamoto - async [CD] [FLAC]/05 walker.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Ryuichi Sakamoto - async [CD] [FLAC]/async.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Ryuichi Sakamoto - async [CD] [FLAC]/06 stakra.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Ryuichi Sakamoto - async [CD] [FLAC]/async.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Ryuichi Sakamoto - async [CD] [FLAC]/07 ubi.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Ryuichi Sakamoto - async [CD] [FLAC]/async.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Ryuichi Sakamoto - async [CD] [FLAC]/08 fullmoon.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Ryuichi Sakamoto - async [CD] [FLAC]/async.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Ryuichi Sakamoto - async [CD] [FLAC]/09 async.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Ryuichi Sakamoto - async [CD] [FLAC]/async.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Ryuichi Sakamoto - async [CD] [FLAC]/10 tri.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Ryuichi Sakamoto - async [CD] [FLAC]/async.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Ryuichi Sakamoto - async [CD] [FLAC]/11 Life, Life.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Ryuichi Sakamoto - async [CD] [FLAC]/async.cue/12
 /mnt/synology/media/music/orpheus.network/flac/Ryuichi Sakamoto - async [CD] [FLAC]/12 honj.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Ryuichi Sakamoto - async [CD] [FLAC]/async.cue/13
 /mnt/synology/media/music/orpheus.network/flac/Ryuichi Sakamoto - async [CD] [FLAC]/13 ff.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Ryuichi Sakamoto - async [CD] [FLAC]/async.cue/14
 /mnt/synology/media/music/orpheus.network/flac/Ryuichi Sakamoto - async [CD] [FLAC]/14 garden.flac
@@ -20407,25 +18836,15 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Ryuichi Sakamoto - async [C
 /mnt/synology/media/music/orpheus.network/flac/Saetia-A_Retrospective-2000-FLAC/20-Saetia-Notres_Langues_Nous_Trompent_(Live).flac
 /mnt/synology/media/music/orpheus.network/flac/Saetia-A_Retrospective-2000-FLAC/21-Saetia-The_Sweetness_and_the_Light_(Live).flac
 /mnt/synology/media/music/orpheus.network/flac/Saetia-A_Retrospective-2000-FLAC/22-Saetia-Endymion_(Live).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Salem - King Night (2010) [CD-FLAC]/King Night.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Salem - King Night (2010) [CD-FLAC]/01 Salem - King Night.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Salem - King Night (2010) [CD-FLAC]/King Night.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Salem - King Night (2010) [CD-FLAC]/02 Salem - Asia.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Salem - King Night (2010) [CD-FLAC]/King Night.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Salem - King Night (2010) [CD-FLAC]/03 Salem - Frost.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Salem - King Night (2010) [CD-FLAC]/King Night.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Salem - King Night (2010) [CD-FLAC]/04 Salem - Sick.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Salem - King Night (2010) [CD-FLAC]/King Night.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Salem - King Night (2010) [CD-FLAC]/05 Salem - Release Da Boar.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Salem - King Night (2010) [CD-FLAC]/King Night.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Salem - King Night (2010) [CD-FLAC]/06 Salem - Trapdoor.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Salem - King Night (2010) [CD-FLAC]/King Night.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Salem - King Night (2010) [CD-FLAC]/07 Salem - Redlights.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Salem - King Night (2010) [CD-FLAC]/King Night.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Salem - King Night (2010) [CD-FLAC]/08 Salem - Hound.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Salem - King Night (2010) [CD-FLAC]/King Night.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Salem - King Night (2010) [CD-FLAC]/09 Salem - Traxx.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Salem - King Night (2010) [CD-FLAC]/King Night.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Salem - King Night (2010) [CD-FLAC]/10 Salem - Tair.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Salem - King Night (2010) [CD-FLAC]/King Night.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Salem - King Night (2010) [CD-FLAC]/11 Salem - Killer.flac
@@ -20491,31 +18910,18 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Salem - King Night (2010) [
 /mnt/synology/media/music/orpheus.network/flac/Saosin - Saosin (2006) [FLAC] {CDP 7243 8 73694 2 9}/10 - You’re Not Alone.flac
 /mnt/synology/media/music/orpheus.network/flac/Saosin - Saosin (2006) [FLAC] {CDP 7243 8 73694 2 9}/11 - Bury Your Head.flac
 /mnt/synology/media/music/orpheus.network/flac/Saosin - Saosin (2006) [FLAC] {CDP 7243 8 73694 2 9}/12 - Some Sense of Security.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Saosin - In Search Of Solid Ground (2009) [FLAC] {TOCP-66904, Japan}/In Search Of Solid Ground.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Saosin - In Search Of Solid Ground (2009) [FLAC] {TOCP-66904, Japan}/Saosin - 01 - I Keep My Secrets Safe.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Saosin - In Search Of Solid Ground (2009) [FLAC] {TOCP-66904, Japan}/In Search Of Solid Ground.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Saosin - In Search Of Solid Ground (2009) [FLAC] {TOCP-66904, Japan}/Saosin - 02 - Deep Down.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Saosin - In Search Of Solid Ground (2009) [FLAC] {TOCP-66904, Japan}/In Search Of Solid Ground.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Saosin - In Search Of Solid Ground (2009) [FLAC] {TOCP-66904, Japan}/Saosin - 03 - Why Can't You See.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Saosin - In Search Of Solid Ground (2009) [FLAC] {TOCP-66904, Japan}/In Search Of Solid Ground.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Saosin - In Search Of Solid Ground (2009) [FLAC] {TOCP-66904, Japan}/Saosin - 04 - Changing.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Saosin - In Search Of Solid Ground (2009) [FLAC] {TOCP-66904, Japan}/In Search Of Solid Ground.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Saosin - In Search Of Solid Ground (2009) [FLAC] {TOCP-66904, Japan}/Saosin - 05 - On My Own.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Saosin - In Search Of Solid Ground (2009) [FLAC] {TOCP-66904, Japan}/In Search Of Solid Ground.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Saosin - In Search Of Solid Ground (2009) [FLAC] {TOCP-66904, Japan}/Saosin - 06 - The Alarming Sound Of A Still Small Voice.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Saosin - In Search Of Solid Ground (2009) [FLAC] {TOCP-66904, Japan}/In Search Of Solid Ground.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Saosin - In Search Of Solid Ground (2009) [FLAC] {TOCP-66904, Japan}/Saosin - 07 - Say Goodbye.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Saosin - In Search Of Solid Ground (2009) [FLAC] {TOCP-66904, Japan}/In Search Of Solid Ground.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Saosin - In Search Of Solid Ground (2009) [FLAC] {TOCP-66904, Japan}/Saosin - 08 - The Worst Of Me.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Saosin - In Search Of Solid Ground (2009) [FLAC] {TOCP-66904, Japan}/In Search Of Solid Ground.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Saosin - In Search Of Solid Ground (2009) [FLAC] {TOCP-66904, Japan}/Saosin - 09 - It's All Over Now.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Saosin - In Search Of Solid Ground (2009) [FLAC] {TOCP-66904, Japan}/In Search Of Solid Ground.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Saosin - In Search Of Solid Ground (2009) [FLAC] {TOCP-66904, Japan}/Saosin - 10 - What Were We Made For .flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Saosin - In Search Of Solid Ground (2009) [FLAC] {TOCP-66904, Japan}/In Search Of Solid Ground.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Saosin - In Search Of Solid Ground (2009) [FLAC] {TOCP-66904, Japan}/Saosin - 11 - Is This Real.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Saosin - In Search Of Solid Ground (2009) [FLAC] {TOCP-66904, Japan}/In Search Of Solid Ground.cue/12
 /mnt/synology/media/music/orpheus.network/flac/Saosin - In Search Of Solid Ground (2009) [FLAC] {TOCP-66904, Japan}/Saosin - 12 - Nothing Is What It Seems (Without You).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Saosin - In Search Of Solid Ground (2009) [FLAC] {TOCP-66904, Japan}/In Search Of Solid Ground.cue/13
 /mnt/synology/media/music/orpheus.network/flac/Saosin - In Search Of Solid Ground (2009) [FLAC] {TOCP-66904, Japan}/Saosin - 13 - Fireflies (Light Messengers).flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Saosin - In Search Of Solid Ground (2009) [FLAC] {TOCP-66904, Japan}/In Search Of Solid Ground.cue/14
 /mnt/synology/media/music/orpheus.network/flac/Saosin - In Search Of Solid Ground (2009) [FLAC] {TOCP-66904, Japan}/Saosin - 14 - You Never Noticed Me.flac
@@ -20555,35 +18961,20 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Saosin - In Search Of Solid
 /mnt/synology/media/music/redacted.ch/flac/Satyricon - The Shadowthrone (2006) CD FLAC/05 - Dominions Of Satyricon.flac
 /mnt/synology/media/music/redacted.ch/flac/Satyricon - The Shadowthrone (2006) CD FLAC/06 - The King Of The Shadowthrone.flac
 /mnt/synology/media/music/redacted.ch/flac/Satyricon - The Shadowthrone (2006) CD FLAC/07 - I en svart kiste.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Scary Kids Scaring Kids - Scary Kids Scaring Kids (2007) [FLAC]/Scary Kids Scaring Kids.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Scary Kids Scaring Kids - Scary Kids Scaring Kids (2007) [FLAC]/01 Prelude.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Scary Kids Scaring Kids - Scary Kids Scaring Kids (2007) [FLAC]/Scary Kids Scaring Kids.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Scary Kids Scaring Kids - Scary Kids Scaring Kids (2007) [FLAC]/02 Degenerates.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Scary Kids Scaring Kids - Scary Kids Scaring Kids (2007) [FLAC]/Scary Kids Scaring Kids.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Scary Kids Scaring Kids - Scary Kids Scaring Kids (2007) [FLAC]/03 Holding On.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Scary Kids Scaring Kids - Scary Kids Scaring Kids (2007) [FLAC]/Scary Kids Scaring Kids.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Scary Kids Scaring Kids - Scary Kids Scaring Kids (2007) [FLAC]/04 The Deep End.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Scary Kids Scaring Kids - Scary Kids Scaring Kids (2007) [FLAC]/Scary Kids Scaring Kids.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Scary Kids Scaring Kids - Scary Kids Scaring Kids (2007) [FLAC]/05 Faces.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Scary Kids Scaring Kids - Scary Kids Scaring Kids (2007) [FLAC]/Scary Kids Scaring Kids.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Scary Kids Scaring Kids - Scary Kids Scaring Kids (2007) [FLAC]/06 A Pistol to My Temple.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Scary Kids Scaring Kids - Scary Kids Scaring Kids (2007) [FLAC]/Scary Kids Scaring Kids.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Scary Kids Scaring Kids - Scary Kids Scaring Kids (2007) [FLAC]/07 Star Crossed.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Scary Kids Scaring Kids - Scary Kids Scaring Kids (2007) [FLAC]/Scary Kids Scaring Kids.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Scary Kids Scaring Kids - Scary Kids Scaring Kids (2007) [FLAC]/08 Derailed.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Scary Kids Scaring Kids - Scary Kids Scaring Kids (2007) [FLAC]/Scary Kids Scaring Kids.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Scary Kids Scaring Kids - Scary Kids Scaring Kids (2007) [FLAC]/09 Breathe.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Scary Kids Scaring Kids - Scary Kids Scaring Kids (2007) [FLAC]/Scary Kids Scaring Kids.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Scary Kids Scaring Kids - Scary Kids Scaring Kids (2007) [FLAC]/10 Set Sail.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Scary Kids Scaring Kids - Scary Kids Scaring Kids (2007) [FLAC]/Scary Kids Scaring Kids.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Scary Kids Scaring Kids - Scary Kids Scaring Kids (2007) [FLAC]/11 Free Again.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Scary Kids Scaring Kids - Scary Kids Scaring Kids (2007) [FLAC]/Scary Kids Scaring Kids.cue/12
 /mnt/synology/media/music/orpheus.network/flac/Scary Kids Scaring Kids - Scary Kids Scaring Kids (2007) [FLAC]/12 Snake Devil.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Scary Kids Scaring Kids - Scary Kids Scaring Kids (2007) [FLAC]/Scary Kids Scaring Kids.cue/13
 /mnt/synology/media/music/orpheus.network/flac/Scary Kids Scaring Kids - Scary Kids Scaring Kids (2007) [FLAC]/13 Watch Me Bleed.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Scary Kids Scaring Kids - Scary Kids Scaring Kids (2007) [FLAC]/Scary Kids Scaring Kids.cue/14
 /mnt/synology/media/music/orpheus.network/flac/Scary Kids Scaring Kids - Scary Kids Scaring Kids (2007) [FLAC]/14 Goes Without Saying.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Scary Kids Scaring Kids - Scary Kids Scaring Kids (2007) [FLAC]/Scary Kids Scaring Kids.cue/15
 /mnt/synology/media/music/orpheus.network/flac/Scary Kids Scaring Kids - Scary Kids Scaring Kids (2007) [FLAC]/15 Blood Runs Forever.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Scary Kids Scaring Kids - Scary Kids Scaring Kids (2007) [FLAC]/Scary Kids Scaring Kids.cue/16
 /mnt/synology/media/music/orpheus.network/flac/Scary Kids Scaring Kids - Scary Kids Scaring Kids (2007) [FLAC]/16 The Power of Resolution.flac
@@ -20658,15 +19049,6 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Scary Kids Scaring Kids - S
 /mnt/synology/media/music/orpheus.network/flac/Seahaven - Winter Forever (CD FLAC)/08 Understanding.flac
 /mnt/synology/media/music/orpheus.network/flac/Seahaven - Winter Forever (CD FLAC)/09 Honeybee.flac
 /mnt/synology/media/music/orpheus.network/flac/Seahaven - Winter Forever (CD FLAC)/10 PV.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Seahaven - Winter Forever (CD FLAC)/Winter Forever.cue/1
-cue:///mnt/synology/media/music/orpheus.network/flac/Seahaven - Winter Forever (CD FLAC)/Winter Forever.cue/2
-cue:///mnt/synology/media/music/orpheus.network/flac/Seahaven - Winter Forever (CD FLAC)/Winter Forever.cue/3
-cue:///mnt/synology/media/music/orpheus.network/flac/Seahaven - Winter Forever (CD FLAC)/Winter Forever.cue/4
-cue:///mnt/synology/media/music/orpheus.network/flac/Seahaven - Winter Forever (CD FLAC)/Winter Forever.cue/5
-cue:///mnt/synology/media/music/orpheus.network/flac/Seahaven - Winter Forever (CD FLAC)/Winter Forever.cue/6
-cue:///mnt/synology/media/music/orpheus.network/flac/Seahaven - Winter Forever (CD FLAC)/Winter Forever.cue/7
-cue:///mnt/synology/media/music/orpheus.network/flac/Seahaven - Winter Forever (CD FLAC)/Winter Forever.cue/8
-cue:///mnt/synology/media/music/orpheus.network/flac/Seahaven - Winter Forever (CD FLAC)/Winter Forever.cue/9
 cue:///mnt/synology/media/music/orpheus.network/flac/Seahaven - Winter Forever (CD FLAC)/Winter Forever.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Sebadoh - III (1991) [FLAC]/01 The Freed Pig.flac
 /mnt/synology/media/music/orpheus.network/flac/Sebadoh - III (1991) [FLAC]/02 Sickles and Hammers.flac
@@ -20955,23 +19337,14 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Seahaven - Winter Forever (
 /mnt/synology/media/music/orpheus.network/flac/Silverchair - Neon Ballroom (1999) [FLAC] {493309 9}/Disc 1/12 - Steam Will Rise.flac
 /mnt/synology/media/music/orpheus.network/flac/Silverchair - Neon Ballroom (1999) [FLAC] {493309 9}/Disc 2/01 - Anthem for the Year 2000 (a cappella).flac
 /mnt/synology/media/music/orpheus.network/flac/Silverchair - Neon Ballroom (1999) [FLAC] {493309 9}/Disc 2/02 - Spawn (Pre-Vitro version).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Silver Jews - The Natural Bridge (1996) [FLAC]/The Natural Bridge.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Silver Jews - The Natural Bridge (1996) [FLAC]/01 How to Rent a Room.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Silver Jews - The Natural Bridge (1996) [FLAC]/The Natural Bridge.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Silver Jews - The Natural Bridge (1996) [FLAC]/02 Pet Politics.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Silver Jews - The Natural Bridge (1996) [FLAC]/The Natural Bridge.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Silver Jews - The Natural Bridge (1996) [FLAC]/03 Black and Brown Blues.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Silver Jews - The Natural Bridge (1996) [FLAC]/The Natural Bridge.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Silver Jews - The Natural Bridge (1996) [FLAC]/04 Ballad of Reverend War Character.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Silver Jews - The Natural Bridge (1996) [FLAC]/The Natural Bridge.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Silver Jews - The Natural Bridge (1996) [FLAC]/05 The Right to Remain Silent.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Silver Jews - The Natural Bridge (1996) [FLAC]/The Natural Bridge.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Silver Jews - The Natural Bridge (1996) [FLAC]/06 Dallas.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Silver Jews - The Natural Bridge (1996) [FLAC]/The Natural Bridge.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Silver Jews - The Natural Bridge (1996) [FLAC]/07 Inside the Golden Days of Missing You.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Silver Jews - The Natural Bridge (1996) [FLAC]/The Natural Bridge.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Silver Jews - The Natural Bridge (1996) [FLAC]/08 Albemarle Station.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Silver Jews - The Natural Bridge (1996) [FLAC]/The Natural Bridge.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Silver Jews - The Natural Bridge (1996) [FLAC]/09 The Frontier Index.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Silver Jews - The Natural Bridge (1996) [FLAC]/The Natural Bridge.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Silver Jews - The Natural Bridge (1996) [FLAC]/10 Pretty Eyes.flac
@@ -21130,14 +19503,6 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Silver Jews - The Natural B
 /mnt/synology/media/music/orpheus.network/flac/Sleep {1992} Sleep's Holy Mountain (UK-Release) [FLAC]/07 - Inside the Sun.flac
 /mnt/synology/media/music/orpheus.network/flac/Sleep {1992} Sleep's Holy Mountain (UK-Release) [FLAC]/08 - From Beyond.flac
 /mnt/synology/media/music/orpheus.network/flac/Sleep {1992} Sleep's Holy Mountain (UK-Release) [FLAC]/09 - Nain's Baptism.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Sleep {1992} Sleep's Holy Mountain (UK-Release) [FLAC]/Sleep's Holy Mountain.cue/1
-cue:///mnt/synology/media/music/orpheus.network/flac/Sleep {1992} Sleep's Holy Mountain (UK-Release) [FLAC]/Sleep's Holy Mountain.cue/2
-cue:///mnt/synology/media/music/orpheus.network/flac/Sleep {1992} Sleep's Holy Mountain (UK-Release) [FLAC]/Sleep's Holy Mountain.cue/3
-cue:///mnt/synology/media/music/orpheus.network/flac/Sleep {1992} Sleep's Holy Mountain (UK-Release) [FLAC]/Sleep's Holy Mountain.cue/4
-cue:///mnt/synology/media/music/orpheus.network/flac/Sleep {1992} Sleep's Holy Mountain (UK-Release) [FLAC]/Sleep's Holy Mountain.cue/5
-cue:///mnt/synology/media/music/orpheus.network/flac/Sleep {1992} Sleep's Holy Mountain (UK-Release) [FLAC]/Sleep's Holy Mountain.cue/6
-cue:///mnt/synology/media/music/orpheus.network/flac/Sleep {1992} Sleep's Holy Mountain (UK-Release) [FLAC]/Sleep's Holy Mountain.cue/7
-cue:///mnt/synology/media/music/orpheus.network/flac/Sleep {1992} Sleep's Holy Mountain (UK-Release) [FLAC]/Sleep's Holy Mountain.cue/8
 cue:///mnt/synology/media/music/orpheus.network/flac/Sleep {1992} Sleep's Holy Mountain (UK-Release) [FLAC]/Sleep's Holy Mountain.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Sleep-Jerusalem-1999-FLAC/01 - Jerusalem (Pt. 1).flac
 /mnt/synology/media/music/orpheus.network/flac/Sleep-Jerusalem-1999-FLAC/02 - Jerusalem (Pt. 2).flac
@@ -21170,41 +19535,23 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Sleep {1992} Sleep's Holy M
 /mnt/synology/media/music/orpheus.network/flac/Slint - Spiderland [Touch and Go Records]/06 - Good Morning, Captain.flac
 /mnt/synology/media/music/orpheus.network/flac/Slint - Slint [Touch and Go Records]/01 - Glenn.flac
 /mnt/synology/media/music/orpheus.network/flac/Slint - Slint [Touch and Go Records]/02 - Rhoda.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Slipknot - Slipknot (1999) [CD FLAC] {RR 8655-5}/Slipknot.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Slipknot - Slipknot (1999) [CD FLAC] {RR 8655-5}/01 742617000027.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Slipknot - Slipknot (1999) [CD FLAC] {RR 8655-5}/Slipknot.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Slipknot - Slipknot (1999) [CD FLAC] {RR 8655-5}/02 (sic).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Slipknot - Slipknot (1999) [CD FLAC] {RR 8655-5}/Slipknot.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Slipknot - Slipknot (1999) [CD FLAC] {RR 8655-5}/03 Eyeless.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Slipknot - Slipknot (1999) [CD FLAC] {RR 8655-5}/Slipknot.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Slipknot - Slipknot (1999) [CD FLAC] {RR 8655-5}/04 Wait and Bleed.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Slipknot - Slipknot (1999) [CD FLAC] {RR 8655-5}/Slipknot.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Slipknot - Slipknot (1999) [CD FLAC] {RR 8655-5}/05 Surfacing.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Slipknot - Slipknot (1999) [CD FLAC] {RR 8655-5}/Slipknot.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Slipknot - Slipknot (1999) [CD FLAC] {RR 8655-5}/06 Spit It Out.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Slipknot - Slipknot (1999) [CD FLAC] {RR 8655-5}/Slipknot.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Slipknot - Slipknot (1999) [CD FLAC] {RR 8655-5}/07 Tattered & Torn.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Slipknot - Slipknot (1999) [CD FLAC] {RR 8655-5}/Slipknot.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Slipknot - Slipknot (1999) [CD FLAC] {RR 8655-5}/08 Frail Limb Nursery.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Slipknot - Slipknot (1999) [CD FLAC] {RR 8655-5}/Slipknot.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Slipknot - Slipknot (1999) [CD FLAC] {RR 8655-5}/09 Purity.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Slipknot - Slipknot (1999) [CD FLAC] {RR 8655-5}/Slipknot.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Slipknot - Slipknot (1999) [CD FLAC] {RR 8655-5}/10 Liberate.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Slipknot - Slipknot (1999) [CD FLAC] {RR 8655-5}/Slipknot.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Slipknot - Slipknot (1999) [CD FLAC] {RR 8655-5}/11 Prosthetics.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Slipknot - Slipknot (1999) [CD FLAC] {RR 8655-5}/Slipknot.cue/12
 /mnt/synology/media/music/orpheus.network/flac/Slipknot - Slipknot (1999) [CD FLAC] {RR 8655-5}/12 No Life.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Slipknot - Slipknot (1999) [CD FLAC] {RR 8655-5}/Slipknot.cue/13
 /mnt/synology/media/music/orpheus.network/flac/Slipknot - Slipknot (1999) [CD FLAC] {RR 8655-5}/13 Diluted.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Slipknot - Slipknot (1999) [CD FLAC] {RR 8655-5}/Slipknot.cue/14
 /mnt/synology/media/music/orpheus.network/flac/Slipknot - Slipknot (1999) [CD FLAC] {RR 8655-5}/14 Only One.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Slipknot - Slipknot (1999) [CD FLAC] {RR 8655-5}/Slipknot.cue/15
 /mnt/synology/media/music/orpheus.network/flac/Slipknot - Slipknot (1999) [CD FLAC] {RR 8655-5}/15 Scissors.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Slipknot - Slipknot (1999) [CD FLAC] {RR 8655-5}/Slipknot.cue/16
 /mnt/synology/media/music/orpheus.network/flac/Slipknot - Slipknot (1999) [CD FLAC] {RR 8655-5}/16 Me Inside.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Slipknot - Slipknot (1999) [CD FLAC] {RR 8655-5}/Slipknot.cue/17
 /mnt/synology/media/music/orpheus.network/flac/Slipknot - Slipknot (1999) [CD FLAC] {RR 8655-5}/17 Get This.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Slipknot - Slipknot (1999) [CD FLAC] {RR 8655-5}/Slipknot.cue/18
 /mnt/synology/media/music/orpheus.network/flac/Slipknot - Slipknot (1999) [CD FLAC] {RR 8655-5}/18 Interloper (demo).flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Slipknot - Slipknot (1999) [CD FLAC] {RR 8655-5}/Slipknot.cue/19
 /mnt/synology/media/music/orpheus.network/flac/Slipknot - Slipknot (1999) [CD FLAC] {RR 8655-5}/19 Despise (demo).flac
@@ -21260,19 +19607,12 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Slipknot - Slipknot (1999) 
 /mnt/synology/media/music/orpheus.network/flac/Slowdive - 2010 - Pygmalion/CD2/10 - Prautrock.flac
 /mnt/synology/media/music/orpheus.network/flac/Slowdive - 2010 - Pygmalion/CD2/11 - Changes.flac
 /mnt/synology/media/music/orpheus.network/flac/Slowdive - 2010 - Pygmalion/CD2/12 - Red Five.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Slowdive -2017-Slowdive -FLAC/Slowdive.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Slowdive -2017-Slowdive -FLAC/01 - Slomo.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Slowdive -2017-Slowdive -FLAC/Slowdive.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Slowdive -2017-Slowdive -FLAC/02 - Star Roving.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Slowdive -2017-Slowdive -FLAC/Slowdive.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Slowdive -2017-Slowdive -FLAC/03 - Don't Know Why.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Slowdive -2017-Slowdive -FLAC/Slowdive.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Slowdive -2017-Slowdive -FLAC/04 - Sugar For The Pill.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Slowdive -2017-Slowdive -FLAC/Slowdive.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Slowdive -2017-Slowdive -FLAC/05 - Everyone Knows.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Slowdive -2017-Slowdive -FLAC/Slowdive.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Slowdive -2017-Slowdive -FLAC/06 - No Longer Making Time.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Slowdive -2017-Slowdive -FLAC/Slowdive.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Slowdive -2017-Slowdive -FLAC/07 - Go Get It.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Slowdive -2017-Slowdive -FLAC/Slowdive.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Slowdive -2017-Slowdive -FLAC/08 - Falling Ashes.flac
@@ -21444,27 +19784,16 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Slowdive -2017-Slowdive -FL
 /mnt/synology/media/music/orpheus.network/flac/Sonic Youth - Sonic Youth [2006 Geffen Records Remaster]/11 Destroyer [Live At New Pilgrim Theatre] [Bonus Track].flac
 /mnt/synology/media/music/orpheus.network/flac/Sonic Youth - Sonic Youth [2006 Geffen Records Remaster]/12 She Is Not Alone [Live At New Pilgrim Theatre] [Bonus Track].flac
 /mnt/synology/media/music/orpheus.network/flac/Sonic Youth - Sonic Youth [2006 Geffen Records Remaster]/13 Where The Red Fern Grows [Early Studio Version] [Bonus Track].flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Sonic Youth - Bad Moon Rising (1986) [FLAC] {UK ed. - BFFP 1 CD}/Bad Moon Rising.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Sonic Youth - Bad Moon Rising (1986) [FLAC] {UK ed. - BFFP 1 CD}/01 Intro.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Sonic Youth - Bad Moon Rising (1986) [FLAC] {UK ed. - BFFP 1 CD}/Bad Moon Rising.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Sonic Youth - Bad Moon Rising (1986) [FLAC] {UK ed. - BFFP 1 CD}/02 Brave Men Run (in My Family).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Sonic Youth - Bad Moon Rising (1986) [FLAC] {UK ed. - BFFP 1 CD}/Bad Moon Rising.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Sonic Youth - Bad Moon Rising (1986) [FLAC] {UK ed. - BFFP 1 CD}/03 Society Is a Hole.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Sonic Youth - Bad Moon Rising (1986) [FLAC] {UK ed. - BFFP 1 CD}/Bad Moon Rising.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Sonic Youth - Bad Moon Rising (1986) [FLAC] {UK ed. - BFFP 1 CD}/04 I Love Her All the Time.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Sonic Youth - Bad Moon Rising (1986) [FLAC] {UK ed. - BFFP 1 CD}/Bad Moon Rising.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Sonic Youth - Bad Moon Rising (1986) [FLAC] {UK ed. - BFFP 1 CD}/05 Ghost Bitch.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Sonic Youth - Bad Moon Rising (1986) [FLAC] {UK ed. - BFFP 1 CD}/Bad Moon Rising.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Sonic Youth - Bad Moon Rising (1986) [FLAC] {UK ed. - BFFP 1 CD}/06 I'm Insane.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Sonic Youth - Bad Moon Rising (1986) [FLAC] {UK ed. - BFFP 1 CD}/Bad Moon Rising.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Sonic Youth - Bad Moon Rising (1986) [FLAC] {UK ed. - BFFP 1 CD}/07 Justice Is Might.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Sonic Youth - Bad Moon Rising (1986) [FLAC] {UK ed. - BFFP 1 CD}/Bad Moon Rising.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Sonic Youth - Bad Moon Rising (1986) [FLAC] {UK ed. - BFFP 1 CD}/08 Death Valley '69.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Sonic Youth - Bad Moon Rising (1986) [FLAC] {UK ed. - BFFP 1 CD}/Bad Moon Rising.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Sonic Youth - Bad Moon Rising (1986) [FLAC] {UK ed. - BFFP 1 CD}/09 Satan Is Boring.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Sonic Youth - Bad Moon Rising (1986) [FLAC] {UK ed. - BFFP 1 CD}/Bad Moon Rising.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Sonic Youth - Bad Moon Rising (1986) [FLAC] {UK ed. - BFFP 1 CD}/10 Hallowe'en.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Sonic Youth - Bad Moon Rising (1986) [FLAC] {UK ed. - BFFP 1 CD}/Bad Moon Rising.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Sonic Youth - Bad Moon Rising (1986) [FLAC] {UK ed. - BFFP 1 CD}/11 Flower.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Sonic Youth - Bad Moon Rising (1986) [FLAC] {UK ed. - BFFP 1 CD}/Bad Moon Rising.cue/12
 /mnt/synology/media/music/orpheus.network/flac/Sonic Youth - Bad Moon Rising (1986) [FLAC] {UK ed. - BFFP 1 CD}/12 Echo Canyon.flac
@@ -21565,23 +19894,14 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Sonic Youth - Bad Moon Risi
 /mnt/synology/media/music/orpheus.network/flac/Sonic Youth - Rather Ripped (2006) [FLAC] {0602498783023}/11 - Pink Steam.flac
 /mnt/synology/media/music/orpheus.network/flac/Sonic Youth - Rather Ripped (2006) [FLAC] {0602498783023}/12 - Or.flac
 /mnt/synology/media/music/orpheus.network/flac/Sonic Youth - Rather Ripped (2006) [FLAC] {0602498783023}/13 - Helen Lundeberg.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Sonic Youth - EVOL (2015 Reissue) (2015) [FLAC]/EVOL (2015 Reissue).cue/1
 /mnt/synology/media/music/orpheus.network/flac/Sonic Youth - EVOL (2015 Reissue) (2015) [FLAC]/01 Tom Violence.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Sonic Youth - EVOL (2015 Reissue) (2015) [FLAC]/EVOL (2015 Reissue).cue/2
 /mnt/synology/media/music/orpheus.network/flac/Sonic Youth - EVOL (2015 Reissue) (2015) [FLAC]/02 Shadow Of A Doubt.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Sonic Youth - EVOL (2015 Reissue) (2015) [FLAC]/EVOL (2015 Reissue).cue/3
 /mnt/synology/media/music/orpheus.network/flac/Sonic Youth - EVOL (2015 Reissue) (2015) [FLAC]/03 Starpower.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Sonic Youth - EVOL (2015 Reissue) (2015) [FLAC]/EVOL (2015 Reissue).cue/4
 /mnt/synology/media/music/orpheus.network/flac/Sonic Youth - EVOL (2015 Reissue) (2015) [FLAC]/04 In The Kingdom #19.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Sonic Youth - EVOL (2015 Reissue) (2015) [FLAC]/EVOL (2015 Reissue).cue/5
 /mnt/synology/media/music/orpheus.network/flac/Sonic Youth - EVOL (2015 Reissue) (2015) [FLAC]/05 Green Light.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Sonic Youth - EVOL (2015 Reissue) (2015) [FLAC]/EVOL (2015 Reissue).cue/6
 /mnt/synology/media/music/orpheus.network/flac/Sonic Youth - EVOL (2015 Reissue) (2015) [FLAC]/06 Death To Our Friends.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Sonic Youth - EVOL (2015 Reissue) (2015) [FLAC]/EVOL (2015 Reissue).cue/7
 /mnt/synology/media/music/orpheus.network/flac/Sonic Youth - EVOL (2015 Reissue) (2015) [FLAC]/07 Secret Girls.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Sonic Youth - EVOL (2015 Reissue) (2015) [FLAC]/EVOL (2015 Reissue).cue/8
 /mnt/synology/media/music/orpheus.network/flac/Sonic Youth - EVOL (2015 Reissue) (2015) [FLAC]/08 Marilyn Moore.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Sonic Youth - EVOL (2015 Reissue) (2015) [FLAC]/EVOL (2015 Reissue).cue/9
 /mnt/synology/media/music/orpheus.network/flac/Sonic Youth - EVOL (2015 Reissue) (2015) [FLAC]/09 Madonna, Sean, And Me.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Sonic Youth - EVOL (2015 Reissue) (2015) [FLAC]/EVOL (2015 Reissue).cue/10
 /mnt/synology/media/music/orpheus.network/flac/Sonic Youth - EVOL (2015 Reissue) (2015) [FLAC]/10 Bubblegum.flac
@@ -21870,31 +20190,18 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Sonic Youth - EVOL (2015 Re
 /mnt/synology/media/music/orpheus.network/flac/Stereolab - Transient Random​-​Noise Bursts With Announcements (Expanded Edition) (2019) [FLAC]/CD2/11 - Lock Groove Lullaby - Demo.flac
 /mnt/synology/media/music/orpheus.network/flac/Stereolab - Transient Random​-​Noise Bursts With Announcements (Expanded Edition) (2019) [FLAC]/CD2/12 - Jenny Ondioline - Demo.flac
 /mnt/synology/media/music/orpheus.network/flac/Stereolab - Transient Random​-​Noise Bursts With Announcements (Expanded Edition) (2019) [FLAC]/CD2/13 - Pause - Demo.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Steve Reich - Music for 18 Musicians (1998) [FLAC]/Music for 18 Musicians.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Steve Reich - Music for 18 Musicians (1998) [FLAC]/01 Pulses.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Steve Reich - Music for 18 Musicians (1998) [FLAC]/Music for 18 Musicians.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Steve Reich - Music for 18 Musicians (1998) [FLAC]/02 Section I.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Steve Reich - Music for 18 Musicians (1998) [FLAC]/Music for 18 Musicians.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Steve Reich - Music for 18 Musicians (1998) [FLAC]/03 Section II.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Steve Reich - Music for 18 Musicians (1998) [FLAC]/Music for 18 Musicians.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Steve Reich - Music for 18 Musicians (1998) [FLAC]/04 Section IIIA.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Steve Reich - Music for 18 Musicians (1998) [FLAC]/Music for 18 Musicians.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Steve Reich - Music for 18 Musicians (1998) [FLAC]/05 Section IIIB.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Steve Reich - Music for 18 Musicians (1998) [FLAC]/Music for 18 Musicians.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Steve Reich - Music for 18 Musicians (1998) [FLAC]/06 Section IV.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Steve Reich - Music for 18 Musicians (1998) [FLAC]/Music for 18 Musicians.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Steve Reich - Music for 18 Musicians (1998) [FLAC]/07 Section V.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Steve Reich - Music for 18 Musicians (1998) [FLAC]/Music for 18 Musicians.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Steve Reich - Music for 18 Musicians (1998) [FLAC]/08 Section VI.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Steve Reich - Music for 18 Musicians (1998) [FLAC]/Music for 18 Musicians.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Steve Reich - Music for 18 Musicians (1998) [FLAC]/09 Section VII.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Steve Reich - Music for 18 Musicians (1998) [FLAC]/Music for 18 Musicians.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Steve Reich - Music for 18 Musicians (1998) [FLAC]/10 Section VIII.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Steve Reich - Music for 18 Musicians (1998) [FLAC]/Music for 18 Musicians.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Steve Reich - Music for 18 Musicians (1998) [FLAC]/11 Section IX.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Steve Reich - Music for 18 Musicians (1998) [FLAC]/Music for 18 Musicians.cue/12
 /mnt/synology/media/music/orpheus.network/flac/Steve Reich - Music for 18 Musicians (1998) [FLAC]/12 Section X.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Steve Reich - Music for 18 Musicians (1998) [FLAC]/Music for 18 Musicians.cue/13
 /mnt/synology/media/music/orpheus.network/flac/Steve Reich - Music for 18 Musicians (1998) [FLAC]/13 Section XI.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Steve Reich - Music for 18 Musicians (1998) [FLAC]/Music for 18 Musicians.cue/14
 /mnt/synology/media/music/orpheus.network/flac/Steve Reich - Music for 18 Musicians (1998) [FLAC]/14 Pulses.flac
@@ -22097,25 +20404,15 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Steve Reich - Music for 18 
 /mnt/synology/media/music/orpheus.network/flac/Sufjan Stevens - The Age of Adz (2010) [FLAC]/09 - All for Myself.flac
 /mnt/synology/media/music/orpheus.network/flac/Sufjan Stevens - The Age of Adz (2010) [FLAC]/10 - I Want to Be Well.flac
 /mnt/synology/media/music/orpheus.network/flac/Sufjan Stevens - The Age of Adz (2010) [FLAC]/11 - Impossible Soul.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Sufjan Stevens - Carrie & Lowell (2015) [FLAC]/Carrie & Lowell.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Sufjan Stevens - Carrie & Lowell (2015) [FLAC]/01 Death With Dignity.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Sufjan Stevens - Carrie & Lowell (2015) [FLAC]/Carrie & Lowell.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Sufjan Stevens - Carrie & Lowell (2015) [FLAC]/02 Should Have Known Better.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Sufjan Stevens - Carrie & Lowell (2015) [FLAC]/Carrie & Lowell.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Sufjan Stevens - Carrie & Lowell (2015) [FLAC]/03 All Of Me Wants All Of You.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Sufjan Stevens - Carrie & Lowell (2015) [FLAC]/Carrie & Lowell.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Sufjan Stevens - Carrie & Lowell (2015) [FLAC]/04 Drawn To The Blood.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Sufjan Stevens - Carrie & Lowell (2015) [FLAC]/Carrie & Lowell.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Sufjan Stevens - Carrie & Lowell (2015) [FLAC]/05 Eugene.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Sufjan Stevens - Carrie & Lowell (2015) [FLAC]/Carrie & Lowell.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Sufjan Stevens - Carrie & Lowell (2015) [FLAC]/06 Fourth Of July.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Sufjan Stevens - Carrie & Lowell (2015) [FLAC]/Carrie & Lowell.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Sufjan Stevens - Carrie & Lowell (2015) [FLAC]/07 The Only Thing.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Sufjan Stevens - Carrie & Lowell (2015) [FLAC]/Carrie & Lowell.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Sufjan Stevens - Carrie & Lowell (2015) [FLAC]/08 Carrie & Lowell.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Sufjan Stevens - Carrie & Lowell (2015) [FLAC]/Carrie & Lowell.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Sufjan Stevens - Carrie & Lowell (2015) [FLAC]/09 John My Beloved.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Sufjan Stevens - Carrie & Lowell (2015) [FLAC]/Carrie & Lowell.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Sufjan Stevens - Carrie & Lowell (2015) [FLAC]/10 No Shade In The Shadow Of The Cross.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Sufjan Stevens - Carrie & Lowell (2015) [FLAC]/Carrie & Lowell.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Sufjan Stevens - Carrie & Lowell (2015) [FLAC]/11 Blue Bucket Of Gold.flac
@@ -22206,33 +20503,19 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Sufjan Stevens - Carrie & L
 /mnt/synology/media/music/orpheus.network/flac/Sum 41 - Chuck (2004) [FLAC] {Aquarius Records  Q2 00618  CD}/11 - Pieces.flac
 /mnt/synology/media/music/orpheus.network/flac/Sum 41 - Chuck (2004) [FLAC] {Aquarius Records  Q2 00618  CD}/12 - There's No Solution.flac
 /mnt/synology/media/music/orpheus.network/flac/Sum 41 - Chuck (2004) [FLAC] {Aquarius Records  Q2 00618  CD}/13 - 88.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Sum 41 - Underclass Hero (2007) {Island B0008987-02} [FLAC-CD]/Underclass Hero.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Sum 41 - Underclass Hero (2007) {Island B0008987-02} [FLAC-CD]/01 Underclass Hero.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Sum 41 - Underclass Hero (2007) {Island B0008987-02} [FLAC-CD]/Underclass Hero.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Sum 41 - Underclass Hero (2007) {Island B0008987-02} [FLAC-CD]/02 Walking Disaster.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Sum 41 - Underclass Hero (2007) {Island B0008987-02} [FLAC-CD]/Underclass Hero.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Sum 41 - Underclass Hero (2007) {Island B0008987-02} [FLAC-CD]/03 Speak of the Devil.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Sum 41 - Underclass Hero (2007) {Island B0008987-02} [FLAC-CD]/Underclass Hero.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Sum 41 - Underclass Hero (2007) {Island B0008987-02} [FLAC-CD]/04 Dear Father.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Sum 41 - Underclass Hero (2007) {Island B0008987-02} [FLAC-CD]/Underclass Hero.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Sum 41 - Underclass Hero (2007) {Island B0008987-02} [FLAC-CD]/05 Count Your Last Blessings.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Sum 41 - Underclass Hero (2007) {Island B0008987-02} [FLAC-CD]/Underclass Hero.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Sum 41 - Underclass Hero (2007) {Island B0008987-02} [FLAC-CD]/06 Ma Poubelle.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Sum 41 - Underclass Hero (2007) {Island B0008987-02} [FLAC-CD]/Underclass Hero.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Sum 41 - Underclass Hero (2007) {Island B0008987-02} [FLAC-CD]/07 March of the Dogs.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Sum 41 - Underclass Hero (2007) {Island B0008987-02} [FLAC-CD]/Underclass Hero.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Sum 41 - Underclass Hero (2007) {Island B0008987-02} [FLAC-CD]/08 The Jester.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Sum 41 - Underclass Hero (2007) {Island B0008987-02} [FLAC-CD]/Underclass Hero.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Sum 41 - Underclass Hero (2007) {Island B0008987-02} [FLAC-CD]/09 With Me.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Sum 41 - Underclass Hero (2007) {Island B0008987-02} [FLAC-CD]/Underclass Hero.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Sum 41 - Underclass Hero (2007) {Island B0008987-02} [FLAC-CD]/10 Pull the Curtain.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Sum 41 - Underclass Hero (2007) {Island B0008987-02} [FLAC-CD]/Underclass Hero.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Sum 41 - Underclass Hero (2007) {Island B0008987-02} [FLAC-CD]/11 King of Contradiction.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Sum 41 - Underclass Hero (2007) {Island B0008987-02} [FLAC-CD]/Underclass Hero.cue/12
 /mnt/synology/media/music/orpheus.network/flac/Sum 41 - Underclass Hero (2007) {Island B0008987-02} [FLAC-CD]/12 Best of Me.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Sum 41 - Underclass Hero (2007) {Island B0008987-02} [FLAC-CD]/Underclass Hero.cue/13
 /mnt/synology/media/music/orpheus.network/flac/Sum 41 - Underclass Hero (2007) {Island B0008987-02} [FLAC-CD]/13 Confusion and Frustration in Modern Times.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Sum 41 - Underclass Hero (2007) {Island B0008987-02} [FLAC-CD]/Underclass Hero.cue/14
 /mnt/synology/media/music/orpheus.network/flac/Sum 41 - Underclass Hero (2007) {Island B0008987-02} [FLAC-CD]/14 So Long Goodbye.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Sum 41 - Underclass Hero (2007) {Island B0008987-02} [FLAC-CD]/Underclass Hero.cue/15
 /mnt/synology/media/music/orpheus.network/flac/Sum 41 - Underclass Hero (2007) {Island B0008987-02} [FLAC-CD]/15 Look at Me.flac
@@ -22320,15 +20603,10 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Sum 41 - Underclass Hero (2
 /mnt/synology/media/music/orpheus.network/flac/Sunny Day Real Estate - How It Feels to Be Something On [Sub Pop Records]/10 - Days Were Golden.flac
 /mnt/synology/media/music/orpheus.network/flac/Sunny Murray - Sunny Murray (1966)/01. Sunny Murray Interview- Early History - The New Music.flac
 /mnt/synology/media/music/orpheus.network/flac/Sunny Murray - Sunny Murray (1966)/02. Hilariously.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Sunny Murray - Sunny Murray (1966)/Sunny Murray.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Sunny Murray - Sunny Murray (1966)/03. Bernard Stollman Interview.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Sunny Murray - Sunny Murray (1966)/Sunny Murray.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Sunny Murray - Sunny Murray (1966)/04. Angels And Devils.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Sunny Murray - Sunny Murray (1966)/Sunny Murray.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Sunny Murray - Sunny Murray (1966)/05. Giblet.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Sunny Murray - Sunny Murray (1966)/Sunny Murray.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Sunny Murray - Sunny Murray (1966)/06. Phase 1.2.3.4.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Sunny Murray - Sunny Murray (1966)/Sunny Murray.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Sunny Murray - Sunny Murray (1966)/07. Bernard Stollman Interview - Recap Of Session.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Sunny Murray - Sunny Murray (1966)/Sunny Murray.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Sunny Murray - Sunny Murray (1966)/08. Sunny Murray Interview- Musicians And Magic.flac
@@ -22382,214 +20660,119 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Sunny Murray - Sunny Murray
 /mnt/synology/media/music/orpheus.network/flac/Susumu Yokota - Symbol - 2005 - FLAC/12 Symbol of life, love, and aesthetics.flac
 /mnt/synology/media/music/orpheus.network/flac/Susumu Yokota - Symbol - 2005 - FLAC/13 Music from the lake surface.flac
 /mnt/synology/media/music/redacted.ch/flac/S.V.E.S.T. (2005) - Urfaust [FLAC]/01 Putréfiance rédemptrice.flac
-cue:///mnt/synology/media/music/redacted.ch/flac/S.V.E.S.T. (2005) - Urfaust [FLAC]/Urfaust.cue/2
 /mnt/synology/media/music/redacted.ch/flac/S.V.E.S.T. (2005) - Urfaust [FLAC]/02 Nuit de Walpurgis.flac
 cue:///mnt/synology/media/music/redacted.ch/flac/S.V.E.S.T. (2005) - Urfaust [FLAC]/Urfaust.cue/3
 /mnt/synology/media/music/redacted.ch/flac/S.V.E.S.T. (2005) - Urfaust [FLAC]/03 Epitaphe.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Swallow - Blow [1992] FLAC/Blow.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Swallow - Blow [1992] FLAC/CD01-01 Swallow - Lovesleep.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swallow - Blow [1992] FLAC/Blow.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Swallow - Blow [1992] FLAC/CD01-02 Swallow - Tastes Like Honey.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swallow - Blow [1992] FLAC/Blow.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Swallow - Blow [1992] FLAC/CD01-03 Swallow - Sugar Your Mind.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swallow - Blow [1992] FLAC/Blow.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Swallow - Blow [1992] FLAC/CD01-04 Swallow - Mensural.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swallow - Blow [1992] FLAC/Blow.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Swallow - Blow [1992] FLAC/CD01-05 Swallow - Peekaboo.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swallow - Blow [1992] FLAC/Blow.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Swallow - Blow [1992] FLAC/CD01-06 Swallow - Lacuna.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swallow - Blow [1992] FLAC/Blow.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Swallow - Blow [1992] FLAC/CD01-07 Swallow - Oceans and Blue Skies.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swallow - Blow [1992] FLAC/Blow.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Swallow - Blow [1992] FLAC/CD01-08 Swallow - Follow Me Down.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swallow - Blow [1992] FLAC/Blow.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Swallow - Blow [1992] FLAC/CD01-09 Swallow - Halo.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swallow - Blow [1992] FLAC/Blow.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Swallow - Blow [1992] FLAC/CD01-10 Swallow - Cherry Stars Collide.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Swallow - Blow [1992] FLAC/Blow.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Swallow - Blow [1992] FLAC/CD01-11 Swallow - Head in a Cave.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - Chidren of god [1987] flac [Carol 1346]/Children of God.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Swans - Chidren of god [1987] flac [Carol 1346]/Children of God - 01 New Mind.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - Chidren of god [1987] flac [Carol 1346]/Children of God.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Swans - Chidren of god [1987] flac [Carol 1346]/Children of God - 02 In My Garden.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - Chidren of god [1987] flac [Carol 1346]/Children of God.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Swans - Chidren of god [1987] flac [Carol 1346]/Children of God - 03 Our Love Lies.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - Chidren of god [1987] flac [Carol 1346]/Children of God.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Swans - Chidren of god [1987] flac [Carol 1346]/Children of God - 04 Sex, God, Sex.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - Chidren of god [1987] flac [Carol 1346]/Children of God.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Swans - Chidren of god [1987] flac [Carol 1346]/Children of God - 05 Blood and Honey.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - Chidren of god [1987] flac [Carol 1346]/Children of God.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Swans - Chidren of god [1987] flac [Carol 1346]/Children of God - 06 Like a Drug (Sha La La La).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - Chidren of god [1987] flac [Carol 1346]/Children of God.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Swans - Chidren of god [1987] flac [Carol 1346]/Children of God - 07 You're Not Real, Girl.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - Chidren of god [1987] flac [Carol 1346]/Children of God.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Swans - Chidren of god [1987] flac [Carol 1346]/Children of God - 08 Beautiful Child.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - Chidren of god [1987] flac [Carol 1346]/Children of God.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Swans - Chidren of god [1987] flac [Carol 1346]/Children of God - 09 Blackmail.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - Chidren of god [1987] flac [Carol 1346]/Children of God.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Swans - Chidren of god [1987] flac [Carol 1346]/Children of God - 10 Trust Me.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - Chidren of god [1987] flac [Carol 1346]/Children of God.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Swans - Chidren of god [1987] flac [Carol 1346]/Children of God - 11 Untitled.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - Chidren of god [1987] flac [Carol 1346]/Children of God.cue/12
 /mnt/synology/media/music/orpheus.network/flac/Swans - Chidren of god [1987] flac [Carol 1346]/Children of God - 12 Real Love.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - Chidren of god [1987] flac [Carol 1346]/Children of God.cue/13
 /mnt/synology/media/music/orpheus.network/flac/Swans - Chidren of god [1987] flac [Carol 1346]/Children of God - 13 Blind Love.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Swans - Chidren of god [1987] flac [Carol 1346]/Children of God.cue/14
 /mnt/synology/media/music/orpheus.network/flac/Swans - Chidren of god [1987] flac [Carol 1346]/Children of God - 14 Children of God.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - The burning world [1989] flac [DMCG 6047]/The Burning World.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Swans - The burning world [1989] flac [DMCG 6047]/The Burning World - 01 The River That Runs With Love Won’t Run Dry.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - The burning world [1989] flac [DMCG 6047]/The Burning World.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Swans - The burning world [1989] flac [DMCG 6047]/The Burning World - 02 Let It Come Down.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - The burning world [1989] flac [DMCG 6047]/The Burning World.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Swans - The burning world [1989] flac [DMCG 6047]/The Burning World - 03 Can’t Find My Way Home.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - The burning world [1989] flac [DMCG 6047]/The Burning World.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Swans - The burning world [1989] flac [DMCG 6047]/The Burning World - 04 Mona Lisa, Mother Earth.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - The burning world [1989] flac [DMCG 6047]/The Burning World.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Swans - The burning world [1989] flac [DMCG 6047]/The Burning World - 05 (She’s a) Universal Emptiness.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - The burning world [1989] flac [DMCG 6047]/The Burning World.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Swans - The burning world [1989] flac [DMCG 6047]/The Burning World - 06 Saved.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - The burning world [1989] flac [DMCG 6047]/The Burning World.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Swans - The burning world [1989] flac [DMCG 6047]/The Burning World - 07 I Remember Who You Are.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - The burning world [1989] flac [DMCG 6047]/The Burning World.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Swans - The burning world [1989] flac [DMCG 6047]/The Burning World - 08 Jane Mary, Cry One Tear.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - The burning world [1989] flac [DMCG 6047]/The Burning World.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Swans - The burning world [1989] flac [DMCG 6047]/The Burning World - 09 See No More.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Swans - The burning world [1989] flac [DMCG 6047]/The Burning World.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Swans - The burning world [1989] flac [DMCG 6047]/The Burning World - 10 God Damn the Sun.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - Filth LP1 EP1 [1983] flac [7-5061-2]/Filth.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Swans - Filth LP1 EP1 [1983] flac [7-5061-2]/Filth - 01 Stay Here.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - Filth LP1 EP1 [1983] flac [7-5061-2]/Filth.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Swans - Filth LP1 EP1 [1983] flac [7-5061-2]/Filth - 02 Big Strong Boss.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - Filth LP1 EP1 [1983] flac [7-5061-2]/Filth.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Swans - Filth LP1 EP1 [1983] flac [7-5061-2]/Filth - 03 Blackout.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - Filth LP1 EP1 [1983] flac [7-5061-2]/Filth.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Swans - Filth LP1 EP1 [1983] flac [7-5061-2]/Filth - 04 Power for Power.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - Filth LP1 EP1 [1983] flac [7-5061-2]/Filth.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Swans - Filth LP1 EP1 [1983] flac [7-5061-2]/Filth - 05 Freak.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - Filth LP1 EP1 [1983] flac [7-5061-2]/Filth.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Swans - Filth LP1 EP1 [1983] flac [7-5061-2]/Filth - 06 Right Wrong.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - Filth LP1 EP1 [1983] flac [7-5061-2]/Filth.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Swans - Filth LP1 EP1 [1983] flac [7-5061-2]/Filth - 07 Thank You.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - Filth LP1 EP1 [1983] flac [7-5061-2]/Filth.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Swans - Filth LP1 EP1 [1983] flac [7-5061-2]/Filth - 08 Weakling.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - Filth LP1 EP1 [1983] flac [7-5061-2]/Filth.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Swans - Filth LP1 EP1 [1983] flac [7-5061-2]/Filth - 09 Gang.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - Filth LP1 EP1 [1983] flac [7-5061-2]/Filth.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Swans - Filth LP1 EP1 [1983] flac [7-5061-2]/Filth - 10 Speak.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - Filth LP1 EP1 [1983] flac [7-5061-2]/Filth.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Swans - Filth LP1 EP1 [1983] flac [7-5061-2]/Filth - 11 Laugh.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - Filth LP1 EP1 [1983] flac [7-5061-2]/Filth.cue/12
 /mnt/synology/media/music/orpheus.network/flac/Swans - Filth LP1 EP1 [1983] flac [7-5061-2]/Filth - 12 Sensitive Skin.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Swans - Filth LP1 EP1 [1983] flac [7-5061-2]/Filth.cue/13
 /mnt/synology/media/music/orpheus.network/flac/Swans - Filth LP1 EP1 [1983] flac [7-5061-2]/Filth - 13 Take Advantage.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - White light from the mouth of infinity [1991] flac [YG 003-2]/White Light From the Mouth of Infinity.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Swans - White light from the mouth of infinity [1991] flac [YG 003-2]/White Light From the Mouth of Infinity - 01 Better Than You.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - White light from the mouth of infinity [1991] flac [YG 003-2]/White Light From the Mouth of Infinity.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Swans - White light from the mouth of infinity [1991] flac [YG 003-2]/White Light From the Mouth of Infinity - 02 Power and Sacrifice.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - White light from the mouth of infinity [1991] flac [YG 003-2]/White Light From the Mouth of Infinity.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Swans - White light from the mouth of infinity [1991] flac [YG 003-2]/White Light From the Mouth of Infinity - 03 You Know Nothing.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - White light from the mouth of infinity [1991] flac [YG 003-2]/White Light From the Mouth of Infinity.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Swans - White light from the mouth of infinity [1991] flac [YG 003-2]/White Light From the Mouth of Infinity - 04 Song for Dead Time.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - White light from the mouth of infinity [1991] flac [YG 003-2]/White Light From the Mouth of Infinity.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Swans - White light from the mouth of infinity [1991] flac [YG 003-2]/White Light From the Mouth of Infinity - 05 Will We Survive.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - White light from the mouth of infinity [1991] flac [YG 003-2]/White Light From the Mouth of Infinity.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Swans - White light from the mouth of infinity [1991] flac [YG 003-2]/White Light From the Mouth of Infinity - 06 Love Will Save You.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - White light from the mouth of infinity [1991] flac [YG 003-2]/White Light From the Mouth of Infinity.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Swans - White light from the mouth of infinity [1991] flac [YG 003-2]/White Light From the Mouth of Infinity - 07 Failure.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - White light from the mouth of infinity [1991] flac [YG 003-2]/White Light From the Mouth of Infinity.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Swans - White light from the mouth of infinity [1991] flac [YG 003-2]/White Light From the Mouth of Infinity - 08 Song for the Sun.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - White light from the mouth of infinity [1991] flac [YG 003-2]/White Light From the Mouth of Infinity.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Swans - White light from the mouth of infinity [1991] flac [YG 003-2]/White Light From the Mouth of Infinity - 09 Miracle of Love.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - White light from the mouth of infinity [1991] flac [YG 003-2]/White Light From the Mouth of Infinity.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Swans - White light from the mouth of infinity [1991] flac [YG 003-2]/White Light From the Mouth of Infinity - 10 When She Breathes.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - White light from the mouth of infinity [1991] flac [YG 003-2]/White Light From the Mouth of Infinity.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Swans - White light from the mouth of infinity [1991] flac [YG 003-2]/White Light From the Mouth of Infinity - 11 Why Are We Alive.flac
 /mnt/synology/media/music/orpheus.network/flac/Swans - White light from the mouth of infinity [1991] flac [YG 003-2]/White Light From the Mouth of Infinity - 12 The Most Unfortunate Lie.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - Cop Young God [1992] flac [7-5068-2]/Cop ／ Young God.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Swans - Cop Young God [1992] flac [7-5068-2]/Cop ／ Young God - 01 Half Life.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - Cop Young God [1992] flac [7-5068-2]/Cop ／ Young God.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Swans - Cop Young God [1992] flac [7-5068-2]/Cop ／ Young God - 02 Job.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - Cop Young God [1992] flac [7-5068-2]/Cop ／ Young God.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Swans - Cop Young God [1992] flac [7-5068-2]/Cop ／ Young God - 03 Why Hide.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - Cop Young God [1992] flac [7-5068-2]/Cop ／ Young God.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Swans - Cop Young God [1992] flac [7-5068-2]/Cop ／ Young God - 04 Clay Man.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - Cop Young God [1992] flac [7-5068-2]/Cop ／ Young God.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Swans - Cop Young God [1992] flac [7-5068-2]/Cop ／ Young God - 05 Your Property.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - Cop Young God [1992] flac [7-5068-2]/Cop ／ Young God.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Swans - Cop Young God [1992] flac [7-5068-2]/Cop ／ Young God - 06 Cop.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - Cop Young God [1992] flac [7-5068-2]/Cop ／ Young God.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Swans - Cop Young God [1992] flac [7-5068-2]/Cop ／ Young God - 07 Butcher.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - Cop Young God [1992] flac [7-5068-2]/Cop ／ Young God.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Swans - Cop Young God [1992] flac [7-5068-2]/Cop ／ Young God - 08 Thug.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - Cop Young God [1992] flac [7-5068-2]/Cop ／ Young God.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Swans - Cop Young God [1992] flac [7-5068-2]/Cop ／ Young God - 09 I Crawled.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - Cop Young God [1992] flac [7-5068-2]/Cop ／ Young God.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Swans - Cop Young God [1992] flac [7-5068-2]/Cop ／ Young God - 10 Raping a Slave.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - Cop Young God [1992] flac [7-5068-2]/Cop ／ Young God.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Swans - Cop Young God [1992] flac [7-5068-2]/Cop ／ Young God - 11 Young God.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Swans - Cop Young God [1992] flac [7-5068-2]/Cop ／ Young God.cue/12
 /mnt/synology/media/music/orpheus.network/flac/Swans - Cop Young God [1992] flac [7-5068-2]/Cop ／ Young God - 12 This Is Mine.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - Love of life [1992] flac [YG CD5]/Love of Life.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Swans - Love of life [1992] flac [YG CD5]/Love of Life - 01 (—).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - Love of life [1992] flac [YG CD5]/Love of Life.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Swans - Love of life [1992] flac [YG CD5]/Love of Life - 02 Love of Life.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - Love of life [1992] flac [YG CD5]/Love of Life.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Swans - Love of life [1992] flac [YG CD5]/Love of Life - 03 The Golden Boy That Was Swallowed by the Sea.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - Love of life [1992] flac [YG CD5]/Love of Life.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Swans - Love of life [1992] flac [YG CD5]/Love of Life - 04 (—).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - Love of life [1992] flac [YG CD5]/Love of Life.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Swans - Love of life [1992] flac [YG CD5]/Love of Life - 05 (—).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - Love of life [1992] flac [YG CD5]/Love of Life.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Swans - Love of life [1992] flac [YG CD5]/Love of Life - 06 The Other Side of the World.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - Love of life [1992] flac [YG CD5]/Love of Life.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Swans - Love of life [1992] flac [YG CD5]/Love of Life - 07 Her.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - Love of life [1992] flac [YG CD5]/Love of Life.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Swans - Love of life [1992] flac [YG CD5]/Love of Life - 08 The Sound of Freedom.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - Love of life [1992] flac [YG CD5]/Love of Life.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Swans - Love of life [1992] flac [YG CD5]/Love of Life - 09 (—).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - Love of life [1992] flac [YG CD5]/Love of Life.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Swans - Love of life [1992] flac [YG CD5]/Love of Life - 10 Amnesia.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - Love of life [1992] flac [YG CD5]/Love of Life.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Swans - Love of life [1992] flac [YG CD5]/Love of Life - 11 Identity.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - Love of life [1992] flac [YG CD5]/Love of Life.cue/12
 /mnt/synology/media/music/orpheus.network/flac/Swans - Love of life [1992] flac [YG CD5]/Love of Life - 12 (—).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - Love of life [1992] flac [YG CD5]/Love of Life.cue/13
 /mnt/synology/media/music/orpheus.network/flac/Swans - Love of life [1992] flac [YG CD5]/Love of Life - 13 In the Eyes of Nature.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - Love of life [1992] flac [YG CD5]/Love of Life.cue/14
 /mnt/synology/media/music/orpheus.network/flac/Swans - Love of life [1992] flac [YG CD5]/Love of Life - 14 She Crys (For Spider).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - Love of life [1992] flac [YG CD5]/Love of Life.cue/15
 /mnt/synology/media/music/orpheus.network/flac/Swans - Love of life [1992] flac [YG CD5]/Love of Life - 15 God Loves America.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - Love of life [1992] flac [YG CD5]/Love of Life.cue/16
 /mnt/synology/media/music/orpheus.network/flac/Swans - Love of life [1992] flac [YG CD5]/Love of Life - 16 (—).flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Swans - Love of life [1992] flac [YG CD5]/Love of Life.cue/17
 /mnt/synology/media/music/orpheus.network/flac/Swans - Love of life [1992] flac [YG CD5]/Love of Life - 17 No Cure for the Lonely.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - The great annihilator [1995] flac [YGCD 009]/The Great Annihilator.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Swans - The great annihilator [1995] flac [YGCD 009]/The Great Annihilator - 01 In.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - The great annihilator [1995] flac [YGCD 009]/The Great Annihilator.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Swans - The great annihilator [1995] flac [YGCD 009]/The Great Annihilator - 02 I Am the Sun.flac
 /mnt/synology/media/music/orpheus.network/flac/Swans - The great annihilator [1995] flac [YGCD 009]/The Great Annihilator - 03 She Lives.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - The great annihilator [1995] flac [YGCD 009]/The Great Annihilator.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Swans - The great annihilator [1995] flac [YGCD 009]/The Great Annihilator - 04 Celebrity Lifestyle.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - The great annihilator [1995] flac [YGCD 009]/The Great Annihilator.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Swans - The great annihilator [1995] flac [YGCD 009]/The Great Annihilator - 05 Mother／Father.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - The great annihilator [1995] flac [YGCD 009]/The Great Annihilator.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Swans - The great annihilator [1995] flac [YGCD 009]/The Great Annihilator - 06 Blood Promise.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - The great annihilator [1995] flac [YGCD 009]/The Great Annihilator.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Swans - The great annihilator [1995] flac [YGCD 009]/The Great Annihilator - 07 Mind／Body／Light／Sound.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - The great annihilator [1995] flac [YGCD 009]/The Great Annihilator.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Swans - The great annihilator [1995] flac [YGCD 009]/The Great Annihilator - 08 My Buried Child.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - The great annihilator [1995] flac [YGCD 009]/The Great Annihilator.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Swans - The great annihilator [1995] flac [YGCD 009]/The Great Annihilator - 09 Warm.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - The great annihilator [1995] flac [YGCD 009]/The Great Annihilator.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Swans - The great annihilator [1995] flac [YGCD 009]/The Great Annihilator - 10 Alcohol the Seed.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - The great annihilator [1995] flac [YGCD 009]/The Great Annihilator.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Swans - The great annihilator [1995] flac [YGCD 009]/The Great Annihilator - 11 Killing for Company.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - The great annihilator [1995] flac [YGCD 009]/The Great Annihilator.cue/12
 /mnt/synology/media/music/orpheus.network/flac/Swans - The great annihilator [1995] flac [YGCD 009]/The Great Annihilator - 12 Mother's Milk.flac
 /mnt/synology/media/music/orpheus.network/flac/Swans - The great annihilator [1995] flac [YGCD 009]/The Great Annihilator - 13 Where Does a Body End.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - The great annihilator [1995] flac [YGCD 009]/The Great Annihilator.cue/14
 /mnt/synology/media/music/orpheus.network/flac/Swans - The great annihilator [1995] flac [YGCD 009]/The Great Annihilator - 14 Telepathy.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Swans - The great annihilator [1995] flac [YGCD 009]/The Great Annihilator.cue/15
 /mnt/synology/media/music/orpheus.network/flac/Swans - The great annihilator [1995] flac [YGCD 009]/The Great Annihilator - 15 The Great Annihilator.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Swans - The great annihilator [1995] flac [YGCD 009]/The Great Annihilator.cue/16
 /mnt/synology/media/music/orpheus.network/flac/Swans - The great annihilator [1995] flac [YGCD 009]/The Great Annihilator - 16 Out.flac
@@ -23027,11 +21210,6 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Swans - The great annihilat
 /mnt/synology/media/music/orpheus.network/flac/Talking Heads - Speaking in Tongues [1986 Sire Records]/07 - Moon Rocks.flac
 /mnt/synology/media/music/orpheus.network/flac/Talking Heads - Speaking in Tongues [1986 Sire Records]/08 - Pull Up the Roots.flac
 /mnt/synology/media/music/orpheus.network/flac/Talking Heads - Speaking in Tongues [1986 Sire Records]/09 - This Must Be the Place (Naive Melody).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Talk Talk - 1988 - Spirit Of Eden (2012 Remaster) - FLAC/Spirit Of Eden.cue/1
-cue:///mnt/synology/media/music/orpheus.network/flac/Talk Talk - 1988 - Spirit Of Eden (2012 Remaster) - FLAC/Spirit Of Eden.cue/2
-cue:///mnt/synology/media/music/orpheus.network/flac/Talk Talk - 1988 - Spirit Of Eden (2012 Remaster) - FLAC/Spirit Of Eden.cue/3
-cue:///mnt/synology/media/music/orpheus.network/flac/Talk Talk - 1988 - Spirit Of Eden (2012 Remaster) - FLAC/Spirit Of Eden.cue/4
-cue:///mnt/synology/media/music/orpheus.network/flac/Talk Talk - 1988 - Spirit Of Eden (2012 Remaster) - FLAC/Spirit Of Eden.cue/5
 cue:///mnt/synology/media/music/orpheus.network/flac/Talk Talk - 1988 - Spirit Of Eden (2012 Remaster) - FLAC/Spirit Of Eden.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Talk Talk - 1988 - Spirit Of Eden (2012 Remaster) - FLAC/01 - The Rainbow.flac
 /mnt/synology/media/music/orpheus.network/flac/Talk Talk - 1988 - Spirit Of Eden (2012 Remaster) - FLAC/02 - Eden.flac
@@ -23277,29 +21455,17 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Talk Talk - 1988 - Spirit O
 /mnt/synology/media/music/orpheus.network/flac/The All-American Rejects - The All-American Rejects (2003) [FLAC]/10 - Happy Endings.flac
 /mnt/synology/media/music/orpheus.network/flac/The All-American Rejects - The All-American Rejects (2003) [FLAC]/11 - The Last Song.flac
 /mnt/synology/media/music/orpheus.network/flac/The All-American Rejects - The All-American Rejects (2003) [FLAC]/12 - The Cigarette Song.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The All‐American Rejects - When the World Comes Down (2008) {DGC_Interscope_Doghouse B0012297-02} [FLAC-CD]/When the World Comes Down.cue/1
 /mnt/synology/media/music/orpheus.network/flac/The All‐American Rejects - When the World Comes Down (2008) {DGC_Interscope_Doghouse B0012297-02} [FLAC-CD]/01 I Wanna.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The All‐American Rejects - When the World Comes Down (2008) {DGC_Interscope_Doghouse B0012297-02} [FLAC-CD]/When the World Comes Down.cue/2
 /mnt/synology/media/music/orpheus.network/flac/The All‐American Rejects - When the World Comes Down (2008) {DGC_Interscope_Doghouse B0012297-02} [FLAC-CD]/02 Fallin' Apart.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The All‐American Rejects - When the World Comes Down (2008) {DGC_Interscope_Doghouse B0012297-02} [FLAC-CD]/When the World Comes Down.cue/3
 /mnt/synology/media/music/orpheus.network/flac/The All‐American Rejects - When the World Comes Down (2008) {DGC_Interscope_Doghouse B0012297-02} [FLAC-CD]/03 Damn Girl.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The All‐American Rejects - When the World Comes Down (2008) {DGC_Interscope_Doghouse B0012297-02} [FLAC-CD]/When the World Comes Down.cue/4
 /mnt/synology/media/music/orpheus.network/flac/The All‐American Rejects - When the World Comes Down (2008) {DGC_Interscope_Doghouse B0012297-02} [FLAC-CD]/04 Gives You Hell.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The All‐American Rejects - When the World Comes Down (2008) {DGC_Interscope_Doghouse B0012297-02} [FLAC-CD]/When the World Comes Down.cue/5
 /mnt/synology/media/music/orpheus.network/flac/The All‐American Rejects - When the World Comes Down (2008) {DGC_Interscope_Doghouse B0012297-02} [FLAC-CD]/05 Mona Lisa.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The All‐American Rejects - When the World Comes Down (2008) {DGC_Interscope_Doghouse B0012297-02} [FLAC-CD]/When the World Comes Down.cue/6
 /mnt/synology/media/music/orpheus.network/flac/The All‐American Rejects - When the World Comes Down (2008) {DGC_Interscope_Doghouse B0012297-02} [FLAC-CD]/06 Breakin'.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The All‐American Rejects - When the World Comes Down (2008) {DGC_Interscope_Doghouse B0012297-02} [FLAC-CD]/When the World Comes Down.cue/7
 /mnt/synology/media/music/orpheus.network/flac/The All‐American Rejects - When the World Comes Down (2008) {DGC_Interscope_Doghouse B0012297-02} [FLAC-CD]/07 Another Heart Calls.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The All‐American Rejects - When the World Comes Down (2008) {DGC_Interscope_Doghouse B0012297-02} [FLAC-CD]/When the World Comes Down.cue/8
 /mnt/synology/media/music/orpheus.network/flac/The All‐American Rejects - When the World Comes Down (2008) {DGC_Interscope_Doghouse B0012297-02} [FLAC-CD]/08 Real World.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The All‐American Rejects - When the World Comes Down (2008) {DGC_Interscope_Doghouse B0012297-02} [FLAC-CD]/When the World Comes Down.cue/9
 /mnt/synology/media/music/orpheus.network/flac/The All‐American Rejects - When the World Comes Down (2008) {DGC_Interscope_Doghouse B0012297-02} [FLAC-CD]/09 Back to Me.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The All‐American Rejects - When the World Comes Down (2008) {DGC_Interscope_Doghouse B0012297-02} [FLAC-CD]/When the World Comes Down.cue/10
 /mnt/synology/media/music/orpheus.network/flac/The All‐American Rejects - When the World Comes Down (2008) {DGC_Interscope_Doghouse B0012297-02} [FLAC-CD]/10 Believe.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The All‐American Rejects - When the World Comes Down (2008) {DGC_Interscope_Doghouse B0012297-02} [FLAC-CD]/When the World Comes Down.cue/11
 /mnt/synology/media/music/orpheus.network/flac/The All‐American Rejects - When the World Comes Down (2008) {DGC_Interscope_Doghouse B0012297-02} [FLAC-CD]/11 The Wind Blows.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The All‐American Rejects - When the World Comes Down (2008) {DGC_Interscope_Doghouse B0012297-02} [FLAC-CD]/When the World Comes Down.cue/12
 /mnt/synology/media/music/orpheus.network/flac/The All‐American Rejects - When the World Comes Down (2008) {DGC_Interscope_Doghouse B0012297-02} [FLAC-CD]/12 [untitled].flac
 cue:///mnt/synology/media/music/orpheus.network/flac/The All‐American Rejects - When the World Comes Down (2008) {DGC_Interscope_Doghouse B0012297-02} [FLAC-CD]/When the World Comes Down.cue/13
 /mnt/synology/media/music/orpheus.network/flac/The All‐American Rejects - When the World Comes Down (2008) {DGC_Interscope_Doghouse B0012297-02} [FLAC-CD]/13 Sunshine.flac
@@ -24016,27 +22182,16 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Beach Boys - Spirit Of Amer
 /mnt/synology/media/music/orpheus.network/flac/The Cure - Kiss Me, Kiss Me, Kiss Me (1987) [FLAC]/15 - A Thousand Hours.flac
 /mnt/synology/media/music/orpheus.network/flac/The Cure - Kiss Me, Kiss Me, Kiss Me (1987) [FLAC]/16 - Shiver and Shake.flac
 /mnt/synology/media/music/orpheus.network/flac/The Cure - Kiss Me, Kiss Me, Kiss Me (1987) [FLAC]/17 - Fight.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Cure - Disintegration (1989) [CD FLAC]/Disintegration.cue/1
 /mnt/synology/media/music/orpheus.network/flac/The Cure - Disintegration (1989) [CD FLAC]/01 - The Cure - Plainsong.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Cure - Disintegration (1989) [CD FLAC]/Disintegration.cue/2
 /mnt/synology/media/music/orpheus.network/flac/The Cure - Disintegration (1989) [CD FLAC]/02 - The Cure - Pictures Of You.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Cure - Disintegration (1989) [CD FLAC]/Disintegration.cue/3
 /mnt/synology/media/music/orpheus.network/flac/The Cure - Disintegration (1989) [CD FLAC]/03 - The Cure - Closedown.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Cure - Disintegration (1989) [CD FLAC]/Disintegration.cue/4
 /mnt/synology/media/music/orpheus.network/flac/The Cure - Disintegration (1989) [CD FLAC]/04 - The Cure - Lovesong.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Cure - Disintegration (1989) [CD FLAC]/Disintegration.cue/5
 /mnt/synology/media/music/orpheus.network/flac/The Cure - Disintegration (1989) [CD FLAC]/05 - The Cure - Last Dance.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Cure - Disintegration (1989) [CD FLAC]/Disintegration.cue/6
 /mnt/synology/media/music/orpheus.network/flac/The Cure - Disintegration (1989) [CD FLAC]/06 - The Cure - Lullaby.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Cure - Disintegration (1989) [CD FLAC]/Disintegration.cue/7
 /mnt/synology/media/music/orpheus.network/flac/The Cure - Disintegration (1989) [CD FLAC]/07 - The Cure - Fascination Street.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Cure - Disintegration (1989) [CD FLAC]/Disintegration.cue/8
 /mnt/synology/media/music/orpheus.network/flac/The Cure - Disintegration (1989) [CD FLAC]/08 - The Cure - Prayers For Rain.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Cure - Disintegration (1989) [CD FLAC]/Disintegration.cue/9
 /mnt/synology/media/music/orpheus.network/flac/The Cure - Disintegration (1989) [CD FLAC]/09 - The Cure - The Same Deep Water As You.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Cure - Disintegration (1989) [CD FLAC]/Disintegration.cue/10
 /mnt/synology/media/music/orpheus.network/flac/The Cure - Disintegration (1989) [CD FLAC]/10 - The Cure - Disintegration.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Cure - Disintegration (1989) [CD FLAC]/Disintegration.cue/11
 /mnt/synology/media/music/orpheus.network/flac/The Cure - Disintegration (1989) [CD FLAC]/11 - The Cure - Homesick.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/The Cure - Disintegration (1989) [CD FLAC]/Disintegration.cue/12
 /mnt/synology/media/music/orpheus.network/flac/The Cure - Disintegration (1989) [CD FLAC]/12 - The Cure - Untitled.flac
@@ -24119,23 +22274,14 @@ cue:///mnt/synology/media/music/orpheus.network/flac/The Cure - Disintegration (
 /mnt/synology/media/music/orpheus.network/flac/Dismemberment Plan - Emergency & I [DeSoto Records]/10 - Girl O'Clock.flac
 /mnt/synology/media/music/orpheus.network/flac/Dismemberment Plan - Emergency & I [DeSoto Records]/11 - 8 1-2 Minutes.flac
 /mnt/synology/media/music/orpheus.network/flac/Dismemberment Plan - Emergency & I [DeSoto Records]/12 - Back and Forth.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Doors - Strange Days [DCC GZS 1026] (1967) [FLAC]/Strange Days [DCC GZS 1026].cue/1
 /mnt/synology/media/music/orpheus.network/flac/The Doors - Strange Days [DCC GZS 1026] (1967) [FLAC]/01 Strange Days.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Doors - Strange Days [DCC GZS 1026] (1967) [FLAC]/Strange Days [DCC GZS 1026].cue/2
 /mnt/synology/media/music/orpheus.network/flac/The Doors - Strange Days [DCC GZS 1026] (1967) [FLAC]/02 You're Lost Little Girl.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Doors - Strange Days [DCC GZS 1026] (1967) [FLAC]/Strange Days [DCC GZS 1026].cue/3
 /mnt/synology/media/music/orpheus.network/flac/The Doors - Strange Days [DCC GZS 1026] (1967) [FLAC]/03 Love Me Two Times.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Doors - Strange Days [DCC GZS 1026] (1967) [FLAC]/Strange Days [DCC GZS 1026].cue/4
 /mnt/synology/media/music/orpheus.network/flac/The Doors - Strange Days [DCC GZS 1026] (1967) [FLAC]/04 Unhappy Girl.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Doors - Strange Days [DCC GZS 1026] (1967) [FLAC]/Strange Days [DCC GZS 1026].cue/5
 /mnt/synology/media/music/orpheus.network/flac/The Doors - Strange Days [DCC GZS 1026] (1967) [FLAC]/05 Horse Latitudes.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Doors - Strange Days [DCC GZS 1026] (1967) [FLAC]/Strange Days [DCC GZS 1026].cue/6
 /mnt/synology/media/music/orpheus.network/flac/The Doors - Strange Days [DCC GZS 1026] (1967) [FLAC]/06 Moonlight Drive.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Doors - Strange Days [DCC GZS 1026] (1967) [FLAC]/Strange Days [DCC GZS 1026].cue/7
 /mnt/synology/media/music/orpheus.network/flac/The Doors - Strange Days [DCC GZS 1026] (1967) [FLAC]/07 People Are Strange.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Doors - Strange Days [DCC GZS 1026] (1967) [FLAC]/Strange Days [DCC GZS 1026].cue/8
 /mnt/synology/media/music/orpheus.network/flac/The Doors - Strange Days [DCC GZS 1026] (1967) [FLAC]/08 My Eyes Have Seen You.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Doors - Strange Days [DCC GZS 1026] (1967) [FLAC]/Strange Days [DCC GZS 1026].cue/9
 /mnt/synology/media/music/orpheus.network/flac/The Doors - Strange Days [DCC GZS 1026] (1967) [FLAC]/09 I Can't See Your Face In My Mind.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/The Doors - Strange Days [DCC GZS 1026] (1967) [FLAC]/Strange Days [DCC GZS 1026].cue/10
 /mnt/synology/media/music/orpheus.network/flac/The Doors - Strange Days [DCC GZS 1026] (1967) [FLAC]/10 When The Music's Over.flac
@@ -24169,32 +22315,19 @@ cue:///mnt/synology/media/music/orpheus.network/flac/The Doors - Strange Days [D
 /mnt/synology/media/music/orpheus.network/flac/The Doors - 1971 - L.A. Woman (West German Target CD)/08 - Crawling King Snake.flac
 /mnt/synology/media/music/orpheus.network/flac/The Doors - 1971 - L.A. Woman (West German Target CD)/09 - The WASP (Texas Radio and the Big Beat).flac
 /mnt/synology/media/music/orpheus.network/flac/The Doors - 1971 - L.A. Woman (West German Target CD)/10 - Riders on the Storm.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Dream Syndicate - 1982 - The Days Of Wine And Roses (2015 Remaster) - FLAC/The Days Of Wine And Roses (Omnivore Recordings 129).cue/1
 /mnt/synology/media/music/orpheus.network/flac/The Dream Syndicate - 1982 - The Days Of Wine And Roses (2015 Remaster) - FLAC/01 Tell Me When It's Over.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Dream Syndicate - 1982 - The Days Of Wine And Roses (2015 Remaster) - FLAC/The Days Of Wine And Roses (Omnivore Recordings 129).cue/2
 /mnt/synology/media/music/orpheus.network/flac/The Dream Syndicate - 1982 - The Days Of Wine And Roses (2015 Remaster) - FLAC/02 Definitely Clean.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Dream Syndicate - 1982 - The Days Of Wine And Roses (2015 Remaster) - FLAC/The Days Of Wine And Roses (Omnivore Recordings 129).cue/3
 /mnt/synology/media/music/orpheus.network/flac/The Dream Syndicate - 1982 - The Days Of Wine And Roses (2015 Remaster) - FLAC/03 That's What You Always Say.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Dream Syndicate - 1982 - The Days Of Wine And Roses (2015 Remaster) - FLAC/The Days Of Wine And Roses (Omnivore Recordings 129).cue/4
 /mnt/synology/media/music/orpheus.network/flac/The Dream Syndicate - 1982 - The Days Of Wine And Roses (2015 Remaster) - FLAC/04 Then She Remembers.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Dream Syndicate - 1982 - The Days Of Wine And Roses (2015 Remaster) - FLAC/The Days Of Wine And Roses (Omnivore Recordings 129).cue/5
 /mnt/synology/media/music/orpheus.network/flac/The Dream Syndicate - 1982 - The Days Of Wine And Roses (2015 Remaster) - FLAC/05 Halloween.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Dream Syndicate - 1982 - The Days Of Wine And Roses (2015 Remaster) - FLAC/The Days Of Wine And Roses (Omnivore Recordings 129).cue/6
 /mnt/synology/media/music/orpheus.network/flac/The Dream Syndicate - 1982 - The Days Of Wine And Roses (2015 Remaster) - FLAC/06 When You Smile.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Dream Syndicate - 1982 - The Days Of Wine And Roses (2015 Remaster) - FLAC/The Days Of Wine And Roses (Omnivore Recordings 129).cue/7
 /mnt/synology/media/music/orpheus.network/flac/The Dream Syndicate - 1982 - The Days Of Wine And Roses (2015 Remaster) - FLAC/07 Until Lately.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Dream Syndicate - 1982 - The Days Of Wine And Roses (2015 Remaster) - FLAC/The Days Of Wine And Roses (Omnivore Recordings 129).cue/8
 /mnt/synology/media/music/orpheus.network/flac/The Dream Syndicate - 1982 - The Days Of Wine And Roses (2015 Remaster) - FLAC/08 Too Little, Too Late.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Dream Syndicate - 1982 - The Days Of Wine And Roses (2015 Remaster) - FLAC/The Days Of Wine And Roses (Omnivore Recordings 129).cue/9
 /mnt/synology/media/music/orpheus.network/flac/The Dream Syndicate - 1982 - The Days Of Wine And Roses (2015 Remaster) - FLAC/09 The Days Of Wine And Roses.flac
 /mnt/synology/media/music/orpheus.network/flac/The Dream Syndicate - 1982 - The Days Of Wine And Roses (2015 Remaster) - FLAC/10 Is It Rolling, Bob.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Dream Syndicate - 1982 - The Days Of Wine And Roses (2015 Remaster) - FLAC/The Days Of Wine And Roses (Omnivore Recordings 129).cue/11
 /mnt/synology/media/music/orpheus.network/flac/The Dream Syndicate - 1982 - The Days Of Wine And Roses (2015 Remaster) - FLAC/11 A Reason.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Dream Syndicate - 1982 - The Days Of Wine And Roses (2015 Remaster) - FLAC/The Days Of Wine And Roses (Omnivore Recordings 129).cue/12
 /mnt/synology/media/music/orpheus.network/flac/The Dream Syndicate - 1982 - The Days Of Wine And Roses (2015 Remaster) - FLAC/12 Still Holding On To You.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Dream Syndicate - 1982 - The Days Of Wine And Roses (2015 Remaster) - FLAC/The Days Of Wine And Roses (Omnivore Recordings 129).cue/13
 /mnt/synology/media/music/orpheus.network/flac/The Dream Syndicate - 1982 - The Days Of Wine And Roses (2015 Remaster) - FLAC/13 Armed With An Empty Gun.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Dream Syndicate - 1982 - The Days Of Wine And Roses (2015 Remaster) - FLAC/The Days Of Wine And Roses (Omnivore Recordings 129).cue/14
 /mnt/synology/media/music/orpheus.network/flac/The Dream Syndicate - 1982 - The Days Of Wine And Roses (2015 Remaster) - FLAC/14 Like Mary.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/The Dream Syndicate - 1982 - The Days Of Wine And Roses (2015 Remaster) - FLAC/The Days Of Wine And Roses (Omnivore Recordings 129).cue/15
 /mnt/synology/media/music/orpheus.network/flac/The Dream Syndicate - 1982 - The Days Of Wine And Roses (2015 Remaster) - FLAC/15 Outside The Dream Syndicate.flac
@@ -24341,7 +22474,6 @@ cue:///mnt/synology/media/music/orpheus.network/flac/The Dream Syndicate - 1982 
 /mnt/synology/media/music/orpheus.network/flac/The Flaming Lips & Stardeath and White Dwarfs  - The Dark Side of the Moon (2009) [FLAC] {523541-2}/07 - Any Colour You Like.flac
 /mnt/synology/media/music/orpheus.network/flac/The Flaming Lips & Stardeath and White Dwarfs  - The Dark Side of the Moon (2009) [FLAC] {523541-2}/08 - Brain Damage.flac
 /mnt/synology/media/music/orpheus.network/flac/The Flaming Lips & Stardeath and White Dwarfs  - The Dark Side of the Moon (2009) [FLAC] {523541-2}/09 - Eclipse.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Compilations - Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition) (2021) [FLAC]/Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition).cue/13
 /mnt/synology/media/music/orpheus.network/flac/Compilations - Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition) (2021) [FLAC]/13 Hands 2 Take.flac
 /mnt/synology/media/music/orpheus.network/flac/The Frights - The Frights (2013) [FLAC] {CD}/01 - C & C.flac
 /mnt/synology/media/music/orpheus.network/flac/The Frights - The Frights (2013) [FLAC] {CD}/02 - Tommy's $20.flac
@@ -24413,17 +22545,11 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Compilations - Fame- Jon Sa
 /mnt/synology/media/music/orpheus.network/flac/The Future Sound of London - Accelerator (1996, CLP 9707-2) [FLAC]/11. Expander (remix).flac
 /mnt/synology/media/music/orpheus.network/flac/The Future Sound of London - Accelerator (1996, CLP 9707-2) [FLAC]/12. Moscow (remix).flac
 /mnt/synology/media/music/orpheus.network/flac/The Future Sound of London - Accelerator (1996, CLP 9707-2) [FLAC]/13. Papua New Guinea (Graham Massey mix).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Gault (2005) - Even As All Before Us [FLAC]/Even As All Before Us.cue/1
 /mnt/synology/media/music/orpheus.network/flac/The Gault (2005) - Even As All Before Us [FLAC]/01 Ire (Intro).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Gault (2005) - Even As All Before Us [FLAC]/Even As All Before Us.cue/2
 /mnt/synology/media/music/orpheus.network/flac/The Gault (2005) - Even As All Before Us [FLAC]/02 Obliscence.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Gault (2005) - Even As All Before Us [FLAC]/Even As All Before Us.cue/3
 /mnt/synology/media/music/orpheus.network/flac/The Gault (2005) - Even As All Before Us [FLAC]/03 Bright White Blind.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Gault (2005) - Even As All Before Us [FLAC]/Even As All Before Us.cue/4
 /mnt/synology/media/music/orpheus.network/flac/The Gault (2005) - Even As All Before Us [FLAC]/04 Country Road, Six Miles In.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Gault (2005) - Even As All Before Us [FLAC]/Even As All Before Us.cue/5
 /mnt/synology/media/music/orpheus.network/flac/The Gault (2005) - Even As All Before Us [FLAC]/05 Outer Dark.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Gault (2005) - Even As All Before Us [FLAC]/Even As All Before Us.cue/6
 /mnt/synology/media/music/orpheus.network/flac/The Gault (2005) - Even As All Before Us [FLAC]/06 The Shore Becomes The Enemy.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/The Gault (2005) - Even As All Before Us [FLAC]/Even As All Before Us.cue/7
 /mnt/synology/media/music/orpheus.network/flac/The Gault (2005) - Even As All Before Us [FLAC]/07 Hour Before Dawn.flac
@@ -24481,7 +22607,6 @@ cue:///mnt/synology/media/music/orpheus.network/flac/The Gault (2005) - Even As 
 /mnt/synology/media/music/orpheus.network/flac/The Hated - The Best Piece of Shit Vol. 3 - (2022) {WEB - FLAC}/07 - Hate Me.flac
 /mnt/synology/media/music/orpheus.network/flac/The Hated - The Best Piece of Shit Vol. 3 - (2022) {WEB - FLAC}/08 - The Good Old Days.flac
 /mnt/synology/media/music/orpheus.network/flac/The Hated - The Best Piece of Shit Vol. 3 - (2022) {WEB - FLAC}/09 - Touch It.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Compilations - Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition) (2021) [FLAC]/Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition).cue/14
 /mnt/synology/media/music/orpheus.network/flac/Compilations - Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition) (2021) [FLAC]/14 The Dignity Of Labour Pt.3.flac
 /mnt/synology/media/music/orpheus.network/flac/The Incredible String Band - The Hangman's Beautiful Daughter [1968][CD]/01 Koeeaddi There.flac
 /mnt/synology/media/music/orpheus.network/flac/The Incredible String Band - The Hangman's Beautiful Daughter [1968][CD]/02 The Minotaur's Song.flac
@@ -24530,33 +22655,19 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Compilations - Fame- Jon Sa
 /mnt/synology/media/music/orpheus.network/flac/The Jesus and Mary Chain - Glasgow Eyes (2024) - CD FLAC [FC226CD]/10 - Second of June.flac
 /mnt/synology/media/music/orpheus.network/flac/The Jesus and Mary Chain - Glasgow Eyes (2024) - CD FLAC [FC226CD]/11 - Girl 71.flac
 /mnt/synology/media/music/orpheus.network/flac/The Jesus and Mary Chain - Glasgow Eyes (2024) - CD FLAC [FC226CD]/12 - Hey Lou Reid.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Jesus Lizard - Goat [2009 Remastered][FLAC]/The Jesus Lizard - Goat.cue/1
 /mnt/synology/media/music/orpheus.network/flac/The Jesus Lizard - Goat [2009 Remastered][FLAC]/01 Then Comes Dudley.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Jesus Lizard - Goat [2009 Remastered][FLAC]/The Jesus Lizard - Goat.cue/2
 /mnt/synology/media/music/orpheus.network/flac/The Jesus Lizard - Goat [2009 Remastered][FLAC]/02 Mouth Breather.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Jesus Lizard - Goat [2009 Remastered][FLAC]/The Jesus Lizard - Goat.cue/3
 /mnt/synology/media/music/orpheus.network/flac/The Jesus Lizard - Goat [2009 Remastered][FLAC]/03 Nub.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Jesus Lizard - Goat [2009 Remastered][FLAC]/The Jesus Lizard - Goat.cue/4
 /mnt/synology/media/music/orpheus.network/flac/The Jesus Lizard - Goat [2009 Remastered][FLAC]/04 Seasick.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Jesus Lizard - Goat [2009 Remastered][FLAC]/The Jesus Lizard - Goat.cue/5
 /mnt/synology/media/music/orpheus.network/flac/The Jesus Lizard - Goat [2009 Remastered][FLAC]/05 Monkey Trick.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Jesus Lizard - Goat [2009 Remastered][FLAC]/The Jesus Lizard - Goat.cue/6
 /mnt/synology/media/music/orpheus.network/flac/The Jesus Lizard - Goat [2009 Remastered][FLAC]/06 Karpis.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Jesus Lizard - Goat [2009 Remastered][FLAC]/The Jesus Lizard - Goat.cue/7
 /mnt/synology/media/music/orpheus.network/flac/The Jesus Lizard - Goat [2009 Remastered][FLAC]/07 South Mouth.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Jesus Lizard - Goat [2009 Remastered][FLAC]/The Jesus Lizard - Goat.cue/8
 /mnt/synology/media/music/orpheus.network/flac/The Jesus Lizard - Goat [2009 Remastered][FLAC]/08 Lady Shoes.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Jesus Lizard - Goat [2009 Remastered][FLAC]/The Jesus Lizard - Goat.cue/9
 /mnt/synology/media/music/orpheus.network/flac/The Jesus Lizard - Goat [2009 Remastered][FLAC]/09 Rodeo in Joliet.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Jesus Lizard - Goat [2009 Remastered][FLAC]/The Jesus Lizard - Goat.cue/10
 /mnt/synology/media/music/orpheus.network/flac/The Jesus Lizard - Goat [2009 Remastered][FLAC]/10 [silence].flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Jesus Lizard - Goat [2009 Remastered][FLAC]/The Jesus Lizard - Goat.cue/11
 /mnt/synology/media/music/orpheus.network/flac/The Jesus Lizard - Goat [2009 Remastered][FLAC]/11 Sunday You Need Love.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Jesus Lizard - Goat [2009 Remastered][FLAC]/The Jesus Lizard - Goat.cue/12
 /mnt/synology/media/music/orpheus.network/flac/The Jesus Lizard - Goat [2009 Remastered][FLAC]/12 Pop Song.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Jesus Lizard - Goat [2009 Remastered][FLAC]/The Jesus Lizard - Goat.cue/13
 /mnt/synology/media/music/orpheus.network/flac/The Jesus Lizard - Goat [2009 Remastered][FLAC]/13 Seasick [Live].flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Jesus Lizard - Goat [2009 Remastered][FLAC]/The Jesus Lizard - Goat.cue/14
 /mnt/synology/media/music/orpheus.network/flac/The Jesus Lizard - Goat [2009 Remastered][FLAC]/14 Lady Shoes [Live].flac
 cue:///mnt/synology/media/music/orpheus.network/flac/The Jesus Lizard - Goat [2009 Remastered][FLAC]/The Jesus Lizard - Goat.cue/15
 /mnt/synology/media/music/orpheus.network/flac/The Jesus Lizard - Goat [2009 Remastered][FLAC]/15 Monkey Trick [Live].flac
@@ -24595,12 +22706,6 @@ cue:///mnt/synology/media/music/orpheus.network/flac/The Jesus Lizard - Goat [20
 /mnt/synology/media/music/orpheus.network/flac/Jimi Hendrix Experience - Electric Ladyland (Non RE-1 First Edition) (1968) [FLAC]/Disc 02/05 The Jimi Hendrix Experience - House Burning Down.flac
 /mnt/synology/media/music/orpheus.network/flac/Jimi Hendrix Experience - Electric Ladyland (Non RE-1 First Edition) (1968) [FLAC]/Disc 02/06 The Jimi Hendrix Experience - All Along the Watchtower.flac
 /mnt/synology/media/music/orpheus.network/flac/Jimi Hendrix Experience - Electric Ladyland (Non RE-1 First Edition) (1968) [FLAC]/Disc 02/07 The Jimi Hendrix Experience - Voodoo Child (slight return).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Jimi Hendrix Experience - Electric Ladyland (Non RE-1 First Edition) (1968) [FLAC]/Disc 02/Electric Ladyland [Reprise 6307-2 2DE first edition without Noise Reduction].cue/1
-cue:///mnt/synology/media/music/orpheus.network/flac/Jimi Hendrix Experience - Electric Ladyland (Non RE-1 First Edition) (1968) [FLAC]/Disc 02/Electric Ladyland [Reprise 6307-2 2DE first edition without Noise Reduction].cue/2
-cue:///mnt/synology/media/music/orpheus.network/flac/Jimi Hendrix Experience - Electric Ladyland (Non RE-1 First Edition) (1968) [FLAC]/Disc 02/Electric Ladyland [Reprise 6307-2 2DE first edition without Noise Reduction].cue/3
-cue:///mnt/synology/media/music/orpheus.network/flac/Jimi Hendrix Experience - Electric Ladyland (Non RE-1 First Edition) (1968) [FLAC]/Disc 02/Electric Ladyland [Reprise 6307-2 2DE first edition without Noise Reduction].cue/4
-cue:///mnt/synology/media/music/orpheus.network/flac/Jimi Hendrix Experience - Electric Ladyland (Non RE-1 First Edition) (1968) [FLAC]/Disc 02/Electric Ladyland [Reprise 6307-2 2DE first edition without Noise Reduction].cue/5
-cue:///mnt/synology/media/music/orpheus.network/flac/Jimi Hendrix Experience - Electric Ladyland (Non RE-1 First Edition) (1968) [FLAC]/Disc 02/Electric Ladyland [Reprise 6307-2 2DE first edition without Noise Reduction].cue/6
 cue:///mnt/synology/media/music/orpheus.network/flac/Jimi Hendrix Experience - Electric Ladyland (Non RE-1 First Edition) (1968) [FLAC]/Disc 02/Electric Ladyland [Reprise 6307-2 2DE first edition without Noise Reduction].cue/7
 /mnt/synology/media/music/orpheus.network/flac/The Jimi Hendrix Experience - Are You Experienced (2010) [FLAC] {Remastered}/01 Foxy Lady.flac
 /mnt/synology/media/music/orpheus.network/flac/The Jimi Hendrix Experience - Are You Experienced (2010) [FLAC] {Remastered}/02 Manic Depression.flac
@@ -24636,13 +22741,9 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Jimi Hendrix Experience - E
 /mnt/synology/media/music/orpheus.network/flac/The Jim Yoshii Pile-Up - Homemade Drugs (2002) [CD FLAC]/07 - Double Negative.flac
 /mnt/synology/media/music/orpheus.network/flac/The Jim Yoshii Pile-Up - Homemade Drugs (2002) [CD FLAC]/08 - 3+1.flac
 /mnt/synology/media/music/orpheus.network/flac/The Jim Yoshii Pile-Up - Homemade Drugs (2002) [CD FLAC]/09 - Lines Drawn.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/VA - Insound Tour Support (2003) [FLAC]/Insound Tour Support.cue/1
 /mnt/synology/media/music/orpheus.network/flac/VA - Insound Tour Support (2003) [FLAC]/01 Seattle.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/VA - Insound Tour Support (2003) [FLAC]/Insound Tour Support.cue/3
 /mnt/synology/media/music/orpheus.network/flac/VA - Insound Tour Support (2003) [FLAC]/03 Conversation Stalls.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/VA - Insound Tour Support (2003) [FLAC]/Insound Tour Support.cue/5
 /mnt/synology/media/music/orpheus.network/flac/VA - Insound Tour Support (2003) [FLAC]/05 Birthday Cake.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/VA - Insound Tour Support (2003) [FLAC]/Insound Tour Support.cue/7
 /mnt/synology/media/music/orpheus.network/flac/VA - Insound Tour Support (2003) [FLAC]/07 Xmas Card.flac
 /mnt/synology/media/music/orpheus.network/flac/The Jim Yoshii Pile-Up - Picks Us Apart (2005) [FLAC]/01 - The Jim Yoshii Pile-Up - A Toast To The Happy Couple.flac
 /mnt/synology/media/music/orpheus.network/flac/The Jim Yoshii Pile-Up - Picks Us Apart (2005) [FLAC]/02 - The Jim Yoshii Pile-Up - Jailhouse Rock.flac
@@ -24944,27 +23045,16 @@ cue:///mnt/synology/media/music/orpheus.network/flac/VA - Insound Tour Support (
 /mnt/synology/media/music/orpheus.network/flac/The Mamas & The Papas - All The Leaves Are Brown The Golden Era Collection - (2001) {088 112 654-2} [CD FLAC]/disc2/23 - I Saw Her Again Last Night (mono).flac
 /mnt/synology/media/music/orpheus.network/flac/The Mamas & The Papas - All The Leaves Are Brown The Golden Era Collection - (2001) {088 112 654-2} [CD FLAC]/disc2/24 - Words of Love (mono).flac
 /mnt/synology/media/music/orpheus.network/flac/The Mamas & The Papas - All The Leaves Are Brown The Golden Era Collection - (2001) {088 112 654-2} [CD FLAC]/disc2/25 - Creeque Alley (mono).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Compilations - Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition) (2021) [FLAC]/Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition).cue/19
 /mnt/synology/media/music/orpheus.network/flac/Compilations - Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition) (2021) [FLAC]/19 Do The Method.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Microphones - It Was Hot, We Stayed In The Water (2000) [FLAC]/It Was Hot, We Stayed In The Water.cue/1
 /mnt/synology/media/music/orpheus.network/flac/The Microphones - It Was Hot, We Stayed In The Water (2000) [FLAC]/01 The Pull.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Microphones - It Was Hot, We Stayed In The Water (2000) [FLAC]/It Was Hot, We Stayed In The Water.cue/2
 /mnt/synology/media/music/orpheus.network/flac/The Microphones - It Was Hot, We Stayed In The Water (2000) [FLAC]/02 Ice.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Microphones - It Was Hot, We Stayed In The Water (2000) [FLAC]/It Was Hot, We Stayed In The Water.cue/3
 /mnt/synology/media/music/orpheus.network/flac/The Microphones - It Was Hot, We Stayed In The Water (2000) [FLAC]/03 Sand (Eric's Trip).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Microphones - It Was Hot, We Stayed In The Water (2000) [FLAC]/It Was Hot, We Stayed In The Water.cue/4
 /mnt/synology/media/music/orpheus.network/flac/The Microphones - It Was Hot, We Stayed In The Water (2000) [FLAC]/04 The Glow.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Microphones - It Was Hot, We Stayed In The Water (2000) [FLAC]/It Was Hot, We Stayed In The Water.cue/5
 /mnt/synology/media/music/orpheus.network/flac/The Microphones - It Was Hot, We Stayed In The Water (2000) [FLAC]/05 Karl Blau.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Microphones - It Was Hot, We Stayed In The Water (2000) [FLAC]/It Was Hot, We Stayed In The Water.cue/6
 /mnt/synology/media/music/orpheus.network/flac/The Microphones - It Was Hot, We Stayed In The Water (2000) [FLAC]/06 Drums.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Microphones - It Was Hot, We Stayed In The Water (2000) [FLAC]/It Was Hot, We Stayed In The Water.cue/7
 /mnt/synology/media/music/orpheus.network/flac/The Microphones - It Was Hot, We Stayed In The Water (2000) [FLAC]/07 The Gleam.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Microphones - It Was Hot, We Stayed In The Water (2000) [FLAC]/It Was Hot, We Stayed In The Water.cue/8
 /mnt/synology/media/music/orpheus.network/flac/The Microphones - It Was Hot, We Stayed In The Water (2000) [FLAC]/08 The Breeze.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Microphones - It Was Hot, We Stayed In The Water (2000) [FLAC]/It Was Hot, We Stayed In The Water.cue/9
 /mnt/synology/media/music/orpheus.network/flac/The Microphones - It Was Hot, We Stayed In The Water (2000) [FLAC]/09 Something.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Microphones - It Was Hot, We Stayed In The Water (2000) [FLAC]/It Was Hot, We Stayed In The Water.cue/10
 /mnt/synology/media/music/orpheus.network/flac/The Microphones - It Was Hot, We Stayed In The Water (2000) [FLAC]/10 Between Your Ear And The Other Ear.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/The Microphones - It Was Hot, We Stayed In The Water (2000) [FLAC]/It Was Hot, We Stayed In The Water.cue/11
 /mnt/synology/media/music/orpheus.network/flac/The Microphones - It Was Hot, We Stayed In The Water (2000) [FLAC]/11 Organs.flac
@@ -25135,23 +23225,14 @@ cue:///mnt/synology/media/music/orpheus.network/flac/The Microphones - It Was Ho
 /mnt/synology/media/music/orpheus.network/flac/The Nerves - One Way Ticket (2008) [FLAC] {ALIVE0090-2}/18 - The Nerves - Stand Back and Take a Good Look (Demo).flac
 /mnt/synology/media/music/orpheus.network/flac/The Nerves - One Way Ticket (2008) [FLAC] {ALIVE0090-2}/19 - The Nerves - Are You Famous  (Demo).flac
 /mnt/synology/media/music/orpheus.network/flac/The Nerves - One Way Ticket (2008) [FLAC] {ALIVE0090-2}/20 - The Nerves - Letter to G. (Demo).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Newfound Interest In Connecituct - Tell Me About The Long Dark Path Home (2005) [FLAC]/Tell Me About The Long Dark Path Home.cue/1
 /mnt/synology/media/music/orpheus.network/flac/The Newfound Interest In Connecituct - Tell Me About The Long Dark Path Home (2005) [FLAC]/01 The Computers Stopped Exchanging Information.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Newfound Interest In Connecituct - Tell Me About The Long Dark Path Home (2005) [FLAC]/Tell Me About The Long Dark Path Home.cue/2
 /mnt/synology/media/music/orpheus.network/flac/The Newfound Interest In Connecituct - Tell Me About The Long Dark Path Home (2005) [FLAC]/02 And Started Sharing Stories.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Newfound Interest In Connecituct - Tell Me About The Long Dark Path Home (2005) [FLAC]/Tell Me About The Long Dark Path Home.cue/3
 /mnt/synology/media/music/orpheus.network/flac/The Newfound Interest In Connecituct - Tell Me About The Long Dark Path Home (2005) [FLAC]/03 And Then They Kissed.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Newfound Interest In Connecituct - Tell Me About The Long Dark Path Home (2005) [FLAC]/Tell Me About The Long Dark Path Home.cue/4
 /mnt/synology/media/music/orpheus.network/flac/The Newfound Interest In Connecituct - Tell Me About The Long Dark Path Home (2005) [FLAC]/04 Okay, You Can Be Tigers But No Crashing.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Newfound Interest In Connecituct - Tell Me About The Long Dark Path Home (2005) [FLAC]/Tell Me About The Long Dark Path Home.cue/5
 /mnt/synology/media/music/orpheus.network/flac/The Newfound Interest In Connecituct - Tell Me About The Long Dark Path Home (2005) [FLAC]/05 Five Years Of Work And We Built That Song.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Newfound Interest In Connecituct - Tell Me About The Long Dark Path Home (2005) [FLAC]/Tell Me About The Long Dark Path Home.cue/6
 /mnt/synology/media/music/orpheus.network/flac/The Newfound Interest In Connecituct - Tell Me About The Long Dark Path Home (2005) [FLAC]/06 And It Sings For Itself.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Newfound Interest In Connecituct - Tell Me About The Long Dark Path Home (2005) [FLAC]/Tell Me About The Long Dark Path Home.cue/7
 /mnt/synology/media/music/orpheus.network/flac/The Newfound Interest In Connecituct - Tell Me About The Long Dark Path Home (2005) [FLAC]/07 I Can Hear Your Footsteps Just Outside Camp - A Sah, Sah, Sah....flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Newfound Interest In Connecituct - Tell Me About The Long Dark Path Home (2005) [FLAC]/Tell Me About The Long Dark Path Home.cue/8
 /mnt/synology/media/music/orpheus.network/flac/The Newfound Interest In Connecituct - Tell Me About The Long Dark Path Home (2005) [FLAC]/08 I Can See Your Breath Rising In The Air;.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Newfound Interest In Connecituct - Tell Me About The Long Dark Path Home (2005) [FLAC]/Tell Me About The Long Dark Path Home.cue/9
 /mnt/synology/media/music/orpheus.network/flac/The Newfound Interest In Connecituct - Tell Me About The Long Dark Path Home (2005) [FLAC]/09 On My Back Watching Northern Lights Recede.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/The Newfound Interest In Connecituct - Tell Me About The Long Dark Path Home (2005) [FLAC]/Tell Me About The Long Dark Path Home.cue/10
 /mnt/synology/media/music/orpheus.network/flac/The Newfound Interest In Connecituct - Tell Me About The Long Dark Path Home (2005) [FLAC]/10 The Arctic Circle.flac
@@ -25226,13 +23307,9 @@ cue:///mnt/synology/media/music/orpheus.network/flac/The Newfound Interest In Co
 /mnt/synology/media/music/orpheus.network/flac/The Orkustra - Adventures In Experimental Electric Orchestra From The San Francisco Psychedelic Underground/Disc 02/04 Freeform Improvisation.flac
 /mnt/synology/media/music/orpheus.network/flac/The Orkustra - Adventures In Experimental Electric Orchestra From The San Francisco Psychedelic Underground/Disc 02/05 Dancing In the Park.flac
 /mnt/synology/media/music/orpheus.network/flac/The Orkustra - Adventures In Experimental Electric Orchestra From The San Francisco Psychedelic Underground/Disc 02/06 Gypsy Odyssey (Practice Session).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Ornette Coleman Quartet - Ornette! (1961) {08122 73714 2, 2003} [FLAC]/Ornette!.cue/1
 /mnt/synology/media/music/orpheus.network/flac/The Ornette Coleman Quartet - Ornette! (1961) {08122 73714 2, 2003} [FLAC]/01 W.R.U..flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Ornette Coleman Quartet - Ornette! (1961) {08122 73714 2, 2003} [FLAC]/Ornette!.cue/2
 /mnt/synology/media/music/orpheus.network/flac/The Ornette Coleman Quartet - Ornette! (1961) {08122 73714 2, 2003} [FLAC]/02 T. & T..flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Ornette Coleman Quartet - Ornette! (1961) {08122 73714 2, 2003} [FLAC]/Ornette!.cue/3
 /mnt/synology/media/music/orpheus.network/flac/The Ornette Coleman Quartet - Ornette! (1961) {08122 73714 2, 2003} [FLAC]/03 C. & D..flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Ornette Coleman Quartet - Ornette! (1961) {08122 73714 2, 2003} [FLAC]/Ornette!.cue/4
 /mnt/synology/media/music/orpheus.network/flac/The Ornette Coleman Quartet - Ornette! (1961) {08122 73714 2, 2003} [FLAC]/04 R.P.D.D..flac
 cue:///mnt/synology/media/music/orpheus.network/flac/The Ornette Coleman Quartet - Ornette! (1961) {08122 73714 2, 2003} [FLAC]/Ornette!.cue/5
 /mnt/synology/media/music/orpheus.network/flac/The Ornette Coleman Quartet - Ornette! (1961) {08122 73714 2, 2003} [FLAC]/05 Proof Readers.flac
@@ -25358,29 +23435,18 @@ cue:///mnt/synology/media/music/orpheus.network/flac/The Ornette Coleman Quartet
 /mnt/synology/media/music/orpheus.network/flac/The Police - 1979 - Reggatta De Blanc (WG, 1985, 394 792-2) - FLAC/09 - Contact.flac
 /mnt/synology/media/music/orpheus.network/flac/The Police - 1979 - Reggatta De Blanc (WG, 1985, 394 792-2) - FLAC/10 - Does Everyone Stare.flac
 /mnt/synology/media/music/orpheus.network/flac/The Police - 1979 - Reggatta De Blanc (WG, 1985, 394 792-2) - FLAC/11 - No Time This Time.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Pop Group - Y (2007) [FLAC]/Y.cue/1
 /mnt/synology/media/music/orpheus.network/flac/The Pop Group - Y (2007) [FLAC]/01 - She Is Beyond Good and Evil.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Pop Group - Y (2007) [FLAC]/Y.cue/2
 /mnt/synology/media/music/orpheus.network/flac/The Pop Group - Y (2007) [FLAC]/02 - Thief of Fire.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Pop Group - Y (2007) [FLAC]/Y.cue/3
 /mnt/synology/media/music/orpheus.network/flac/The Pop Group - Y (2007) [FLAC]/03 - Snow Girl.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Pop Group - Y (2007) [FLAC]/Y.cue/4
 /mnt/synology/media/music/orpheus.network/flac/The Pop Group - Y (2007) [FLAC]/04 - Blood Money.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Pop Group - Y (2007) [FLAC]/Y.cue/5
 /mnt/synology/media/music/orpheus.network/flac/The Pop Group - Y (2007) [FLAC]/05 - We Are Time.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Pop Group - Y (2007) [FLAC]/Y.cue/6
 /mnt/synology/media/music/orpheus.network/flac/The Pop Group - Y (2007) [FLAC]/06 - Savage Sea.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Pop Group - Y (2007) [FLAC]/Y.cue/7
 /mnt/synology/media/music/orpheus.network/flac/The Pop Group - Y (2007) [FLAC]/07 - Words Disobey Me.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Pop Group - Y (2007) [FLAC]/Y.cue/8
 /mnt/synology/media/music/orpheus.network/flac/The Pop Group - Y (2007) [FLAC]/08 - Don't Call Me Pain.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Pop Group - Y (2007) [FLAC]/Y.cue/9
 /mnt/synology/media/music/orpheus.network/flac/The Pop Group - Y (2007) [FLAC]/09 - The Boys From Brazil.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Pop Group - Y (2007) [FLAC]/Y.cue/10
 /mnt/synology/media/music/orpheus.network/flac/The Pop Group - Y (2007) [FLAC]/10 - Don't Sell Your Dreams.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/The Pop Group - Y (2007) [FLAC]/Y.cue/11
 /mnt/synology/media/music/orpheus.network/flac/The Pop Group - Y (2007) [FLAC]/11 - 3'38.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Compilations - Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition) (2021) [FLAC]/Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition).cue/7
 /mnt/synology/media/music/orpheus.network/flac/Compilations - Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition) (2021) [FLAC]/07 Total Luck.flac
 /mnt/synology/media/music/orpheus.network/flac/The Presidents of the United States of America (1995) {CK 6729 CD USA} [FLAC]/01 - Kitty.flac
 /mnt/synology/media/music/orpheus.network/flac/The Presidents of the United States of America (1995) {CK 6729 CD USA} [FLAC]/02 - Feather Pluckn.flac
@@ -25490,23 +23556,16 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Compilations - Fame- Jon Sa
 /mnt/synology/media/music/orpheus.network/flac/The_Prodigy-The_Fat_Of_The_Land_(Expanded_Edition)-2CD-FLAC-2012/109-the_prodigy-climbatize.flac
 /mnt/synology/media/music/orpheus.network/flac/The_Prodigy-The_Fat_Of_The_Land_(Expanded_Edition)-2CD-FLAC-2012/110-the_prodigy-fuel_my_fire.flac
 /mnt/synology/media/music/orpheus.network/flac/The Prodigy - The Day Is My Enemy (flac)/01 - The Day Is My Enemy.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Prodigy - The Day Is My Enemy (flac)/The day is my enemy.cue/2
 /mnt/synology/media/music/orpheus.network/flac/The Prodigy - The Day Is My Enemy (flac)/02 - Nasty.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Prodigy - The Day Is My Enemy (flac)/The day is my enemy.cue/3
 /mnt/synology/media/music/orpheus.network/flac/The Prodigy - The Day Is My Enemy (flac)/03 - Rebel Radio.flac
 /mnt/synology/media/music/orpheus.network/flac/The Prodigy - The Day Is My Enemy (flac)/04 - Ibiza Feat. Sleaford Mods.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Prodigy - The Day Is My Enemy (flac)/The day is my enemy.cue/5
 /mnt/synology/media/music/orpheus.network/flac/The Prodigy - The Day Is My Enemy (flac)/05 - Destroy.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Prodigy - The Day Is My Enemy (flac)/The day is my enemy.cue/6
 /mnt/synology/media/music/orpheus.network/flac/The Prodigy - The Day Is My Enemy (flac)/06 - Wild Frontier.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Prodigy - The Day Is My Enemy (flac)/The day is my enemy.cue/7
 /mnt/synology/media/music/orpheus.network/flac/The Prodigy - The Day Is My Enemy (flac)/07 - Rok-Weiler.flac
 /mnt/synology/media/music/orpheus.network/flac/The Prodigy - The Day Is My Enemy (flac)/08 - Beyond The Deathray.flac
 /mnt/synology/media/music/orpheus.network/flac/The Prodigy - The Day Is My Enemy (flac)/09 - Rhythm Bomb Feat. Flux Pavilion.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Prodigy - The Day Is My Enemy (flac)/The day is my enemy.cue/10
 /mnt/synology/media/music/orpheus.network/flac/The Prodigy - The Day Is My Enemy (flac)/10 - Roadblox.flac
 /mnt/synology/media/music/orpheus.network/flac/The Prodigy - The Day Is My Enemy (flac)/11 - Get Your Fight On.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Prodigy - The Day Is My Enemy (flac)/The day is my enemy.cue/12
 /mnt/synology/media/music/orpheus.network/flac/The Prodigy - The Day Is My Enemy (flac)/12 - Medicine.flac
 /mnt/synology/media/music/orpheus.network/flac/The Prodigy - The Day Is My Enemy (flac)/13 - Invisible Sun.flac
 /mnt/synology/media/music/orpheus.network/flac/The Prodigy - The Day Is My Enemy (flac)/14 - Wall Of Death.flac
@@ -25969,35 +24028,20 @@ cue:///mnt/synology/media/music/orpheus.network/flac/The Prodigy - The Day Is My
 /mnt/synology/media/music/orpheus.network/flac/The Smiths - Strangeways, Here We Come [Japan Edition] (Rough Trade, 1987) EAC-FLAC/08 The Smiths - Paint a Vulgar Picture.flac
 /mnt/synology/media/music/orpheus.network/flac/The Smiths - Strangeways, Here We Come [Japan Edition] (Rough Trade, 1987) EAC-FLAC/09 The Smiths - Death at One's Elbow.flac
 /mnt/synology/media/music/orpheus.network/flac/The Smiths - Strangeways, Here We Come [Japan Edition] (Rough Trade, 1987) EAC-FLAC/10 The Smiths - I Won't Share You.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Smiths -The World Won't Listen (1987) [FLAC]/The World Won't Listen.cue/1
 /mnt/synology/media/music/orpheus.network/flac/The Smiths -The World Won't Listen (1987) [FLAC]/01 Panic.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Smiths -The World Won't Listen (1987) [FLAC]/The World Won't Listen.cue/2
 /mnt/synology/media/music/orpheus.network/flac/The Smiths -The World Won't Listen (1987) [FLAC]/02 Ask.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Smiths -The World Won't Listen (1987) [FLAC]/The World Won't Listen.cue/3
 /mnt/synology/media/music/orpheus.network/flac/The Smiths -The World Won't Listen (1987) [FLAC]/03 London.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Smiths -The World Won't Listen (1987) [FLAC]/The World Won't Listen.cue/4
 /mnt/synology/media/music/orpheus.network/flac/The Smiths -The World Won't Listen (1987) [FLAC]/04 Bigmouth Strikes Again.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Smiths -The World Won't Listen (1987) [FLAC]/The World Won't Listen.cue/5
 /mnt/synology/media/music/orpheus.network/flac/The Smiths -The World Won't Listen (1987) [FLAC]/05 Shakespeare's Sister.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Smiths -The World Won't Listen (1987) [FLAC]/The World Won't Listen.cue/6
 /mnt/synology/media/music/orpheus.network/flac/The Smiths -The World Won't Listen (1987) [FLAC]/06 There Is a Light That Never Goes Out.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Smiths -The World Won't Listen (1987) [FLAC]/The World Won't Listen.cue/7
 /mnt/synology/media/music/orpheus.network/flac/The Smiths -The World Won't Listen (1987) [FLAC]/07 Shoplifters of the World Unite.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Smiths -The World Won't Listen (1987) [FLAC]/The World Won't Listen.cue/8
 /mnt/synology/media/music/orpheus.network/flac/The Smiths -The World Won't Listen (1987) [FLAC]/08 The Boy With the Thorn in His Side.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Smiths -The World Won't Listen (1987) [FLAC]/The World Won't Listen.cue/9
 /mnt/synology/media/music/orpheus.network/flac/The Smiths -The World Won't Listen (1987) [FLAC]/09 Asleep.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Smiths -The World Won't Listen (1987) [FLAC]/The World Won't Listen.cue/10
 /mnt/synology/media/music/orpheus.network/flac/The Smiths -The World Won't Listen (1987) [FLAC]/10 Unloveable.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Smiths -The World Won't Listen (1987) [FLAC]/The World Won't Listen.cue/11
 /mnt/synology/media/music/orpheus.network/flac/The Smiths -The World Won't Listen (1987) [FLAC]/11 Half a Person.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Smiths -The World Won't Listen (1987) [FLAC]/The World Won't Listen.cue/12
 /mnt/synology/media/music/orpheus.network/flac/The Smiths -The World Won't Listen (1987) [FLAC]/12 Stretch Out and Wait.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Smiths -The World Won't Listen (1987) [FLAC]/The World Won't Listen.cue/13
 /mnt/synology/media/music/orpheus.network/flac/The Smiths -The World Won't Listen (1987) [FLAC]/13 That Joke Isn't Funny Anymore.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Smiths -The World Won't Listen (1987) [FLAC]/The World Won't Listen.cue/14
 /mnt/synology/media/music/orpheus.network/flac/The Smiths -The World Won't Listen (1987) [FLAC]/14 Oscillate Wildly.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Smiths -The World Won't Listen (1987) [FLAC]/The World Won't Listen.cue/15
 /mnt/synology/media/music/orpheus.network/flac/The Smiths -The World Won't Listen (1987) [FLAC]/15 You Just Haven't Earned It Yet, Baby.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/The Smiths -The World Won't Listen (1987) [FLAC]/The World Won't Listen.cue/16
 /mnt/synology/media/music/orpheus.network/flac/The Smiths -The World Won't Listen (1987) [FLAC]/16 Rubber Ring.flac
@@ -26079,33 +24123,19 @@ cue:///mnt/synology/media/music/orpheus.network/flac/The Smiths -The World Won't
 /mnt/synology/media/music/orpheus.network/flac/The Sonics - Here Are The Sonics (1965) [FLAC]/10 - Nighttime Is The Right Time.flac
 /mnt/synology/media/music/orpheus.network/flac/The Sonics - Here Are The Sonics (1965) [FLAC]/11 - Strychnine.flac
 /mnt/synology/media/music/orpheus.network/flac/The Sonics - Here Are The Sonics (1965) [FLAC]/12 - Good Golly Miss Molly.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Sonics - Maintaining My Cool (1991) [FLAC]/Maintaining My Cool.cue/1
 /mnt/synology/media/music/orpheus.network/flac/The Sonics - Maintaining My Cool (1991) [FLAC]/01 The Witch.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Sonics - Maintaining My Cool (1991) [FLAC]/Maintaining My Cool.cue/2
 /mnt/synology/media/music/orpheus.network/flac/The Sonics - Maintaining My Cool (1991) [FLAC]/02 You've Got Your Head On Backwards.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Sonics - Maintaining My Cool (1991) [FLAC]/Maintaining My Cool.cue/3
 /mnt/synology/media/music/orpheus.network/flac/The Sonics - Maintaining My Cool (1991) [FLAC]/03 I'm A Man.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Sonics - Maintaining My Cool (1991) [FLAC]/Maintaining My Cool.cue/4
 /mnt/synology/media/music/orpheus.network/flac/The Sonics - Maintaining My Cool (1991) [FLAC]/04 On The Road Again.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Sonics - Maintaining My Cool (1991) [FLAC]/Maintaining My Cool.cue/5
 /mnt/synology/media/music/orpheus.network/flac/The Sonics - Maintaining My Cool (1991) [FLAC]/05 Psycho.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Sonics - Maintaining My Cool (1991) [FLAC]/Maintaining My Cool.cue/6
 /mnt/synology/media/music/orpheus.network/flac/The Sonics - Maintaining My Cool (1991) [FLAC]/06 Dirty Old Man.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Sonics - Maintaining My Cool (1991) [FLAC]/Maintaining My Cool.cue/7
 /mnt/synology/media/music/orpheus.network/flac/The Sonics - Maintaining My Cool (1991) [FLAC]/07 I'm Going Home.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Sonics - Maintaining My Cool (1991) [FLAC]/Maintaining My Cool.cue/8
 /mnt/synology/media/music/orpheus.network/flac/The Sonics - Maintaining My Cool (1991) [FLAC]/08 High Time.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Sonics - Maintaining My Cool (1991) [FLAC]/Maintaining My Cool.cue/9
 /mnt/synology/media/music/orpheus.network/flac/The Sonics - Maintaining My Cool (1991) [FLAC]/09 I'm A Rolling Stone.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Sonics - Maintaining My Cool (1991) [FLAC]/Maintaining My Cool.cue/10
 /mnt/synology/media/music/orpheus.network/flac/The Sonics - Maintaining My Cool (1991) [FLAC]/10 Like No Other Man.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Sonics - Maintaining My Cool (1991) [FLAC]/Maintaining My Cool.cue/11
 /mnt/synology/media/music/orpheus.network/flac/The Sonics - Maintaining My Cool (1991) [FLAC]/11 Maintaining My Cool.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Sonics - Maintaining My Cool (1991) [FLAC]/Maintaining My Cool.cue/12
 /mnt/synology/media/music/orpheus.network/flac/The Sonics - Maintaining My Cool (1991) [FLAC]/12 Bama Lama Lu.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Sonics - Maintaining My Cool (1991) [FLAC]/Maintaining My Cool.cue/13
 /mnt/synology/media/music/orpheus.network/flac/The Sonics - Maintaining My Cool (1991) [FLAC]/13 Leave My Kitten Alone.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Sonics - Maintaining My Cool (1991) [FLAC]/Maintaining My Cool.cue/14
 /mnt/synology/media/music/orpheus.network/flac/The Sonics - Maintaining My Cool (1991) [FLAC]/14 Hanky Panky.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/The Sonics - Maintaining My Cool (1991) [FLAC]/Maintaining My Cool.cue/15
 /mnt/synology/media/music/orpheus.network/flac/The Sonics - Maintaining My Cool (1991) [FLAC]/15 Diddy Wah Diddy.flac
@@ -26335,7 +24365,6 @@ cue:///mnt/synology/media/music/orpheus.network/flac/The Sonics - Maintaining My
 /mnt/synology/media/music/orpheus.network/flac/The United States Of America - The United States Of America (1967) [FLAC] {ECLEC 2449}/18 - The American Metaphysical Circus (Unissued).flac
 /mnt/synology/media/music/orpheus.network/flac/The United States Of America - The United States Of America (1967) [FLAC] {ECLEC 2449}/19 - Mouse (The Garden Of Earthly Delight (Unissued).flac
 /mnt/synology/media/music/orpheus.network/flac/The United States Of America - The United States Of America (1967) [FLAC] {ECLEC 2449}/20 - Heresy (Coming Down) (Unissued).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Compilations - Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition) (2021) [FLAC]/Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition).cue/18
 /mnt/synology/media/music/orpheus.network/flac/Compilations - Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition) (2021) [FLAC]/18 Sex.flac
 /mnt/synology/media/music/orpheus.network/flac/The Vehicle Birth - Tragedy (1997) [CD FLAC]/01 - Crack Farm.flac
 /mnt/synology/media/music/orpheus.network/flac/The Vehicle Birth - Tragedy (1997) [CD FLAC]/02 - We Need To Find The Girls.flac
@@ -26486,29 +24515,17 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Compilations - Fame- Jon Sa
 /mnt/synology/media/music/orpheus.network/flac/The Wonder Years - 2013 - The Greatest Generation [FLAC]/11 - Madelyn.flac
 /mnt/synology/media/music/orpheus.network/flac/The Wonder Years - 2013 - The Greatest Generation [FLAC]/12 - Cul-de-sac.flac
 /mnt/synology/media/music/orpheus.network/flac/The Wonder Years - 2013 - The Greatest Generation [FLAC]/13 - I Just Want To Sell Out My Funeral.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The World Is A Beautiful Place & I Am No Longer Afraid To Die - Harmlessness (2015) [FLAC]/Harmlessness.cue/1
 /mnt/synology/media/music/orpheus.network/flac/The World Is A Beautiful Place & I Am No Longer Afraid To Die - Harmlessness (2015) [FLAC]/01 You Can't Live There Forever.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The World Is A Beautiful Place & I Am No Longer Afraid To Die - Harmlessness (2015) [FLAC]/Harmlessness.cue/2
 /mnt/synology/media/music/orpheus.network/flac/The World Is A Beautiful Place & I Am No Longer Afraid To Die - Harmlessness (2015) [FLAC]/02 blank #11.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The World Is A Beautiful Place & I Am No Longer Afraid To Die - Harmlessness (2015) [FLAC]/Harmlessness.cue/3
 /mnt/synology/media/music/orpheus.network/flac/The World Is A Beautiful Place & I Am No Longer Afraid To Die - Harmlessness (2015) [FLAC]/03 January 10th, 2014.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The World Is A Beautiful Place & I Am No Longer Afraid To Die - Harmlessness (2015) [FLAC]/Harmlessness.cue/4
 /mnt/synology/media/music/orpheus.network/flac/The World Is A Beautiful Place & I Am No Longer Afraid To Die - Harmlessness (2015) [FLAC]/04 The Word Lisa.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The World Is A Beautiful Place & I Am No Longer Afraid To Die - Harmlessness (2015) [FLAC]/Harmlessness.cue/5
 /mnt/synology/media/music/orpheus.network/flac/The World Is A Beautiful Place & I Am No Longer Afraid To Die - Harmlessness (2015) [FLAC]/05 Rage Against the Dying of the Light.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The World Is A Beautiful Place & I Am No Longer Afraid To Die - Harmlessness (2015) [FLAC]/Harmlessness.cue/6
 /mnt/synology/media/music/orpheus.network/flac/The World Is A Beautiful Place & I Am No Longer Afraid To Die - Harmlessness (2015) [FLAC]/06 Ra Paterna Dance.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The World Is A Beautiful Place & I Am No Longer Afraid To Die - Harmlessness (2015) [FLAC]/Harmlessness.cue/7
 /mnt/synology/media/music/orpheus.network/flac/The World Is A Beautiful Place & I Am No Longer Afraid To Die - Harmlessness (2015) [FLAC]/07 Mental Health.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The World Is A Beautiful Place & I Am No Longer Afraid To Die - Harmlessness (2015) [FLAC]/Harmlessness.cue/8
 /mnt/synology/media/music/orpheus.network/flac/The World Is A Beautiful Place & I Am No Longer Afraid To Die - Harmlessness (2015) [FLAC]/08 Wendover.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The World Is A Beautiful Place & I Am No Longer Afraid To Die - Harmlessness (2015) [FLAC]/Harmlessness.cue/9
 /mnt/synology/media/music/orpheus.network/flac/The World Is A Beautiful Place & I Am No Longer Afraid To Die - Harmlessness (2015) [FLAC]/09 We Need More Skulls.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The World Is A Beautiful Place & I Am No Longer Afraid To Die - Harmlessness (2015) [FLAC]/Harmlessness.cue/10
 /mnt/synology/media/music/orpheus.network/flac/The World Is A Beautiful Place & I Am No Longer Afraid To Die - Harmlessness (2015) [FLAC]/10 Haircuts for Everybody.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The World Is A Beautiful Place & I Am No Longer Afraid To Die - Harmlessness (2015) [FLAC]/Harmlessness.cue/11
 /mnt/synology/media/music/orpheus.network/flac/The World Is A Beautiful Place & I Am No Longer Afraid To Die - Harmlessness (2015) [FLAC]/11 Willie (for Howard).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The World Is A Beautiful Place & I Am No Longer Afraid To Die - Harmlessness (2015) [FLAC]/Harmlessness.cue/12
 /mnt/synology/media/music/orpheus.network/flac/The World Is A Beautiful Place & I Am No Longer Afraid To Die - Harmlessness (2015) [FLAC]/12 I Can Be Afraid of Anything.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/The World Is A Beautiful Place & I Am No Longer Afraid To Die - Harmlessness (2015) [FLAC]/Harmlessness.cue/13
 /mnt/synology/media/music/orpheus.network/flac/The World Is A Beautiful Place & I Am No Longer Afraid To Die - Harmlessness (2015) [FLAC]/13 Mount Hum.flac
@@ -26557,41 +24574,23 @@ cue:///mnt/synology/media/music/orpheus.network/flac/The World Is A Beautiful Pl
 /mnt/synology/media/music/orpheus.network/flac/Zombies - Begin Here [2001 Repertoire Records Remaster]/29 - Indication [Single A-Side] [Bonus Track].flac
 /mnt/synology/media/music/orpheus.network/flac/Zombies - Begin Here [2001 Repertoire Records Remaster]/30 - How Were We Before [Single B-Side] [Bonus Track].flac
 /mnt/synology/media/music/orpheus.network/flac/Zombies - Begin Here [2001 Repertoire Records Remaster]/31 - I'm Going Home [Mono] [Studio Outtake] [Bonus Track].flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Zombies - 1968 - Odessey And Oracle [FLAC]/The Zombies - Odessey And Oracle.cue/1
 /mnt/synology/media/music/orpheus.network/flac/The Zombies - 1968 - Odessey And Oracle [FLAC]/01 - Care Of Cell 44.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Zombies - 1968 - Odessey And Oracle [FLAC]/The Zombies - Odessey And Oracle.cue/2
 /mnt/synology/media/music/orpheus.network/flac/The Zombies - 1968 - Odessey And Oracle [FLAC]/02 - A Rose For Emily.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Zombies - 1968 - Odessey And Oracle [FLAC]/The Zombies - Odessey And Oracle.cue/3
 /mnt/synology/media/music/orpheus.network/flac/The Zombies - 1968 - Odessey And Oracle [FLAC]/03 - Maybe After He's Gone.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Zombies - 1968 - Odessey And Oracle [FLAC]/The Zombies - Odessey And Oracle.cue/4
 /mnt/synology/media/music/orpheus.network/flac/The Zombies - 1968 - Odessey And Oracle [FLAC]/04 - Beechwood Park.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Zombies - 1968 - Odessey And Oracle [FLAC]/The Zombies - Odessey And Oracle.cue/5
 /mnt/synology/media/music/orpheus.network/flac/The Zombies - 1968 - Odessey And Oracle [FLAC]/05 - Brief Candles.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Zombies - 1968 - Odessey And Oracle [FLAC]/The Zombies - Odessey And Oracle.cue/6
 /mnt/synology/media/music/orpheus.network/flac/The Zombies - 1968 - Odessey And Oracle [FLAC]/06 - Hung Up On A Dream.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Zombies - 1968 - Odessey And Oracle [FLAC]/The Zombies - Odessey And Oracle.cue/7
 /mnt/synology/media/music/orpheus.network/flac/The Zombies - 1968 - Odessey And Oracle [FLAC]/07 - Changes.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Zombies - 1968 - Odessey And Oracle [FLAC]/The Zombies - Odessey And Oracle.cue/8
 /mnt/synology/media/music/orpheus.network/flac/The Zombies - 1968 - Odessey And Oracle [FLAC]/08 - I Want Her She Wants Me.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Zombies - 1968 - Odessey And Oracle [FLAC]/The Zombies - Odessey And Oracle.cue/9
 /mnt/synology/media/music/orpheus.network/flac/The Zombies - 1968 - Odessey And Oracle [FLAC]/09 - This Will Be Our Year.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Zombies - 1968 - Odessey And Oracle [FLAC]/The Zombies - Odessey And Oracle.cue/10
 /mnt/synology/media/music/orpheus.network/flac/The Zombies - 1968 - Odessey And Oracle [FLAC]/10 - Butcher's Tale (Western Front 1914).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Zombies - 1968 - Odessey And Oracle [FLAC]/The Zombies - Odessey And Oracle.cue/11
 /mnt/synology/media/music/orpheus.network/flac/The Zombies - 1968 - Odessey And Oracle [FLAC]/11 - Friends Of Mine.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Zombies - 1968 - Odessey And Oracle [FLAC]/The Zombies - Odessey And Oracle.cue/12
 /mnt/synology/media/music/orpheus.network/flac/The Zombies - 1968 - Odessey And Oracle [FLAC]/12 - Time Of The Season.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Zombies - 1968 - Odessey And Oracle [FLAC]/The Zombies - Odessey And Oracle.cue/13
 /mnt/synology/media/music/orpheus.network/flac/The Zombies - 1968 - Odessey And Oracle [FLAC]/13 - I'll Call You Mine (Mono Mix).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Zombies - 1968 - Odessey And Oracle [FLAC]/The Zombies - Odessey And Oracle.cue/14
 /mnt/synology/media/music/orpheus.network/flac/The Zombies - 1968 - Odessey And Oracle [FLAC]/14 - Care Of Cell 44 (Takes 1 & 2 Backing Track).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Zombies - 1968 - Odessey And Oracle [FLAC]/The Zombies - Odessey And Oracle.cue/15
 /mnt/synology/media/music/orpheus.network/flac/The Zombies - 1968 - Odessey And Oracle [FLAC]/15 - Care Of Cell 44 (Alternate Mix).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Zombies - 1968 - Odessey And Oracle [FLAC]/The Zombies - Odessey And Oracle.cue/16
 /mnt/synology/media/music/orpheus.network/flac/The Zombies - 1968 - Odessey And Oracle [FLAC]/16 - A Rose For Emily (With Cello).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Zombies - 1968 - Odessey And Oracle [FLAC]/The Zombies - Odessey And Oracle.cue/17
 /mnt/synology/media/music/orpheus.network/flac/The Zombies - 1968 - Odessey And Oracle [FLAC]/17 - I Want Her She Wants Me (Mono With Backing Vocals).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/The Zombies - 1968 - Odessey And Oracle [FLAC]/The Zombies - Odessey And Oracle.cue/18
 /mnt/synology/media/music/orpheus.network/flac/The Zombies - 1968 - Odessey And Oracle [FLAC]/18 - This Will Be Our Year (Stereo Without Overdubs).flac
 cue:///mnt/synology/media/music/orpheus.network/flac/The Zombies - 1968 - Odessey And Oracle [FLAC]/The Zombies - Odessey And Oracle.cue/19
 /mnt/synology/media/music/orpheus.network/flac/The Zombies - 1968 - Odessey And Oracle [FLAC]/19 - Time Of The Season (Remix).flac
@@ -26638,11 +24637,8 @@ cue:///mnt/synology/media/music/orpheus.network/flac/The Zombies - 1968 - Odesse
 /mnt/synology/media/music/orpheus.network/flac/Thin Lizzy - Black Rose - A Rock Legend (1979) [FLAC] {Vertigo 830 392-2}/09 - Roisin Dubh (Black Rose) A Rock Legend.flac
 /mnt/synology/media/music/orpheus.network/flac/Third Ear Band - Elements 1970-71/Elements 1970-71 Disc 1 (2018)/01 - Air.flac
 /mnt/synology/media/music/orpheus.network/flac/Third Ear Band - Elements 1970-71/Elements 1970-71 Disc 1 (2018)/02 - Earth.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Third Ear Band - Elements 1970-71/Elements 1970-71 Disc 1 (2018)/Third Ear Band - Elements 1970-71.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Third Ear Band - Elements 1970-71/Elements 1970-71 Disc 1 (2018)/03 - Water.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Third Ear Band - Elements 1970-71/Elements 1970-71 Disc 1 (2018)/Third Ear Band - Elements 1970-71.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Third Ear Band - Elements 1970-71/Elements 1970-71 Disc 1 (2018)/04 - Fire.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Third Ear Band - Elements 1970-71/Elements 1970-71 Disc 1 (2018)/Third Ear Band - Elements 1970-71.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Third Ear Band - Elements 1970-71/Elements 1970-71 Disc 1 (2018)/05 - Earth Take 4.flac
 /mnt/synology/media/music/orpheus.network/flac/Third Ear Band - Elements 1970-71/Elements 1970-71 Disc 1 (2018)/06 - The Sea (Fire) Edited Ver..flac
 /mnt/synology/media/music/orpheus.network/flac/Third Ear Band - Elements 1970-71/Elements 1970-71 Disc 1 (2018)/07 - Dog Evil (Mosaic) BBC Sounds Of The 70s.flac
@@ -26657,58 +24653,34 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Third Ear Band - Elements 1
 /mnt/synology/media/music/orpheus.network/flac/Third Ear Band - Elements 1970-71/Elements 1970-71 Disc 2 (2018)/07 - Very Fine...Far Away.flac
 /mnt/synology/media/music/orpheus.network/flac/Third Ear Band - Elements 1970-71/Elements 1970-71 Disc 2 (2018)/08 - The Dragon Wakes.flac
 /mnt/synology/media/music/orpheus.network/flac/Third Ear Band - Elements 1970-71/Elements 1970-71 Disc 2 (2018)/09 - Sunrise.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Third Ear Band - Elements 1970-71/Elements 1970-71 Disc 3 (2018)/Third Ear Band - Elements 1970-71.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Third Ear Band - Elements 1970-71/Elements 1970-71 Disc 3 (2018)/01 - Mistress To The Sun (Abbey Road Session February 1971).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Third Ear Band - Elements 1970-71/Elements 1970-71 Disc 3 (2018)/Third Ear Band - Elements 1970-71.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Third Ear Band - Elements 1970-71/Elements 1970-71 Disc 3 (2018)/02 - Evening Awakening Abbey Road Session 1971-03.flac
 /mnt/synology/media/music/orpheus.network/flac/Third Ear Band - Elements 1970-71/Elements 1970-71 Disc 3 (2018)/03 - In D (Abbey road session June 1971).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Third Ear Band - Elements 1970-71/Elements 1970-71 Disc 3 (2018)/Third Ear Band - Elements 1970-71.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Third Ear Band - Elements 1970-71/Elements 1970-71 Disc 3 (2018)/04 - Water (BBC “John Peel Concert” Session).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Third Ear Band - Elements 1970-71/Elements 1970-71 Disc 3 (2018)/Third Ear Band - Elements 1970-71.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Third Ear Band - Elements 1970-71/Elements 1970-71 Disc 3 (2018)/05 - Druid One (BBC “John Peel Concert” Session).flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Third Ear Band - Elements 1970-71/Elements 1970-71 Disc 3 (2018)/Third Ear Band - Elements 1970-71.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Third Ear Band - Elements 1970-71/Elements 1970-71 Disc 3 (2018)/06 - Eternity In D (BBC “John Peel Concert” Session).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/This Heat - This Heat (1979) {1991 Eva Records WWCX2032 Japan} [FLAC]/This Heat.cue/1
 /mnt/synology/media/music/orpheus.network/flac/This Heat - This Heat (1979) {1991 Eva Records WWCX2032 Japan} [FLAC]/01 - Testcard.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/This Heat - This Heat (1979) {1991 Eva Records WWCX2032 Japan} [FLAC]/This Heat.cue/2
 /mnt/synology/media/music/orpheus.network/flac/This Heat - This Heat (1979) {1991 Eva Records WWCX2032 Japan} [FLAC]/02 - Horizontal Hold.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/This Heat - This Heat (1979) {1991 Eva Records WWCX2032 Japan} [FLAC]/This Heat.cue/3
 /mnt/synology/media/music/orpheus.network/flac/This Heat - This Heat (1979) {1991 Eva Records WWCX2032 Japan} [FLAC]/03 - Not Waving.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/This Heat - This Heat (1979) {1991 Eva Records WWCX2032 Japan} [FLAC]/This Heat.cue/4
 /mnt/synology/media/music/orpheus.network/flac/This Heat - This Heat (1979) {1991 Eva Records WWCX2032 Japan} [FLAC]/04 - Water.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/This Heat - This Heat (1979) {1991 Eva Records WWCX2032 Japan} [FLAC]/This Heat.cue/5
 /mnt/synology/media/music/orpheus.network/flac/This Heat - This Heat (1979) {1991 Eva Records WWCX2032 Japan} [FLAC]/05 - Twilight Furniture.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/This Heat - This Heat (1979) {1991 Eva Records WWCX2032 Japan} [FLAC]/This Heat.cue/6
 /mnt/synology/media/music/orpheus.network/flac/This Heat - This Heat (1979) {1991 Eva Records WWCX2032 Japan} [FLAC]/06 - 24 Track Loop.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/This Heat - This Heat (1979) {1991 Eva Records WWCX2032 Japan} [FLAC]/This Heat.cue/7
 /mnt/synology/media/music/orpheus.network/flac/This Heat - This Heat (1979) {1991 Eva Records WWCX2032 Japan} [FLAC]/07 - Diet of Worms.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/This Heat - This Heat (1979) {1991 Eva Records WWCX2032 Japan} [FLAC]/This Heat.cue/8
 /mnt/synology/media/music/orpheus.network/flac/This Heat - This Heat (1979) {1991 Eva Records WWCX2032 Japan} [FLAC]/08 - Music Like Escaping Gas.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/This Heat - This Heat (1979) {1991 Eva Records WWCX2032 Japan} [FLAC]/This Heat.cue/9
 /mnt/synology/media/music/orpheus.network/flac/This Heat - This Heat (1979) {1991 Eva Records WWCX2032 Japan} [FLAC]/09 - Rainforest.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/This Heat - This Heat (1979) {1991 Eva Records WWCX2032 Japan} [FLAC]/This Heat.cue/10
 /mnt/synology/media/music/orpheus.network/flac/This Heat - This Heat (1979) {1991 Eva Records WWCX2032 Japan} [FLAC]/10 - The Fall of Saigon.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/This Heat - This Heat (1979) {1991 Eva Records WWCX2032 Japan} [FLAC]/This Heat.cue/11
 /mnt/synology/media/music/orpheus.network/flac/This Heat - This Heat (1979) {1991 Eva Records WWCX2032 Japan} [FLAC]/11 - Testcard.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/This Heat - Deceit (1981) {1991 These Records HEAT 2 CD UK} [FLAC]/Deceit.cue/1
 /mnt/synology/media/music/orpheus.network/flac/This Heat - Deceit (1981) {1991 These Records HEAT 2 CD UK} [FLAC]/01 - Sleep.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/This Heat - Deceit (1981) {1991 These Records HEAT 2 CD UK} [FLAC]/Deceit.cue/2
 /mnt/synology/media/music/orpheus.network/flac/This Heat - Deceit (1981) {1991 These Records HEAT 2 CD UK} [FLAC]/02 - Paper Hats.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/This Heat - Deceit (1981) {1991 These Records HEAT 2 CD UK} [FLAC]/Deceit.cue/3
 /mnt/synology/media/music/orpheus.network/flac/This Heat - Deceit (1981) {1991 These Records HEAT 2 CD UK} [FLAC]/03 - Triumph.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/This Heat - Deceit (1981) {1991 These Records HEAT 2 CD UK} [FLAC]/Deceit.cue/4
 /mnt/synology/media/music/orpheus.network/flac/This Heat - Deceit (1981) {1991 These Records HEAT 2 CD UK} [FLAC]/04 - S.P.Q.R..flac
-cue:///mnt/synology/media/music/orpheus.network/flac/This Heat - Deceit (1981) {1991 These Records HEAT 2 CD UK} [FLAC]/Deceit.cue/5
 /mnt/synology/media/music/orpheus.network/flac/This Heat - Deceit (1981) {1991 These Records HEAT 2 CD UK} [FLAC]/05 - Cenotaph.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/This Heat - Deceit (1981) {1991 These Records HEAT 2 CD UK} [FLAC]/Deceit.cue/6
 /mnt/synology/media/music/orpheus.network/flac/This Heat - Deceit (1981) {1991 These Records HEAT 2 CD UK} [FLAC]/06 - Shrink Wrap.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/This Heat - Deceit (1981) {1991 These Records HEAT 2 CD UK} [FLAC]/Deceit.cue/7
 /mnt/synology/media/music/orpheus.network/flac/This Heat - Deceit (1981) {1991 These Records HEAT 2 CD UK} [FLAC]/07 - Radio Prague.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/This Heat - Deceit (1981) {1991 These Records HEAT 2 CD UK} [FLAC]/Deceit.cue/8
 /mnt/synology/media/music/orpheus.network/flac/This Heat - Deceit (1981) {1991 These Records HEAT 2 CD UK} [FLAC]/08 - Makeshift Swahili.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/This Heat - Deceit (1981) {1991 These Records HEAT 2 CD UK} [FLAC]/Deceit.cue/9
 /mnt/synology/media/music/orpheus.network/flac/This Heat - Deceit (1981) {1991 These Records HEAT 2 CD UK} [FLAC]/09 - Independence.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/This Heat - Deceit (1981) {1991 These Records HEAT 2 CD UK} [FLAC]/Deceit.cue/10
 /mnt/synology/media/music/orpheus.network/flac/This Heat - Deceit (1981) {1991 These Records HEAT 2 CD UK} [FLAC]/10 - A New Kind of Water.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/This Heat - Deceit (1981) {1991 These Records HEAT 2 CD UK} [FLAC]/Deceit.cue/11
 /mnt/synology/media/music/orpheus.network/flac/This Heat - Deceit (1981) {1991 These Records HEAT 2 CD UK} [FLAC]/11 - Hi Baku Shyo.flac
@@ -26740,7 +24712,6 @@ cue:///mnt/synology/media/music/orpheus.network/flac/This Heat - Deceit (1981) {
 /mnt/synology/media/music/orpheus.network/flac/This Will Destroy You - Young Mountain (2006) [FLAC] {2016 10th Anniversary Edition CD}/05 - Happiness- We're All In It Together.flac
 /mnt/synology/media/music/orpheus.network/flac/This Will Destroy You - Young Mountain (2006) [FLAC] {2016 10th Anniversary Edition CD}/06 - There Are Some Remedies Worse Than The Disease.flac
 /mnt/synology/media/music/orpheus.network/flac/This Will Destroy You - Young Mountain (2006) [FLAC] {2016 10th Anniversary Edition CD}/07 - Sleep.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Compilations - Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition) (2021) [FLAC]/Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition).cue/17
 /mnt/synology/media/music/orpheus.network/flac/Compilations - Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition) (2021) [FLAC]/17 The Hard Way In And The Easy Way Out.flac
 /mnt/synology/media/music/orpheus.network/flac/Three Days Grace - Three Days Grace (2003) - {82876-54379-2} - [CD - FLAC]/01 Burn.flac
 /mnt/synology/media/music/orpheus.network/flac/Three Days Grace - Three Days Grace (2003) - {82876-54379-2} - [CD - FLAC]/02 Just Like You.flac
@@ -26859,11 +24830,8 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Compilations - Fame- Jon Sa
 /mnt/synology/media/music/orpheus.network/flac/Tim Buckley - Starsailor (1970) [FLAC] {1989 Reissue Remastered 7 73505-2}/07 - Starsailor.flac
 /mnt/synology/media/music/orpheus.network/flac/Tim Buckley - Starsailor (1970) [FLAC] {1989 Reissue Remastered 7 73505-2}/08 - The Healing Festival.flac
 /mnt/synology/media/music/orpheus.network/flac/Tim Buckley - Starsailor (1970) [FLAC] {1989 Reissue Remastered 7 73505-2}/09 - Down to the Borderline.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Time Machines - Time Machines (1998) [dais 2017 DAIS 103] [FLAC]/Time Machines.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Time Machines - Time Machines (1998) [dais 2017 DAIS 103] [FLAC]/01 7-Methoxy-β-Carboline- (Telepathine).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Time Machines - Time Machines (1998) [dais 2017 DAIS 103] [FLAC]/Time Machines.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Time Machines - Time Machines (1998) [dais 2017 DAIS 103] [FLAC]/02 2,5-Dimethoxy-4-Ethyl-Amphetamine- (DOET-Hecate).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Time Machines - Time Machines (1998) [dais 2017 DAIS 103] [FLAC]/Time Machines.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Time Machines - Time Machines (1998) [dais 2017 DAIS 103] [FLAC]/03 5-Methoxy-N, N-Dimethyltryptamine- (5-MeO-DMT).flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Time Machines - Time Machines (1998) [dais 2017 DAIS 103] [FLAC]/Time Machines.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Time Machines - Time Machines (1998) [dais 2017 DAIS 103] [FLAC]/04 4-Indolol, 3-[2-(Dimethylamino)Ethyl], Phosphate Ester- (Psilocybin).flac
@@ -26930,23 +24898,14 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Time Machines - Time Machin
 /mnt/synology/media/music/orpheus.network/flac/Title Fight - Spring Songs [2013]/02. Be a Toy.flac
 /mnt/synology/media/music/orpheus.network/flac/Title Fight - Spring Songs [2013]/03. Receiving Line.flac
 /mnt/synology/media/music/orpheus.network/flac/Title Fight - Spring Songs [2013]/04. Hypnotize.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Title Fight - Hyperview [FLAC]/Hyperview.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Title Fight - Hyperview [FLAC]/01 Murder Your Memory.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Title Fight - Hyperview [FLAC]/Hyperview.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Title Fight - Hyperview [FLAC]/02 Chlorine.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Title Fight - Hyperview [FLAC]/Hyperview.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Title Fight - Hyperview [FLAC]/03 Hypernight.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Title Fight - Hyperview [FLAC]/Hyperview.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Title Fight - Hyperview [FLAC]/04 Mrahc.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Title Fight - Hyperview [FLAC]/Hyperview.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Title Fight - Hyperview [FLAC]/05 Your Pain is Mine Now.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Title Fight - Hyperview [FLAC]/Hyperview.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Title Fight - Hyperview [FLAC]/06 Rose of Sharon.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Title Fight - Hyperview [FLAC]/Hyperview.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Title Fight - Hyperview [FLAC]/07 Trace Me Onto You.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Title Fight - Hyperview [FLAC]/Hyperview.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Title Fight - Hyperview [FLAC]/08 Liar's Love.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Title Fight - Hyperview [FLAC]/Hyperview.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Title Fight - Hyperview [FLAC]/09 Dizzy.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Title Fight - Hyperview [FLAC]/Hyperview.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Title Fight - Hyperview [FLAC]/10 New Vision.flac
@@ -27119,97 +25078,54 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Title Fight - Hyperview [FL
 /mnt/synology/media/music/orpheus.network/flac/Tom Waits - Bone Machine  (1992) flac/14 - I Don't Wanna Grow Up.flac
 /mnt/synology/media/music/orpheus.network/flac/Tom Waits - Bone Machine  (1992) flac/15 - Let Me Get Up on It.flac
 /mnt/synology/media/music/orpheus.network/flac/Tom Waits - Bone Machine  (1992) flac/16 - That Feel.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Tool - Ænima (1996) [Volcano Records 61422-31087-2 US] [Flac]/Ænima.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Tool - Ænima (1996) [Volcano Records 61422-31087-2 US] [Flac]/01 Tool - Stinkfist.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Tool - Ænima (1996) [Volcano Records 61422-31087-2 US] [Flac]/Ænima.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Tool - Ænima (1996) [Volcano Records 61422-31087-2 US] [Flac]/02 Tool - Eulogy.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Tool - Ænima (1996) [Volcano Records 61422-31087-2 US] [Flac]/Ænima.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Tool - Ænima (1996) [Volcano Records 61422-31087-2 US] [Flac]/03 Tool - H..flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Tool - Ænima (1996) [Volcano Records 61422-31087-2 US] [Flac]/Ænima.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Tool - Ænima (1996) [Volcano Records 61422-31087-2 US] [Flac]/04 Tool - Useful Idiot.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Tool - Ænima (1996) [Volcano Records 61422-31087-2 US] [Flac]/Ænima.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Tool - Ænima (1996) [Volcano Records 61422-31087-2 US] [Flac]/05 Tool - Forty Six & 2.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Tool - Ænima (1996) [Volcano Records 61422-31087-2 US] [Flac]/Ænima.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Tool - Ænima (1996) [Volcano Records 61422-31087-2 US] [Flac]/06 Tool - Message To Harry Manback.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Tool - Ænima (1996) [Volcano Records 61422-31087-2 US] [Flac]/Ænima.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Tool - Ænima (1996) [Volcano Records 61422-31087-2 US] [Flac]/07 Tool - Hooker With A Penis.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Tool - Ænima (1996) [Volcano Records 61422-31087-2 US] [Flac]/Ænima.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Tool - Ænima (1996) [Volcano Records 61422-31087-2 US] [Flac]/08 Tool - Intermission.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Tool - Ænima (1996) [Volcano Records 61422-31087-2 US] [Flac]/Ænima.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Tool - Ænima (1996) [Volcano Records 61422-31087-2 US] [Flac]/09 Tool - Jimmy.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Tool - Ænima (1996) [Volcano Records 61422-31087-2 US] [Flac]/Ænima.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Tool - Ænima (1996) [Volcano Records 61422-31087-2 US] [Flac]/10 Tool - Die Eier Von Satan.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Tool - Ænima (1996) [Volcano Records 61422-31087-2 US] [Flac]/Ænima.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Tool - Ænima (1996) [Volcano Records 61422-31087-2 US] [Flac]/11 Tool - Pushit.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Tool - Ænima (1996) [Volcano Records 61422-31087-2 US] [Flac]/Ænima.cue/12
 /mnt/synology/media/music/orpheus.network/flac/Tool - Ænima (1996) [Volcano Records 61422-31087-2 US] [Flac]/12 Tool - Cesaro Summability.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Tool - Ænima (1996) [Volcano Records 61422-31087-2 US] [Flac]/Ænima.cue/13
 /mnt/synology/media/music/orpheus.network/flac/Tool - Ænima (1996) [Volcano Records 61422-31087-2 US] [Flac]/13 Tool - Ænema.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Tool - Ænima (1996) [Volcano Records 61422-31087-2 US] [Flac]/Ænima.cue/14
 /mnt/synology/media/music/orpheus.network/flac/Tool - Ænima (1996) [Volcano Records 61422-31087-2 US] [Flac]/14 Tool - (-) Ions.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Tool - Ænima (1996) [Volcano Records 61422-31087-2 US] [Flac]/Ænima.cue/15
 /mnt/synology/media/music/orpheus.network/flac/Tool - Ænima (1996) [Volcano Records 61422-31087-2 US] [Flac]/15 Tool - Third Eye.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Tool - Salival (2000) [Volcano Records 61422-31158-2 VHS LTD BLK US ] [Flac]/Salival.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Tool - Salival (2000) [Volcano Records 61422-31158-2 VHS LTD BLK US ] [Flac]/01 Tool - Third Eye .flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Tool - Salival (2000) [Volcano Records 61422-31158-2 VHS LTD BLK US ] [Flac]/Salival.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Tool - Salival (2000) [Volcano Records 61422-31158-2 VHS LTD BLK US ] [Flac]/02 Tool - Part Of Me .flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Tool - Salival (2000) [Volcano Records 61422-31158-2 VHS LTD BLK US ] [Flac]/Salival.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Tool - Salival (2000) [Volcano Records 61422-31158-2 VHS LTD BLK US ] [Flac]/03 Tool - Pushit .flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Tool - Salival (2000) [Volcano Records 61422-31158-2 VHS LTD BLK US ] [Flac]/Salival.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Tool - Salival (2000) [Volcano Records 61422-31158-2 VHS LTD BLK US ] [Flac]/04 Tool - Message To Harry Manback II.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Tool - Salival (2000) [Volcano Records 61422-31158-2 VHS LTD BLK US ] [Flac]/Salival.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Tool - Salival (2000) [Volcano Records 61422-31158-2 VHS LTD BLK US ] [Flac]/05 Tool - You Lied .flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Tool - Salival (2000) [Volcano Records 61422-31158-2 VHS LTD BLK US ] [Flac]/Salival.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Tool - Salival (2000) [Volcano Records 61422-31158-2 VHS LTD BLK US ] [Flac]/06 Tool - Merkaba .flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Tool - Salival (2000) [Volcano Records 61422-31158-2 VHS LTD BLK US ] [Flac]/Salival.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Tool - Salival (2000) [Volcano Records 61422-31158-2 VHS LTD BLK US ] [Flac]/07 Tool - No Quarter.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Tool - Salival (2000) [Volcano Records 61422-31158-2 VHS LTD BLK US ] [Flac]/Salival.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Tool - Salival (2000) [Volcano Records 61422-31158-2 VHS LTD BLK US ] [Flac]/08 Tool - L.A.M.C..flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Tool - Lateralus [FLAC] (2001)/Lateralus.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Tool - Lateralus [FLAC] (2001)/01 - The Grudge.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Tool - Lateralus [FLAC] (2001)/Lateralus.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Tool - Lateralus [FLAC] (2001)/02 - Eon Blue Apocalypse.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Tool - Lateralus [FLAC] (2001)/Lateralus.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Tool - Lateralus [FLAC] (2001)/03 - The Patient.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Tool - Lateralus [FLAC] (2001)/Lateralus.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Tool - Lateralus [FLAC] (2001)/04 - Mantra.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Tool - Lateralus [FLAC] (2001)/Lateralus.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Tool - Lateralus [FLAC] (2001)/05 - Schism.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Tool - Lateralus [FLAC] (2001)/Lateralus.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Tool - Lateralus [FLAC] (2001)/06 - Parabol.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Tool - Lateralus [FLAC] (2001)/Lateralus.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Tool - Lateralus [FLAC] (2001)/07 - Parabola.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Tool - Lateralus [FLAC] (2001)/Lateralus.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Tool - Lateralus [FLAC] (2001)/08 - Ticks & Leeches.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Tool - Lateralus [FLAC] (2001)/Lateralus.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Tool - Lateralus [FLAC] (2001)/09 - Lateralus.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Tool - Lateralus [FLAC] (2001)/Lateralus.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Tool - Lateralus [FLAC] (2001)/10 - Disposition.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Tool - Lateralus [FLAC] (2001)/Lateralus.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Tool - Lateralus [FLAC] (2001)/11 - Reflection.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Tool - Lateralus [FLAC] (2001)/Lateralus.cue/12
 /mnt/synology/media/music/orpheus.network/flac/Tool - Lateralus [FLAC] (2001)/12 - Triad.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Tool - Lateralus [FLAC] (2001)/Lateralus.cue/13
 /mnt/synology/media/music/orpheus.network/flac/Tool - Lateralus [FLAC] (2001)/13 - Faaip De Oaid.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Tool - 10,000 Days (2006) [Volcano Records 82876-81991-2] [Flac]/10,000 Days .cue/1
 /mnt/synology/media/music/orpheus.network/flac/Tool - 10,000 Days (2006) [Volcano Records 82876-81991-2] [Flac]/01 Tool - Vicarious.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Tool - 10,000 Days (2006) [Volcano Records 82876-81991-2] [Flac]/10,000 Days .cue/2
 /mnt/synology/media/music/orpheus.network/flac/Tool - 10,000 Days (2006) [Volcano Records 82876-81991-2] [Flac]/02 Tool - Jambi.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Tool - 10,000 Days (2006) [Volcano Records 82876-81991-2] [Flac]/10,000 Days .cue/3
 /mnt/synology/media/music/orpheus.network/flac/Tool - 10,000 Days (2006) [Volcano Records 82876-81991-2] [Flac]/03 Tool - Wings For Marie (Part I).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Tool - 10,000 Days (2006) [Volcano Records 82876-81991-2] [Flac]/10,000 Days .cue/4
 /mnt/synology/media/music/orpheus.network/flac/Tool - 10,000 Days (2006) [Volcano Records 82876-81991-2] [Flac]/04 Tool - 10,000 Days (Wings, Part II).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Tool - 10,000 Days (2006) [Volcano Records 82876-81991-2] [Flac]/10,000 Days .cue/5
 /mnt/synology/media/music/orpheus.network/flac/Tool - 10,000 Days (2006) [Volcano Records 82876-81991-2] [Flac]/05 Tool - The Pot.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Tool - 10,000 Days (2006) [Volcano Records 82876-81991-2] [Flac]/10,000 Days .cue/6
 /mnt/synology/media/music/orpheus.network/flac/Tool - 10,000 Days (2006) [Volcano Records 82876-81991-2] [Flac]/06 Tool - Lipan Conjuring.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Tool - 10,000 Days (2006) [Volcano Records 82876-81991-2] [Flac]/10,000 Days .cue/7
 /mnt/synology/media/music/orpheus.network/flac/Tool - 10,000 Days (2006) [Volcano Records 82876-81991-2] [Flac]/07 Tool - Lost Keys (Blame Hoffmann).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Tool - 10,000 Days (2006) [Volcano Records 82876-81991-2] [Flac]/10,000 Days .cue/8
 /mnt/synology/media/music/orpheus.network/flac/Tool - 10,000 Days (2006) [Volcano Records 82876-81991-2] [Flac]/08 Tool - Rosetta Stoned.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Tool - 10,000 Days (2006) [Volcano Records 82876-81991-2] [Flac]/10,000 Days .cue/9
 /mnt/synology/media/music/orpheus.network/flac/Tool - 10,000 Days (2006) [Volcano Records 82876-81991-2] [Flac]/09 Tool - Intension.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Tool - 10,000 Days (2006) [Volcano Records 82876-81991-2] [Flac]/10,000 Days .cue/10
 /mnt/synology/media/music/orpheus.network/flac/Tool - 10,000 Days (2006) [Volcano Records 82876-81991-2] [Flac]/10 Tool - Right In Two.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Tool - 10,000 Days (2006) [Volcano Records 82876-81991-2] [Flac]/10,000 Days .cue/11
 /mnt/synology/media/music/orpheus.network/flac/Tool - 10,000 Days (2006) [Volcano Records 82876-81991-2] [Flac]/11 Tool - Viginti Tres.flac
@@ -27262,23 +25178,14 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Tool - 10,000 Days (2006) [
 /mnt/synology/media/music/orpheus.network/flac/Tortoise - TNT (1998) [FLAC]/10 Almost Always Is Nearly Enough.flac
 /mnt/synology/media/music/orpheus.network/flac/Tortoise - TNT (1998) [FLAC]/11 Jetty.flac
 /mnt/synology/media/music/orpheus.network/flac/Tortoise - TNT (1998) [FLAC]/12 Everglade.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Toto - Toto (1978) [FLAC] (32DP 180 CBS-SONY 1985)/Toto.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Toto - Toto (1978) [FLAC] (32DP 180 CBS-SONY 1985)/01 - Child's Anthem.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Toto - Toto (1978) [FLAC] (32DP 180 CBS-SONY 1985)/Toto.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Toto - Toto (1978) [FLAC] (32DP 180 CBS-SONY 1985)/02 - I'll Supply the Love.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Toto - Toto (1978) [FLAC] (32DP 180 CBS-SONY 1985)/Toto.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Toto - Toto (1978) [FLAC] (32DP 180 CBS-SONY 1985)/03 - Georgy Porgy.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Toto - Toto (1978) [FLAC] (32DP 180 CBS-SONY 1985)/Toto.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Toto - Toto (1978) [FLAC] (32DP 180 CBS-SONY 1985)/04 - Manuela Run.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Toto - Toto (1978) [FLAC] (32DP 180 CBS-SONY 1985)/Toto.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Toto - Toto (1978) [FLAC] (32DP 180 CBS-SONY 1985)/05 - You Are the Flower.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Toto - Toto (1978) [FLAC] (32DP 180 CBS-SONY 1985)/Toto.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Toto - Toto (1978) [FLAC] (32DP 180 CBS-SONY 1985)/06 - Girl Goodbye.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Toto - Toto (1978) [FLAC] (32DP 180 CBS-SONY 1985)/Toto.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Toto - Toto (1978) [FLAC] (32DP 180 CBS-SONY 1985)/07 - Takin' It Back.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Toto - Toto (1978) [FLAC] (32DP 180 CBS-SONY 1985)/Toto.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Toto - Toto (1978) [FLAC] (32DP 180 CBS-SONY 1985)/08 - Rockmaker.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Toto - Toto (1978) [FLAC] (32DP 180 CBS-SONY 1985)/Toto.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Toto - Toto (1978) [FLAC] (32DP 180 CBS-SONY 1985)/09 - Hold the Line.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Toto - Toto (1978) [FLAC] (32DP 180 CBS-SONY 1985)/Toto.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Toto - Toto (1978) [FLAC] (32DP 180 CBS-SONY 1985)/10 - Angela.flac
@@ -27307,25 +25214,15 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Toto - Toto (1978) [FLAC] (
 /mnt/synology/media/music/orpheus.network/flac/Trapt - Trapt (2002) [9 48296-2] {CD - FLAC}/09 - Enigma.flac
 /mnt/synology/media/music/orpheus.network/flac/Trapt - Trapt (2002) [9 48296-2] {CD - FLAC}/10 - Stories.flac
 /mnt/synology/media/music/orpheus.network/flac/Trapt - Trapt (2002) [9 48296-2] {CD - FLAC}/11 - New Beginning.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/T. Rex - Electric Warrior (1990) [FLAC]/Electric Warrior.cue/1
 /mnt/synology/media/music/orpheus.network/flac/T. Rex - Electric Warrior (1990) [FLAC]/01 Mambo Sun.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/T. Rex - Electric Warrior (1990) [FLAC]/Electric Warrior.cue/2
 /mnt/synology/media/music/orpheus.network/flac/T. Rex - Electric Warrior (1990) [FLAC]/02 Cosmic Dancer.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/T. Rex - Electric Warrior (1990) [FLAC]/Electric Warrior.cue/3
 /mnt/synology/media/music/orpheus.network/flac/T. Rex - Electric Warrior (1990) [FLAC]/03 Jeepster.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/T. Rex - Electric Warrior (1990) [FLAC]/Electric Warrior.cue/4
 /mnt/synology/media/music/orpheus.network/flac/T. Rex - Electric Warrior (1990) [FLAC]/04 Monolith.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/T. Rex - Electric Warrior (1990) [FLAC]/Electric Warrior.cue/5
 /mnt/synology/media/music/orpheus.network/flac/T. Rex - Electric Warrior (1990) [FLAC]/05 Lean Woman Blues.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/T. Rex - Electric Warrior (1990) [FLAC]/Electric Warrior.cue/6
 /mnt/synology/media/music/orpheus.network/flac/T. Rex - Electric Warrior (1990) [FLAC]/06 Bang a Gong (Get It On).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/T. Rex - Electric Warrior (1990) [FLAC]/Electric Warrior.cue/7
 /mnt/synology/media/music/orpheus.network/flac/T. Rex - Electric Warrior (1990) [FLAC]/07 Planet Queen.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/T. Rex - Electric Warrior (1990) [FLAC]/Electric Warrior.cue/8
 /mnt/synology/media/music/orpheus.network/flac/T. Rex - Electric Warrior (1990) [FLAC]/08 Girl.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/T. Rex - Electric Warrior (1990) [FLAC]/Electric Warrior.cue/9
 /mnt/synology/media/music/orpheus.network/flac/T. Rex - Electric Warrior (1990) [FLAC]/09 The Motivator.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/T. Rex - Electric Warrior (1990) [FLAC]/Electric Warrior.cue/10
 /mnt/synology/media/music/orpheus.network/flac/T. Rex - Electric Warrior (1990) [FLAC]/10 Life's a Gas.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/T. Rex - Electric Warrior (1990) [FLAC]/Electric Warrior.cue/11
 /mnt/synology/media/music/orpheus.network/flac/T. Rex - Electric Warrior (1990) [FLAC]/11 Rip Off.flac
@@ -27360,28 +25257,17 @@ cue:///mnt/synology/media/music/orpheus.network/flac/T. Rex - Electric Warrior (
 /mnt/synology/media/music/orpheus.network/flac/tricot - KABUKU EP (2016) [CD FLAC] {XQMZ-1001}/03 - あーあ.flac
 /mnt/synology/media/music/orpheus.network/flac/tricot - KABUKU EP (2016) [CD FLAC] {XQMZ-1001}/04 - プラスチック.flac
 /mnt/synology/media/music/orpheus.network/flac/tricot - KABUKU EP (2016) [CD FLAC] {XQMZ-1001}/05 - 青い癖.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/tricot - 3 (2017) [FLAC]/3.cue/1
 /mnt/synology/media/music/orpheus.network/flac/tricot - 3 (2017) [FLAC]/01 TOKYO VAMPIRE HOTEL.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/tricot - 3 (2017) [FLAC]/3.cue/2
 /mnt/synology/media/music/orpheus.network/flac/tricot - 3 (2017) [FLAC]/02 WABI-SABI.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/tricot - 3 (2017) [FLAC]/3.cue/3
 /mnt/synology/media/music/orpheus.network/flac/tricot - 3 (2017) [FLAC]/03 よそいき.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/tricot - 3 (2017) [FLAC]/3.cue/4
 /mnt/synology/media/music/orpheus.network/flac/tricot - 3 (2017) [FLAC]/04 DeDeDe.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/tricot - 3 (2017) [FLAC]/3.cue/5
 /mnt/synology/media/music/orpheus.network/flac/tricot - 3 (2017) [FLAC]/05 スキマ.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/tricot - 3 (2017) [FLAC]/3.cue/6
 /mnt/synology/media/music/orpheus.network/flac/tricot - 3 (2017) [FLAC]/06 pork side.flac
 /mnt/synology/media/music/orpheus.network/flac/tricot - 3 (2017) [FLAC]/07 ポークジンジャー.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/tricot - 3 (2017) [FLAC]/3.cue/8
 /mnt/synology/media/music/orpheus.network/flac/tricot - 3 (2017) [FLAC]/08 エコー.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/tricot - 3 (2017) [FLAC]/3.cue/9
 /mnt/synology/media/music/orpheus.network/flac/tricot - 3 (2017) [FLAC]/09 18, 19.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/tricot - 3 (2017) [FLAC]/3.cue/10
 /mnt/synology/media/music/orpheus.network/flac/tricot - 3 (2017) [FLAC]/10 南無.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/tricot - 3 (2017) [FLAC]/3.cue/11
 /mnt/synology/media/music/orpheus.network/flac/tricot - 3 (2017) [FLAC]/11 MUNASAWAGI.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/tricot - 3 (2017) [FLAC]/3.cue/12
 /mnt/synology/media/music/orpheus.network/flac/tricot - 3 (2017) [FLAC]/12 節約家.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/tricot - 3 (2017) [FLAC]/3.cue/13
 /mnt/synology/media/music/orpheus.network/flac/tricot - 3 (2017) [FLAC]/13 メロンソーダ.flac
@@ -27503,25 +25389,15 @@ cue:///mnt/synology/media/music/orpheus.network/flac/tricot - 3 (2017) [FLAC]/3.
 /mnt/synology/media/music/orpheus.network/flac/Turnover – Blue Dream [2014]/01 Disintegration.flac
 /mnt/synology/media/music/orpheus.network/flac/Turnover – Blue Dream [2014]/02 Read My Mind.flac
 /mnt/synology/media/music/orpheus.network/flac/Turnover – Blue Dream [2014]/03 Bella Donna.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Turnover - Peripheral Vision (2015)/Peripheral Vision.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Turnover - Peripheral Vision (2015)/01-01 Cutting My Fingers Off.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Turnover - Peripheral Vision (2015)/Peripheral Vision.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Turnover - Peripheral Vision (2015)/01-02 New Scream.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Turnover - Peripheral Vision (2015)/Peripheral Vision.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Turnover - Peripheral Vision (2015)/01-03 Humming.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Turnover - Peripheral Vision (2015)/Peripheral Vision.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Turnover - Peripheral Vision (2015)/01-04 Hello Euphoria.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Turnover - Peripheral Vision (2015)/Peripheral Vision.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Turnover - Peripheral Vision (2015)/01-05 Dizzy On The Comedown.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Turnover - Peripheral Vision (2015)/Peripheral Vision.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Turnover - Peripheral Vision (2015)/01-06 Diazepam.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Turnover - Peripheral Vision (2015)/Peripheral Vision.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Turnover - Peripheral Vision (2015)/01-07 Like Slow Disappearing.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Turnover - Peripheral Vision (2015)/Peripheral Vision.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Turnover - Peripheral Vision (2015)/01-08 Take My Head.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Turnover - Peripheral Vision (2015)/Peripheral Vision.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Turnover - Peripheral Vision (2015)/01-09 Threshold.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Turnover - Peripheral Vision (2015)/Peripheral Vision.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Turnover - Peripheral Vision (2015)/01-10 I Would Hate You If I Could.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Turnover - Peripheral Vision (2015)/Peripheral Vision.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Turnover - Peripheral Vision (2015)/01-11 Intrapersonal.flac
@@ -27611,14 +25487,6 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Turnover - Peripheral Visio
 /mnt/synology/media/music/orpheus.network/flac/Twigs & Yarn - The Language of Flowers (2012)/10 - Marigold Ride.flac
 /mnt/synology/media/music/orpheus.network/flac/Twigs & Yarn - The Language of Flowers (2012)/11 - Strings of Complacency.flac
 /mnt/synology/media/music/orpheus.network/flac/Twigs & Yarn - The Language of Flowers (2012)/12 - Learning to Glisten.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Two Door Cinema Club - Tourist History (2010) [FLAC]/Tourist History.cue/1
-cue:///mnt/synology/media/music/orpheus.network/flac/Two Door Cinema Club - Tourist History (2010) [FLAC]/Tourist History.cue/2
-cue:///mnt/synology/media/music/orpheus.network/flac/Two Door Cinema Club - Tourist History (2010) [FLAC]/Tourist History.cue/3
-cue:///mnt/synology/media/music/orpheus.network/flac/Two Door Cinema Club - Tourist History (2010) [FLAC]/Tourist History.cue/4
-cue:///mnt/synology/media/music/orpheus.network/flac/Two Door Cinema Club - Tourist History (2010) [FLAC]/Tourist History.cue/6
-cue:///mnt/synology/media/music/orpheus.network/flac/Two Door Cinema Club - Tourist History (2010) [FLAC]/Tourist History.cue/7
-cue:///mnt/synology/media/music/orpheus.network/flac/Two Door Cinema Club - Tourist History (2010) [FLAC]/Tourist History.cue/8
-cue:///mnt/synology/media/music/orpheus.network/flac/Two Door Cinema Club - Tourist History (2010) [FLAC]/Tourist History.cue/9
 cue:///mnt/synology/media/music/orpheus.network/flac/Two Door Cinema Club - Tourist History (2010) [FLAC]/Tourist History.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Two Door Cinema Club - Tourist History (2010) [FLAC]/01 - Cigarettes in the Theatre.flac
 /mnt/synology/media/music/orpheus.network/flac/Two Door Cinema Club - Tourist History (2010) [FLAC]/02 - Come Back Home.flac
@@ -27630,33 +25498,19 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Two Door Cinema Club - Tour
 /mnt/synology/media/music/orpheus.network/flac/Two Door Cinema Club - Tourist History (2010) [FLAC]/08 - What You Know.flac
 /mnt/synology/media/music/orpheus.network/flac/Two Door Cinema Club - Tourist History (2010) [FLAC]/09 - Eat That Up, It’s Good for You.flac
 /mnt/synology/media/music/orpheus.network/flac/Two Door Cinema Club - Tourist History (2010) [FLAC]/10 - You’re Not Stubborn.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Type O Negative - Life Is Killing Me (2003) [Roadrunner Records 168 618 438-2 US] [Flac]/Life Is Killing Me.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Type O Negative - Life Is Killing Me (2003) [Roadrunner Records 168 618 438-2 US] [Flac]/01 Type O Negative - Thir13teen.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Type O Negative - Life Is Killing Me (2003) [Roadrunner Records 168 618 438-2 US] [Flac]/Life Is Killing Me.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Type O Negative - Life Is Killing Me (2003) [Roadrunner Records 168 618 438-2 US] [Flac]/02 Type O Negative - I Don't Wanna Be Me.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Type O Negative - Life Is Killing Me (2003) [Roadrunner Records 168 618 438-2 US] [Flac]/Life Is Killing Me.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Type O Negative - Life Is Killing Me (2003) [Roadrunner Records 168 618 438-2 US] [Flac]/03 Type O Negative - Less Than Zero (0).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Type O Negative - Life Is Killing Me (2003) [Roadrunner Records 168 618 438-2 US] [Flac]/Life Is Killing Me.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Type O Negative - Life Is Killing Me (2003) [Roadrunner Records 168 618 438-2 US] [Flac]/04 Type O Negative - Todd's Ship Gods (Above All Things).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Type O Negative - Life Is Killing Me (2003) [Roadrunner Records 168 618 438-2 US] [Flac]/Life Is Killing Me.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Type O Negative - Life Is Killing Me (2003) [Roadrunner Records 168 618 438-2 US] [Flac]/05 Type O Negative - I Like Goils.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Type O Negative - Life Is Killing Me (2003) [Roadrunner Records 168 618 438-2 US] [Flac]/Life Is Killing Me.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Type O Negative - Life Is Killing Me (2003) [Roadrunner Records 168 618 438-2 US] [Flac]/06 Type O Negative - ...A Dish Best Served Coldly.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Type O Negative - Life Is Killing Me (2003) [Roadrunner Records 168 618 438-2 US] [Flac]/Life Is Killing Me.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Type O Negative - Life Is Killing Me (2003) [Roadrunner Records 168 618 438-2 US] [Flac]/07 Type O Negative - How Could She.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Type O Negative - Life Is Killing Me (2003) [Roadrunner Records 168 618 438-2 US] [Flac]/Life Is Killing Me.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Type O Negative - Life Is Killing Me (2003) [Roadrunner Records 168 618 438-2 US] [Flac]/08 Type O Negative - Life Is Killing Me.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Type O Negative - Life Is Killing Me (2003) [Roadrunner Records 168 618 438-2 US] [Flac]/Life Is Killing Me.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Type O Negative - Life Is Killing Me (2003) [Roadrunner Records 168 618 438-2 US] [Flac]/09 Type O Negative - Nettie.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Type O Negative - Life Is Killing Me (2003) [Roadrunner Records 168 618 438-2 US] [Flac]/Life Is Killing Me.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Type O Negative - Life Is Killing Me (2003) [Roadrunner Records 168 618 438-2 US] [Flac]/10 Type O Negative - (We Were) Electrocute.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Type O Negative - Life Is Killing Me (2003) [Roadrunner Records 168 618 438-2 US] [Flac]/Life Is Killing Me.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Type O Negative - Life Is Killing Me (2003) [Roadrunner Records 168 618 438-2 US] [Flac]/11 Type O Negative - IYDKMIGTHTKY (Gimme That).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Type O Negative - Life Is Killing Me (2003) [Roadrunner Records 168 618 438-2 US] [Flac]/Life Is Killing Me.cue/12
 /mnt/synology/media/music/orpheus.network/flac/Type O Negative - Life Is Killing Me (2003) [Roadrunner Records 168 618 438-2 US] [Flac]/12 Type O Negative - Angry Inch.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Type O Negative - Life Is Killing Me (2003) [Roadrunner Records 168 618 438-2 US] [Flac]/Life Is Killing Me.cue/13
 /mnt/synology/media/music/orpheus.network/flac/Type O Negative - Life Is Killing Me (2003) [Roadrunner Records 168 618 438-2 US] [Flac]/13 Type O Negative - Anesthesia.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Type O Negative - Life Is Killing Me (2003) [Roadrunner Records 168 618 438-2 US] [Flac]/Life Is Killing Me.cue/14
 /mnt/synology/media/music/orpheus.network/flac/Type O Negative - Life Is Killing Me (2003) [Roadrunner Records 168 618 438-2 US] [Flac]/14 Type O Negative - Drunk In Paris.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Type O Negative - Life Is Killing Me (2003) [Roadrunner Records 168 618 438-2 US] [Flac]/Life Is Killing Me.cue/15
 /mnt/synology/media/music/orpheus.network/flac/Type O Negative - Life Is Killing Me (2003) [Roadrunner Records 168 618 438-2 US] [Flac]/15 Type O Negative - The Dream Is Dead.flac
@@ -27754,29 +25608,17 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Type O Negative - Life Is K
 /mnt/synology/media/music/orpheus.network/flac/Underground Lovers [1992] Leaves Me Blind [Polydor 517 436-2 - CD] [flac]/11. Whisper Me Nothing.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Underoath - They're Only Chasing Safety [Special Edition] [CD] [FLAC]/They’re Only Chasing Safety.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Underoath - They're Only Chasing Safety [Special Edition] [CD] [FLAC]/01 Young and Aspiring.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Underoath - They're Only Chasing Safety [Special Edition] [CD] [FLAC]/They’re Only Chasing Safety.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Underoath - They're Only Chasing Safety [Special Edition] [CD] [FLAC]/02 A Boy Brushed Red… Living in Black and White.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Underoath - They're Only Chasing Safety [Special Edition] [CD] [FLAC]/They’re Only Chasing Safety.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Underoath - They're Only Chasing Safety [Special Edition] [CD] [FLAC]/03 The Impact of Reason.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Underoath - They're Only Chasing Safety [Special Edition] [CD] [FLAC]/They’re Only Chasing Safety.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Underoath - They're Only Chasing Safety [Special Edition] [CD] [FLAC]/04 Reinventing Your Exit.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Underoath - They're Only Chasing Safety [Special Edition] [CD] [FLAC]/They’re Only Chasing Safety.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Underoath - They're Only Chasing Safety [Special Edition] [CD] [FLAC]/05 The Blue Note.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Underoath - They're Only Chasing Safety [Special Edition] [CD] [FLAC]/They’re Only Chasing Safety.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Underoath - They're Only Chasing Safety [Special Edition] [CD] [FLAC]/06 It’s Dangerous Business Walking Out Your Front Door.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Underoath - They're Only Chasing Safety [Special Edition] [CD] [FLAC]/They’re Only Chasing Safety.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Underoath - They're Only Chasing Safety [Special Edition] [CD] [FLAC]/07 Down, Set, Go.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Underoath - They're Only Chasing Safety [Special Edition] [CD] [FLAC]/They’re Only Chasing Safety.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Underoath - They're Only Chasing Safety [Special Edition] [CD] [FLAC]/08 I Don’t Feel Very Receptive Today.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Underoath - They're Only Chasing Safety [Special Edition] [CD] [FLAC]/They’re Only Chasing Safety.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Underoath - They're Only Chasing Safety [Special Edition] [CD] [FLAC]/09 I’m Content With Losing.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Underoath - They're Only Chasing Safety [Special Edition] [CD] [FLAC]/They’re Only Chasing Safety.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Underoath - They're Only Chasing Safety [Special Edition] [CD] [FLAC]/10 Some Will Seek Forgiveness, Others Escape.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Underoath - They're Only Chasing Safety [Special Edition] [CD] [FLAC]/They’re Only Chasing Safety.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Underoath - They're Only Chasing Safety [Special Edition] [CD] [FLAC]/11 I’ve Got 10 Friends and a Crowbar That Says You Ain’t Gonna Do Jack.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Underoath - They're Only Chasing Safety [Special Edition] [CD] [FLAC]/They’re Only Chasing Safety.cue/12
 /mnt/synology/media/music/orpheus.network/flac/Underoath - They're Only Chasing Safety [Special Edition] [CD] [FLAC]/12 The 80’s Song.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Underoath - They're Only Chasing Safety [Special Edition] [CD] [FLAC]/They’re Only Chasing Safety.cue/13
 /mnt/synology/media/music/orpheus.network/flac/Underoath - They're Only Chasing Safety [Special Edition] [CD] [FLAC]/13 You’re So Intricate.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Underoath - They're Only Chasing Safety [Special Edition] [CD] [FLAC]/They’re Only Chasing Safety.cue/14
 /mnt/synology/media/music/orpheus.network/flac/Underoath - They're Only Chasing Safety [Special Edition] [CD] [FLAC]/14 SmicTague.flac
@@ -27813,31 +25655,18 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Underoath - They're Only Ch
 /mnt/synology/media/music/orpheus.network/flac/Underworld - Second Toughest in the Infants (1996) [flac]/06. Air Towel.flac
 /mnt/synology/media/music/orpheus.network/flac/Underworld - Second Toughest in the Infants (1996) [flac]/07. Blueski.flac
 /mnt/synology/media/music/orpheus.network/flac/Underworld - Second Toughest in the Infants (1996) [flac]/08. Stagger.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Unida - Coping With the Urban Coyote (1999) [FLAC] {CSDCD1229}/Coping with the Urban Coyote.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Unida - Coping With the Urban Coyote (1999) [FLAC] {CSDCD1229}/01 - Thorn.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Unida - Coping With the Urban Coyote (1999) [FLAC] {CSDCD1229}/Coping with the Urban Coyote.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Unida - Coping With the Urban Coyote (1999) [FLAC] {CSDCD1229}/02 - Black Woman.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Unida - Coping With the Urban Coyote (1999) [FLAC] {CSDCD1229}/Coping with the Urban Coyote.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Unida - Coping With the Urban Coyote (1999) [FLAC] {CSDCD1229}/03 - You Wish.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Unida - Coping With the Urban Coyote (1999) [FLAC] {CSDCD1229}/Coping with the Urban Coyote.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Unida - Coping With the Urban Coyote (1999) [FLAC] {CSDCD1229}/04 - Human Tornado.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Unida - Coping With the Urban Coyote (1999) [FLAC] {CSDCD1229}/Coping with the Urban Coyote.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Unida - Coping With the Urban Coyote (1999) [FLAC] {CSDCD1229}/05 - If Only Two.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Unida - Coping With the Urban Coyote (1999) [FLAC] {CSDCD1229}/Coping with the Urban Coyote.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Unida - Coping With the Urban Coyote (1999) [FLAC] {CSDCD1229}/06 - Nervous.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Unida - Coping With the Urban Coyote (1999) [FLAC] {CSDCD1229}/Coping with the Urban Coyote.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Unida - Coping With the Urban Coyote (1999) [FLAC] {CSDCD1229}/07 - Dwarf It.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Unida - Coping With the Urban Coyote (1999) [FLAC] {CSDCD1229}/Coping with the Urban Coyote.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Unida - Coping With the Urban Coyote (1999) [FLAC] {CSDCD1229}/08 - Red (Live).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Unida - Coping With the Urban Coyote (1999) [FLAC] {CSDCD1229}/Coping with the Urban Coyote.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Unida - Coping With the Urban Coyote (1999) [FLAC] {CSDCD1229}/09 - Human Tornado (Live).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Unida - Coping With the Urban Coyote (1999) [FLAC] {CSDCD1229}/Coping with the Urban Coyote.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Unida - Coping With the Urban Coyote (1999) [FLAC] {CSDCD1229}/10 - Nervous (Live).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Unida - Coping With the Urban Coyote (1999) [FLAC] {CSDCD1229}/Coping with the Urban Coyote.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Unida - Coping With the Urban Coyote (1999) [FLAC] {CSDCD1229}/11 - Puppet Man (Live).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Unida - Coping With the Urban Coyote (1999) [FLAC] {CSDCD1229}/Coping with the Urban Coyote.cue/12
 /mnt/synology/media/music/orpheus.network/flac/Unida - Coping With the Urban Coyote (1999) [FLAC] {CSDCD1229}/12 - MFNO (Live).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Unida - Coping With the Urban Coyote (1999) [FLAC] {CSDCD1229}/Coping with the Urban Coyote.cue/13
 /mnt/synology/media/music/orpheus.network/flac/Unida - Coping With the Urban Coyote (1999) [FLAC] {CSDCD1229}/13 - Dwarf It (Live).flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Unida - Coping With the Urban Coyote (1999) [FLAC] {CSDCD1229}/Coping with the Urban Coyote.cue/14
 /mnt/synology/media/music/orpheus.network/flac/Unida - Coping With the Urban Coyote (1999) [FLAC] {CSDCD1229}/14 - Black Woman (Live).flac
@@ -28174,29 +26003,17 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Unida - Coping With the Urb
 /mnt/synology/media/music/redacted.ch/flac/Utopia - Todd Rundgren's Utopia  [Rhino_Bearsville R2 70865]/02 - Freak Parade.flac
 /mnt/synology/media/music/redacted.ch/flac/Utopia - Todd Rundgren's Utopia  [Rhino_Bearsville R2 70865]/03 - Freedom Fighters.flac
 /mnt/synology/media/music/redacted.ch/flac/Utopia - Todd Rundgren's Utopia  [Rhino_Bearsville R2 70865]/04 - The Ikon.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Vance.Joy.-.2014.-.Dream.Your.Life.Away-FLAC/Dream Your Life Away.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Vance.Joy.-.2014.-.Dream.Your.Life.Away-FLAC/01 Winds Of Change.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Vance.Joy.-.2014.-.Dream.Your.Life.Away-FLAC/Dream Your Life Away.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Vance.Joy.-.2014.-.Dream.Your.Life.Away-FLAC/02 Mess Is Mine.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Vance.Joy.-.2014.-.Dream.Your.Life.Away-FLAC/Dream Your Life Away.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Vance.Joy.-.2014.-.Dream.Your.Life.Away-FLAC/03 Wasted Time.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Vance.Joy.-.2014.-.Dream.Your.Life.Away-FLAC/Dream Your Life Away.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Vance.Joy.-.2014.-.Dream.Your.Life.Away-FLAC/04 Riptide.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Vance.Joy.-.2014.-.Dream.Your.Life.Away-FLAC/Dream Your Life Away.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Vance.Joy.-.2014.-.Dream.Your.Life.Away-FLAC/05 Who Am I.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Vance.Joy.-.2014.-.Dream.Your.Life.Away-FLAC/Dream Your Life Away.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Vance.Joy.-.2014.-.Dream.Your.Life.Away-FLAC/06 From Afar.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Vance.Joy.-.2014.-.Dream.Your.Life.Away-FLAC/Dream Your Life Away.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Vance.Joy.-.2014.-.Dream.Your.Life.Away-FLAC/07 We All Die Trying To Get It Right.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Vance.Joy.-.2014.-.Dream.Your.Life.Away-FLAC/Dream Your Life Away.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Vance.Joy.-.2014.-.Dream.Your.Life.Away-FLAC/08 Georgia.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Vance.Joy.-.2014.-.Dream.Your.Life.Away-FLAC/Dream Your Life Away.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Vance.Joy.-.2014.-.Dream.Your.Life.Away-FLAC/09 Red Eye.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Vance.Joy.-.2014.-.Dream.Your.Life.Away-FLAC/Dream Your Life Away.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Vance.Joy.-.2014.-.Dream.Your.Life.Away-FLAC/10 First Time.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Vance.Joy.-.2014.-.Dream.Your.Life.Away-FLAC/Dream Your Life Away.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Vance.Joy.-.2014.-.Dream.Your.Life.Away-FLAC/11 All I Ever Wanted.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Vance.Joy.-.2014.-.Dream.Your.Life.Away-FLAC/Dream Your Life Away.cue/12
 /mnt/synology/media/music/orpheus.network/flac/Vance.Joy.-.2014.-.Dream.Your.Life.Away-FLAC/12 Best That I Can.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Vance.Joy.-.2014.-.Dream.Your.Life.Away-FLAC/Dream Your Life Away.cue/13
 /mnt/synology/media/music/orpheus.network/flac/Vance.Joy.-.2014.-.Dream.Your.Life.Away-FLAC/13 My Kind Of Man.flac
@@ -28499,7 +26316,6 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Vance.Joy.-.2014.-.Dream.Yo
 /mnt/synology/media/music/bandcamp/Versera - All the poems i wrote about you (2023) [FLAC]/Versera - Versera - All the poems i wrote about you - 03 Rome wasn’t built in a day but maybe if they had coffee.flac
 /mnt/synology/media/music/bandcamp/Versera - All the poems i wrote about you (2023) [FLAC]/Versera - Versera - All the poems i wrote about you - 04 just wait till summer.flac
 /mnt/synology/media/music/bandcamp/Versera - All the poems i wrote about you (2023) [FLAC]/Versera - Versera - All the poems i wrote about you - 05 we were oblivious.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Compilations - Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition) (2021) [FLAC]/Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition).cue/4
 /mnt/synology/media/music/orpheus.network/flac/Compilations - Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition) (2021) [FLAC]/04 Imbalance [Rehearsal].flac
 /mnt/synology/media/music/redacted.ch/flac/Vinterland - Welcome My Last Chapter (1996 - nfr017 SWE) - FLAC/01 - Our Dawn of Glory.flac
 /mnt/synology/media/music/redacted.ch/flac/Vinterland - Welcome My Last Chapter (1996 - nfr017 SWE) - FLAC/02 - I'm an Other in the Night.flac
@@ -28611,21 +26427,13 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Compilations - Fame- Jon Sa
 /mnt/synology/media/music/orpheus.network/flac/Weed - Deserve (2013) [FLAC]/07. Weed - Your Right.flac
 /mnt/synology/media/music/orpheus.network/flac/Weed - Deserve (2013) [FLAC]/08. Weed - A Few Healthy Years.flac
 /mnt/synology/media/music/orpheus.network/flac/Weed - Deserve (2013) [FLAC]/09. Weed - Granted.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Weedeater - (2007) - God Luck and Good Speed [2015 Reissue] [FLAC]/God Luck and Good Speed [2015 Reissue].cue/1
 /mnt/synology/media/music/orpheus.network/flac/Weedeater - (2007) - God Luck and Good Speed [2015 Reissue] [FLAC]/01 God Luck and Good Speed.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Weedeater - (2007) - God Luck and Good Speed [2015 Reissue] [FLAC]/God Luck and Good Speed [2015 Reissue].cue/2
 /mnt/synology/media/music/orpheus.network/flac/Weedeater - (2007) - God Luck and Good Speed [2015 Reissue] [FLAC]/02 Wizard Fight.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Weedeater - (2007) - God Luck and Good Speed [2015 Reissue] [FLAC]/God Luck and Good Speed [2015 Reissue].cue/3
 /mnt/synology/media/music/orpheus.network/flac/Weedeater - (2007) - God Luck and Good Speed [2015 Reissue] [FLAC]/03 For Evans Sake.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Weedeater - (2007) - God Luck and Good Speed [2015 Reissue] [FLAC]/God Luck and Good Speed [2015 Reissue].cue/4
 /mnt/synology/media/music/orpheus.network/flac/Weedeater - (2007) - God Luck and Good Speed [2015 Reissue] [FLAC]/04 Alone.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Weedeater - (2007) - God Luck and Good Speed [2015 Reissue] [FLAC]/God Luck and Good Speed [2015 Reissue].cue/5
 /mnt/synology/media/music/orpheus.network/flac/Weedeater - (2007) - God Luck and Good Speed [2015 Reissue] [FLAC]/05 $20 Peanut.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Weedeater - (2007) - God Luck and Good Speed [2015 Reissue] [FLAC]/God Luck and Good Speed [2015 Reissue].cue/6
 /mnt/synology/media/music/orpheus.network/flac/Weedeater - (2007) - God Luck and Good Speed [2015 Reissue] [FLAC]/06 Dirt Merchant.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Weedeater - (2007) - God Luck and Good Speed [2015 Reissue] [FLAC]/God Luck and Good Speed [2015 Reissue].cue/7
 /mnt/synology/media/music/orpheus.network/flac/Weedeater - (2007) - God Luck and Good Speed [2015 Reissue] [FLAC]/07 Gimme Back My Bullets.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Weedeater - (2007) - God Luck and Good Speed [2015 Reissue] [FLAC]/God Luck and Good Speed [2015 Reissue].cue/8
 /mnt/synology/media/music/orpheus.network/flac/Weedeater - (2007) - God Luck and Good Speed [2015 Reissue] [FLAC]/08 Weed Monkey.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Weedeater - (2007) - God Luck and Good Speed [2015 Reissue] [FLAC]/God Luck and Good Speed [2015 Reissue].cue/9
 /mnt/synology/media/music/orpheus.network/flac/Weedeater - (2007) - God Luck and Good Speed [2015 Reissue] [FLAC]/09 Willow.flac
@@ -28770,25 +26578,15 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Weedeater - (2007) - God Lu
 /mnt/synology/media/music/orpheus.network/flac/Widowdusk - I Know Where We're At, Not Where We're Going [FLAC]/04 Selfless.flac
 /mnt/synology/media/music/orpheus.network/flac/Widowdusk - I Know Where We're At, Not Where We're Going [FLAC]/05 Holding On.flac
 /mnt/synology/media/music/orpheus.network/flac/Widowdusk - I Know Where We're At, Not Where We're Going [FLAC]/06 Nothing Left (Casket - Live Cover).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Wilco - 2002 - Yankee Hotel Foxtrot {Nonesuch 7559-79669-2} [FLAC]/Yankee Hotel Foxtrot.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Wilco - 2002 - Yankee Hotel Foxtrot {Nonesuch 7559-79669-2} [FLAC]/01 - I Am Trying to Break Your Heart.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Wilco - 2002 - Yankee Hotel Foxtrot {Nonesuch 7559-79669-2} [FLAC]/Yankee Hotel Foxtrot.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Wilco - 2002 - Yankee Hotel Foxtrot {Nonesuch 7559-79669-2} [FLAC]/02 - Kamera.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Wilco - 2002 - Yankee Hotel Foxtrot {Nonesuch 7559-79669-2} [FLAC]/Yankee Hotel Foxtrot.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Wilco - 2002 - Yankee Hotel Foxtrot {Nonesuch 7559-79669-2} [FLAC]/03 - Radio Cure.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Wilco - 2002 - Yankee Hotel Foxtrot {Nonesuch 7559-79669-2} [FLAC]/Yankee Hotel Foxtrot.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Wilco - 2002 - Yankee Hotel Foxtrot {Nonesuch 7559-79669-2} [FLAC]/04 - War on War.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Wilco - 2002 - Yankee Hotel Foxtrot {Nonesuch 7559-79669-2} [FLAC]/Yankee Hotel Foxtrot.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Wilco - 2002 - Yankee Hotel Foxtrot {Nonesuch 7559-79669-2} [FLAC]/05 - Jesus, Etc..flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Wilco - 2002 - Yankee Hotel Foxtrot {Nonesuch 7559-79669-2} [FLAC]/Yankee Hotel Foxtrot.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Wilco - 2002 - Yankee Hotel Foxtrot {Nonesuch 7559-79669-2} [FLAC]/06 - Ashes of American Flags.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Wilco - 2002 - Yankee Hotel Foxtrot {Nonesuch 7559-79669-2} [FLAC]/Yankee Hotel Foxtrot.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Wilco - 2002 - Yankee Hotel Foxtrot {Nonesuch 7559-79669-2} [FLAC]/07 - Heavy Metal Drummer.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Wilco - 2002 - Yankee Hotel Foxtrot {Nonesuch 7559-79669-2} [FLAC]/Yankee Hotel Foxtrot.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Wilco - 2002 - Yankee Hotel Foxtrot {Nonesuch 7559-79669-2} [FLAC]/08 - I’m the Man Who Loves You.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Wilco - 2002 - Yankee Hotel Foxtrot {Nonesuch 7559-79669-2} [FLAC]/Yankee Hotel Foxtrot.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Wilco - 2002 - Yankee Hotel Foxtrot {Nonesuch 7559-79669-2} [FLAC]/09 - Pot Kettle Black.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Wilco - 2002 - Yankee Hotel Foxtrot {Nonesuch 7559-79669-2} [FLAC]/Yankee Hotel Foxtrot.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Wilco - 2002 - Yankee Hotel Foxtrot {Nonesuch 7559-79669-2} [FLAC]/10 - Poor Places.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Wilco - 2002 - Yankee Hotel Foxtrot {Nonesuch 7559-79669-2} [FLAC]/Yankee Hotel Foxtrot.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Wilco - 2002 - Yankee Hotel Foxtrot {Nonesuch 7559-79669-2} [FLAC]/11 - Reservations.flac
@@ -28875,7 +26673,6 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Wilco - 2002 - Yankee Hotel
 /mnt/synology/media/music/orpheus.network/flac/Wire - Pink Flag (1989) [FLAC] {7 72360-2}/20 - Feeling Called Love.flac
 /mnt/synology/media/music/orpheus.network/flac/Wire - Pink Flag (1989) [FLAC] {7 72360-2}/21 - 1 2 X U.flac
 /mnt/synology/media/music/orpheus.network/flac/Wire - Pink Flag (1989) [FLAC] {7 72360-2}/22 - Options R.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Compilations - Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition) (2021) [FLAC]/Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition).cue/15
 /mnt/synology/media/music/orpheus.network/flac/Compilations - Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition) (2021) [FLAC]/15 A Touching Display [Demo].flac
 /mnt/synology/media/music/redacted.ch/flac/Woesum - Blue Summer (2021) [WEB - FLAC]/01 - Summer Rain (feat. Yung Lean).flac
 /mnt/synology/media/music/redacted.ch/flac/Woesum - Blue Summer (2021) [WEB - FLAC]/02 - Violet Gold (feat. Bladee, Thaiboy Digital & Yung Lean).flac
@@ -28893,29 +26690,17 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Compilations - Fame- Jon Sa
 /mnt/synology/media/music/redacted.ch/flac/Woesum - Blue Summer (2021) [WEB - FLAC]/14 - Airwalker (feat. Bladee & Yung Lean).flac
 /mnt/synology/media/music/redacted.ch/flac/Woesum - Blue Summer (2021) [WEB - FLAC]/15 - Exceler (feat. Bladee).flac
 /mnt/synology/media/music/redacted.ch/flac/Woesum - Blue Summer (2021) [WEB - FLAC]/16 - Yin & Yang Remix (feat. Thaiboy Digital) (Remix).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Wolf Alice- My Love Is Cool (2015) [FLAC]/My Love Is Cool.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Wolf Alice- My Love Is Cool (2015) [FLAC]/01 Wolf Alice - Turn To Dust.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Wolf Alice- My Love Is Cool (2015) [FLAC]/My Love Is Cool.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Wolf Alice- My Love Is Cool (2015) [FLAC]/02 Wolf Alice - Bros.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Wolf Alice- My Love Is Cool (2015) [FLAC]/My Love Is Cool.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Wolf Alice- My Love Is Cool (2015) [FLAC]/03 Wolf Alice - Your Loves Whore.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Wolf Alice- My Love Is Cool (2015) [FLAC]/My Love Is Cool.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Wolf Alice- My Love Is Cool (2015) [FLAC]/04 Wolf Alice - Moaning Lisa Smile.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Wolf Alice- My Love Is Cool (2015) [FLAC]/My Love Is Cool.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Wolf Alice- My Love Is Cool (2015) [FLAC]/05 Wolf Alice - You're A Germ.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Wolf Alice- My Love Is Cool (2015) [FLAC]/My Love Is Cool.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Wolf Alice- My Love Is Cool (2015) [FLAC]/06 Wolf Alice - Lisbon.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Wolf Alice- My Love Is Cool (2015) [FLAC]/My Love Is Cool.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Wolf Alice- My Love Is Cool (2015) [FLAC]/07 Wolf Alice - Silk.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Wolf Alice- My Love Is Cool (2015) [FLAC]/My Love Is Cool.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Wolf Alice- My Love Is Cool (2015) [FLAC]/08 Wolf Alice - Freazy.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Wolf Alice- My Love Is Cool (2015) [FLAC]/My Love Is Cool.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Wolf Alice- My Love Is Cool (2015) [FLAC]/09 Wolf Alice - Giant Peach.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Wolf Alice- My Love Is Cool (2015) [FLAC]/My Love Is Cool.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Wolf Alice- My Love Is Cool (2015) [FLAC]/10 Wolf Alice - Swallowtail.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Wolf Alice- My Love Is Cool (2015) [FLAC]/My Love Is Cool.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Wolf Alice- My Love Is Cool (2015) [FLAC]/11 Wolf Alice - Soapy Water.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Wolf Alice- My Love Is Cool (2015) [FLAC]/My Love Is Cool.cue/12
 /mnt/synology/media/music/orpheus.network/flac/Wolf Alice- My Love Is Cool (2015) [FLAC]/12 Wolf Alice - Fluffy.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Wolf Alice- My Love Is Cool (2015) [FLAC]/My Love Is Cool.cue/13
 /mnt/synology/media/music/orpheus.network/flac/Wolf Alice- My Love Is Cool (2015) [FLAC]/13 Wolf Alice - The Wonderwhy (Hidden Track).flac
@@ -29011,11 +26796,8 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Wolf Alice- My Love Is Cool
 /mnt/synology/media/music/orpheus.network/flac/Xiu Xiu - A Promise [16bit FLAC CD] 5RC GERO24/08  - Brooklyn Dodgers.flac
 /mnt/synology/media/music/orpheus.network/flac/Xiu Xiu - A Promise [16bit FLAC CD] 5RC GERO24/09  - Fast Car.flac
 /mnt/synology/media/music/orpheus.network/flac/Xiu Xiu - A Promise [16bit FLAC CD] 5RC GERO24/10  - Ian Curtis Wishlist.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/VA - Insound Tour Support (2003) [FLAC]/Insound Tour Support.cue/2
 /mnt/synology/media/music/orpheus.network/flac/VA - Insound Tour Support (2003) [FLAC]/02 Bunny Gamer.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/VA - Insound Tour Support (2003) [FLAC]/Insound Tour Support.cue/4
 /mnt/synology/media/music/orpheus.network/flac/VA - Insound Tour Support (2003) [FLAC]/04 Fabulous Muscles.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/VA - Insound Tour Support (2003) [FLAC]/Insound Tour Support.cue/6
 /mnt/synology/media/music/orpheus.network/flac/VA - Insound Tour Support (2003) [FLAC]/06 Little Panda McElroy.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/VA - Insound Tour Support (2003) [FLAC]/Insound Tour Support.cue/8
 /mnt/synology/media/music/orpheus.network/flac/VA - Insound Tour Support (2003) [FLAC]/08 Nieces Pieces.flac
@@ -29244,52 +27026,28 @@ cue:///mnt/synology/media/music/orpheus.network/flac/VA - Insound Tour Support (
 /mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Unknown Death 2002 (2013) [FLAC]/12 Solarflare [Prod. Friendzone].flac
 /mnt/synology/media/music/redacted.ch/flac/Yung Lean - Motorola (Single) (2014) [WEB FLAC]/01. Motorola.flac
 /mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Motorola (Single) (2014) [WEB FLAC]/01. Motorola.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Yung Lean - Unknown Memory (2014) [FLAC]/Unknown Memory.cue/1
-cue:///mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Unknown Memory (2014) [FLAC]/Unknown Memory.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Unknown Memory (2014) [FLAC]/01 Blommor (Intro).flac
 /mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Unknown Memory (2014) [FLAC]/01 Blommor (Intro).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Yung Lean - Unknown Memory (2014) [FLAC]/Unknown Memory.cue/2
-cue:///mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Unknown Memory (2014) [FLAC]/Unknown Memory.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Unknown Memory (2014) [FLAC]/02 Blinded.flac
 /mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Unknown Memory (2014) [FLAC]/02 Blinded.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Yung Lean - Unknown Memory (2014) [FLAC]/Unknown Memory.cue/3
-cue:///mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Unknown Memory (2014) [FLAC]/Unknown Memory.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Unknown Memory (2014) [FLAC]/03 Sunrise Angel.flac
 /mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Unknown Memory (2014) [FLAC]/03 Sunrise Angel.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Yung Lean - Unknown Memory (2014) [FLAC]/Unknown Memory.cue/4
-cue:///mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Unknown Memory (2014) [FLAC]/Unknown Memory.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Unknown Memory (2014) [FLAC]/04 Yoshi City.flac
 /mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Unknown Memory (2014) [FLAC]/04 Yoshi City.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Yung Lean - Unknown Memory (2014) [FLAC]/Unknown Memory.cue/5
-cue:///mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Unknown Memory (2014) [FLAC]/Unknown Memory.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Unknown Memory (2014) [FLAC]/05 Ice Cold Smoke.flac
 /mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Unknown Memory (2014) [FLAC]/05 Ice Cold Smoke.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Yung Lean - Unknown Memory (2014) [FLAC]/Unknown Memory.cue/6
-cue:///mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Unknown Memory (2014) [FLAC]/Unknown Memory.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Unknown Memory (2014) [FLAC]/06 Dog Walk (Intermission).flac
 /mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Unknown Memory (2014) [FLAC]/06 Dog Walk (Intermission).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Yung Lean - Unknown Memory (2014) [FLAC]/Unknown Memory.cue/7
-cue:///mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Unknown Memory (2014) [FLAC]/Unknown Memory.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Unknown Memory (2014) [FLAC]/07 Don't Go.flac
 /mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Unknown Memory (2014) [FLAC]/07 Don't Go.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Yung Lean - Unknown Memory (2014) [FLAC]/Unknown Memory.cue/8
-cue:///mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Unknown Memory (2014) [FLAC]/Unknown Memory.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Unknown Memory (2014) [FLAC]/08 Ghosttown (Featuring Travi$ Scott ).flac
 /mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Unknown Memory (2014) [FLAC]/08 Ghosttown (Featuring Travi$ Scott ).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Yung Lean - Unknown Memory (2014) [FLAC]/Unknown Memory.cue/9
-cue:///mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Unknown Memory (2014) [FLAC]/Unknown Memory.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Unknown Memory (2014) [FLAC]/09 Monster.flac
 /mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Unknown Memory (2014) [FLAC]/09 Monster.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Yung Lean - Unknown Memory (2014) [FLAC]/Unknown Memory.cue/10
-cue:///mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Unknown Memory (2014) [FLAC]/Unknown Memory.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Unknown Memory (2014) [FLAC]/10 Volt.flac
 /mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Unknown Memory (2014) [FLAC]/10 Volt.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Yung Lean - Unknown Memory (2014) [FLAC]/Unknown Memory.cue/11
-cue:///mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Unknown Memory (2014) [FLAC]/Unknown Memory.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Unknown Memory (2014) [FLAC]/11 Leanworld.flac
 /mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Unknown Memory (2014) [FLAC]/11 Leanworld.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Yung Lean - Unknown Memory (2014) [FLAC]/Unknown Memory.cue/12
-cue:///mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Unknown Memory (2014) [FLAC]/Unknown Memory.cue/12
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Unknown Memory (2014) [FLAC]/12 Sandman.flac
 /mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Unknown Memory (2014) [FLAC]/12 Sandman.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Yung Lean - Unknown Memory (2014) [FLAC]/Unknown Memory.cue/13
@@ -29448,41 +27206,23 @@ cue:///mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Unknown Memory (2014) [FL
 /mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Lazy Summer Day_Chinese Restaurant (2022) [WEB FLAC]/01 - Lazy Summer Day.flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Lazy Summer Day_Chinese Restaurant (2022) [WEB FLAC]/02 - Chinese Restaurant.flac
 /mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Lazy Summer Day_Chinese Restaurant (2022) [WEB FLAC]/02 - Chinese Restaurant.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/[YR0012CDDLX] Yung Lean - Warlord Deluxe [CD FLAC]/Warlord.cue/1
 /mnt/synology/media/music/orpheus.network/flac/[YR0012CDDLX] Yung Lean - Warlord Deluxe [CD FLAC]/01 - Immortal.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/[YR0012CDDLX] Yung Lean - Warlord Deluxe [CD FLAC]/Warlord.cue/2
 /mnt/synology/media/music/orpheus.network/flac/[YR0012CDDLX] Yung Lean - Warlord Deluxe [CD FLAC]/02 - Highway Patrol.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/[YR0012CDDLX] Yung Lean - Warlord Deluxe [CD FLAC]/Warlord.cue/3
 /mnt/synology/media/music/orpheus.network/flac/[YR0012CDDLX] Yung Lean - Warlord Deluxe [CD FLAC]/03 - Fantasy.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/[YR0012CDDLX] Yung Lean - Warlord Deluxe [CD FLAC]/Warlord.cue/4
 /mnt/synology/media/music/orpheus.network/flac/[YR0012CDDLX] Yung Lean - Warlord Deluxe [CD FLAC]/04 - Afghanistan.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/[YR0012CDDLX] Yung Lean - Warlord Deluxe [CD FLAC]/Warlord.cue/5
 /mnt/synology/media/music/orpheus.network/flac/[YR0012CDDLX] Yung Lean - Warlord Deluxe [CD FLAC]/05 - Hoover.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/[YR0012CDDLX] Yung Lean - Warlord Deluxe [CD FLAC]/Warlord.cue/6
 /mnt/synology/media/music/orpheus.network/flac/[YR0012CDDLX] Yung Lean - Warlord Deluxe [CD FLAC]/06 - Fire.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/[YR0012CDDLX] Yung Lean - Warlord Deluxe [CD FLAC]/Warlord.cue/7
 /mnt/synology/media/music/orpheus.network/flac/[YR0012CDDLX] Yung Lean - Warlord Deluxe [CD FLAC]/07 - Stay Down.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/[YR0012CDDLX] Yung Lean - Warlord Deluxe [CD FLAC]/Warlord.cue/8
 /mnt/synology/media/music/orpheus.network/flac/[YR0012CDDLX] Yung Lean - Warlord Deluxe [CD FLAC]/08 - Eye Contact.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/[YR0012CDDLX] Yung Lean - Warlord Deluxe [CD FLAC]/Warlord.cue/9
 /mnt/synology/media/music/orpheus.network/flac/[YR0012CDDLX] Yung Lean - Warlord Deluxe [CD FLAC]/09 - More Stacks.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/[YR0012CDDLX] Yung Lean - Warlord Deluxe [CD FLAC]/Warlord.cue/10
 /mnt/synology/media/music/orpheus.network/flac/[YR0012CDDLX] Yung Lean - Warlord Deluxe [CD FLAC]/10 - AF1s.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/[YR0012CDDLX] Yung Lean - Warlord Deluxe [CD FLAC]/Warlord.cue/11
 /mnt/synology/media/music/orpheus.network/flac/[YR0012CDDLX] Yung Lean - Warlord Deluxe [CD FLAC]/11 - Hocus Pocus.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/[YR0012CDDLX] Yung Lean - Warlord Deluxe [CD FLAC]/Warlord.cue/12
 /mnt/synology/media/music/orpheus.network/flac/[YR0012CDDLX] Yung Lean - Warlord Deluxe [CD FLAC]/12 - Shawty U Know What It Do.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/[YR0012CDDLX] Yung Lean - Warlord Deluxe [CD FLAC]/Warlord.cue/13
 /mnt/synology/media/music/orpheus.network/flac/[YR0012CDDLX] Yung Lean - Warlord Deluxe [CD FLAC]/13 - Miami Ultras.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/[YR0012CDDLX] Yung Lean - Warlord Deluxe [CD FLAC]/Warlord.cue/14
 /mnt/synology/media/music/orpheus.network/flac/[YR0012CDDLX] Yung Lean - Warlord Deluxe [CD FLAC]/14 - Sippin.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/[YR0012CDDLX] Yung Lean - Warlord Deluxe [CD FLAC]/Warlord.cue/15
 /mnt/synology/media/music/orpheus.network/flac/[YR0012CDDLX] Yung Lean - Warlord Deluxe [CD FLAC]/15 - God Only Knows.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/[YR0012CDDLX] Yung Lean - Warlord Deluxe [CD FLAC]/Warlord.cue/16
 /mnt/synology/media/music/orpheus.network/flac/[YR0012CDDLX] Yung Lean - Warlord Deluxe [CD FLAC]/16 - How U Like Me Now？.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/[YR0012CDDLX] Yung Lean - Warlord Deluxe [CD FLAC]/Warlord.cue/17
 /mnt/synology/media/music/orpheus.network/flac/[YR0012CDDLX] Yung Lean - Warlord Deluxe [CD FLAC]/17 - Pearl Fountain.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/[YR0012CDDLX] Yung Lean - Warlord Deluxe [CD FLAC]/Warlord.cue/18
 /mnt/synology/media/music/orpheus.network/flac/[YR0012CDDLX] Yung Lean - Warlord Deluxe [CD FLAC]/18 - Stars Align.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/[YR0012CDDLX] Yung Lean - Warlord Deluxe [CD FLAC]/Warlord.cue/19
 /mnt/synology/media/music/orpheus.network/flac/[YR0012CDDLX] Yung Lean - Warlord Deluxe [CD FLAC]/19 - Shine.flac
@@ -29770,7 +27510,6 @@ cue:///mnt/synology/media/music/orpheus.network/flac/[YR0012CDDLX] Yung Lean - W
 /mnt/synology/media/music/orpheus.network/flac/ミドリ - shinsekai (2010)/09 鉄塔の上の2人.flac
 /mnt/synology/media/music/orpheus.network/flac/ミドリ - shinsekai (2010)/10 どんぞこ.flac
 /mnt/synology/media/music/orpheus.network/flac/Shintaro Sakamoto (坂本慎太郎) - まともがわからない (Don't Know What's Normal)/01 坂本慎太郎 - まともがわからない.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Shintaro Sakamoto (坂本慎太郎) - まともがわからない (Don't Know What's Normal)/まともがわからない.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Shintaro Sakamoto (坂本慎太郎) - まともがわからない (Don't Know What's Normal)/02 坂本慎太郎 - 死者より.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Shintaro Sakamoto (坂本慎太郎) - まともがわからない (Don't Know What's Normal)/まともがわからない.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Shintaro Sakamoto (坂本慎太郎) - まともがわからない (Don't Know What's Normal)/03 坂本慎太郎 - 悲しみのない世界.flac
@@ -29824,19 +27563,12 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Shintaro Sakamoto (坂本�
 /mnt/synology/media/music/orpheus.network/flac/(2015) 死んだ僕の彼女 - hades (the nine stages of change at the deceased remains) flac/08 彼女が暑くて腐ったら.flac
 /mnt/synology/media/music/orpheus.network/flac/(2015) 死んだ僕の彼女 - hades (the nine stages of change at the deceased remains) flac/09 yurikago kara hakaba made.flac
 /mnt/synology/media/music/orpheus.network/flac/(2015) 死んだ僕の彼女 - hades (the nine stages of change at the deceased remains) flac/10 吐く息 (the last stage of change at the deceased remains).flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Miyuki Hatakeyama - Travelin Light (FLAC)/Travelin' Light.cue/1
 /mnt/synology/media/music/orpheus.network/flac/Miyuki Hatakeyama - Travelin Light (FLAC)/01 - Travelin' Light 〜旅する気持ち〜.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Miyuki Hatakeyama - Travelin Light (FLAC)/Travelin' Light.cue/2
 /mnt/synology/media/music/orpheus.network/flac/Miyuki Hatakeyama - Travelin Light (FLAC)/02 - 色香に惑う.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Miyuki Hatakeyama - Travelin Light (FLAC)/Travelin' Light.cue/3
 /mnt/synology/media/music/orpheus.network/flac/Miyuki Hatakeyama - Travelin Light (FLAC)/03 - Eu sei que vou te amar.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Miyuki Hatakeyama - Travelin Light (FLAC)/Travelin' Light.cue/4
 /mnt/synology/media/music/orpheus.network/flac/Miyuki Hatakeyama - Travelin Light (FLAC)/04 - 霧のコミューン 〜Commune du brouillard〜.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Miyuki Hatakeyama - Travelin Light (FLAC)/Travelin' Light.cue/5
 /mnt/synology/media/music/orpheus.network/flac/Miyuki Hatakeyama - Travelin Light (FLAC)/05 - 夢見ること.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Miyuki Hatakeyama - Travelin Light (FLAC)/Travelin' Light.cue/6
 /mnt/synology/media/music/orpheus.network/flac/Miyuki Hatakeyama - Travelin Light (FLAC)/06 - きっと、大丈夫.flac
-cue:///mnt/synology/media/music/orpheus.network/flac/Miyuki Hatakeyama - Travelin Light (FLAC)/Travelin' Light.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Miyuki Hatakeyama - Travelin Light (FLAC)/07 - 灯りを消して.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Miyuki Hatakeyama - Travelin Light (FLAC)/Travelin' Light.cue/8
 /mnt/synology/media/music/orpheus.network/flac/Miyuki Hatakeyama - Travelin Light (FLAC)/08 - WALTZ FOR DEBBY.flac
