@@ -53,6 +53,7 @@ alias nm='cd /mnt/synology/media'
 alias gg='cd ~/git'
 alias gpy='cd ~/git/python'
 alias dots='cd ~/git/dotfiles'
+alias sucks='cd ~/.suckless'
 
 # scripts
 alias xm4='~/git/scripts/bluetooth.sh'
