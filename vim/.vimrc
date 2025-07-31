@@ -3,6 +3,7 @@ set number
 set relativenumber
 set noswapfile
 set nowrap
+set wildmenu
 syntax on
 
 set tabstop=2
