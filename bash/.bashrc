@@ -28,6 +28,8 @@ alias snv='sudo -E -s nvim'
 alias mkc='sudo make clean install'
 alias py='python3'
 alias scrot='scrot ~/pics/screenshots/%b%d::%H%M%S.png'
+alias musicbee='wine .wine-musicbee/drive_c/Program\ Files\ \(x86\)/MusicBee/MusicBee.exe
+'
 
 # git
 alias ga='git add .'
