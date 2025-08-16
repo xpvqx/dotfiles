@@ -23,13 +23,11 @@ alias ccat='highlight --out-format=ansi'
 alias p='sudo pacman'
 alias r='ranger'
 alias sr='sudo ranger'
-alias nv='nvim'
-alias snv='sudo -E -s nvim'
+alias sv='sudo -E -s nvim'
+alias vim='nvim'
 alias mkc='sudo make clean install'
 alias py='python3'
 alias scrot='scrot ~/pics/screenshots/%b%d::%H%M%S.png'
-alias musicbee='wine .wine-musicbee/drive_c/Program\ Files\ \(x86\)/MusicBee/MusicBee.exe
-'
 
 # git
 alias ga='git add .'
