@@ -17,7 +17,6 @@ alias ll='ls -l'
 # colorize
 alias ls='ls --color=auto --group-directories-first'
 alias grep='grep --color=auto'
-alias ccat='highlight --out-format=ansi'
 
 # aliases
 alias p='sudo pacman'

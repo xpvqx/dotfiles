@@ -1,55 +1,76 @@
-/mnt/synology/media/music/sbe-gtb-dg/xx/02 God Only Knows [248875303].mp3
-/mnt/synology/media/music/sbe-gtb-dg/xx/All I'm Gon' Get [29025729].mp3
-/mnt/synology/media/music/sbe-gtb-dg/xx/⧸ALWAYS ON MY MIND⧸ [81657479].mp3
-/mnt/synology/media/music/sbe-gtb-dg/xx/bladee + ecco2k - bleach + my circle [207319865].mp3
-/mnt/synology/media/music/sbe-gtb-dg/xx/bladee - Skin (K9999 edit) [375721721].mp3
-/mnt/synology/media/music/sbe-gtb-dg/xx/Creep [1240142677].mp3
-/mnt/synology/media/music/sbe-gtb-dg/xx/Cry 4 Us ( Yung Sherman Remix ) [126410856].mp3
-/mnt/synology/media/music/sbe-gtb-dg/xx/crystalveins [156701359].mp3
-/mnt/synology/media/music/sbe-gtb-dg/xx/dont_go [134464632].mp3
-/mnt/synology/media/music/sbe-gtb-dg/xx/ECCO2K - beautySleep [282108332].mp3
-/mnt/synology/media/music/sbe-gtb-dg/xx/ECCO2K - Eccology [280898928].mp3
-/mnt/synology/media/music/sbe-gtb-dg/xx/ecco2k - SYNDAFLOD [(leakers)] ＜3 [255649118].mp3
-/mnt/synology/media/music/sbe-gtb-dg/xx/Frozen [1240142608].mp3
-/mnt/synology/media/music/sbe-gtb-dg/xx/hahaha i love u [115871091].mp3
-/mnt/synology/media/music/sbe-gtb-dg/xx/I D C [1240142302].mp3
-/mnt/synology/media/music/sbe-gtb-dg/xx/Im Not Tired - Bladee @Woesum #D9 [408030201].mp3
-/mnt/synology/media/music/sbe-gtb-dg/xx/Innocence [1240142875].mp3
-/mnt/synology/media/music/sbe-gtb-dg/xx/Innocence - INNOCENCE EP OUT NOW [311523929].mp3
-/mnt/synology/media/music/sbe-gtb-dg/xx/Invisible (ft. bladee & Uli K) [344090635].mp3
-/mnt/synology/media/music/sbe-gtb-dg/xx/： military_lyfe [96495087].mp3
-/mnt/synology/media/music/sbe-gtb-dg/xx/NEVER LEFT ((REALLY SAD)) [75194717].mp3
-/mnt/synology/media/music/sbe-gtb-dg/xx/numbers ☆ [114283836].mp3
-/mnt/synology/media/music/sbe-gtb-dg/xx/Plastic Boy (ft. Bladee) prod. vattenrum [103016809].mp3
-/mnt/synology/media/music/sbe-gtb-dg/xx/(RARE) Yung Lean - Myself ft. ILOVEMAKONNEN [268832924].mp3
-/mnt/synology/media/music/sbe-gtb-dg/xx/Sometimes When I Can't Sleep [1240142920].mp3
-/mnt/synology/media/music/sbe-gtb-dg/xx/sonical dior [161804712].mp3
-/mnt/synology/media/music/sbe-gtb-dg/xx/Thaiboy Digital - Nothing 2 Fear (Leak) [312962803].mp3
-/mnt/synology/media/music/sbe-gtb-dg/xx/Untitled - Xxtarlit⚸ [1190583949].mp3
-/mnt/synology/media/music/sbe-gtb-dg/xx/Whitearmor - Cold Nights [299639187].mp3
-/mnt/synology/media/music/sbe-gtb-dg/xx/WhiteArmor (DJ CANNABIZ) - Downer [282018320].mp3
-/mnt/synology/media/music/sbe-gtb-dg/xx/Whitearmor - Foresttt [322700714].mp3
-/mnt/synology/media/music/sbe-gtb-dg/xx/Whitearmor - Hear Me Cry [323897333].mp3
-/mnt/synology/media/music/sbe-gtb-dg/xx/WHITEARMOR – I Kno [194724777].mp3
-/mnt/synology/media/music/sbe-gtb-dg/xx/WhiteArmor — Oceans Rise [232664116].mp3
-/mnt/synology/media/music/sbe-gtb-dg/xx/whitearmor (ressusciter) [306001587].mp3
-/mnt/synology/media/music/sbe-gtb-dg/xx/Whitearmor - Say My Name [327668806].mp3
-/mnt/synology/media/music/sbe-gtb-dg/xx/whitearmor (untitled) [204739104].mp3
-/mnt/synology/media/music/sbe-gtb-dg/xx/Whitearmor - Waterdrops [268483121].mp3
-/mnt/synology/media/music/sbe-gtb-dg/xx/you are a star in my sky and i will love you forever more [204361856].mp3
-/mnt/synology/media/music/sbe-gtb-dg/xx/Yung Lean - vendetta (prod. Woesum) [310371638].mp3
-/mnt/synology/media/music/sbe-gtb-dg/xx/Yung Sherman - 2nite [300588639].mp3
-/mnt/synology/media/music/sbe-gtb-dg/xx/yung sherman & bearface - I will be here [175337299].mp3
-/mnt/synology/media/music/sbe-gtb-dg/xx/Yung Sherman - bleed [284548201].mp3
-/mnt/synology/media/music/sbe-gtb-dg/xx/Yung Sherman - Blue Sky [324997289].mp3
-/mnt/synology/media/music/sbe-gtb-dg/xx/Yung Sherman - C2SL Vol. 5 [175134457].mp3
-/mnt/synology/media/music/sbe-gtb-dg/xx/Yung Sherman - Djungelboken [320206733].mp3
-/mnt/synology/media/music/sbe-gtb-dg/xx/Yung Sherman - Mountain Dew [293040606].mp3
-/mnt/synology/media/music/sbe-gtb-dg/xx/Yung Sherman - Play Em Like Atari INSTRUMENTAL [643915647].mp3
-/mnt/synology/media/music/sbe-gtb-dg/xx/Yung Sherman - Sheba [321540493].mp3
-/mnt/synology/media/music/sbe-gtb-dg/xx/yung sherman & whiteArmor - feelings Eternal [146455005].mp3
-/mnt/synology/media/music/sbe-gtb-dg/xx/Yung Sherman - you [283049775].mp3
-/mnt/synology/media/music/sbe-gtb-dg/xx/ミ ｓｔａｙ ＦＯＲＥＶＥＲ ミ [127044687].mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Adamn Killa, Yung Lean - JUG MAN.wav
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Bladee - 4am.wav
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Bladee - Like A Virgin.wav
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Bladee - reborn.wav
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Bladee, Thaiboy Digital - X o n u (ft. Yung Lean).wav
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Ecco2k, Bladee - Dead inside Dark outside.wav
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Ecco2k - guardianAngels((natu)).wav
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Gud - Before 1/Gud - Crushed.wav
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/jonatan leandoer96, Gud - the days.wav
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Ken Burnz -Tony Hawk (feat. Malcolm Sex).wav
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/METAL STORM - NEW ERA.wav
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/= Production Credits/Andreas Todini - NOTHING2HIDE.wav
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Lean - Bathtub.wav
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Lean - Motorola.wav
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Lean, Thaiboy Digital, Bladee - BUILDINGS.wav
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/Ecco2k - Security! (Demo).wav
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/Skrillex, Bladee - Real Spring (Demo v5).wav
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/Yung Lean, Gud - Stop Looking For This (Demo v2).wav
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/Yung Lean - Maintenance (Demo v6).wav
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Snippets/Yung Lean - Like A Rhino (Snippet 1).wav
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Snippets/Yung Lean - Like A Rhino (Snippet 2).wav
+/mnt/synology/media/music/sbe-gtb-dg/soundcloud/02 God Only Knows [248875303].mp3
+/mnt/synology/media/music/sbe-gtb-dg/soundcloud/All I'm Gon' Get [29025729].mp3
+/mnt/synology/media/music/sbe-gtb-dg/soundcloud/⧸ALWAYS ON MY MIND⧸ [81657479].mp3
+/mnt/synology/media/music/sbe-gtb-dg/soundcloud/bladee + ecco2k - bleach + my circle [207319865].mp3
+/mnt/synology/media/music/sbe-gtb-dg/soundcloud/bladee - Skin (K9999 edit) [375721721].mp3
+/mnt/synology/media/music/sbe-gtb-dg/soundcloud/Creep [1240142677].mp3
+/mnt/synology/media/music/sbe-gtb-dg/soundcloud/Cry 4 Us ( Yung Sherman Remix ) [126410856].mp3
+/mnt/synology/media/music/sbe-gtb-dg/soundcloud/crystalveins [156701359].mp3
+/mnt/synology/media/music/sbe-gtb-dg/soundcloud/dont_go [134464632].mp3
+/mnt/synology/media/music/sbe-gtb-dg/soundcloud/ECCO2K - beautySleep [282108332].mp3
+/mnt/synology/media/music/sbe-gtb-dg/soundcloud/ECCO2K - Eccology [280898928].mp3
+/mnt/synology/media/music/sbe-gtb-dg/soundcloud/ecco2k - SYNDAFLOD [(leakers)] ＜3 [255649118].mp3
+/mnt/synology/media/music/sbe-gtb-dg/soundcloud/Frozen [1240142608].mp3
+/mnt/synology/media/music/sbe-gtb-dg/soundcloud/hahaha i love u [115871091].mp3
+/mnt/synology/media/music/sbe-gtb-dg/soundcloud/I D C [1240142302].mp3
+/mnt/synology/media/music/sbe-gtb-dg/soundcloud/Im Not Tired - Bladee @Woesum #D9 [408030201].mp3
+/mnt/synology/media/music/sbe-gtb-dg/soundcloud/Innocence [1240142875].mp3
+/mnt/synology/media/music/sbe-gtb-dg/soundcloud/Innocence - INNOCENCE EP OUT NOW [311523929].mp3
+/mnt/synology/media/music/sbe-gtb-dg/soundcloud/Invisible (ft. bladee & Uli K) [344090635].mp3
+/mnt/synology/media/music/sbe-gtb-dg/soundcloud/： military_lyfe [96495087].mp3
+/mnt/synology/media/music/sbe-gtb-dg/soundcloud/NEVER LEFT ((REALLY SAD)) [75194717].mp3
+/mnt/synology/media/music/sbe-gtb-dg/soundcloud/numbers ☆ [114283836].mp3
+/mnt/synology/media/music/sbe-gtb-dg/soundcloud/Plastic Boy (ft. Bladee) prod. vattenrum [103016809].mp3
+/mnt/synology/media/music/sbe-gtb-dg/soundcloud/(RARE) Yung Lean - Myself ft. ILOVEMAKONNEN [268832924].mp3
+/mnt/synology/media/music/sbe-gtb-dg/soundcloud/Sometimes When I Can't Sleep [1240142920].mp3
+/mnt/synology/media/music/sbe-gtb-dg/soundcloud/sonical dior [161804712].mp3
+/mnt/synology/media/music/sbe-gtb-dg/soundcloud/Thaiboy Digital - Nothing 2 Fear (Leak) [312962803].mp3
+/mnt/synology/media/music/sbe-gtb-dg/soundcloud/Untitled - Xxtarlit⚸ [1190583949].mp3
+/mnt/synology/media/music/sbe-gtb-dg/soundcloud/Whitearmor - Cold Nights [299639187].mp3
+/mnt/synology/media/music/sbe-gtb-dg/soundcloud/WhiteArmor (DJ CANNABIZ) - Downer [282018320].mp3
+/mnt/synology/media/music/sbe-gtb-dg/soundcloud/Whitearmor - Foresttt [322700714].mp3
+/mnt/synology/media/music/sbe-gtb-dg/soundcloud/Whitearmor - Hear Me Cry [323897333].mp3
+/mnt/synology/media/music/sbe-gtb-dg/soundcloud/WHITEARMOR – I Kno [194724777].mp3
+/mnt/synology/media/music/sbe-gtb-dg/soundcloud/WhiteArmor — Oceans Rise [232664116].mp3
+/mnt/synology/media/music/sbe-gtb-dg/soundcloud/whitearmor (ressusciter) [306001587].mp3
+/mnt/synology/media/music/sbe-gtb-dg/soundcloud/Whitearmor - Say My Name [327668806].mp3
+/mnt/synology/media/music/sbe-gtb-dg/soundcloud/whitearmor (untitled) [204739104].mp3
+/mnt/synology/media/music/sbe-gtb-dg/soundcloud/Whitearmor - Waterdrops [268483121].mp3
+/mnt/synology/media/music/sbe-gtb-dg/soundcloud/you are a star in my sky and i will love you forever more [204361856].mp3
+/mnt/synology/media/music/sbe-gtb-dg/soundcloud/Yung Lean - vendetta (prod. Woesum) [310371638].mp3
+/mnt/synology/media/music/sbe-gtb-dg/soundcloud/Yung Sherman - 2nite [300588639].mp3
+/mnt/synology/media/music/sbe-gtb-dg/soundcloud/yung sherman & bearface - I will be here [175337299].mp3
+/mnt/synology/media/music/sbe-gtb-dg/soundcloud/Yung Sherman - bleed [284548201].mp3
+/mnt/synology/media/music/sbe-gtb-dg/soundcloud/Yung Sherman - Blue Sky [324997289].mp3
+/mnt/synology/media/music/sbe-gtb-dg/soundcloud/Yung Sherman - C2SL Vol. 5 [175134457].mp3
+/mnt/synology/media/music/sbe-gtb-dg/soundcloud/Yung Sherman - Djungelboken [320206733].mp3
+/mnt/synology/media/music/sbe-gtb-dg/soundcloud/Yung Sherman - Mountain Dew [293040606].mp3
+/mnt/synology/media/music/sbe-gtb-dg/soundcloud/Yung Sherman - Play Em Like Atari INSTRUMENTAL [643915647].mp3
+/mnt/synology/media/music/sbe-gtb-dg/soundcloud/Yung Sherman - Sheba [321540493].mp3
+/mnt/synology/media/music/sbe-gtb-dg/soundcloud/yung sherman & whiteArmor - feelings Eternal [146455005].mp3
+/mnt/synology/media/music/sbe-gtb-dg/soundcloud/Yung Sherman - you [283049775].mp3
+/mnt/synology/media/music/sbe-gtb-dg/soundcloud/ミ ｓｔａｙ ＦＯＲＥＶＥＲ ミ [127044687].mp3
 /mnt/synology/media/music/soundcloud/pure/02ashes - паштет [1156521271].mp3
 /mnt/synology/media/music/soundcloud/pure/🌒 [1064175187].mp3
 /mnt/synology/media/music/soundcloud/pure/))) [1093584604].mp3
@@ -282,58 +303,6 @@
 /mnt/synology/media/music/soundcloud/pure/Идиот & Jahanam - Catching Of The Vibe (cds rmx) [1422826963].mp3
 /mnt/synology/media/music/soundcloud/pure/страсть [607284450].mp3
 /mnt/synology/media/music/soundcloud/pure/カガミ [1112317045].mp3
-/mnt/synology/media/music/soundcloud/xx/02 God Only Knows [248875303].mp3
-/mnt/synology/media/music/soundcloud/xx/All I'm Gon' Get [29025729].mp3
-/mnt/synology/media/music/soundcloud/xx/⧸ALWAYS ON MY MIND⧸ [81657479].mp3
-/mnt/synology/media/music/soundcloud/xx/bladee + ecco2k - bleach + my circle [207319865].mp3
-/mnt/synology/media/music/soundcloud/xx/bladee - Skin (K9999 edit) [375721721].mp3
-/mnt/synology/media/music/soundcloud/xx/Creep [1240142677].mp3
-/mnt/synology/media/music/soundcloud/xx/Cry 4 Us ( Yung Sherman Remix ) [126410856].mp3
-/mnt/synology/media/music/soundcloud/xx/crystalveins [156701359].mp3
-/mnt/synology/media/music/soundcloud/xx/dont_go [134464632].mp3
-/mnt/synology/media/music/soundcloud/xx/ECCO2K - beautySleep [282108332].mp3
-/mnt/synology/media/music/soundcloud/xx/ECCO2K - Eccology [280898928].mp3
-/mnt/synology/media/music/soundcloud/xx/ecco2k - SYNDAFLOD [(leakers)] ＜3 [255649118].mp3
-/mnt/synology/media/music/soundcloud/xx/Frozen [1240142608].mp3
-/mnt/synology/media/music/soundcloud/xx/hahaha i love u [115871091].mp3
-/mnt/synology/media/music/soundcloud/xx/I D C [1240142302].mp3
-/mnt/synology/media/music/soundcloud/xx/Im Not Tired - Bladee @Woesum #D9 [408030201].mp3
-/mnt/synology/media/music/soundcloud/xx/Innocence [1240142875].mp3
-/mnt/synology/media/music/soundcloud/xx/Innocence - INNOCENCE EP OUT NOW [311523929].mp3
-/mnt/synology/media/music/soundcloud/xx/Invisible (ft. bladee & Uli K) [344090635].mp3
-/mnt/synology/media/music/soundcloud/xx/： military_lyfe [96495087].mp3
-/mnt/synology/media/music/soundcloud/xx/NEVER LEFT ((REALLY SAD)) [75194717].mp3
-/mnt/synology/media/music/soundcloud/xx/numbers ☆ [114283836].mp3
-/mnt/synology/media/music/soundcloud/xx/Plastic Boy (ft. Bladee) prod. vattenrum [103016809].mp3
-/mnt/synology/media/music/soundcloud/xx/(RARE) Yung Lean - Myself ft. ILOVEMAKONNEN [268832924].mp3
-/mnt/synology/media/music/soundcloud/xx/Sometimes When I Can't Sleep [1240142920].mp3
-/mnt/synology/media/music/soundcloud/xx/sonical dior [161804712].mp3
-/mnt/synology/media/music/soundcloud/xx/Thaiboy Digital - Nothing 2 Fear (Leak) [312962803].mp3
-/mnt/synology/media/music/soundcloud/xx/Untitled - Xxtarlit⚸ [1190583949].mp3
-/mnt/synology/media/music/soundcloud/xx/Whitearmor - Cold Nights [299639187].mp3
-/mnt/synology/media/music/soundcloud/xx/WhiteArmor (DJ CANNABIZ) - Downer [282018320].mp3
-/mnt/synology/media/music/soundcloud/xx/Whitearmor - Foresttt [322700714].mp3
-/mnt/synology/media/music/soundcloud/xx/Whitearmor - Hear Me Cry [323897333].mp3
-/mnt/synology/media/music/soundcloud/xx/WHITEARMOR – I Kno [194724777].mp3
-/mnt/synology/media/music/soundcloud/xx/WhiteArmor — Oceans Rise [232664116].mp3
-/mnt/synology/media/music/soundcloud/xx/whitearmor (ressusciter) [306001587].mp3
-/mnt/synology/media/music/soundcloud/xx/Whitearmor - Say My Name [327668806].mp3
-/mnt/synology/media/music/soundcloud/xx/whitearmor (untitled) [204739104].mp3
-/mnt/synology/media/music/soundcloud/xx/Whitearmor - Waterdrops [268483121].mp3
-/mnt/synology/media/music/soundcloud/xx/you are a star in my sky and i will love you forever more [204361856].mp3
-/mnt/synology/media/music/soundcloud/xx/Yung Lean - vendetta (prod. Woesum) [310371638].mp3
-/mnt/synology/media/music/soundcloud/xx/Yung Sherman - 2nite [300588639].mp3
-/mnt/synology/media/music/soundcloud/xx/yung sherman & bearface - I will be here [175337299].mp3
-/mnt/synology/media/music/soundcloud/xx/Yung Sherman - bleed [284548201].mp3
-/mnt/synology/media/music/soundcloud/xx/Yung Sherman - Blue Sky [324997289].mp3
-/mnt/synology/media/music/soundcloud/xx/Yung Sherman - C2SL Vol. 5 [175134457].mp3
-/mnt/synology/media/music/soundcloud/xx/Yung Sherman - Djungelboken [320206733].mp3
-/mnt/synology/media/music/soundcloud/xx/Yung Sherman - Mountain Dew [293040606].mp3
-/mnt/synology/media/music/soundcloud/xx/Yung Sherman - Play Em Like Atari INSTRUMENTAL [643915647].mp3
-/mnt/synology/media/music/soundcloud/xx/Yung Sherman - Sheba [321540493].mp3
-/mnt/synology/media/music/soundcloud/xx/yung sherman & whiteArmor - feelings Eternal [146455005].mp3
-/mnt/synology/media/music/soundcloud/xx/Yung Sherman - you [283049775].mp3
-/mnt/synology/media/music/soundcloud/xx/ミ ｓｔａｙ ＦＯＲＥＶＥＲ ミ [127044687].mp3
 /mnt/synology/media/music/youtube/Abba Zabba.mp3
 /mnt/synology/media/music/youtube/Euphoria - Elliot Sings to Rue Season 2 Episode 8 With Lyrics Elliot's Song_ Dominic Fike.mp3
 /mnt/synology/media/music/youtube/Forget WYS (Uli K Ecco2K) - Cover by Evan Sadlou.mp3
@@ -406,11 +375,13 @@ cue:///mnt/synology/media/music/orpheus.network/flac/1995 - Long Hair in Three S
 /mnt/synology/media/music/orpheus.network/flac/언니네 이발관 - 2008 - 가장 보통의 존재 [flac]/09 나는.flac
 /mnt/synology/media/music/orpheus.network/flac/언니네 이발관 - 2008 - 가장 보통의 존재 [flac]/10 산들산들.flac
 /mnt/synology/media/music/orpheus.network/flac/・・・・・・・・・ - CD (TUR-019) [2017]/01 - Tokyo.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/¥$, Kanye West, Ty Dolla $ign, Yung Lean, Teezo Touchdown - Thirsty (Demo v3).mp3
 /mnt/synology/media/music/bandcamp/100% - Dark Star, Light Star (2015) (WEB) [FLAC]/100- - ✦✧ - 01 August 29th.flac
 /mnt/synology/media/music/bandcamp/100% - Dark Star, Light Star (2015) (WEB) [FLAC]/100- - ✦✧ - 02 Clara.flac
 /mnt/synology/media/music/bandcamp/100% - Dark Star, Light Star (2015) (WEB) [FLAC]/100- - ✦✧ - 03 Birds bear no message.flac
 /mnt/synology/media/music/bandcamp/100% - Dark Star, Light Star (2015) (WEB) [FLAC]/100- - ✦✧ - 04 What do you.flac
 /mnt/synology/media/music/bandcamp/100% - Dark Star, Light Star (2015) (WEB) [FLAC]/100- - ✦✧ - 05 Sled.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/10cellphones - Can_t Judge (feat. Bladee).mp3
 /mnt/synology/media/music/orpheus.network/flac/125 Rue Montmartre - Discography [FLAC]/01 - Pausenlied.flac
 /mnt/synology/media/music/orpheus.network/flac/125 Rue Montmartre - Discography [FLAC]/02 - Hit #2.flac
 /mnt/synology/media/music/orpheus.network/flac/125 Rue Montmartre - Discography [FLAC]/03 - Steigerungslied.flac
@@ -486,6 +457,8 @@ cue:///mnt/synology/media/music/orpheus.network/flac/1995 - Long Hair in Three S
 /mnt/synology/media/music/orpheus.network/flac/3 Doors Down - 2000 - The Better Life [153 920-2] [EU, CD] [FLAC]/09 By My Side.flac
 /mnt/synology/media/music/orpheus.network/flac/3 Doors Down - 2000 - The Better Life [153 920-2] [EU, CD] [FLAC]/10 Smack.flac
 /mnt/synology/media/music/orpheus.network/flac/3 Doors Down - 2000 - The Better Life [153 920-2] [EU, CD] [FLAC]/11 So I Need You.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/88-Keys, Gud, Chase Davis - Stop Looking (Stop Looking For This) (Demo v5) (Instrumental).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Aamu Kuu - BBB.mp3
 /mnt/synology/media/music/orpheus.network/flac/Abbeys Garden – little book of love poems (2023) [FLAC]/1 - the best day of the week is wednesday, Right.flac
 /mnt/synology/media/music/orpheus.network/flac/Abbeys Garden – little book of love poems (2023) [FLAC]/2 - I Hope It's Cold Like This Tomorrow.flac
 /mnt/synology/media/music/orpheus.network/flac/Abbeys Garden – little book of love poems (2023) [FLAC]/3 - Sick Like a Dog.flac
@@ -529,6 +502,12 @@ cue:///mnt/synology/media/music/orpheus.network/flac/1995 - Long Hair in Three S
 /mnt/synology/media/music/orpheus.network/flac/Acrimony - Tumuli Shroomaroom (FLAC)/07 - Motherslug (The Mother of All Slugs).flac
 /mnt/synology/media/music/orpheus.network/flac/Acrimony - Tumuli Shroomaroom (FLAC)/08 - Heavy Feather.flac
 /mnt/synology/media/music/orpheus.network/flac/Acrimony - Tumuli Shroomaroom (FLAC)/09 - Firedance.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Adamn Killa, Thaiboy Digital - M I A.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Thaiboy Digital, Adamn Killa - NO HOOK.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Adamn Killa - Black Car (ft. Yung Lean).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Adamn Killa, Bladee - DONT WANT.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Adamn Killa - Playin (feat. Bladee).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Adamn Killa, Thaiboy Digital - NO REASON.mp3
 /mnt/synology/media/music/orpheus.network/flac/A Day To Remember - For Those Who Have Heart (2008 Reissue) [FLAC] {VR443}/01 - Fast Forward To 2012.flac
 /mnt/synology/media/music/orpheus.network/flac/A Day To Remember - For Those Who Have Heart (2008 Reissue) [FLAC] {VR443}/02 - Speak Of The Devil.flac
 /mnt/synology/media/music/orpheus.network/flac/A Day To Remember - For Those Who Have Heart (2008 Reissue) [FLAC] {VR443}/03 - The Danger In Starting A Fire.flac
@@ -1040,6 +1019,8 @@ cue:///mnt/synology/media/music/orpheus.network/flac/American Football - 2019 - 
 /mnt/synology/media/music/orpheus.network/flac/Andrea Cortez - (2020) - The Secret Song of Plants {WEB} [FLAC]/Andrea Cortez - The Secret Song of Plants - 03 Song 3.flac
 /mnt/synology/media/music/orpheus.network/flac/Andrea Cortez - (2020) - The Secret Song of Plants {WEB} [FLAC]/Andrea Cortez - The Secret Song of Plants - 04 Song 4.flac
 /mnt/synology/media/music/orpheus.network/flac/Andrea Cortez - (2020) - The Secret Song of Plants {WEB} [FLAC]/Andrea Cortez - The Secret Song of Plants - 05 Song 5.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/= Production Credits/Andreas Todini - Running.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/= Production Credits/Andreas Todini - Session ft.Sir Realism.flac
 /mnt/synology/media/music/orpheus.network/flac/Andrew Hill - 1964 - Black Fire/01 - Pumpkin.flac
 /mnt/synology/media/music/orpheus.network/flac/Andrew Hill - 1964 - Black Fire/02 - Subterfuge.flac
 /mnt/synology/media/music/orpheus.network/flac/Andrew Hill - 1964 - Black Fire/03 - Black Fire.flac
@@ -1239,6 +1220,7 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Anthony Braxton - For Alto 
 /mnt/synology/media/music/orpheus.network/flac/Anti-Flag - For Blood and Empire [flac]/11 The W.T.O. Kills Farmers.flac
 /mnt/synology/media/music/orpheus.network/flac/Anti-Flag - For Blood and Empire [flac]/12 Cities Burn.flac
 /mnt/synology/media/music/orpheus.network/flac/Anti-Flag - For Blood and Empire [flac]/13 Depleted Uranium Is A War Crime.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/AntonPalmtr33$ - Hello (feat. ThaiboyDigital, Younggu, Rahboy).mp3
 /mnt/synology/media/music/orpheus.network/flac/A Perfect Circle - Mer de Noms (FLAC)/01 - The Hollow.flac
 /mnt/synology/media/music/orpheus.network/flac/A Perfect Circle - Mer de Noms (FLAC)/02 - Magdalena.flac
 /mnt/synology/media/music/orpheus.network/flac/A Perfect Circle - Mer de Noms (FLAC)/03 - Rose.flac
@@ -1611,6 +1593,7 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Aretha Franklin - Live At F
 /mnt/synology/media/music/orpheus.network/flac/Artifacts - Between A Rock And A Hard Place (1994) Reissue (2012)/14 - C'mon Wit Da Git Down (Remix) Feat. Busta Rhymes.flac
 /mnt/synology/media/music/orpheus.network/flac/Artifacts - Between A Rock And A Hard Place (1994) Reissue (2012)/15 - Dynamite Soul II (Lip Service Remix) Feat. Mad Skillz.flac
 /mnt/synology/media/music/orpheus.network/flac/Artifacts - Between A Rock And A Hard Place (1994) Reissue (2012)/16 - It's Gettin' Hot (Remix).flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Ashley All Day - Like This (feat. Tadoe, Yung Lean & Ballout).mp3
 /mnt/synology/media/music/orpheus.network/flac/Ashra - New Age Of Earth (1976) - FLAC/01. Sunrain.flac
 /mnt/synology/media/music/orpheus.network/flac/Ashra - New Age Of Earth (1976) - FLAC/02. Ocean Of Tenderness.flac
 /mnt/synology/media/music/orpheus.network/flac/Ashra - New Age Of Earth (1976) - FLAC/03. Deep Distance.flac
@@ -1952,6 +1935,9 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Bad Religion - 2002 - The P
 /mnt/synology/media/music/orpheus.network/flac/Bad Religion - 2002 - The Process Of Belief [FLAC]/13 You Don't Belong Here.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Bad Religion - 2002 - The Process Of Belief [FLAC]/The Process Of Belief.cue/14
 /mnt/synology/media/music/orpheus.network/flac/Bad Religion - 2002 - The Process Of Belief [FLAC]/14 Bored & Extremely Dangerous.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Ballout, Tadoe - BLT (ft. Yung Lean).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Ballout, Yung Lean - El Chapo.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Ballout, Yung Lean - FUCK THE POLICE.mp3
 /mnt/synology/media/music/orpheus.network/flac/Bardo Pond - Bufo Alvarius [2010 Fire Records]/01 - Adhesive.flac
 /mnt/synology/media/music/orpheus.network/flac/Bardo Pond - Bufo Alvarius [2010 Fire Records]/02 - Back Porch.flac
 /mnt/synology/media/music/orpheus.network/flac/Bardo Pond - Bufo Alvarius [2010 Fire Records]/03 - On a Side Street.flac
@@ -2630,6 +2616,10 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Black Flag - My War [FLAC]/
 /mnt/synology/media/music/orpheus.network/flac/Black Flag - My War [FLAC]/08 Three Nights.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Black Flag - My War [FLAC]/Black Flag - My War.cue/9
 /mnt/synology/media/music/orpheus.network/flac/Black Flag - My War [FLAC]/09 Scream.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Production Credits/BLACK KRAY - GOLDMOUF MERIAL.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/= Production Credits/BLACK KRAY - ICED OUT UZI ### 40k OCEAN ###.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/= Production Credits/BLACK KRAY - FULLAH BOI [FREE B.G.] INTERLUDE.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Snippets/Black Kray, BootyChaaain, Bladee, Yung Lean - Shame (Snippet).mp3
 /mnt/synology/media/music/orpheus.network/flac/black midi - Schlagenheim (2019) CD [FLAC]/01 - 953.flac
 /mnt/synology/media/music/orpheus.network/flac/black midi - Schlagenheim (2019) CD [FLAC]/02 - Speedway.flac
 /mnt/synology/media/music/orpheus.network/flac/black midi - Schlagenheim (2019) CD [FLAC]/03 - Reggae.flac
@@ -2731,107 +2721,172 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Black Flag - My War [FLAC]/
 /mnt/synology/media/music/orpheus.network/flac/Black Tambourine - Complete Recordings - 1999 (flac)/08. We Can't Be Friends.flac
 /mnt/synology/media/music/orpheus.network/flac/Black Tambourine - Complete Recordings - 1999 (flac)/09. By Tomorrow.flac
 /mnt/synology/media/music/orpheus.network/flac/Black Tambourine - Complete Recordings - 1999 (flac)/10. Pam's Tan.flac
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.01. Bladee - Tony Hawk (ft. Malcolm Sex).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.02. Bladee - Always High.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.03. Bladee - Oxygen.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.04. Bladee - Smoke In My Eyes (ft. Thaiboy Digital).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.05. Bladee - Carwash.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.06. Bladee - Im Lost (ft. Thaiboy Digital).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.07. Bladee - Bleach (ft. ECCO2K).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.08. Bladee - I Will Make You Bleed (ft. Thaiboy Digital).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.09. Bladee - Evil Bladee Ambience.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.10. Bladee - Tofu Golem.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.11. Bladee - Magical Emperor Sacred Ricefield.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.12. Bladee - Dog Village.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.13. Bladee - My Magic Is Strong.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.14. Bladee - Sleep.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.15. Bladee - Bladeecity (ft. Yung Lean).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.16. Bladee - Chainsaw.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.17. Bladee - bladee commercial Pt.1.0 (gravity boys) #shieldgang.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.18. Bladee - Ghost Hands.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.19. Bladee - Crushed.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.20. Bladee - Beautiful.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.21. Bladee - Jewelry.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.22. Bladee - Cash In My Jeans.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.23. Bladee - 2beloved.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.24. Bladee - Unloveable (Snippet).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.25. Bladee - Dragonfly.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.26. Bladee - Subaru.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.27. Bladee - Blood Rain (ft. Yung Lean).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.28. Bladee - old swedish hardcore punk.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.29. Bladee - Into Dust.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.30. Bladee - Reborn.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.31. Bladee - Everything Can Go (Live).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.32. Bladee - X o n u (ft. Thaiboy Digital and Yung Lean).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.33. Bladee - 7-Eleven.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.34. Bladee - Show U.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.35. Bladee - 4am.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.36. Bladee - Friday Nite (ft. Black Kray).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.37. Bladee - Like A Virgin.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.38. Bladee - Creepin (ft. Yung Lean).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.39. Bladee - Rain Check.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.40. Bladee - Psycho (ft. Adamn Killa).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.41. Bladee - Butterfly (ft. Thaiboy Digital).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.42. Bladee - Kiss Of Death (ft. Uli K).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.43. Bladee - Missing Person.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.44. Bladee - Cold.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.45. Bladee - Made Of Glass (ft. Thaiboy Digital).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.46. Bladee - MJ (ft. Yung Lean).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.47. Bladee - Frozen 2 (ft. DJ Kenn, Thaiboy Digital & ECCO2K).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.48. Bladee - Facetime.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.49. Bladee - 50SACINMYSOCIDGAF (ft. Yung Lean).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.50. Bladee - Who's Going To Find Me Tonight.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.51. Bladee - Dead Inside Dark Outside (ft. ECCO2k).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.52. Bladee - It Suxx.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.53. Bladee - Faceless (ft. Kane Grocerys).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.54. Bladee - Destroy Me.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.55. Bladee - Plastic Surgery (ft. ECCO2K).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.56. Bladee - Gotham City (ft. Yung Lean).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.57. Bladee - Insect.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.58. Bladee - #18.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.59. Bladee - 1s (ft. Kane Grocerys).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.60. Bladee - Frosty The Snowman.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.61. Bladee - Wallet Won't Fold.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.62. Bladee - I'm Not Tired.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.63. Bladee - Til I Die.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.64. Bladee - FML.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.65. Bladee - Cover Up.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.66. Bladee - Sesame Street.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.67. Bladee - I.E.E..mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.68. Bladee - Smile.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.69. Bladee - TRIAL.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.70. Bladee - SENTENCE.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.71. Bladee - Doorman.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.72. Bladee - I Chose To Be This Way.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.73. Bladee - Trash Star.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.74. Bladee - All I Want.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.75. Bladee - Apple.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.76. Bladee - Vanilla Sky (ft. ECCO2k).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.77. Bladee - Birdbath.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.78. Bladee - Girls just want to have fun (ft. Ecco2K).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1.79. Bladee - Undergone.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/2.01. Yung Lean - Nitevision.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/2.02. Yung Lean - Heal You -- Bladerunner.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/2.03. Yung Lean - Plastic Boy.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/2.04. Bladee - Diamonds (ft. Black Kray and Thaiboy Digital).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/2.05. Bladee - Ice Floors (ft. Xavier Wulf).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/2.06. Bladee - Buildings (ft. Yung Lean and Thaiboy Digital).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/2.07. Bladee - Snowmen (ft. Xavier Wulf and ECCO2K).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/2.08. Bladee - Soar Loser (ft. Prada Mane).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/2.09. Bladee - Dont Want (ft. Adamn Killa).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/2.10. Bladee - 2 tHe StArZ (ft. Thaiboy Digital).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/2.11. Bladee - 7 Roses (ft. Black Kray).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/2.12. Bladee - No Lo Siento (ft. Blaze Kidd).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/2.13. Bladee - Gtblessgo (ft. Thaiboy Digital).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/2.14. Bladee - Party W Me (ft. Virus).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/2.15. Bladee - Hottest In The City (ft. Capo, Black Kray, Justo and Seeda).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/2.16. Bladee - Dont Dance (ft. Thaiboy Digital).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/2.17. Bladee - Tokyo Drift (ft. Yung Lean, MonyHorse, PETZ and Junkman).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/2.18. Bladee - Playin (ft. Adamn Killa).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/2.19. Bladee - Visa (ft. Thaiboy Digital and ECCO2K).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/2.20. Bladee - Cero Miedo (ft. Uli K and Blaze Kidd).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/2.21. Bladee - Never Coming Down (ft. Yung God).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/2.22. Bladee - Like How I Trap (ft. RahnRahn $plash).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/2.23. Bladee - Energy (ft. Yung Lean).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/2.24. Bladee - Bussin (ft. RahnRahn $plash).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/2.25. Yung Lean - Highway Patrol.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/2.26. Yung Lean - Hocus Pocus.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/2.27. Bladee - Lie 2 Me (ft. Thaiboy Digital).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/2.28. Bladee - Pearl Fountain (ft. Yung Lean and Black Kray).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/2.29. Bladee - Man In The Mirror (ft. CHXPO).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/2.30. Bladee - Hennessy & Sailor Moon (ft. Yung Lean).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/2.31. Bladee - Head 2 Toe (ft. Yung Lean).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/2.32. Bladee - Your Problem (ft. Chxpo).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/2.33. Bladee - #iwantitall (ft. Cartier'GOD).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/2.34. Bladee - Bloodshed Pt. 2 (ft. Uli K).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/2.35. Bladee - Here x Now (ft. Uli K).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/2.36. Bladee - Can't Judge (ft. 10cellphones).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/2.37. Bladee - 10K Froze (ft. D33J, Yung Lean & Killavesi).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/2.38. Bladee - Money in Motion (ft. Cartier'GOD).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/2.39. Bladee - Red Velvet (ft. Yung Lean).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/2.40. Bladee - Perfect Violation (ft. Varg).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/2.41. Bladee - Do You Love Me (ft. CHXPO).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/2.42. Bladee - Famous (ft. Black Kray, Kane Grocerys & Yung Lean).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/2.43. Bladee - #LetMeGo (ft. Cartier'GOD).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/2.44. Bladee - Bentley (ft. Thaiboy Digital).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/2.45. Bladee - Legendary Member (ft. Thaiboy Digital, Ecco2k & Yung Lean).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/2.46. Bladee - #KILOS (ft. DJ Nate & Cartier'GOD).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/2.47. Bladee - Blue (ft. Black Kray).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/2.48. Bladee - Love Goes On (Palmistry Remix) (ft. Hannah Diamond).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/2.49. Bladee - Opium Dreams (ft. Yung Lean).mp3
 /mnt/synology/media/music/redacted.ch/flac/Bladee - Dragonfly [2014] [flac]/101. Dragonfly.flac
-/mnt/synology/media/music/sbe-gtb-dg/GTBSG compilation/02 Bladeecity ft. Yung Lean(Prod. Josh Diamond).mp3
 /mnt/synology/media/music/redacted.ch/flac/Bladee - Rain Check (2015) [WEB 320]/Bladee - Rain Check.mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/1-01 Tony Hawk (ft. Malcolm Sex).m4a
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/1-02 Always High.mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/1-03 Oxygen.mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity alternate tracks/1-03 Oxygen (youtube).mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/1-04 Smoke In My Eyes (ft. Thaiboy Digital).mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/1-05 Carwash.mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity alternate tracks/1-05 Carwash(Die By The Sword) [soundcloud].mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/1-06 Im Lost (ft. Thaiboy Digital).mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity alternate tracks/1-06 Im Lost (ft. Thaiboy Digital) [gtbsg compilation].mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity alternate tracks/1-06 Im Lost (ft. Thaiboy Digital) [youtube].mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/1-07 Bleach (ft. ECCO2K).mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity alternate tracks/1-07 Bleach (ft. ECCO2K) [soundcloud].mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/1-08 I Will Make You Bleed (ft. Thaiboy Digital).mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity alternate tracks/1-08 I Will Make You Bleed (ft. Thaiboy Digital) [gtbsg compilation].mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/1-09 Evil Bladee Ambience.mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/1-10 Tofu Golem.mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/1-11 Magical Emperor Sacred Ricefield.mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/1-12 Dog Village.mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/1-13 My Magic Is Strong.mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/1-14 Sleep.mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/1-15 Bladeecity (ft. Yung Lean).mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/1-16 Chainsaw.mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/1-17 bladee commercial Pt.1.0 (gravity boys) #shieldgang.mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/1-18 Ghost Hands.mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/1-19 Crushed.mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/1-20 Beautiful.mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/2-01 Nitevision (ft. Yung Lean).m4a
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/2-02 Heal You __ Bladerunner (ft. Yung Lean).m4a
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/2-03 Plastic Boy (ft. Yung Lean).mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/2-04 Diamonds (ft. Black Kray and Thaiboy Digital).mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/2-05 Ice Floors (ft. Xavier Wulf).mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/2-06 Buildings (ft. Yung Lean and Thaiboy Digital).m4a
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/1-21 Jewelry.m4a
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/1-22 Cash In My Jeans.mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/1-23 2 B Loved (Squad ONE RLX ASSYN. VIP).mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity alternate tracks/1-23 2 B Loved (no effects).mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/1-24 Unloveable (Snippet).mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/1-25 Dragonfly.m4a
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/1-26 Subaru.mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity alternate tracks/1-26 Subaru (original).mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/1-27 Blood Rain (ft. Yung Lean).mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/1-28 old swedish hardcore punk.mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/1-29 Into Dust.mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/1-30 Reborn.mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/1-31 Everything Can Go (Live).mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/2-07 Snowmen (ft. Xavier Wulf and ECCO2K).mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/2-08 Soar Loser (ft. Prada Mane).m4a
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/2-09 Dont Want (ft. Adamn Killa).mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/2-10 2 tHe StArZ (ft. Thaiboy Digital).mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/2-11 7 Roses (ft. Black Kray).m4a
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity alternate tracks/2-11 7 Roses (ft. Black Kray) [youtube].mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/2-12 No Lo Siento (ft. Blaze Kidd).mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/2-13 Gtblessgo (ft. Thaiboy Digital).mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/2-14 Party W Me (ft. Virus).m4a
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity alternate tracks/08 Upgrade Enabled (original).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Bladee - bladee commercial Pt.1.0 (gravity boys) #shieldgang.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Bladee - chainsaw.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Bladee - Crushed.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Bladee - GHOST HANDS.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/= Alternative Versions/Bladee - OXYGEN (Soundcloud Version).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Bladee - sleep.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Bladee - 2BELOVED.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Bladee - Beautiful.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Bladee - ۝ ☆bladee☆dior☆fw2016☆.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/= Alternative Versions/Bladee - Carwash (Music Video Version).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Cuts/Bladee - Cash In My Jeans (KTZ x Been Trill Version).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Live/Bladee - Everything Can Go - live.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/= Alternative Versions/Bladee - Spellbound (Music Video Version).mp3
 /mnt/synology/media/music/redacted.ch/flac/Bladee-Into Dust-(WEB)-2014-FLAC/01-Into Dust.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Bladee - JEWELRY.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Bladee - OXYGEN.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/= Alternative Versions/Bladee - reborn (Music Video Version).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/Bladee - Spellbound (Demo).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Bladee - SUBARU.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/Bladee - SUBARU (Demo).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Snippets/Bladee - Unloveable (Snippet).mp3
 /mnt/synology/media/music/orpheus.network/flac/Bladee - Gluee/01 - Deletee (Intro).flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Gluee/01 - Deletee (Intro).flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - Gluee/02 - Safehouse.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Gluee/02 - Safehouse.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - Gluee/03 - Ebay.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Gluee/03 - Ebay.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - Gluee/04 - Shadowface.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Gluee/04 - Shadowface.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - Gluee/05 - Spellbound.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Gluee/05 - Spellbound.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - Gluee/06 - Everlasting Flames.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Gluee/06 - Everlasting Flames.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - Gluee/07 - Freeze.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Gluee/07 - Freeze.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - Gluee/08 - Upgrade Enabled.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Gluee/08 - Upgrade Enabled.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - Gluee/09 - Unreal.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Gluee/09 - Unreal.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/1-32 X o n u (ft. Thaiboy Digital and Yung Lean).mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/1-33 7-Eleven.m4a
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/1-34 Show U.mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity alternate tracks/1-33 Show U (live mix).mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/1-35 4am.mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/1-36 Friday Nite (ft. Black Kray).mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/1-37 Like A Virgin.mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/1-38 Creepin (ft. Yung Lean).mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity alternate tracks/1-37 Creepin (ft. Yung Lean) [warlord bootleg version].m4a
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/1-39 Rain Check.mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/1-40 Psycho (ft. Adamn Killa).mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/1-41 Butterfly (ft. Thaiboy Digital).mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/1-42 Kiss Of Death (ft. Uli K).mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/1-43 Missing Person.mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/1-44 Cold.mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/1-45 Made Of Glass (ft. Thaiboy Digital).mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/2-15 Hottest In The City (ft. Capo, Black Kray, Justo and Seeda).mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/2-16 Dont Dance (ft. Thaiboy Digital).mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/2-17 Tokyo Drift (ft. Yung Lean, MonyHorse, PETZ and Junkman).mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/2-18 Playin (ft. Adamn Killa).mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/2-19 Visa (ft. Thaiboy Digital and ECCO2K).mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/2-20 Cero Miedo (ft. Uli K and Blaze Kidd).mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/2-21 Never Coming Down (ft. Yung God).mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/2-22 Like How I Trap (ft. RahnRahn $plash).m4a
+/mnt/synology/media/music/sbe-gtb-dg/Bladeecity [bootleg compilation]/1-33 Friday Nite (feat. Black Kray).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Bladee, Black Kray - Friday Nite.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/Bladee - Friday Nite (Demo v1).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/= Alternative Versions/Bladee - Missing Person (Soundcloud Version).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Bladee - SHOW U.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Cuts/Varg²™, Bladee, Ecco2k - DNA Play (Demo) (Varg2™ for Wave Of Hope Version).flac
 /mnt/synology/media/music/redacted.ch/flac/Bladee & Thaiboy Digital - AvP (2016) [WEB FLAC]/01 - Still in Search of Sunshine.flac
 /mnt/synology/media/music/redacted.ch/flac/Bladee & Thaiboy Digital - AvP (2016) [WEB FLAC]/02 - Painkillers.flac
 /mnt/synology/media/music/redacted.ch/flac/Bladee & Thaiboy Digital - AvP (2016) [WEB FLAC]/03 - 1million.flac
@@ -2839,389 +2894,292 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Black Flag - My War [FLAC]/
 /mnt/synology/media/music/redacted.ch/flac/Bladee & Thaiboy Digital - AvP (2016) [WEB FLAC]/05 - Area 51.flac
 /mnt/synology/media/music/redacted.ch/flac/Bladee & Thaiboy Digital - AvP (2016) [WEB FLAC]/06 - 2x.flac
 /mnt/synology/media/music/redacted.ch/flac/Bladee & Thaiboy Digital - AvP (2016) [WEB FLAC]/07 - Winter.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/1-46 MJ (ft. Yung Lean).mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/1-47 Ghost Of October (Live).mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/1-48 Park (Snippet).m4a
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/2-23 Energy (ft. Yung Lean).m4a
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/2-24 Bussin (ft. RahnRahn $plash).mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/2-25 Highway Patrol (ft. Yung Lean).m4a
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity alternate tracks/2-25 Highway Patrol (ft. Yung Lean) [warlord bootleg version].m4a
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/2-26 Hocus Pocus (ft. Yung Lean).m4a
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity alternate tracks/2-26 Hocus Pocus (ft. Yung Lean) [warlord bootleg version].m4a
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/2-27 Lie 2 Me (ft. Thaiboy Digital).mp3
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Bladeecity/2-28 Star Fountain (ft. Yung Lean and Black Kray).m4a
 /mnt/synology/media/music/orpheus.network/flac/Bladee - Eversince (2016) [2019 cd reissue, flac]/01 - Who Goes There.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Eversince (2016) [2019 cd reissue, flac]/01 - Who Goes There.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - Eversince (2016) [2019 cd reissue, flac]/02 - So What (feat. Ecco2k).flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Eversince (2016) [2019 cd reissue, flac]/02 - So What (feat. Ecco2k).flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - Eversince (2016) [2019 cd reissue, flac]/03 - Lovenote.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Eversince (2016) [2019 cd reissue, flac]/03 - Lovenote.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - Eversince (2016) [2019 cd reissue, flac]/04 - Missing Person.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Eversince (2016) [2019 cd reissue, flac]/04 - Missing Person.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - Eversince (2016) [2019 cd reissue, flac]/05 - Romeo.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Eversince (2016) [2019 cd reissue, flac]/05 - Romeo.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - Eversince (2016) [2019 cd reissue, flac]/06 - Xd Out.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Eversince (2016) [2019 cd reissue, flac]/06 - Xd Out.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - Eversince (2016) [2019 cd reissue, flac]/07 - Sick.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Eversince (2016) [2019 cd reissue, flac]/07 - Sick.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - Eversince (2016) [2019 cd reissue, flac]/08 - R.i.p..flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Eversince (2016) [2019 cd reissue, flac]/08 - R.i.p..flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - Eversince (2016) [2019 cd reissue, flac]/09 - Bloodveil,Stillborn (feat. Ecco2k0.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Eversince (2016) [2019 cd reissue, flac]/09 - Bloodveil,Stillborn (feat. Ecco2k0.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - Eversince (2016) [2019 cd reissue, flac]/10 - Sugar.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Eversince (2016) [2019 cd reissue, flac]/10 - Sugar.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - Eversince (2016) [2019 cd reissue, flac]/11 - Wrist Cry.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Eversince (2016) [2019 cd reissue, flac]/11 - Wrist Cry.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - Eversince (2016) [2019 cd reissue, flac]/12 - Skin.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Eversince (2016) [2019 cd reissue, flac]/12 - Skin.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Bladee - facetime.mp3
 /mnt/synology/media/music/redacted.ch/flac/Bladee-Reborn [Master]-2014-FLAC/01-Reborn [Master].flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - rip bladee (2016) [WEB FLAC]/01 - 7-Eleven.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - rip bladee (2016) [WEB FLAC]/01 - 7-Eleven.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - rip bladee (2016) [WEB FLAC]/02 - Butterfly.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - rip bladee (2016) [WEB FLAC]/02 - Butterfly.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - rip bladee (2016) [WEB FLAC]/03 - MJ.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - rip bladee (2016) [WEB FLAC]/03 - MJ.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - rip bladee (2016) [WEB FLAC]/04 - Psycho.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - rip bladee (2016) [WEB FLAC]/04 - Psycho.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - rip bladee (2016) [WEB FLAC]/05 - 50SACINMYSOCIDGAF.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - rip bladee (2016) [WEB FLAC]/05 - 50SACINMYSOCIDGAF.flac
 /mnt/synology/media/music/redacted.ch/flac/Bladee-Who Goes There-(WEB)-2016-FLAC/01-Who Goes There.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Bladee - Who_s Going To Find Me Tonight.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Bladee - #18.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Bladee, Kane Grocerys - 1s.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Bladee - BLADEE COMMERCIAL 0.2 (LIFE OUTRO) 14.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Snippets/Bladee - Cherry Bracelets (Demo) (Snippet).mp3
 /mnt/synology/media/music/redacted.ch/flac/Bladee - Gotham City (2017) [WEB FLAC]/01. Gotham City (feat. Yung Lean).flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Bladee - Insect.mp3
 /mnt/synology/media/music/redacted.ch/flac/Bladee - Plastic Surgery (2017) {YEAR0001} [WEB FLAC]/01 - Plastic Surgery.flac
 /mnt/synology/media/music/redacted.ch/flac/Bladee - Plastic Surgery (2017) {YEAR0001} [WEB FLAC]/02 - It Suxx.flac
 /mnt/synology/media/music/redacted.ch/flac/Bladee - Plastic Surgery (2017) {YEAR0001} [WEB FLAC]/03 - Doorman.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Snippets/Bladee - Untitled 1 (Snippet).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Bladee - WALLET WONT FOLD.mp3
 /mnt/synology/media/music/orpheus.network/flac/Bladee - Working on Dying (2017) [FLAC]/01 - Redlight Moments.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Working on Dying (2017) [FLAC]/01 - Redlight Moments.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - Working on Dying (2017) [FLAC]/02 - Lordship.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Working on Dying (2017) [FLAC]/02 - Lordship.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - Working on Dying (2017) [FLAC]/03 - Knightsbridge.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Working on Dying (2017) [FLAC]/03 - Knightsbridge.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - Working on Dying (2017) [FLAC]/04 - Backstr€€t Boys.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Working on Dying (2017) [FLAC]/04 - Backstr€€t Boys.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - Working on Dying (2017) [FLAC]/05 - Under Your Spell.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Working on Dying (2017) [FLAC]/05 - Under Your Spell.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - Working on Dying (2017) [FLAC]/06 - D-925.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Working on Dying (2017) [FLAC]/06 - D-925.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - Working on Dying (2017) [FLAC]/07 - Gatekeeper.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Working on Dying (2017) [FLAC]/07 - Gatekeeper.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - Working on Dying (2017) [FLAC]/08 - Cherry Bracelets.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Working on Dying (2017) [FLAC]/08 - Cherry Bracelets.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - Working on Dying (2017) [FLAC]/09 - Best Buy.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Working on Dying (2017) [FLAC]/09 - Best Buy.flac
 /mnt/synology/media/music/redacted.ch/flac/Bladee - Cover Up (2018) [FLAC]/Bladee - Cover Up.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Bladee - Cover Up.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Snippets/Bladee - Feel Like (Demo) (Snippet).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Bladee - FML.mp3
 /mnt/synology/media/music/orpheus.network/flac/Bladee-Icedancer-(WEB)-2018-FLAC/01 SmartWater.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee-Icedancer-(WEB)-2018-FLAC/01 SmartWater.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee-Icedancer-(WEB)-2018-FLAC/02 OKK.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee-Icedancer-(WEB)-2018-FLAC/02 OKK.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee-Icedancer-(WEB)-2018-FLAC/03 Mallwhore Freeestyle.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee-Icedancer-(WEB)-2018-FLAC/03 Mallwhore Freeestyle.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee-Icedancer-(WEB)-2018-FLAC/04 Be Nice 2 Me.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee-Icedancer-(WEB)-2018-FLAC/04 Be Nice 2 Me.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee-Icedancer-(WEB)-2018-FLAC/05 Frosty the Snowman.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee-Icedancer-(WEB)-2018-FLAC/05 Frosty the Snowman.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee-Icedancer-(WEB)-2018-FLAC/06 Inside Out (feat. Yung Lean).flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee-Icedancer-(WEB)-2018-FLAC/06 Inside Out (feat. Yung Lean).flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee-Icedancer-(WEB)-2018-FLAC/07 Close.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee-Icedancer-(WEB)-2018-FLAC/07 Close.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee-Icedancer-(WEB)-2018-FLAC/08 Jaws.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee-Icedancer-(WEB)-2018-FLAC/08 Jaws.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee-Icedancer-(WEB)-2018-FLAC/09 Cartier'god Icedancer (Intermission).flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee-Icedancer-(WEB)-2018-FLAC/09 Cartier'god Icedancer (Intermission).flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee-Icedancer-(WEB)-2018-FLAC/10 Side by Side (feat. Thaiboy Digital).flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee-Icedancer-(WEB)-2018-FLAC/10 Side by Side (feat. Thaiboy Digital).flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee-Icedancer-(WEB)-2018-FLAC/11 Topman.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee-Icedancer-(WEB)-2018-FLAC/11 Topman.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee-Icedancer-(WEB)-2018-FLAC/12 Waster.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee-Icedancer-(WEB)-2018-FLAC/12 Waster.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee-Icedancer-(WEB)-2018-FLAC/13 Special Place.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee-Icedancer-(WEB)-2018-FLAC/13 Special Place.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee-Icedancer-(WEB)-2018-FLAC/14 Dg Jeans.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee-Icedancer-(WEB)-2018-FLAC/14 Dg Jeans.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee-Icedancer-(WEB)-2018-FLAC/15 Feel Like.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee-Icedancer-(WEB)-2018-FLAC/15 Feel Like.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee-Icedancer-(WEB)-2018-FLAC/16 Linkdin.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee-Icedancer-(WEB)-2018-FLAC/16 Linkdin.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee-Icedancer-(WEB)-2018-FLAC/17 For Nothing.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee-Icedancer-(WEB)-2018-FLAC/17 For Nothing.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee-Icedancer-(WEB)-2018-FLAC/18 Anything.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee-Icedancer-(WEB)-2018-FLAC/18 Anything.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee-Icedancer-(WEB)-2018-FLAC/19 The Silent Boy Cries (Ripsquadd Outro).flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee-Icedancer-(WEB)-2018-FLAC/19 The Silent Boy Cries (Ripsquadd Outro).flac
 /mnt/synology/media/music/redacted.ch/flac/Bladee, 16yrold - I Chose to Be This Way [2018]/01 - I Chose to Be This Way.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Bladee - Im not tired.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/Bladee - Linkdin (Demo).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/Bladee - met you (Topman) (Demo).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Snippets/Bladee - OKK ✡ til i die ✡ (Demo) (Snippet).mp3
 /mnt/synology/media/music/orpheus.network/flac/Bladee - Red Light [2018] [cd flac]/01 - 1D.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Red Light [2018] [cd flac]/01 - 1D.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - Red Light [2018] [cd flac]/02 - Golden Boy.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Red Light [2018] [cd flac]/02 - Golden Boy.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - Red Light [2018] [cd flac]/03 - Westfield.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Red Light [2018] [cd flac]/03 - Westfield.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - Red Light [2018] [cd flac]/04 - Fake News.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Red Light [2018] [cd flac]/04 - Fake News.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - Red Light [2018] [cd flac]/05 - Steve Jobs.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Red Light [2018] [cd flac]/05 - Steve Jobs.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - Red Light [2018] [cd flac]/06 - Obedient (feat. Ecco2k).flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Red Light [2018] [cd flac]/06 - Obedient (feat. Ecco2k).flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - Red Light [2018] [cd flac]/07 - For You (feat. Ecco2k).flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Red Light [2018] [cd flac]/07 - For You (feat. Ecco2k).flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - Red Light [2018] [cd flac]/08 - Hex.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Red Light [2018] [cd flac]/08 - Hex.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - Red Light [2018] [cd flac]/09 - Nike Just Do It.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Red Light [2018] [cd flac]/09 - Nike Just Do It.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - Red Light [2018] [cd flac]/10 - That Thing You Do (feat. Uli K).flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Red Light [2018] [cd flac]/10 - That Thing You Do (feat. Uli K).flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - Red Light [2018] [cd flac]/11 - Decay.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Red Light [2018] [cd flac]/11 - Decay.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - Red Light [2018] [cd flac]/12 - College Boy.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Red Light [2018] [cd flac]/12 - College Boy.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - Red Light [2018] [cd flac]/13 - Puppet Master.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Red Light [2018] [cd flac]/13 - Puppet Master.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - Red Light [2018] [cd flac]/14 - I'm Goofy.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Red Light [2018] [cd flac]/14 - I'm Goofy.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/Bladee - Red Light (Demo)/Bladee - 1D (Demo).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/Bladee - Red Light (Demo)/Bladee - Golden Boy (Demo).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/Bladee - Red Light (Demo)/Bladee - Westfield (Demo).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/Bladee - Red Light (Demo)/Bladee - Fake News (Demo).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/Bladee - Red Light (Demo)/Bladee - Steve Jobs (Demo).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/Bladee - Red Light (Demo)/Bladee, Ecco2k - Obedient (Demo).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/Bladee - Red Light (Demo)/Bladee, Ecco2k - For You (Demo).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/Bladee - Red Light (Demo)/Bladee - Hex (Demo).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/Bladee - Red Light (Demo)/Bladee - Nike Just Do It (Demo).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/Bladee - Red Light (Demo)/Bladee, Uli K - That Thing You Do (Demo).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/Bladee - Red Light (Demo)/Bladee - Decay (Demo).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/Bladee - Red Light (Demo)/Bladee - College Boy (Demo).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/Bladee - Red Light (Demo)/Bladee - Puppet Master (Demo).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/Bladee - Red Light (Demo)/Bladee - I_m Goofy (Demo).mp3
 /mnt/synology/media/music/redacted.ch/flac/Bladee-Sesame Street/01 Sesame Street.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/Bladee - Sesame Street (Demo).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/Bladee, Thaiboy Digital - Side by Side (Demo v2).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Bladee - Sleep Walk.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Bladee - ✡ til i die ✡.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Snippets/Bladee - Untitled 2 (Snippet).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/Bladee - Side by Side (Demo v1).mp3
 /mnt/synology/media/music/redacted.ch/flac/Bladee - Trash Star [2019] [WEB 16bit FLAC]/01 Trash Star.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Snippets/Bladee - Untitled 3 (Snippet).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Snippets/Bladee - Untitled 4 (Snippet).mp3
 /mnt/synology/media/music/redacted.ch/flac/Bladee - All I Want (2019) [FLAC]/01 All I Want.flac
 /mnt/synology/media/music/redacted.ch/flac/Bladee - Apple [2019] [WEB 16bit FLAC]/01 Apple.flac
 /mnt/synology/media/music/redacted.ch/flac/Bladee - Vanilla Sky (2019) [WEB FLAC]/01. Vanilla Sky.flac
 /mnt/synology/media/music/redacted.ch/flac/Bladee - Vanilla Sky (2019) [WEB FLAC]/02. Birdbath.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - 333 (2020) [WEB FLAC]/01 - Bladee - Wings in Motion.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - 333 (2020) [WEB FLAC]/01 - Bladee - Wings in Motion.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - 333 (2020) [WEB FLAC]/02 - Bladee - Don't Worry.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - 333 (2020) [WEB FLAC]/02 - Bladee - Don't Worry.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - 333 (2020) [WEB FLAC]/03 - Bladee - Keys to the City.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - 333 (2020) [WEB FLAC]/03 - Bladee - Keys to the City.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - 333 (2020) [WEB FLAC]/04 - Bladee - Hero of My Story 3style3.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - 333 (2020) [WEB FLAC]/04 - Bladee - Hero of My Story 3style3.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - 333 (2020) [WEB FLAC]/05 - Bladee - 100s.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - 333 (2020) [WEB FLAC]/05 - Bladee - 100s.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - 333 (2020) [WEB FLAC]/06 - Bladee - Mean Girls.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - 333 (2020) [WEB FLAC]/06 - Bladee - Mean Girls.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/= Alternative Versions/Bladee - Mean Girls (Music Video Version).mp3
 /mnt/synology/media/music/orpheus.network/flac/Bladee - 333 (2020) [WEB FLAC]/07 - Bladee - Innocent of All Things.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - 333 (2020) [WEB FLAC]/07 - Bladee - Innocent of All Things.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - 333 (2020) [WEB FLAC]/08 - Bladee - Reality Surf.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - 333 (2020) [WEB FLAC]/08 - Bladee - Reality Surf.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - 333 (2020) [WEB FLAC]/09 - Bladee - Noblest Strive.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - 333 (2020) [WEB FLAC]/09 - Bladee - Noblest Strive.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - 333 (2020) [WEB FLAC]/10 - Bladee - It Girl.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - 333 (2020) [WEB FLAC]/10 - Bladee - It Girl.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - 333 (2020) [WEB FLAC]/11 - Bladee - Oh Well.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - 333 (2020) [WEB FLAC]/11 - Bladee - Oh Well.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - 333 (2020) [WEB FLAC]/12 - Bladee - Valerie.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - 333 (2020) [WEB FLAC]/12 - Bladee - Valerie.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - 333 (2020) [WEB FLAC]/13 - Bladee - Finder.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - 333 (2020) [WEB FLAC]/13 - Bladee - Finder.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - 333 (2020) [WEB FLAC]/14 - Bladee - Exstasia.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - 333 (2020) [WEB FLAC]/14 - Bladee - Exstasia.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - 333 (2020) [WEB FLAC]/15 - Bladee - Only One.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - 333 (2020) [WEB FLAC]/15 - Bladee - Only One.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - 333 (2020) [WEB FLAC]/16 - Bladee - Swan Lake.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - 333 (2020) [WEB FLAC]/16 - Bladee - Swan Lake.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/Bladee - Anywhere (Demo v1).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/Bladee - Anywhere (Demo v2).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/Bladee - Breakfast Closed (Hotel Breakfast) (Demo).mp3
 /mnt/synology/media/music/redacted.ch/flac/Bladee [2020] Undergone [WEB FLAC]/01. Bladee - Undergone (feat. Ssaliva).flac
 /mnt/synology/media/music/redacted.ch/flac/bladee & Ecco2K - Girls just want to have fun (2020) [WEB FLAC]/bladee & Ecco2K - Girls just want to have fun.flac
-/mnt/synology/media/music/sbe-gtb-dg/bladee & Ecco2K - Girls just want to have fun (2020) [WEB FLAC]/bladee & Ecco2K - Girls just want to have fun.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - EXETER (2020) [WEB FLAC]/01 - MIRROR (HYMN) (INTRO).flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - EXETER (2020) [WEB FLAC]/01 - MIRROR (HYMN) (INTRO).flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - EXETER (2020) [WEB FLAC]/02 - WONDERLAND.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - EXETER (2020) [WEB FLAC]/02 - WONDERLAND.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - EXETER (2020) [WEB FLAC]/03 - MERRY-GO-ROUND.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - EXETER (2020) [WEB FLAC]/03 - MERRY-GO-ROUND.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - EXETER (2020) [WEB FLAC]/04 - RAIN3OW STAR (LOVE IS ALL).flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - EXETER (2020) [WEB FLAC]/04 - RAIN3OW STAR (LOVE IS ALL).flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - EXETER (2020) [WEB FLAC]/05 - EVERY MOMENT SPECIAL.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - EXETER (2020) [WEB FLAC]/05 - EVERY MOMENT SPECIAL.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - EXETER (2020) [WEB FLAC]/06 - DNA RAIN.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - EXETER (2020) [WEB FLAC]/06 - DNA RAIN.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - EXETER (2020) [WEB FLAC]/07 - OPEN SYMBOLS (PLAY) BE IN YOUR MIND.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - EXETER (2020) [WEB FLAC]/07 - OPEN SYMBOLS (PLAY) BE IN YOUR MIND.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - EXETER (2020) [WEB FLAC]/08 - LOVESTORY.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - EXETER (2020) [WEB FLAC]/08 - LOVESTORY.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - EXETER (2020) [WEB FLAC]/09 - IMAGINARY.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - EXETER (2020) [WEB FLAC]/09 - IMAGINARY.flac
 /mnt/synology/media/music/redacted.ch/flac/Bladee & Mechatok - God (2020) [FLAC]/01. Bladee & Mechatok - God.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/= Alternative Versions/Bladee - egobaby (Music Video Version).mp3
 /mnt/synology/media/music/orpheus.network/flac/Bladee - The Fool (2021) [FLAC]/01 - The Fool Intro.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - The Fool (2021) [FLAC]/01 - The Fool Intro.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - The Fool (2021) [FLAC]/02 - Let's Ride.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - The Fool (2021) [FLAC]/02 - Let's Ride.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - The Fool (2021) [FLAC]/03 - Hotel Breakfast.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - The Fool (2021) [FLAC]/03 - Hotel Breakfast.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - The Fool (2021) [FLAC]/04 - I Think.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - The Fool (2021) [FLAC]/04 - I Think.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - The Fool (2021) [FLAC]/05 - Thee 9 Is Up.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - The Fool (2021) [FLAC]/05 - Thee 9 Is Up.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - The Fool (2021) [FLAC]/06 - desiree.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - The Fool (2021) [FLAC]/06 - desiree.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - The Fool (2021) [FLAC]/07 - I Want It That Way.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - The Fool (2021) [FLAC]/07 - I Want It That Way.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - The Fool (2021) [FLAC]/08 - BBY.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - The Fool (2021) [FLAC]/08 - BBY.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - The Fool (2021) [FLAC]/09 - Inspiration Comes.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - The Fool (2021) [FLAC]/09 - Inspiration Comes.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - The Fool (2021) [FLAC]/10 - egobaby.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - The Fool (2021) [FLAC]/10 - egobaby.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - The Fool (2021) [FLAC]/11 - Trendy.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - The Fool (2021) [FLAC]/11 - Trendy.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - The Fool (2021) [FLAC]/12 - Search True.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - The Fool (2021) [FLAC]/12 - Search True.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - The Fool (2021) [FLAC]/13 - Wett (Water2).flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - The Fool (2021) [FLAC]/13 - Wett (Water2).flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - Spiderr - (2022) {WEB - FLAC}/01 - UNDERSTATEMENT.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Spiderr - (2022) {WEB - FLAC}/01 - UNDERSTATEMENT.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - Spiderr - (2022) {WEB - FLAC}/02 - ITS OK TO NOT BE OK.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Spiderr - (2022) {WEB - FLAC}/02 - ITS OK TO NOT BE OK.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - Spiderr - (2022) {WEB - FLAC}/03 - I AM SLOWLY BUT SURELY LOSING HOPE.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Spiderr - (2022) {WEB - FLAC}/03 - I AM SLOWLY BUT SURELY LOSING HOPE.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - Spiderr - (2022) {WEB - FLAC}/04 - ICARUS 3REESTYLE.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Spiderr - (2022) {WEB - FLAC}/04 - ICARUS 3REESTYLE.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - Spiderr - (2022) {WEB - FLAC}/05 - NOTHINGG.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Spiderr - (2022) {WEB - FLAC}/05 - NOTHINGG.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - Spiderr - (2022) {WEB - FLAC}/06 - BLUE CRUSH ANGEL.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Spiderr - (2022) {WEB - FLAC}/06 - BLUE CRUSH ANGEL.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - Spiderr - (2022) {WEB - FLAC}/07 - DiSASTER PRELUDE.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Spiderr - (2022) {WEB - FLAC}/07 - DiSASTER PRELUDE.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - Spiderr - (2022) {WEB - FLAC}/08 - HAHAH.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Spiderr - (2022) {WEB - FLAC}/08 - HAHAH.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - Spiderr - (2022) {WEB - FLAC}/09 - DRAIN STORY.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Spiderr - (2022) {WEB - FLAC}/09 - DRAIN STORY.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - Spiderr - (2022) {WEB - FLAC}/10 - Velociraptor.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Spiderr - (2022) {WEB - FLAC}/10 - Velociraptor.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - Spiderr - (2022) {WEB - FLAC}/11 - DRESDEN ER.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Spiderr - (2022) {WEB - FLAC}/11 - DRESDEN ER.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - Spiderr - (2022) {WEB - FLAC}/12 - She's Always Dancing.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Spiderr - (2022) {WEB - FLAC}/12 - She's Always Dancing.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - Spiderr - (2022) {WEB - FLAC}/13 - URIEL OUTRO.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - Spiderr - (2022) {WEB - FLAC}/13 - URIEL OUTRO.flac
 /mnt/synology/media/music/redacted.ch/flac/Bladee - 2023 - Requiem {019798612463} [FLAC]/01 - Requiem (feat. Thaiboy Digital).flac
 /mnt/synology/media/music/redacted.ch/flac/Bladee - 2023 - Requiem {019798612463} [FLAC]/02 - Obsessed with Death.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Live/Bladee - One in a Million (Demo) - live.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/= Alternative Versions/Bladee - PARANOIA INTRO (Music Video Version).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/= Alternative Versions/Bladee - I Think... (Music Video Version).mp3
 /mnt/synology/media/music/redacted.ch/flac/Bladee - TL;DR (2024) [FLAC] [16B-44.1kHz]/01. Bladee - TL;DR.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - 2024 - Cold Visions [WEB FLAC]/01 - Bladee - PARANOIA INTRO.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - 2024 - Cold Visions [WEB FLAC]/01 - Bladee - PARANOIA INTRO.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - 2024 - Cold Visions [WEB FLAC]/02 - Bladee - WODRAINER.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - 2024 - Cold Visions [WEB FLAC]/02 - Bladee - WODRAINER.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - 2024 - Cold Visions [WEB FLAC]/03 - Bladee - YUNG SHERMAN (feat. Yung Sherman).flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - 2024 - Cold Visions [WEB FLAC]/03 - Bladee - YUNG SHERMAN (feat. Yung Sherman).flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - 2024 - Cold Visions [WEB FLAC]/04 - Bladee - FLATLINE.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - 2024 - Cold Visions [WEB FLAC]/04 - Bladee - FLATLINE.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - 2024 - Cold Visions [WEB FLAC]/05 - Bladee - ONE SECOND (feat. Yung Lean).flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - 2024 - Cold Visions [WEB FLAC]/05 - Bladee - ONE SECOND (feat. Yung Lean).flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - 2024 - Cold Visions [WEB FLAC]/06 - Bladee - SAD MEAL.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - 2024 - Cold Visions [WEB FLAC]/06 - Bladee - SAD MEAL.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - 2024 - Cold Visions [WEB FLAC]/07 - Bladee - FUN FACT (feat. Yung Lean).flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - 2024 - Cold Visions [WEB FLAC]/07 - Bladee - FUN FACT (feat. Yung Lean).flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - 2024 - Cold Visions [WEB FLAC]/08 - Bladee - ONLY GOD IS MADE PERFECT.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - 2024 - Cold Visions [WEB FLAC]/08 - Bladee - ONLY GOD IS MADE PERFECT.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - 2024 - Cold Visions [WEB FLAC]/09 - Bladee - DONT WANNA HANG OUT.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - 2024 - Cold Visions [WEB FLAC]/09 - Bladee - DONT WANNA HANG OUT.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - 2024 - Cold Visions [WEB FLAC]/10 - Bladee - I DONT LIKE PEOPLE (WHITEARMOR INTERLUDE).flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - 2024 - Cold Visions [WEB FLAC]/10 - Bladee - I DONT LIKE PEOPLE (WHITEARMOR INTERLUDE).flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - 2024 - Cold Visions [WEB FLAC]/11 - Bladee - I DONT LIKE PEOPLE (feat. Yung Lean).flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - 2024 - Cold Visions [WEB FLAC]/11 - Bladee - I DONT LIKE PEOPLE (feat. Yung Lean).flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - 2024 - Cold Visions [WEB FLAC]/12 - Bladee - END OF THE ROAD BOYZ.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - 2024 - Cold Visions [WEB FLAC]/12 - Bladee - END OF THE ROAD BOYZ.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - 2024 - Cold Visions [WEB FLAC]/13 - Bladee & Skrillex - D.O.A.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - 2024 - Cold Visions [WEB FLAC]/13 - Bladee & Skrillex - D.O.A.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - 2024 - Cold Visions [WEB FLAC]/14 - Bladee - DONT DO DRUGZ.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - 2024 - Cold Visions [WEB FLAC]/14 - Bladee - DONT DO DRUGZ.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - 2024 - Cold Visions [WEB FLAC]/15 - Bladee - LOWS PARTLYY.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - 2024 - Cold Visions [WEB FLAC]/15 - Bladee - LOWS PARTLYY.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - 2024 - Cold Visions [WEB FLAC]/16 - Bladee - SO COLD INTERLUDE.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - 2024 - Cold Visions [WEB FLAC]/16 - Bladee - SO COLD INTERLUDE.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - 2024 - Cold Visions [WEB FLAC]/17 - Bladee - MESSAGE TO MYSELF.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - 2024 - Cold Visions [WEB FLAC]/17 - Bladee - MESSAGE TO MYSELF.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - 2024 - Cold Visions [WEB FLAC]/18 - Bladee - TERRIBLE EXCELLENCE (feat. Yung Lean).flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - 2024 - Cold Visions [WEB FLAC]/18 - Bladee - TERRIBLE EXCELLENCE (feat. Yung Lean).flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - 2024 - Cold Visions [WEB FLAC]/19 - Bladee - RED CROSS.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - 2024 - Cold Visions [WEB FLAC]/19 - Bladee - RED CROSS.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - 2024 - Cold Visions [WEB FLAC]/20 - Bladee - LUCKY LUKE (feat. Thaiboy Digital & Yung Lean).flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - 2024 - Cold Visions [WEB FLAC]/20 - Bladee - LUCKY LUKE (feat. Thaiboy Digital & Yung Lean).flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - 2024 - Cold Visions [WEB FLAC]/21 - Bladee - RIVER FLOWS IN YOU.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - 2024 - Cold Visions [WEB FLAC]/21 - Bladee - RIVER FLOWS IN YOU.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - 2024 - Cold Visions [WEB FLAC]/22 - Bladee - KING NOTHINGG.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - 2024 - Cold Visions [WEB FLAC]/22 - Bladee - KING NOTHINGG.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - 2024 - Cold Visions [WEB FLAC]/23 - Bladee - BAD 4 BUSINESS.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - 2024 - Cold Visions [WEB FLAC]/23 - Bladee - BAD 4 BUSINESS.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - 2024 - Cold Visions [WEB FLAC]/24 - Bladee - OTHERSIDE (feat. Black Kray).flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - 2024 - Cold Visions [WEB FLAC]/24 - Bladee - OTHERSIDE (feat. Black Kray).flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - 2024 - Cold Visions [WEB FLAC]/25 - Bladee - NORMAL.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - 2024 - Cold Visions [WEB FLAC]/25 - Bladee - NORMAL.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - 2024 - Cold Visions [WEB FLAC]/26 - Bladee - FLEXING & FINESSING.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - 2024 - Cold Visions [WEB FLAC]/26 - Bladee - FLEXING & FINESSING.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - 2024 - Cold Visions [WEB FLAC]/27 - Bladee - PM2.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - 2024 - Cold Visions [WEB FLAC]/27 - Bladee - PM2.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - 2024 - Cold Visions [WEB FLAC]/28 - Bladee - FALSE.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - 2024 - Cold Visions [WEB FLAC]/28 - Bladee - FALSE.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - 2024 - Cold Visions [WEB FLAC]/29 - Bladee - CANT END ON A LOSS (OUTRO).flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - 2024 - Cold Visions [WEB FLAC]/29 - Bladee - CANT END ON A LOSS (OUTRO).flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee - 2024 - Cold Visions [WEB FLAC]/30 - Bladee - COLD VISIONS (OUTRO 2).flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee - 2024 - Cold Visions [WEB FLAC]/30 - Bladee - COLD VISIONS (OUTRO 2).flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/Bladee, 16yrold - I Chose to Be This Way (Demo).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/Bladee, Black Kray - Friday Nite (Demo v2).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Bladee, Cartier God - #WetWater333.mp3
 /mnt/synology/media/music/orpheus.network/flac/Bladee & Ecco2k - Crest - (2022) {WEB - FLAC}/01 - The Flag is Raised.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee & Ecco2k - Crest - (2022) {WEB - FLAC}/01 - The Flag is Raised.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee & Ecco2k - Crest - (2022) {WEB - FLAC}/02 - 5 Star Crest (4 Vattenrum).flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee & Ecco2k - Crest - (2022) {WEB - FLAC}/02 - 5 Star Crest (4 Vattenrum).flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee & Ecco2k - Crest - (2022) {WEB - FLAC}/03 - White Meadow.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee & Ecco2k - Crest - (2022) {WEB - FLAC}/03 - White Meadow.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee & Ecco2k - Crest - (2022) {WEB - FLAC}/04 - Faust.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee & Ecco2k - Crest - (2022) {WEB - FLAC}/04 - Faust.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee & Ecco2k - Crest - (2022) {WEB - FLAC}/05 - Yeses (Red Cross).flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee & Ecco2k - Crest - (2022) {WEB - FLAC}/05 - Yeses (Red Cross).flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee & Ecco2k - Crest - (2022) {WEB - FLAC}/06 - Desire is a Trap.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee & Ecco2k - Crest - (2022) {WEB - FLAC}/06 - Desire is a Trap.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee & Ecco2k - Crest - (2022) {WEB - FLAC}/07 - Chaos Follows.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee & Ecco2k - Crest - (2022) {WEB - FLAC}/07 - Chaos Follows.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee & Ecco2k - Crest - (2022) {WEB - FLAC}/08 - Girls Just Want to Have Fun.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee & Ecco2k - Crest - (2022) {WEB - FLAC}/08 - Girls Just Want to Have Fun.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee & Ecco2k - Crest - (2022) {WEB - FLAC}/09 - Heaven Sings.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee & Ecco2k - Crest - (2022) {WEB - FLAC}/09 - Heaven Sings.flac
 /mnt/synology/media/music/redacted.ch/flac/Bladee, Ecco2k - Bleach (2013) [MP3-320]/Bladee, Ecco2k - Bleach.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Cuts/Ecco2k - 3rd Crush [Crush Resist] (CR-Crush Resist) (NTS Version).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Cuts/Ecco2k - 7th Crush [First Kiss] (CR-Crush Resist) (NTS Version).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/Bladee, Ecco2k - doda pojken (White Meadow) (Demo v2).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Bladee, Ecco2k - Grace.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Bladee, Ecco2k, Skrillex - Bind Mina Händer.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Bladee, Ecco2k, Skrillex - Dwarf.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Bladee, Ecco2k, Skrillex - Mcake.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Bladee, Ecco2k, Skrillex - Mora Donk.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Bladee, Ecco2k, Skrillex - Slow Dance.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee, Ecco2k & ThaiBoy Digital - D&G/1 No Life Left.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee, Ecco2k & ThaiBoy Digital - D&G/1 No Life Left.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee, Ecco2k & ThaiBoy Digital - D&G/2 Black Boy.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee, Ecco2k & ThaiBoy Digital - D&G/2 Black Boy.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee, Ecco2k & ThaiBoy Digital - D&G/3 First Crush (feat. Yung Lean).flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee, Ecco2k & ThaiBoy Digital - D&G/3 First Crush (feat. Yung Lean).flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee, Ecco2k & ThaiBoy Digital - D&G/4 Numb - Beverly Hills.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee, Ecco2k & ThaiBoy Digital - D&G/4 Numb - Beverly Hills.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee, Ecco2k & ThaiBoy Digital - D&G/5 Cinderella.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee, Ecco2k & ThaiBoy Digital - D&G/5 Cinderella.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee, Ecco2k & ThaiBoy Digital - D&G/6 Wrong.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee, Ecco2k & ThaiBoy Digital - D&G/6 Wrong.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee, Ecco2k & ThaiBoy Digital - D&G/7 Can't Trust (feat. Yung Lean).flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee, Ecco2k & ThaiBoy Digital - D&G/7 Can't Trust (feat. Yung Lean).flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee, Ecco2k & ThaiBoy Digital - D&G/8 Wickr Man.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee, Ecco2k & ThaiBoy Digital - D&G/8 Wickr Man.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee, Ecco2k & ThaiBoy Digital - D&G/9 G.T-R.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee, Ecco2k & ThaiBoy Digital - D&G/9 G.T-R.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee, Ecco2k & ThaiBoy Digital - D&G/10 Suffocation.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee, Ecco2k & ThaiBoy Digital - D&G/10 Suffocation.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee, Ecco2k & ThaiBoy Digital - D&G/11 Dumpster Baby.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee, Ecco2k & ThaiBoy Digital - D&G/11 Dumpster Baby.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee, Ecco2k & ThaiBoy Digital - D&G/12 Nosebleed.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee, Ecco2k & ThaiBoy Digital - D&G/12 Nosebleed.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee, Ecco2k & ThaiBoy Digital - D&G/13 Scarecrows.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee, Ecco2k & ThaiBoy Digital - D&G/13 Scarecrows.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee, Ecco2k & ThaiBoy Digital - D&G/14 Botox Lips.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee, Ecco2k & ThaiBoy Digital - D&G/14 Botox Lips.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee, Ecco2k & ThaiBoy Digital - D&G/15 Stalker.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee, Ecco2k & ThaiBoy Digital - D&G/15 Stalker.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee, Ecco2k & ThaiBoy Digital - D&G/16 Happily Ever After.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee, Ecco2k & ThaiBoy Digital - D&G/16 Happily Ever After.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee, Ecco2k & ThaiBoy Digital - D&G/17 Climbing.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee, Ecco2k & ThaiBoy Digital - D&G/17 Climbing.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Bladee, Ecco2k, Thaiboy Digital - GTBSG/Thaiboy Digital - Bankaccount.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Bladee, Ecco2k, Thaiboy Digital - GTBSG/Bladee - Bladeecity (feat. Yung Lean).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Bladee, Ecco2k, Thaiboy Digital - GTBSG/Thaiboy Digital - B With U.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Bladee, Ecco2k, Thaiboy Digital - GTBSG/Bladee - Bleach (feat. Ecco2k).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Bladee, Ecco2k, Thaiboy Digital - GTBSG/Bladee, Thaiboy Digital - Make You Bleed.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Bladee, Ecco2k, Thaiboy Digital - GTBSG/Ecco2k - Hold Me Down Like Gravity.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Bladee, Ecco2k, Thaiboy Digital - GTBSG/Bladee - Carwash.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Bladee, Ecco2k, Thaiboy Digital - GTBSG/Bladee, Thaiboy Digital - Diamondz (feat. Black Kray).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Bladee, Ecco2k, Thaiboy Digital - GTBSG/Bladee - Im Lost (feat. Thaiboy Digital).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Bladee, Ecco2k, Thaiboy Digital - GTBSG/Bladee - Magic Is Strong.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Bladee, Ecco2k, Thaiboy Digital - GTBSG/Thaiboy Digital - Moon Girl.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Bladee, Ecco2k, Thaiboy Digital - GTBSG/Bladee, Thaiboy Digital - Smoke In My Eyes.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Cuts/Bladee, Endgame - Precious Metals w Endgame & Bladee/Bladee - Reborn (NTS Version) - live.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Cuts/Bladee, Endgame - Precious Metals w Endgame & Bladee/Bladee - Oxygen (NTS Version) - live.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Cuts/Bladee, Endgame - Precious Metals w Endgame & Bladee/Bladee - Into Dust (NTS Version) - live.mp3
 /mnt/synology/media/music/redacted.ch/flac/Bladee & Mechatok - Drama (2020) [FLAC]/01 Drama.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee & Mechatok - Good Luck (2020) [WEB FLAC]/01 - Bladee & Mechatok - Intro.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee & Mechatok - Good Luck (2020) [WEB FLAC]/01 - Bladee & Mechatok - Intro.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee & Mechatok - Good Luck (2020) [WEB FLAC]/02 - Bladee & Mechatok - Rainbow.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee & Mechatok - Good Luck (2020) [WEB FLAC]/02 - Bladee & Mechatok - Rainbow.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee & Mechatok - Good Luck (2020) [WEB FLAC]/03 - Bladee & Mechatok - Sun.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee & Mechatok - Good Luck (2020) [WEB FLAC]/03 - Bladee & Mechatok - Sun.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee & Mechatok - Good Luck (2020) [WEB FLAC]/04 - Bladee & Mechatok - God.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee & Mechatok - Good Luck (2020) [WEB FLAC]/04 - Bladee & Mechatok - God.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee & Mechatok - Good Luck (2020) [WEB FLAC]/05 - Bladee & Mechatok - Drama.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee & Mechatok - Good Luck (2020) [WEB FLAC]/05 - Bladee & Mechatok - Drama.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee & Mechatok - Good Luck (2020) [WEB FLAC]/06 - Bladee & Mechatok - You.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee & Mechatok - Good Luck (2020) [WEB FLAC]/06 - Bladee & Mechatok - You.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee & Mechatok - Good Luck (2020) [WEB FLAC]/07 - Bladee & Mechatok - Into One.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee & Mechatok - Good Luck (2020) [WEB FLAC]/07 - Bladee & Mechatok - Into One.flac
 /mnt/synology/media/music/orpheus.network/flac/Bladee & Mechatok - Good Luck (2020) [WEB FLAC]/08 - Bladee & Mechatok - Grace.flac
-/mnt/synology/media/music/sbe-gtb-dg/Bladee & Mechatok - Good Luck (2020) [WEB FLAC]/08 - Bladee & Mechatok - Grace.flac
-/mnt/synology/media/music/sbe-gtb-dg/GTBSG compilation/07 Diamondz ft. Black Kray (Prod. Dj Smokey & SaavageBeatz).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/Bladee, Mechatok - As the World Unfolds (Rainbow) (Demo).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/Bladee, Mechatok - Into One (Demo).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/Bladee, Mechatok - Rainbow (Demo).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/Bladee, Mechatok - Sun (Demo).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Cuts/Bladee, Mechatok - Not Much Of A Life (NTS Version).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Bladee, Thaiboy Digital - Im Lost.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/= Alternative Versions/Bladee - i will make you bleed (SoundCloud Version).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Cuts/Bladee, Thaiboy Digital - Make You Bleed (Demo) (KTZ x Been Trill Version).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/Bladee, Thaiboy Digital - Make You Bleed (Demo).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Snippets/Bladee_ Thaiboy Digital - Untitled (Snippet).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Cuts/Bladee, Thaiboy Digital, Ecco2k - Ebay (Demo) (KTZ x Been Trill Version).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Live/Bladee, Thaiboy Digital, Hannah Diamond, Mechatok - Untitled - live.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Bladee, Uli K - Kiss of Death.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Bladee, Xavier Wulf - ICE FLOORS.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/Bladee, Xavier Wulf - ICE FLOORS (Demo).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Bladee, Yung Lean - Blood Rain.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Bladee, Yung Lean - Creepin.mp3
 /mnt/synology/media/music/redacted.ch/flac/Blasphemy - Fallen Angel of Doom.... [2015 Reissue][FLAC]/01 Winds of the Black Godz (Intro).flac
 /mnt/synology/media/music/redacted.ch/flac/Blasphemy - Fallen Angel of Doom.... [2015 Reissue][FLAC]/02 Fallen Angel of Doom.flac
 /mnt/synology/media/music/redacted.ch/flac/Blasphemy - Fallen Angel of Doom.... [2015 Reissue][FLAC]/03 Hording of Evil Vengeance.flac
@@ -3233,6 +3191,8 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Black Flag - My War [FLAC]/
 /mnt/synology/media/music/redacted.ch/flac/Blasphemy - Fallen Angel of Doom.... [2015 Reissue][FLAC]/09 Goddess of Perversity.flac
 cue:///mnt/synology/media/music/redacted.ch/flac/Blasphemy - Fallen Angel of Doom.... [2015 Reissue][FLAC]/Blasphemy - Fallen Angel of Doom.....cue/10
 /mnt/synology/media/music/redacted.ch/flac/Blasphemy - Fallen Angel of Doom.... [2015 Reissue][FLAC]/10 The Desolate One (Outro).flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Blaze Kidd - No Lo Siento (ft. Bladee).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Cuts/Yung Sherman - Comatose.mp3
 /mnt/synology/media/music/orpheus.network/flac/Blink 182 - Enema Of The State (1998) [FLAC]/01 Dumpweed.flac
 /mnt/synology/media/music/orpheus.network/flac/Blink 182 - Enema Of The State (1998) [FLAC]/02 Don't Leave Me.flac
 /mnt/synology/media/music/orpheus.network/flac/Blink 182 - Enema Of The State (1998) [FLAC]/03 Aliens Exist.flac
@@ -3340,7 +3300,7 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Blink-182 - (1997) Dude Ran
 /mnt/synology/media/music/orpheus.network/flac/Blops - 1974 - Blops (2021 Remaster, Arci Music, Tidal)/04 - Pirómano.flac
 /mnt/synology/media/music/orpheus.network/flac/Blops - 1974 - Blops (2021 Remaster, Arci Music, Tidal)/05 - Sandokán.flac
 /mnt/synology/media/music/redacted.ch/flac/BLP KOSHER, Yung Lean - Violent Lullaby (with Yung Lean) [2023]/01 - Violent Lullaby (with Yung Lean).flac
-/mnt/synology/media/music/sbe-gtb-dg/BLP KOSHER, Yung Lean - Violent Lullaby (with Yung Lean) [2023]/01 - Violent Lullaby (with Yung Lean).flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Snippets/BLP KOSHER, Yung Lean - Cosa Nostra (Snippet).mp3
 /mnt/synology/media/music/orpheus.network/flac/Blue Cheer - Vincebus Eruptum (1968) [FLAC] {2017 AF}/01 - Summertime Blues.flac
 /mnt/synology/media/music/orpheus.network/flac/Blue Cheer - Vincebus Eruptum (1968) [FLAC] {2017 AF}/02 - Rock Me Baby.flac
 /mnt/synology/media/music/orpheus.network/flac/Blue Cheer - Vincebus Eruptum (1968) [FLAC] {2017 AF}/03 - Doctor Please.flac
@@ -3742,6 +3702,7 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Bob Dylan - Desire (2013) [
 /mnt/synology/media/music/orpheus.network/flac/Boilermaker - Boilermaker (1998) [FLAC] {wr014}/10 Thinner Runs Through Her.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Boilermaker - Boilermaker (1998) [FLAC] {wr014}/Boilermaker.cue/11
 /mnt/synology/media/music/orpheus.network/flac/Boilermaker - Boilermaker (1998) [FLAC] {wr014}/11 Bluebird.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/BONES - PixelatedTears (feat. Yung Lean).mp3
 /mnt/synology/media/music/orpheus.network/flac/Bon Iver - For Emma, Forever Ago [2008 Jagjaguwar]/01 - Flume.flac
 /mnt/synology/media/music/orpheus.network/flac/Bon Iver - For Emma, Forever Ago [2008 Jagjaguwar]/02 - Lump Sum.flac
 /mnt/synology/media/music/orpheus.network/flac/Bon Iver - For Emma, Forever Ago [2008 Jagjaguwar]/03 - Skinny Love.flac
@@ -4652,16 +4613,16 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Can - 1989 - Ege Bamyasi [F
 /mnt/synology/media/music/orpheus.network/flac/Capstan - Parting Gifts (2015) [FLAC]/02 Capstan - A Forever Recovery (Acoustic).flac
 /mnt/synology/media/music/orpheus.network/flac/Capstan - Parting Gifts (2015) [FLAC]/03 Capstan - Closing Cost.flac
 /mnt/synology/media/music/orpheus.network/flac/Capstan - Parting Gifts (2015) [FLAC]/04 Capstan - Reprieve.flac
-/mnt/synology/media/music/slsk/flac/Capsuleofyou-Charcot Wilbrand-16BIT-WEB-FLAC-2024-VEXED/01-capsuleofyou-birds.flac
-/mnt/synology/media/music/slsk/flac/Capsuleofyou-Charcot Wilbrand-16BIT-WEB-FLAC-2024-VEXED/02-capsuleofyou-song_for_a_friend.flac
-/mnt/synology/media/music/slsk/flac/Capsuleofyou-Charcot Wilbrand-16BIT-WEB-FLAC-2024-VEXED/03-capsuleofyou-see_you_say.flac
-/mnt/synology/media/music/slsk/flac/Capsuleofyou-Charcot Wilbrand-16BIT-WEB-FLAC-2024-VEXED/04-capsuleofyou-reject.flac
-/mnt/synology/media/music/slsk/flac/Capsuleofyou-Charcot Wilbrand-16BIT-WEB-FLAC-2024-VEXED/05-capsuleofyou-my_martyr.flac
-/mnt/synology/media/music/slsk/flac/Capsuleofyou-Charcot Wilbrand-16BIT-WEB-FLAC-2024-VEXED/06-capsuleofyou-charcot_wilbrand.flac
-/mnt/synology/media/music/slsk/flac/Capsuleofyou-Charcot Wilbrand-16BIT-WEB-FLAC-2024-VEXED/07-capsuleofyou-interlude.flac
-/mnt/synology/media/music/slsk/flac/Capsuleofyou-Charcot Wilbrand-16BIT-WEB-FLAC-2024-VEXED/08-capsuleofyou-cross_my_heart.flac
-/mnt/synology/media/music/slsk/flac/Capsuleofyou-Charcot Wilbrand-16BIT-WEB-FLAC-2024-VEXED/09-capsuleofyou-capitalism_in_practice.flac
-/mnt/synology/media/music/slsk/flac/Capsuleofyou-Charcot Wilbrand-16BIT-WEB-FLAC-2024-VEXED/10-capsuleofyou-instagram_is_the_new_myspace.flac
+/mnt/synology/media/music/slsk/Capsuleofyou-Charcot Wilbrand-16BIT-WEB-FLAC-2024-VEXED/01-capsuleofyou-birds.flac
+/mnt/synology/media/music/slsk/Capsuleofyou-Charcot Wilbrand-16BIT-WEB-FLAC-2024-VEXED/02-capsuleofyou-song_for_a_friend.flac
+/mnt/synology/media/music/slsk/Capsuleofyou-Charcot Wilbrand-16BIT-WEB-FLAC-2024-VEXED/03-capsuleofyou-see_you_say.flac
+/mnt/synology/media/music/slsk/Capsuleofyou-Charcot Wilbrand-16BIT-WEB-FLAC-2024-VEXED/04-capsuleofyou-reject.flac
+/mnt/synology/media/music/slsk/Capsuleofyou-Charcot Wilbrand-16BIT-WEB-FLAC-2024-VEXED/05-capsuleofyou-my_martyr.flac
+/mnt/synology/media/music/slsk/Capsuleofyou-Charcot Wilbrand-16BIT-WEB-FLAC-2024-VEXED/06-capsuleofyou-charcot_wilbrand.flac
+/mnt/synology/media/music/slsk/Capsuleofyou-Charcot Wilbrand-16BIT-WEB-FLAC-2024-VEXED/07-capsuleofyou-interlude.flac
+/mnt/synology/media/music/slsk/Capsuleofyou-Charcot Wilbrand-16BIT-WEB-FLAC-2024-VEXED/08-capsuleofyou-cross_my_heart.flac
+/mnt/synology/media/music/slsk/Capsuleofyou-Charcot Wilbrand-16BIT-WEB-FLAC-2024-VEXED/09-capsuleofyou-capitalism_in_practice.flac
+/mnt/synology/media/music/slsk/Capsuleofyou-Charcot Wilbrand-16BIT-WEB-FLAC-2024-VEXED/10-capsuleofyou-instagram_is_the_new_myspace.flac
 /mnt/synology/media/music/orpheus.network/flac/Captain Beefheart & His Magic Band - Safe as Milk (1967) [FLAC] (1999 Buddha)/01 - Sure 'Nuff 'n Yes I Do.flac
 /mnt/synology/media/music/orpheus.network/flac/Captain Beefheart & His Magic Band - Safe as Milk (1967) [FLAC] (1999 Buddha)/02 - Zig Zag Wanderer.flac
 /mnt/synology/media/music/orpheus.network/flac/Captain Beefheart & His Magic Band - Safe as Milk (1967) [FLAC] (1999 Buddha)/03 - Call on Me.flac
@@ -4781,6 +4742,7 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Can - 1989 - Ege Bamyasi [F
 /mnt/synology/media/music/orpheus.network/flac/Car Seat Headrest - Teens of Denial (EAC 100% FLAC)/10 - The Ballad of the Costa Concordia.flac
 /mnt/synology/media/music/orpheus.network/flac/Car Seat Headrest - Teens of Denial (EAC 100% FLAC)/11 - Connect the Dots (The Saga of Frank Sinatra).flac
 /mnt/synology/media/music/orpheus.network/flac/Car Seat Headrest - Teens of Denial (EAC 100% FLAC)/12 - Joe Goes to School.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Bladee, Cartier God - #Jaws (#MoneyInMotion)#IceDancer #CartieMix.mp3
 /mnt/synology/media/music/redacted.ch/flac/Catalyst... - ... (2023) [FLAC] {3629987 Records DK, 197814472557}/01 - forget it ill figure it out.flac
 /mnt/synology/media/music/redacted.ch/flac/Catalyst... - ... (2023) [FLAC] {3629987 Records DK, 197814472557}/02 - little strings.flac
 /mnt/synology/media/music/redacted.ch/flac/Catalyst... - ... (2023) [FLAC] {3629987 Records DK, 197814472557}/03 - is this all that we'll be﹖.flac
@@ -5054,6 +5016,7 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Charles Mingus - 1972 - Let
 /mnt/synology/media/music/orpheus.network/flac/Charlie Parker - The Complete Savoy & Dial Master Takes (2002) [CD FLAC]/CD3/20 - Charlie Parker All-Stars - Marmaduke.flac
 /mnt/synology/media/music/orpheus.network/flac/Charlie Parker - The Complete Savoy & Dial Master Takes (2002) [CD FLAC]/CD3/21 - Charlie Parker All-Stars - Steeplechase.flac
 /mnt/synology/media/music/orpheus.network/flac/Charlie Parker - The Complete Savoy & Dial Master Takes (2002) [CD FLAC]/CD3/22 - Charlie Parker All-Stars - Merry-Go-Round.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Production Credits/Charli xcx - Sticky.mp3
 /mnt/synology/media/music/orpheus.network/flac/Charli XCX - How I’m Feeling Now {9520722} (2020) [CD FLAC]/01. Charli XCX - Pink Diamond.flac
 /mnt/synology/media/music/orpheus.network/flac/Charli XCX - How I’m Feeling Now {9520722} (2020) [CD FLAC]/02. Charli XCX - Forever.flac
 /mnt/synology/media/music/orpheus.network/flac/Charli XCX - How I’m Feeling Now {9520722} (2020) [CD FLAC]/03. Charli XCX - Claws.flac
@@ -5250,6 +5213,7 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Charles Mingus - 1972 - Let
 /mnt/synology/media/music/orpheus.network/flac/Christie Front Drive - Christie Front Drive (1996) [FLAC]/09 - Seven Day Candle.flac
 /mnt/synology/media/music/orpheus.network/flac/Christie Front Drive - Christie Front Drive (1996) [FLAC]/10 - Fourth Interlude.flac
 /mnt/synology/media/music/orpheus.network/flac/Compilations - Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition) (2021) [FLAC]/02 Chromosome Damage.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/CHXPO, Bladee - MAN IN THE MIRROR.mp3
 /mnt/synology/media/music/orpheus.network/flac/Circa Survive - On Letting Go (2007) [FLAC] {EVR139}/Circa Survive - 01 - Living Together.flac
 /mnt/synology/media/music/orpheus.network/flac/Circa Survive - On Letting Go (2007) [FLAC] {EVR139}/Circa Survive - 02 - In The Morning And Amazing.flac
 /mnt/synology/media/music/orpheus.network/flac/Circa Survive - On Letting Go (2007) [FLAC] {EVR139}/Circa Survive - 03 - The Greatest Lie.flac
@@ -5430,6 +5394,7 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Circa Survive - On Letting 
 /mnt/synology/media/music/orpheus.network/flac/cLOUDDEAD - cLOUDDEAD [FLAC]/10 - (Cloud Dead Number Five) (2).flac
 /mnt/synology/media/music/orpheus.network/flac/cLOUDDEAD - cLOUDDEAD [FLAC]/11 - Bike (1).flac
 /mnt/synology/media/music/orpheus.network/flac/cLOUDDEAD - cLOUDDEAD [FLAC]/12 - Bike (2).flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Cuts/Ecco2k - [zzzZ] XxPosed (clubcouture.xxx Version).mp3
 /mnt/synology/media/music/orpheus.network/flac/Cluster - Cluster II (1994) (Spalax Music)/01 - Plas.flac
 /mnt/synology/media/music/orpheus.network/flac/Cluster - Cluster II (1994) (Spalax Music)/02 - Im Süden.flac
 /mnt/synology/media/music/orpheus.network/flac/Cluster - Cluster II (1994) (Spalax Music)/03 - Für die Katz'.flac
@@ -6137,6 +6102,7 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Crystal Castles - Crystal C
 /mnt/synology/media/music/orpheus.network/flac/Current Joys - A Different Age {2018} [DCR080-2] (FLAC)/07 - A Different Age.flac
 /mnt/synology/media/music/orpheus.network/flac/Current Joys - A Different Age {2018} [DCR080-2] (FLAC)/08 - My Nights are More Beautiful Than Your Days.flac
 /mnt/synology/media/music/orpheus.network/flac/Current Joys - A Different Age {2018} [DCR080-2] (FLAC)/09 - Fox.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/= Alternative Versions/Bladee - UpgradeEnabled (Alternative Version).mp3
 /mnt/synology/media/music/orpheus.network/flac/Curve - 1992 - Doppelgänger {FLAC}/CD2 - Doppelgänger (Bonus EP) {FLAC}/01 - Die Like A Dog.flac
 /mnt/synology/media/music/orpheus.network/flac/Curve - 1992 - Doppelgänger {FLAC}/CD2 - Doppelgänger (Bonus EP) {FLAC}/02 - Frozen.flac
 /mnt/synology/media/music/orpheus.network/flac/Curve - 1992 - Doppelgänger {FLAC}/CD2 - Doppelgänger (Bonus EP) {FLAC}/03 - No Escape From Heaven.flac
@@ -6264,6 +6230,8 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Danzig - Danzig (1988) [Def
 /mnt/synology/media/music/orpheus.network/flac/Danzig - 1994 - Mother (Single) [FLAC CD]/01 Mother '94.flac
 /mnt/synology/media/music/orpheus.network/flac/Danzig - 1994 - Mother (Single) [FLAC CD]/02 Mother Live.flac
 /mnt/synology/media/music/orpheus.network/flac/Danzig - 1994 - Mother (Single) [FLAC CD]/03 Mother (original version).flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/D.Å.R.F.D.H.S., Thaiboy Digital - Whale (Demo).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/D.Å.R.F.D.H.S., Yung Lean - vargsarsleandoer.mp3
 /mnt/synology/media/music/redacted.ch/flac/Darkspace - Dark Space I (2003) [FLAC] {2006 AV 092 Slipcase Black CD}/01 - Dark 1.1.flac
 /mnt/synology/media/music/redacted.ch/flac/Darkspace - Dark Space I (2003) [FLAC] {2006 AV 092 Slipcase Black CD}/02 - Dark 1.2.flac
 /mnt/synology/media/music/redacted.ch/flac/Darkspace - Dark Space I (2003) [FLAC] {2006 AV 092 Slipcase Black CD}/03 - Dark 1.3.flac
@@ -6618,6 +6586,7 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Deafheaven - Sunbather (201
 /mnt/synology/media/music/orpheus.network/flac/Deafheaven - Ordinary Corrupt Human Love (2018) {87582-2 CD} [FLAC]/06 Night People.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Deafheaven - Ordinary Corrupt Human Love (2018) {87582-2 CD} [FLAC]/Ordinary Corrupt Human Love.cue/7
 /mnt/synology/media/music/orpheus.network/flac/Deafheaven - Ordinary Corrupt Human Love (2018) {87582-2 CD} [FLAC]/07 Worthless Animal.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Dean Blunt - fronto kings (feat. Jonatanleandoer127).flac
 /mnt/synology/media/music/orpheus.network/flac/Death - Scream Bloody Gore (1987) - FLAC/01 - Infernal Death.flac
 /mnt/synology/media/music/orpheus.network/flac/Death - Scream Bloody Gore (1987) - FLAC/02 - Zombie Ritual.flac
 /mnt/synology/media/music/orpheus.network/flac/Death - Scream Bloody Gore (1987) - FLAC/03 - Denial of Life.flac
@@ -6997,6 +6966,7 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Deftones - White Pony (2000
 /mnt/synology/media/music/orpheus.network/flac/Delta Sleep - Twin Galaxies [Web] [FLAC]/Delta Sleep - Twin Galaxies - 08 Daniel Craig David.flac
 /mnt/synology/media/music/orpheus.network/flac/Delta Sleep - Twin Galaxies [Web] [FLAC]/Delta Sleep - Twin Galaxies - 09 Hungry For Love.flac
 /mnt/synology/media/music/orpheus.network/flac/Delta Sleep - Twin Galaxies [Web] [FLAC]/Delta Sleep - Twin Galaxies - 10 Strongthany.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Denzel Curry, Yung Lean - Bitch Named Bitch.mp3
 /mnt/synology/media/music/orpheus.network/flac/Derek and the Dominos - Layla And Other Assorted Love Songs (1970) [FLAC] {2017 MFSL}/01 - I Looked Away.flac
 /mnt/synology/media/music/orpheus.network/flac/Derek and the Dominos - Layla And Other Assorted Love Songs (1970) [FLAC] {2017 MFSL}/02 - Bell Bottom Blues.flac
 /mnt/synology/media/music/orpheus.network/flac/Derek and the Dominos - Layla And Other Assorted Love Songs (1970) [FLAC] {2017 MFSL}/03 - Keep On Growing.flac
@@ -7137,6 +7107,7 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Descendents - (1982) - Milo
 /mnt/synology/media/music/orpheus.network/flac/Dikembe - Chicago Bowls (original) FLAC/Dikembe - Chicago Bowls (original) - 02 Luc Bongley.flac
 /mnt/synology/media/music/orpheus.network/flac/Dikembe - Chicago Bowls (original) FLAC/Dikembe - Chicago Bowls (original) - 03 Michael Jordank.flac
 /mnt/synology/media/music/orpheus.network/flac/Dikembe - Chicago Bowls (original) FLAC/Dikembe - Chicago Bowls (original) - 04 Tony Kukush.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Cuts/Dinamarca, Woesum, Gud - Untitled.mp3
 /mnt/synology/media/music/orpheus.network/flac/Dinosaur Jr. - Dinosaur (1985) [FLAC]/01 Forget The Swan.flac
 /mnt/synology/media/music/orpheus.network/flac/Dinosaur Jr. - Dinosaur (1985) [FLAC]/02 Cats In A Bowl.flac
 /mnt/synology/media/music/orpheus.network/flac/Dinosaur Jr. - Dinosaur (1985) [FLAC]/03 The Leper.flac
@@ -7425,15 +7396,45 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Dinosaur Jr. - Sweep It Int
 /mnt/synology/media/music/orpheus.network/flac/D.I.T.C - 2000 - D.I.T.C/14 - Tribute.flac
 /mnt/synology/media/music/orpheus.network/flac/D.I.T.C - 2000 - D.I.T.C/15 - Time To Get This Money.flac
 /mnt/synology/media/music/redacted.ch/flac/Dj Billybool - My Fantasy World (2020) [WEB - FLAC]/1 - Intro.flac
-/mnt/synology/media/music/sbe-gtb-dg/Dj Billybool - My Fantasy World (2020) [WEB - FLAC]/1 - Intro.flac
 /mnt/synology/media/music/redacted.ch/flac/Dj Billybool - My Fantasy World (2020) [WEB - FLAC]/2 - Fullmoon.flac
-/mnt/synology/media/music/sbe-gtb-dg/Dj Billybool - My Fantasy World (2020) [WEB - FLAC]/2 - Fullmoon.flac
 /mnt/synology/media/music/redacted.ch/flac/Dj Billybool - My Fantasy World (2020) [WEB - FLAC]/3 - Deutsche Bank.flac
-/mnt/synology/media/music/sbe-gtb-dg/Dj Billybool - My Fantasy World (2020) [WEB - FLAC]/3 - Deutsche Bank.flac
 /mnt/synology/media/music/redacted.ch/flac/Dj Billybool - My Fantasy World (2020) [WEB - FLAC]/4 - Icebox.flac
-/mnt/synology/media/music/sbe-gtb-dg/Dj Billybool - My Fantasy World (2020) [WEB - FLAC]/4 - Icebox.flac
 /mnt/synology/media/music/redacted.ch/flac/Dj Billybool - My Fantasy World (2020) [WEB - FLAC]/5 - Fantasy World.flac
-/mnt/synology/media/music/sbe-gtb-dg/Dj Billybool - My Fantasy World (2020) [WEB - FLAC]/5 - Fantasy World.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/DJ Billybool, swedm®, Ecco2k - STOCKHOLMSVECKAN (Demo).m4a
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/DJ CANNABIZ - $$$ -.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/DJ CANNABIZ - BÖDELN.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/DJ CANNABIZ - Downer.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/DJ CANNABIZ - Enya #6.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/DJ CANNABIZ - Mörkt mörker-.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/DJ CANNABIZ - RIPPING PRIVATE BOWLS/DJ CANNABIZ - A1.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/DJ CANNABIZ - RIPPING PRIVATE BOWLS/DJ CANNABIZ - A2.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/DJ CANNABIZ - RIPPING PRIVATE BOWLS/DJ CANNABIZ - A3.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/DJ CANNABIZ - RIPPING PRIVATE BOWLS/DJ CANNABIZ - A4.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/DJ CANNABIZ - RIPPING PRIVATE BOWLS/DJ CANNABIZ - A5.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/DJ CANNABIZ - RIPPING PRIVATE BOWLS/DJ CANNABIZ - A6.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/DJ CANNABIZ - RIPPING PRIVATE BOWLS/DJ CANNABIZ - A7.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/DJ CANNABIZ - RIPPING PRIVATE BOWLS/DJ CANNABIZ - A8.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/DJ CANNABIZ - RIPPING PRIVATE BOWLS/DJ CANNABIZ - B1.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/DJ CANNABIZ - RIPPING PRIVATE BOWLS/DJ CANNABIZ - B2.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/DJ CANNABIZ - RIPPING PRIVATE BOWLS/DJ CANNABIZ - B3.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/DJ CANNABIZ - RIPPING PRIVATE BOWLS/DJ CANNABIZ - B4.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/DJ CANNABIZ - RIPPING PRIVATE BOWLS/DJ CANNABIZ - B5.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/DJ CANNABIZ - THC BLISS.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Dj creep - DreaM Mp3 wmv.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Dj creep - infinity! wmv.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Dj creep - Mega M1x wmv.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Dj creep - soi soi wmv.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Dj creep - Wild wmv.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Dj creep, Dj escape - Base techno wmv.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Dj creep, Dj escape - Bass iz kicking wmv.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Dj creep, Dj escape - dance remix wmv.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Dj creep, Dj escape - polka remix^ wmv.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/DJ KENN AON, Capo, Black Kray, Bladee, Justo, SEEDA - Hottest in the City.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/DJ KENN AON, Lil Flash, Thaiboy Digital - Only I Know It.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Lean, Lil Flash - Reebok.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/DJ KENN AON, Bladee, Kane Grocerys - Faceless.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/= Alternative Versions/DJ KENN AON, Bladee, Thaiboy Digital, Ecco2k - Frozen 2 (SoundCloud Version).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/DJ NJ Drone, Bladee - 2 b loved (DJNJDRONE CLUB MIX).aif
 /mnt/synology/media/music/orpheus.network/flac/DJ Shadow - Endtroducing..... [FLAC] {697-124-123-2}/01. DJ Shadow - Best Foot Forward.flac
 /mnt/synology/media/music/orpheus.network/flac/DJ Shadow - Endtroducing..... [FLAC] {697-124-123-2}/02. DJ Shadow - Building Steam With a Grain of Salt.flac
 /mnt/synology/media/music/orpheus.network/flac/DJ Shadow - Endtroducing..... [FLAC] {697-124-123-2}/03. DJ Shadow - The Number Song.flac
@@ -7769,50 +7770,65 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Down - NOLA (1995) [Elektra
 /mnt/synology/media/music/orpheus.network/flac/Ebba Grön - Ebba Grön (1982) [FLAC]/08 Handgranat . . . Ge Sig Totalt.flac
 /mnt/synology/media/music/orpheus.network/flac/Ebba Grön - Ebba Grön (1982) [FLAC]/09 Kärlek É Stark.flac
 /mnt/synology/media/music/orpheus.network/flac/Ebba Grön - Ebba Grön (1982) [FLAC]/10 Tittar På TV.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Ecco2k - Soulja Boy Neon Genesis Evangelion - Turn My Swag On.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Ecco2k - BLEEEEEDDD.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Ecco2k - clearEyes in my eyes freeStyle.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Ecco2k - ECCOLOGY.mp3
 /mnt/synology/media/music/redacted.ch/flac/Ecco2k – Hold Me Down Like Gravity (Single) (2013) [MP3-320]/Ecco2k - Hold Me Down Like Gravity.mp3
-/mnt/synology/media/music/sbe-gtb-dg/Ecco2k – Hold Me Down Like Gravity (Single) (2013) [MP3-320]/Ecco2k - Hold Me Down Like Gravity.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/= Alternative Versions/Ecco2k - HOLDMEDOWNLIKEGRAVITY (Music Video Version).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/= Alternative Versions/Ecco2k - I_M ALRIGHT (Music Video Version).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Ecco2k - I_M ALRIGHT.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Ecco2k - I_m Gone.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Ecco2k - Ｐｌａｙ Ｅｍ Ｌｉｋｅ Ａｔａｒｉ.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Ecco2k - SYNDAFLOD大洪水.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Ecco2k - Untitled.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Ecco2k - beautySleep.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/= Alternative Versions/Ecco2k - Mirage (Music Video Version).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Ecco2k - Mirage.m4a
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Ecco2k - Naturell.m4a
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Ecco2k - perfectlyStill [gemStone1].mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Ecco2k - Pressure.m4a
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/= Alternative Versions/Ecco2k - antifreeze idk (SoundCloud Version).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Ecco2k - guardianAngels [HARMONY1].mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Ecco2k - guardianAngels((NO2)).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Ecco2k - perfectCondition((GENUINE)).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/Ecco2k - rip w.a. (Black Boy) (Demo).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Snippets/Ecco2k - Untitled 1 (Snippet).mp3
 /mnt/synology/media/music/redacted.ch/flac/Ecco2k - GT-R (2017) [FLAC] {WEB}/01 - GT-R.flac
-/mnt/synology/media/music/sbe-gtb-dg/Ecco2k - GT-R (2017) [FLAC] {WEB}/01 - GT-R.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Ecco2k - Crush Resist (CR_2015)/Ecco2k - 1st Crush [Antifreeze] (CR-Crush Resist).flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Ecco2k - Crush Resist (CR_2015)/Ecco2k - 3rd Crush [Crush Resist] (CR-Crush Resist).flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Ecco2k - Crush Resist (CR_2015)/Ecco2k - 7th Crush [First Kiss] (CR-Crush Resist).flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Ecco2k - Forever United ICE-POP.mp3
 /mnt/synology/media/music/redacted.ch/flac/Ecco2k - AAA Powerline (2018) [WEB FLAC]/01. AAA Powerline.flac
-/mnt/synology/media/music/sbe-gtb-dg/Ecco2k - AAA Powerline (2018) [WEB FLAC]/01. AAA Powerline.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Ecco2k - Don_t Ask (Quick Slip).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Ecco2k - so to my stalkers.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Live/= Alternative Versions/Ecco2k - Don_t Ask (Alternative Version) - live.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Live/Ecco2k - Don_t Ask (Alternative Version) - live.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Ecco2k - Life After Life.flac
 /mnt/synology/media/music/orpheus.network/flac/Ecco2k - E (2019) [WEB FLAC]/01 - AAA Powerline.flac
-/mnt/synology/media/music/sbe-gtb-dg/Ecco2k - E (2019) [WEB FLAC]/01 - AAA Powerline.flac
 /mnt/synology/media/music/orpheus.network/flac/Ecco2k - E (2019) [WEB FLAC]/02 - Peroxide.flac
-/mnt/synology/media/music/sbe-gtb-dg/Ecco2k - E (2019) [WEB FLAC]/02 - Peroxide.flac
 /mnt/synology/media/music/orpheus.network/flac/Ecco2k - E (2019) [WEB FLAC]/03 - Fragile.flac
-/mnt/synology/media/music/sbe-gtb-dg/Ecco2k - E (2019) [WEB FLAC]/03 - Fragile.flac
 /mnt/synology/media/music/orpheus.network/flac/Ecco2k - E (2019) [WEB FLAC]/04 - Bliss Fields.flac
-/mnt/synology/media/music/sbe-gtb-dg/Ecco2k - E (2019) [WEB FLAC]/04 - Bliss Fields.flac
 /mnt/synology/media/music/orpheus.network/flac/Ecco2k - E (2019) [WEB FLAC]/05 - Fruit Bleed Juice.flac
-/mnt/synology/media/music/sbe-gtb-dg/Ecco2k - E (2019) [WEB FLAC]/05 - Fruit Bleed Juice.flac
 /mnt/synology/media/music/orpheus.network/flac/Ecco2k - E (2019) [WEB FLAC]/06 - Cc.flac
-/mnt/synology/media/music/sbe-gtb-dg/Ecco2k - E (2019) [WEB FLAC]/06 - Cc.flac
 /mnt/synology/media/music/orpheus.network/flac/Ecco2k - E (2019) [WEB FLAC]/07 - Calcium.flac
-/mnt/synology/media/music/sbe-gtb-dg/Ecco2k - E (2019) [WEB FLAC]/07 - Calcium.flac
 /mnt/synology/media/music/orpheus.network/flac/Ecco2k - E (2019) [WEB FLAC]/08 - Sugar & Diesel.flac
-/mnt/synology/media/music/sbe-gtb-dg/Ecco2k - E (2019) [WEB FLAC]/08 - Sugar & Diesel.flac
 /mnt/synology/media/music/orpheus.network/flac/Ecco2k - E (2019) [WEB FLAC]/09 - Don't Ask.flac
-/mnt/synology/media/music/sbe-gtb-dg/Ecco2k - E (2019) [WEB FLAC]/09 - Don't Ask.flac
 /mnt/synology/media/music/orpheus.network/flac/Ecco2k - E (2019) [WEB FLAC]/10 - Security!.flac
-/mnt/synology/media/music/sbe-gtb-dg/Ecco2k - E (2019) [WEB FLAC]/10 - Security!.flac
 /mnt/synology/media/music/orpheus.network/flac/Ecco2k - E (2019) [WEB FLAC]/11 - Time.flac
-/mnt/synology/media/music/sbe-gtb-dg/Ecco2k - E (2019) [WEB FLAC]/11 - Time.flac
 /mnt/synology/media/music/orpheus.network/flac/Ecco2k - E (2019) [WEB FLAC]/12 - Blue Eyes.flac
-/mnt/synology/media/music/sbe-gtb-dg/Ecco2k - E (2019) [WEB FLAC]/12 - Blue Eyes.flac
 /mnt/synology/media/music/redacted.ch/flac/Ecco2k - Pollen (2020) [320CBR]/Ecco2k - Pollen.mp3
-/mnt/synology/media/music/sbe-gtb-dg/Ecco2k - Pollen (2020) [320CBR]/Ecco2k - Pollen.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Ecco2k - (Hidden Track).flac
 /mnt/synology/media/music/orpheus.network/flac/Ecco2k - PXE/01 - PXE.flac
-/mnt/synology/media/music/sbe-gtb-dg/Ecco2k - PXE/01 - PXE.flac
 /mnt/synology/media/music/orpheus.network/flac/Ecco2k - PXE/02 - In The Flesh.flac
-/mnt/synology/media/music/sbe-gtb-dg/Ecco2k - PXE/02 - In The Flesh.flac
 /mnt/synology/media/music/orpheus.network/flac/Ecco2k - PXE/03 - Jalouse.flac
-/mnt/synology/media/music/sbe-gtb-dg/Ecco2k - PXE/03 - Jalouse.flac
 /mnt/synology/media/music/orpheus.network/flac/Ecco2k - PXE/04 - No___'s Song.flac
-/mnt/synology/media/music/sbe-gtb-dg/Ecco2k - PXE/04 - No___'s Song.flac
 /mnt/synology/media/music/orpheus.network/flac/Ecco2k - PXE/05 - Big Air.flac
-/mnt/synology/media/music/sbe-gtb-dg/Ecco2k - PXE/05 - Big Air.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Ecco2k - 9th (1st. 9th) (2016).mp3
 /mnt/synology/media/music/redacted.ch/flac/Ecco2k - Amygdala/01. Amygdala.flac
-/mnt/synology/media/music/sbe-gtb-dg/Ecco2k - Amygdala/01. Amygdala.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Snippets/Ecco2k - Untitled 2 (Snippet).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Ecco2k - Helium.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Ecco2k, Yung Dialysis - smög boys rap.mp3
 /mnt/synology/media/music/orpheus.network/flac/Echo And The Bunnymen - 1984 - Ocean Rain FLAC (Sire 9 25084-2)/01 - Silver.flac
 /mnt/synology/media/music/orpheus.network/flac/Echo And The Bunnymen - 1984 - Ocean Rain FLAC (Sire 9 25084-2)/02 - Nocturnal Me.flac
 /mnt/synology/media/music/orpheus.network/flac/Echo And The Bunnymen - 1984 - Ocean Rain FLAC (Sire 9 25084-2)/03 - Crystal Days.flac
@@ -7822,14 +7838,6 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Down - NOLA (1995) [Elektra
 /mnt/synology/media/music/orpheus.network/flac/Echo And The Bunnymen - 1984 - Ocean Rain FLAC (Sire 9 25084-2)/07 - Seven Seas.flac
 /mnt/synology/media/music/orpheus.network/flac/Echo And The Bunnymen - 1984 - Ocean Rain FLAC (Sire 9 25084-2)/08 - My Kingdom.flac
 /mnt/synology/media/music/orpheus.network/flac/Echo And The Bunnymen - 1984 - Ocean Rain FLAC (Sire 9 25084-2)/09 - Ocean Rain.flac
-/mnt/synology/media/music/redacted.ch/flac/Edaline - I Wrote The Last Chapter For You (1999) [FLAC]/01. Andrea Gail.flac
-/mnt/synology/media/music/redacted.ch/flac/Edaline - I Wrote The Last Chapter For You (1999) [FLAC]/02. Crisis In Silence.flac
-/mnt/synology/media/music/redacted.ch/flac/Edaline - I Wrote The Last Chapter For You (1999) [FLAC]/03. Stranded.flac
-/mnt/synology/media/music/redacted.ch/flac/Edaline - I Wrote The Last Chapter For You (1999) [FLAC]/04. This Fabricated Town.flac
-/mnt/synology/media/music/redacted.ch/flac/Edaline - I Wrote The Last Chapter For You (1999) [FLAC]/05. Southern Pacific.flac
-/mnt/synology/media/music/redacted.ch/flac/Edaline - I Wrote The Last Chapter For You (1999) [FLAC]/06. Drain It (The End Result).flac
-/mnt/synology/media/music/redacted.ch/flac/Edaline - I Wrote The Last Chapter For You (1999) [FLAC]/07. Crescent Moon Eyes.flac
-/mnt/synology/media/music/redacted.ch/flac/Edaline - I Wrote The Last Chapter For You (1999) [FLAC]/08. Thinking Of View.flac
 /mnt/synology/media/music/orpheus.network/flac/Eden - i think you think too much of me (2016) [FLAC] [16B-44.1kHz]/Disc 1/01. Eden - sex (Explicit).flac
 /mnt/synology/media/music/orpheus.network/flac/Eden - i think you think too much of me (2016) [FLAC] [16B-44.1kHz]/Disc 1/02. Eden - drugs (Explicit).flac
 /mnt/synology/media/music/orpheus.network/flac/Eden - i think you think too much of me (2016) [FLAC] [16B-44.1kHz]/Disc 1/03. Eden - and (Explicit).flac
@@ -8149,6 +8157,9 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Elliott Smith - 1995 - Elli
 /mnt/synology/media/music/redacted.ch/flac/Emperor - IX Equilibrium (1999) - FLAC/07 - The Warriors of Modern Death.flac
 /mnt/synology/media/music/redacted.ch/flac/Emperor - IX Equilibrium (1999) - FLAC/08 - Of Blindness & Subsequent Seers.flac
 /mnt/synology/media/music/redacted.ch/flac/Emperor - IX Equilibrium (1999) - FLAC/09 - [untitled].flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Cuts/Endgame - Precious Metals (Squad Takeover)/Bladee - Into Dust (NTS Version) - Live.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Cuts/Endgame - Precious Metals (Squad Takeover)/Blaze Kidd - No Lo Siento (ft. Bladee) (NTS Version) - Live.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Endgame, Yung Sherman - XOX (Yung Sherman Remix).flac
 /mnt/synology/media/music/redacted.ch/flac/Enslaved (1994) - Vikingligr Veldi {Anti Mosh 008} [CD-FLAC]/01 - Lifandi lif undir hamri.flac
 /mnt/synology/media/music/redacted.ch/flac/Enslaved (1994) - Vikingligr Veldi {Anti Mosh 008} [CD-FLAC]/02 - Vetrarnótt.flac
 /mnt/synology/media/music/redacted.ch/flac/Enslaved (1994) - Vikingligr Veldi {Anti Mosh 008} [CD-FLAC]/03 - Miðgarðs eldar.flac
@@ -8267,6 +8278,8 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Escape The Fate - Dying Is 
 /mnt/synology/media/music/redacted.ch/flac/Euphoria Again - The Mouse Rides On FLAC/Euphoria Again - The Mouse Rides On - 04 BIG STAR.flac
 /mnt/synology/media/music/redacted.ch/flac/Euphoria Again - The Mouse Rides On FLAC/Euphoria Again - The Mouse Rides On - 05 I-80.flac
 /mnt/synology/media/music/redacted.ch/flac/Euphoria Again - The Mouse Rides On FLAC/Euphoria Again - The Mouse Rides On - 06 Crazy Horse.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Euphorizer, Bladee - Be Nice 2 Me (Euphorizer Remix).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/Evanora Unlimited, Ecco2k - Dibiyu (Demo).mp3
 /mnt/synology/media/music/redacted.ch/flac/Everyone Asked About You - Never Leave (2024) {WEB} [FLAC]/01 - A-House.flac
 /mnt/synology/media/music/redacted.ch/flac/Everyone Asked About You - Never Leave (2024) {WEB} [FLAC]/02 - We're All Losing It.flac
 /mnt/synology/media/music/redacted.ch/flac/Everyone Asked About You - Never Leave (2024) {WEB} [FLAC]/03 - Toby.flac
@@ -8304,6 +8317,11 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Escape The Fate - Dying Is 
 /mnt/synology/media/music/orpheus.network/flac/Everyone Asked About You - Paper Airplanes, Paper Hearts {CD FLAC}/17 - Across Puddles.flac
 /mnt/synology/media/music/orpheus.network/flac/Everyone Asked About You - Paper Airplanes, Paper Hearts {CD FLAC}/18 - Greek To Me.flac
 /mnt/synology/media/music/orpheus.network/flac/Everyone Asked About You - Paper Airplanes, Paper Hearts {CD FLAC}/19 - Outro.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Evil Bladee - i cant leave my house.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Cuts/Evil Bladee - Magical Emperor Sacred Ricefield.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Evil Bladee - tofu golem.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Cuts/Evil Bladee - Ambience.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Evil Bladee - Dog Village.mp3
 /mnt/synology/media/music/redacted.ch/flac/Excruciating Terror - Divided We Fall (1997) [FLAC]/01 - disease.flac
 /mnt/synology/media/music/redacted.ch/flac/Excruciating Terror - Divided We Fall (1997) [FLAC]/02 - respect.flac
 /mnt/synology/media/music/redacted.ch/flac/Excruciating Terror - Divided We Fall (1997) [FLAC]/03 - in cold blood.flac
@@ -8391,6 +8409,7 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Exuma - Exuma (1993) [FLAC]
 /mnt/synology/media/music/orpheus.network/flac/Failure - Fantastic Planet (1996, 9 46269-2) - [FLAC]/15 - Stuck on You.flac
 /mnt/synology/media/music/orpheus.network/flac/Failure - Fantastic Planet (1996, 9 46269-2) - [FLAC]/16 - Heliotropic.flac
 /mnt/synology/media/music/orpheus.network/flac/Failure - Fantastic Planet (1996, 9 46269-2) - [FLAC]/17 - Daylight.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/fakemink, Ecco2k - Hesitate (MAKKA) (Demo).mp3
 /mnt/synology/media/music/redacted.ch/flac/Falkenbach - ..Magni Blandinn Ok Megintiri... (1998) [FLAC]/01 - … When Gjallarhorn Will Sound ….flac
 /mnt/synology/media/music/redacted.ch/flac/Falkenbach - ..Magni Blandinn Ok Megintiri... (1998) [FLAC]/02 - … Where Blood Will Soon Be Shed ….flac
 /mnt/synology/media/music/redacted.ch/flac/Falkenbach - ..Magni Blandinn Ok Megintiri... (1998) [FLAC]/03 - Towards the Hall of Bronzen Shields.flac
@@ -8509,6 +8528,9 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Exuma - Exuma (1993) [FLAC]
 /mnt/synology/media/music/orpheus.network/flac/Feist - Let It Die (2004) [CD FLAC] {602498169919}/09 - Inside And Out.flac
 /mnt/synology/media/music/orpheus.network/flac/Feist - Let It Die (2004) [CD FLAC] {602498169919}/10 - Tout doucement.flac
 /mnt/synology/media/music/orpheus.network/flac/Feist - Let It Die (2004) [CD FLAC] {602498169919}/11 - Now At Last.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Cuts/Ecco2K - Seeing Stars (Felix Lee Mix) (NTS Version).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Cuts/Ecco2k - GEXXX - Free Political Prisoner Bobby Shmurda (ECCO2k Edit) (NTS Version).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Felix Lee, Bladee - Birds of Prey.flac
 /mnt/synology/media/music/orpheus.network/flac/FIDLAR - FIDLAR [16bit FLAC CD] (2013) Mom + Pop MP090-2/01  - Cheap Beer.flac
 /mnt/synology/media/music/orpheus.network/flac/FIDLAR - FIDLAR [16bit FLAC CD] (2013) Mom + Pop MP090-2/02  - Stoked and Broke.flac
 /mnt/synology/media/music/orpheus.network/flac/FIDLAR - FIDLAR [16bit FLAC CD] (2013) Mom + Pop MP090-2/03  - White on White.flac
@@ -8542,6 +8564,7 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Exuma - Exuma (1993) [FLAC]
 /mnt/synology/media/music/orpheus.network/flac/Fifty Foot Hose - 1968 - Cauldron...Plus [FLAC]/17 – Skins.flac
 /mnt/synology/media/music/orpheus.network/flac/Fifty Foot Hose - 1968 - Cauldron...Plus [FLAC]/18 – Bad Trip.flac
 /mnt/synology/media/music/orpheus.network/flac/Compilations - Fame- Jon Savage's Secret History Of Post-Punk 1978-81 (2021 Re-Edition) (2021) [FLAC]/05 Heathrow.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/= Production Credits/Fili - u kno i_m on board.mp3
 /mnt/synology/media/music/orpheus.network/flac/Fiona Apple - Tidal (1996) [FLAC]/01 - Sleep to Dream.flac
 /mnt/synology/media/music/orpheus.network/flac/Fiona Apple - Tidal (1996) [FLAC]/02 - Sullen Girl.flac
 /mnt/synology/media/music/orpheus.network/flac/Fiona Apple - Tidal (1996) [FLAC]/03 - Shadowboxer.flac
@@ -9785,28 +9808,18 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Girl Band - Holding Hands W
 /mnt/synology/media/music/redacted.ch/flac/Graveland - Thousand Swords (2001) CD FLAC/07 - Black Metal War.flac
 /mnt/synology/media/music/redacted.ch/flac/Graveland - Thousand Swords (2001) CD FLAC/08 - To Die In Fight.flac
 /mnt/synology/media/music/redacted.ch/flac/Graveland - Thousand Swords (2001) CD FLAC/09 - Outro.flac
-/mnt/synology/media/music/sbe-gtb-dg/GTBSG compilation/01 Bankaccount (Intro).mp3
-/mnt/synology/media/music/sbe-gtb-dg/GTBSG compilation/03 Bleach ft. Ecco2k1 (Prod White Armor).mp3
-/mnt/synology/media/music/sbe-gtb-dg/GTBSG compilation/003 B With U (prod. White Armor).mp3
-/mnt/synology/media/music/sbe-gtb-dg/GTBSG compilation/06 Carwash (Prod. White Armor).mp3
-/mnt/synology/media/music/sbe-gtb-dg/GTBSG compilation/05 Hold Me Down Like Gravity (Prod. Yung Sherman&White Armor).mp3
-/mnt/synology/media/music/sbe-gtb-dg/GTBSG compilation/08 Im Lost ft. Thaiboy Digital (Prod. White Armor).mp3
-/mnt/synology/media/music/sbe-gtb-dg/GTBSG compilation/09 Magic Is Strong (Prod. White Armor).mp3
-/mnt/synology/media/music/sbe-gtb-dg/GTBSG compilation/10 Moon Girl (Prod White Armor).mp3
-/mnt/synology/media/music/sbe-gtb-dg/GTBSG compilation/11 Smoke In My Eyes (Outro).mp3
-/mnt/synology/media/music/sbe-gtb-dg/GTBSG compilation/04 Make You Bleed (Prod. White Armor).mp3
-/mnt/synology/media/music/slsk/mp3/GTBSG (2023) [MP3]/01 Bankaccount (Intro).mp3
-/mnt/synology/media/music/slsk/mp3/GTBSG (2023) [MP3]/02 Bladeecity (Feat. Yung Lean).mp3
-/mnt/synology/media/music/slsk/mp3/GTBSG (2023) [MP3]/03 B with U.mp3
-/mnt/synology/media/music/slsk/mp3/GTBSG (2023) [MP3]/04 Bleach (ft. Ecco2K).mp3
-/mnt/synology/media/music/slsk/mp3/GTBSG (2023) [MP3]/05 Make You Bleed.mp3
-/mnt/synology/media/music/slsk/mp3/GTBSG (2023) [MP3]/06 Hold Me Down Like Gravity.mp3
-/mnt/synology/media/music/slsk/mp3/GTBSG (2023) [MP3]/07 Carwash.mp3
-/mnt/synology/media/music/slsk/mp3/GTBSG (2023) [MP3]/08 Diamondz (ft. Black Kray).mp3
-/mnt/synology/media/music/slsk/mp3/GTBSG (2023) [MP3]/09 Im Lost (ft. Thaiboy Digital).mp3
-/mnt/synology/media/music/slsk/mp3/GTBSG (2023) [MP3]/10 Magic Is Strong.mp3
-/mnt/synology/media/music/slsk/mp3/GTBSG (2023) [MP3]/11 Moon Girl.mp3
-/mnt/synology/media/music/slsk/mp3/GTBSG (2023) [MP3]/12 Smoke in My Eyes (Outro).mp3
+/mnt/synology/media/music/sbe-gtb-dg/GTBSG (2023) [MP3]/01 Bankaccount (Intro).mp3
+/mnt/synology/media/music/sbe-gtb-dg/GTBSG (2023) [MP3]/02 Bladeecity (Feat. Yung Lean).mp3
+/mnt/synology/media/music/sbe-gtb-dg/GTBSG (2023) [MP3]/03 B with U.mp3
+/mnt/synology/media/music/sbe-gtb-dg/GTBSG (2023) [MP3]/04 Bleach (ft. Ecco2K).mp3
+/mnt/synology/media/music/sbe-gtb-dg/GTBSG (2023) [MP3]/05 Make You Bleed.mp3
+/mnt/synology/media/music/sbe-gtb-dg/GTBSG (2023) [MP3]/06 Hold Me Down Like Gravity.mp3
+/mnt/synology/media/music/sbe-gtb-dg/GTBSG (2023) [MP3]/07 Carwash.mp3
+/mnt/synology/media/music/sbe-gtb-dg/GTBSG (2023) [MP3]/08 Diamondz (ft. Black Kray).mp3
+/mnt/synology/media/music/sbe-gtb-dg/GTBSG (2023) [MP3]/09 Im Lost (ft. Thaiboy Digital).mp3
+/mnt/synology/media/music/sbe-gtb-dg/GTBSG (2023) [MP3]/10 Magic Is Strong.mp3
+/mnt/synology/media/music/sbe-gtb-dg/GTBSG (2023) [MP3]/11 Moon Girl.mp3
+/mnt/synology/media/music/sbe-gtb-dg/GTBSG (2023) [MP3]/12 Smoke in My Eyes (Outro).mp3
 /mnt/synology/media/music/orpheus.network/flac/Grayscale - Adornment (2017)/01. Let It Rain.flac
 /mnt/synology/media/music/orpheus.network/flac/Grayscale - Adornment (2017)/02. Come Undone (feat. Patty Walters).flac
 /mnt/synology/media/music/orpheus.network/flac/Grayscale - Adornment (2017)/03. Slipping Away.flac
@@ -10093,6 +10106,131 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Green Day - Saviors (2024) 
 /mnt/synology/media/music/orpheus.network/flac/Grouplove - Never Trust A Happy Song (2011) [FLAC] {527696-2}/10 - Love Will Save Your Soul.flac
 /mnt/synology/media/music/orpheus.network/flac/Grouplove - Never Trust A Happy Song (2011) [FLAC] {527696-2}/11 - Cruel And Beautiful World.flac
 /mnt/synology/media/music/orpheus.network/flac/Grouplove - Never Trust A Happy Song (2011) [FLAC] {527696-2}/12 - Close Your Eyes And Count To Ten.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Gud - Before 1/Gud - I_m Dead.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Gud - Before 1/Gud - Numb.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Gud - collectors comp/Gud - Gucci Mane - I_m Da Shit(Gud_s Not So Cocky Remix).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Gud - Before 1/Gud - Anubis(Draft).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Gud - Before 1/Gud - Bon Iver - Perth (Gud Remix).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Gud - Before 1/Gud - The Comedown.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - Korb(Hej Fabian).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Gud - Before 1/Gud - Hello (feat. Yemi).m4a
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Gud - collectors comp/Gud - Juicy J, Gucci Mane, Project Pat - 30 Inches (Gud Remix).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Gud - collectors comp/Gud - Snoop Dogg - Drop It Like It_s Hot(Gud Chop_Screw).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Gud - collectors comp/Gud - Penthouse Shorties [aka Hello].mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Gud - collectors comp/Gud - Track_4(ep) [aka a title is required feat. angel diary].mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Gud - collectors comp/Gud - U Want Me.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - Let me please 2001.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - Masterball.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - Archives_Memories.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Gud - collectors comp/Gud - Fall In Love (feat. blisse).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - Body Horror XXX.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Gud - collectors comp/Gud - NEW TRAK.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - Don_t Talk 2 Me.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Cuts/Gud - Danceable Phunk.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - Foreign Fields Snip.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - Gratulera.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - Hardy - God.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - Hardy - Singha.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - Hardy - Speed.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - Heyfan.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - Kacy Hill Remix 2.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - Kacy Hill Remix Snip.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - MAKE IT RAIN.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Gud - Monster ☹.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - My Heart An Igloo.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - My - Passort.mp3.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Gud - My Stomach Is a Lion.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - Toxxxi.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - Värdigt Ett CoD Montage.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - Wanna Go 2 Balmain Party.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - Who RU Wit.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - A4 Paper.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - Ali Nooo.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - a_place_to_call_home_compressed.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - CA$H OUT - LET_S GET IT.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - Callbac_prog.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Gud - collectors comp/Gud - AAA.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - Coogi Pattern Mase.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - duvchi+gud Instr.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - duv+gud_iWish.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - Empty Hilfiger Riddim.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - Enjoy The Air.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - Explorer Vodka Stamp.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - Gal Me a No Time Fa Television Broadcasts.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - Gyal Work Oot.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - HBFL.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - Kinder Riddim.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - Party @ Saltis.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - Pluto Boi.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - rockstar_patch_on_my_pocket.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - Ruby Chain Riddim.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - Sändningsuppehåll.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - SkinerV1.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - Spade And Chain.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - Stockholmsnatt.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - the heart is deceitful above all things.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - This Phone Conversation Never Ends.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - Towa Ova.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - U Know I_m On Board.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - Aaaah.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - Asso Fan Javenne.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - Beller1 167.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - Car Parkalot.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - Cash Flow(Gud Redux, Normalized).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - Cash Flow Redux.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Gud - collectors comp/Gud - Jarhead [aka steerhead quickie 19_].mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - dog_out_compressed.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - DubWEED 157.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - Feelin It 307.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - Fereal Now.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - For Real Now.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - Kalle Knarka.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - My Pie.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - NolaYemi 257.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - PhoneGame 167.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - Sångklipp Tell Me Something.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - SHANGRI 157.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - snapsvisa_1.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - ThoggaThogga 307.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - TZang 157.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - Vibbbbbbra.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - YoAnn 177.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - yun jeezi.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - ZroCrak 307.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - Babything.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - BigJug 278.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - BraveMan 179.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - Buenos Aires(Stranger).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - ChainSwing 189.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Gud - collectors comp/Gud - motivational nothings 19_.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Gud - collectors comp/Gud - thisoneShivers.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Gud - collectors comp/Gud - Xrcise4.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - ConTrivia 159.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - Dsquared2 on my Ass.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - e d nån grej på fasching lr.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - hardcore_muzik(vive la france) extended.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - Hustler Player.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - Pourin Up A Storm.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - RealLibra 159.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - Smöra På.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - starting a band W. kamo.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - stop crying you look like a damn fool leaking like this.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - The Regular.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud - ThisOnePlease.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Gud - collectors comp/Gud - about 12 years to go so lets get in2 it.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Gud - collectors comp/Gud - absoluteDevilSpeed.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Gud - collectors comp/Gud - Beats By Baphomet.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Gud - collectors comp/Gud - cross7seas freestyle 19_.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Gud - collectors comp/Gud - first roost 19_.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Gud - collectors comp/Gud - hold this 4 me.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Gud - collectors comp/Gud - its all leftfield from here.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Gud - collectors comp/Gud - key out n the moon.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Gud - collectors comp/Gud - My Heart Is Deceitful Above All Things.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Gud - collectors comp/Gud - Red Cup (2).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Gud - collectors comp/Gud - whatever(end Of Time).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Gud - Try Again 19_.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Gud - Xrcise5_Innocent (Flesh Quartet).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Gud - a lover of a friend.mp3
 /mnt/synology/media/music/sbe-gtb-dg/(2020) Gud Discography/Gud - Gud Discography - 01 Hello.mp3
 /mnt/synology/media/music/sbe-gtb-dg/(2020) Gud Discography/Gud - Gud Discography - 02 Crushed.mp3
 /mnt/synology/media/music/sbe-gtb-dg/(2020) Gud Discography/Gud - Gud Discography - 03 U Want Me.mp3
@@ -10132,6 +10270,10 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Green Day - Saviors (2024) 
 /mnt/synology/media/music/sbe-gtb-dg/(2020) Gud Discography/Gud - Gud Discography - 37 Juicy J - 30 Inches (Gud Remix).mp3
 /mnt/synology/media/music/sbe-gtb-dg/(2020) Gud Discography/Gud - Gud Discography - 38 Perth (Remix).mp3
 /mnt/synology/media/music/sbe-gtb-dg/(2020) Gud Discography/Gud - Gud Discography - 39 Comedown.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Gud - just hear me out now.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Gud - sadja.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Gud - fuck u all im looking for something.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Gud, Whitearmor - Xtc My Baby.mp3
 /mnt/synology/media/music/orpheus.network/flac/Guided by Voices - Bee Thousand [Scat Records]/01 - Hardcore UFO's.flac
 /mnt/synology/media/music/orpheus.network/flac/Guided by Voices - Bee Thousand [Scat Records]/02 - Buzzards and Dreadful Crows.flac
 /mnt/synology/media/music/orpheus.network/flac/Guided by Voices - Bee Thousand [Scat Records]/03 - Tractor Rape Chain.flac
@@ -11173,6 +11315,8 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Isis - Panopticon (2014 Rem
 /mnt/synology/media/music/orpheus.network/flac/It's a Beautiful Day - It's a Beautiful Day (1969) [FLAC] (2001 Remaster)/05 - Bombay Calling.flac
 /mnt/synology/media/music/orpheus.network/flac/It's a Beautiful Day - It's a Beautiful Day (1969) [FLAC] (2001 Remaster)/06 - Bulgaria.flac
 /mnt/synology/media/music/orpheus.network/flac/It's a Beautiful Day - It's a Beautiful Day (1969) [FLAC] (2001 Remaster)/07 - Time Is.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Jace - My Boys (ft. Yung Lean).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Production Credits/Jace! - Don_t Get It.m4a
 /mnt/synology/media/music/orpheus.network/flac/Jackson C. Frank - Jackson C. Frank (1965) {2001 Remaster} [FLAC]/01 - Blues Run The Game.flac
 /mnt/synology/media/music/orpheus.network/flac/Jackson C. Frank - Jackson C. Frank (1965) {2001 Remaster} [FLAC]/02 - Don't Look Back.flac
 /mnt/synology/media/music/orpheus.network/flac/Jackson C. Frank - Jackson C. Frank (1965) {2001 Remaster} [FLAC]/03 - Kimbie.flac
@@ -11643,6 +11787,8 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Jimi Hendrix Experience - E
 /mnt/synology/media/music/orpheus.network/flac/Jimmy Woods - Conflict (2003)/07 - Conflict [Alternate Take].flac
 /mnt/synology/media/music/orpheus.network/flac/Jimmy Woods - Conflict (2003)/08 - Aim [Alternate Take].flac
 /mnt/synology/media/music/orpheus.network/flac/Jimmy Woods - Conflict (2003)/09 - Look to Your Heart [Alternate Take].flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/JJ - Bury Me (ft. Thaiboy Digital).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/JJ - Inner Light (Official X Mas Holiday Remix Ft. Thaiboy Digital & Yung Lean).mp3
 /mnt/synology/media/music/orpheus.network/flac/Joan Armatrading - 1976 - Joan Armatrading [FLAC]/01 - Down to Zero.flac
 /mnt/synology/media/music/orpheus.network/flac/Joan Armatrading - 1976 - Joan Armatrading [FLAC]/02 - Help Yourself.flac
 /mnt/synology/media/music/orpheus.network/flac/Joan Armatrading - 1976 - Joan Armatrading [FLAC]/03 - Water with the Wine.flac
@@ -11879,95 +12025,56 @@ cue:///mnt/synology/media/music/orpheus.network/flac/John Coltrane - Live in Jap
 cue:///mnt/synology/media/music/orpheus.network/flac/John Zorn - Naked City (1990) [FLAC]/Naked City.cue/26
 /mnt/synology/media/music/orpheus.network/flac/John Zorn - Naked City (1990) [FLAC]/26 Inside Straight.flac
 /mnt/synology/media/music/redacted.ch/flac/jonatan leandoer127 - Psychopath Ballads (2017) [WEB FLAC]/01. On the Road.flac
-/mnt/synology/media/music/sbe-gtb-dg/jonatan leandoer127 - Psychopath Ballads (2017) [WEB FLAC]/01. On the Road.flac
 /mnt/synology/media/music/redacted.ch/flac/jonatan leandoer127 - Psychopath Ballads (2017) [WEB FLAC]/02. Never Again.flac
-/mnt/synology/media/music/sbe-gtb-dg/jonatan leandoer127 - Psychopath Ballads (2017) [WEB FLAC]/02. Never Again.flac
 /mnt/synology/media/music/redacted.ch/flac/jonatan leandoer127 - Psychopath Ballads (2017) [WEB FLAC]/03. Primal Fear.flac
-/mnt/synology/media/music/sbe-gtb-dg/jonatan leandoer127 - Psychopath Ballads (2017) [WEB FLAC]/03. Primal Fear.flac
 /mnt/synology/media/music/redacted.ch/flac/jonatan leandoer127 - Psychopath Ballads (2017) [WEB FLAC]/04. Hotel in Minsk.flac
-/mnt/synology/media/music/sbe-gtb-dg/jonatan leandoer127 - Psychopath Ballads (2017) [WEB FLAC]/04. Hotel in Minsk.flac
 /mnt/synology/media/music/redacted.ch/flac/jonatan leandoer127 - Psychopath Ballads (2017) [WEB FLAC]/05. Farawaywithyou.flac
-/mnt/synology/media/music/sbe-gtb-dg/jonatan leandoer127 - Psychopath Ballads (2017) [WEB FLAC]/05. Farawaywithyou.flac
 /mnt/synology/media/music/redacted.ch/flac/jonatan leandoer127 - Psychopath Ballads (2017) [WEB FLAC]/06. Dog to Ur Bone.flac
-/mnt/synology/media/music/sbe-gtb-dg/jonatan leandoer127 - Psychopath Ballads (2017) [WEB FLAC]/06. Dog to Ur Bone.flac
 /mnt/synology/media/music/redacted.ch/flac/jonatan leandoer127 - Psychopath Ballads (2017) [WEB FLAC]/07. Rockstar.flac
-/mnt/synology/media/music/sbe-gtb-dg/jonatan leandoer127 - Psychopath Ballads (2017) [WEB FLAC]/07. Rockstar.flac
 /mnt/synology/media/music/redacted.ch/flac/jonatan leandoer127 - Toxic (2017) [WEB FLAC]/01. Toxic.flac
-/mnt/synology/media/music/sbe-gtb-dg/jonatan leandoer127 - Toxic (2017) [WEB FLAC]/01. Toxic.flac
 /mnt/synology/media/music/redacted.ch/flac/jonatan leandoer127 - Vampire Blues (2018) [WEB FLAC]/01 - Vampire Blues.flac
-/mnt/synology/media/music/sbe-gtb-dg/jonatan leandoer127 - Vampire Blues (2018) [WEB FLAC]/01 - Vampire Blues.flac
 /mnt/synology/media/music/orpheus.network/flac/jonatan leandoer127 - Nectar - WEB FLAC/1 - Razor Love.flac
-/mnt/synology/media/music/sbe-gtb-dg/jonatan leandoer127 - Nectar - WEB FLAC/1 - Razor Love.flac
 /mnt/synology/media/music/orpheus.network/flac/jonatan leandoer127 - Nectar - WEB FLAC/2 - Moth.flac
-/mnt/synology/media/music/sbe-gtb-dg/jonatan leandoer127 - Nectar - WEB FLAC/2 - Moth.flac
 /mnt/synology/media/music/orpheus.network/flac/jonatan leandoer127 - Nectar - WEB FLAC/3 - Porcelain.flac
-/mnt/synology/media/music/sbe-gtb-dg/jonatan leandoer127 - Nectar - WEB FLAC/3 - Porcelain.flac
 /mnt/synology/media/music/orpheus.network/flac/jonatan leandoer127 - Nectar - WEB FLAC/4 - Off With Their Heads.flac
-/mnt/synology/media/music/sbe-gtb-dg/jonatan leandoer127 - Nectar - WEB FLAC/4 - Off With Their Heads.flac
 /mnt/synology/media/music/orpheus.network/flac/jonatan leandoer127 - Nectar - WEB FLAC/5 - Wooden Girl.flac
-/mnt/synology/media/music/sbe-gtb-dg/jonatan leandoer127 - Nectar - WEB FLAC/5 - Wooden Girl.flac
 /mnt/synology/media/music/orpheus.network/flac/jonatan leandoer127 - Nectar - WEB FLAC/6 - Psycho_s in Charge.flac
-/mnt/synology/media/music/sbe-gtb-dg/jonatan leandoer127 - Nectar - WEB FLAC/6 - Psycho_s in Charge.flac
 /mnt/synology/media/music/orpheus.network/flac/jonatan leandoer127 - Nectar - WEB FLAC/7 - My Guardian.flac
-/mnt/synology/media/music/sbe-gtb-dg/jonatan leandoer127 - Nectar - WEB FLAC/7 - My Guardian.flac
 /mnt/synology/media/music/orpheus.network/flac/jonatan leandoer127 - Nectar - WEB FLAC/8 - Tangerine Warrior (Freestyle).flac
-/mnt/synology/media/music/sbe-gtb-dg/jonatan leandoer127 - Nectar - WEB FLAC/8 - Tangerine Warrior (Freestyle).flac
 /mnt/synology/media/music/orpheus.network/flac/jonatan leandoer127 - Nectar - WEB FLAC/9 - Rivers Over Wall Street.flac
-/mnt/synology/media/music/sbe-gtb-dg/jonatan leandoer127 - Nectar - WEB FLAC/9 - Rivers Over Wall Street.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/jonatan leandoer96 - dolls night.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/jonatan leandoer96 - kangaroo.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/jonatan leandoer96 - snakeskin.missy elliot.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/jonatan leandoer96 - Diamond Hill.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/jonatan leandoer96 - Heart of Glass (Blondie cover).mp3
 /mnt/synology/media/music/redacted.ch/flac/jonatan leandoer96 - Blodhundar & Lullabies (2020) [WEB FLAC]/01 In the Way.flac
-/mnt/synology/media/music/sbe-gtb-dg/jonatan leandoer96 - Blodhundar & Lullabies (2020) [WEB FLAC]/01 In the Way.flac
 /mnt/synology/media/music/redacted.ch/flac/jonatan leandoer96 - Blodhundar & Lullabies (2020) [WEB FLAC]/02 Vår Sång.flac
-/mnt/synology/media/music/sbe-gtb-dg/jonatan leandoer96 - Blodhundar & Lullabies (2020) [WEB FLAC]/02 Vår Sång.flac
 /mnt/synology/media/music/redacted.ch/flac/jonatan leandoer96 - Blodhundar & Lullabies (2020) [WEB FLAC]/03 Snake Ice.flac
-/mnt/synology/media/music/sbe-gtb-dg/jonatan leandoer96 - Blodhundar & Lullabies (2020) [WEB FLAC]/03 Snake Ice.flac
 /mnt/synology/media/music/redacted.ch/flac/jonatan leandoer96 - Blodhundar & Lullabies (2020) [WEB FLAC]/04 Colours of Tomorrow.flac
-/mnt/synology/media/music/sbe-gtb-dg/jonatan leandoer96 - Blodhundar & Lullabies (2020) [WEB FLAC]/04 Colours of Tomorrow.flac
 /mnt/synology/media/music/redacted.ch/flac/jonatan leandoer96 - Blodhundar & Lullabies (2020) [WEB FLAC]/05 My City.flac
-/mnt/synology/media/music/sbe-gtb-dg/jonatan leandoer96 - Blodhundar & Lullabies (2020) [WEB FLAC]/05 My City.flac
 /mnt/synology/media/music/redacted.ch/flac/jonatan leandoer96 - Blodhundar & Lullabies (2020) [WEB FLAC]/06 Skyskrapa.flac
-/mnt/synology/media/music/sbe-gtb-dg/jonatan leandoer96 - Blodhundar & Lullabies (2020) [WEB FLAC]/06 Skyskrapa.flac
 /mnt/synology/media/music/redacted.ch/flac/jonatan leandoer96 - Blodhundar & Lullabies (2020) [WEB FLAC]/07 Highway.flac
-/mnt/synology/media/music/sbe-gtb-dg/jonatan leandoer96 - Blodhundar & Lullabies (2020) [WEB FLAC]/07 Highway.flac
 /mnt/synology/media/music/redacted.ch/flac/jonatan leandoer96 - Blodhundar & Lullabies (2020) [WEB FLAC]/08 Break It Down.flac
-/mnt/synology/media/music/sbe-gtb-dg/jonatan leandoer96 - Blodhundar & Lullabies (2020) [WEB FLAC]/08 Break It Down.flac
 /mnt/synology/media/music/redacted.ch/flac/jonatan leandoer96 - Blodhundar & Lullabies (2020) [WEB FLAC]/09 Radio Lean.flac
-/mnt/synology/media/music/sbe-gtb-dg/jonatan leandoer96 - Blodhundar & Lullabies (2020) [WEB FLAC]/09 Radio Lean.flac
 /mnt/synology/media/music/redacted.ch/flac/jonatan leandoer96 - Blodhundar & Lullabies (2020) [WEB FLAC]/10 Som Du.flac
-/mnt/synology/media/music/sbe-gtb-dg/jonatan leandoer96 - Blodhundar & Lullabies (2020) [WEB FLAC]/10 Som Du.flac
 /mnt/synology/media/music/redacted.ch/flac/jonatan leandoer96 - Blodhundar & Lullabies (2020) [WEB FLAC]/11 Machines.flac
-/mnt/synology/media/music/sbe-gtb-dg/jonatan leandoer96 - Blodhundar & Lullabies (2020) [WEB FLAC]/11 Machines.flac
 /mnt/synology/media/music/redacted.ch/flac/jonatan leandoer96 - Blodhundar & Lullabies (2020) [WEB FLAC]/12 Sweet 17.flac
-/mnt/synology/media/music/sbe-gtb-dg/jonatan leandoer96 - Blodhundar & Lullabies (2020) [WEB FLAC]/12 Sweet 17.flac
 /mnt/synology/media/music/redacted.ch/flac/jonatan leandoer96 - Blodhundar & Lullabies (2020) [WEB FLAC]/13 Evil.flac
-/mnt/synology/media/music/sbe-gtb-dg/jonatan leandoer96 - Blodhundar & Lullabies (2020) [WEB FLAC]/13 Evil.flac
 /mnt/synology/media/music/redacted.ch/flac/jonatan leandoer96 - Blodhundar & Lullabies (2020) [WEB FLAC]/14 Vitriol.flac
-/mnt/synology/media/music/sbe-gtb-dg/jonatan leandoer96 - Blodhundar & Lullabies (2020) [WEB FLAC]/14 Vitriol.flac
 /mnt/synology/media/music/redacted.ch/flac/jonatan leandoer96 - Blodhundar & Lullabies (2020) [WEB FLAC]/15 Blommor I Min Mun.flac
-/mnt/synology/media/music/sbe-gtb-dg/jonatan leandoer96 - Blodhundar & Lullabies (2020) [WEB FLAC]/15 Blommor I Min Mun.flac
 /mnt/synology/media/music/redacted.ch/flac/jonatan leandoer96 - Blodhundar & Lullabies (2020) [WEB FLAC]/16 Epiphany.flac
-/mnt/synology/media/music/sbe-gtb-dg/jonatan leandoer96 - Blodhundar & Lullabies (2020) [WEB FLAC]/16 Epiphany.flac
 /mnt/synology/media/music/redacted.ch/flac/jonatan leandoer96 - Evil (2020) [WEB FLAC]/01 Evil.flac
-/mnt/synology/media/music/sbe-gtb-dg/jonatan leandoer96 - Evil (2020) [WEB FLAC]/01 Evil.flac
 /mnt/synology/media/music/redacted.ch/flac/jonatan leandoer96 - Under Heaven (2021) [WEB FLAC]/1. Under Heaven.flac
-/mnt/synology/media/music/sbe-gtb-dg/jonatan leandoer96 - Under Heaven (2021) [WEB FLAC]/1. Under Heaven.flac
 /mnt/synology/media/music/redacted.ch/flac/jonatan leandoer96 - Blue Light (feat. Frederik Valentin) (2022) [WEB FLAC]/1. Blue Light (feat. Frederik Valentin).flac
-/mnt/synology/media/music/sbe-gtb-dg/jonatan leandoer96 - Blue Light (feat. Frederik Valentin) (2022) [WEB FLAC]/1. Blue Light (feat. Frederik Valentin).flac
 /mnt/synology/media/music/redacted.ch/flac/jonatan leandoer96 - Sugar World (2023) [WEB FLAC]/1. Nightmare Amusement Park.flac
-/mnt/synology/media/music/sbe-gtb-dg/jonatan leandoer96 - Sugar World (2023) [WEB FLAC]/1. Nightmare Amusement Park.flac
 /mnt/synology/media/music/redacted.ch/flac/jonatan leandoer96 - Sugar World (2023) [WEB FLAC]/2. Sugar World.flac
-/mnt/synology/media/music/sbe-gtb-dg/jonatan leandoer96 - Sugar World (2023) [WEB FLAC]/2. Sugar World.flac
 /mnt/synology/media/music/redacted.ch/flac/jonatan leandoer96 - Sugar World (2023) [WEB FLAC]/3. Open (Copenhagen Freestyle).flac
-/mnt/synology/media/music/sbe-gtb-dg/jonatan leandoer96 - Sugar World (2023) [WEB FLAC]/3. Open (Copenhagen Freestyle).flac
 /mnt/synology/media/music/redacted.ch/flac/jonatan leandoer96 - Sugar World (2023) [WEB FLAC]/4. Swedish Elvis Storm.flac
-/mnt/synology/media/music/sbe-gtb-dg/jonatan leandoer96 - Sugar World (2023) [WEB FLAC]/4. Swedish Elvis Storm.flac
 /mnt/synology/media/music/redacted.ch/flac/jonatan leandoer96 - Sugar World (2023) [WEB FLAC]/5. Rivers of Another Town.flac
-/mnt/synology/media/music/sbe-gtb-dg/jonatan leandoer96 - Sugar World (2023) [WEB FLAC]/5. Rivers of Another Town.flac
 /mnt/synology/media/music/redacted.ch/flac/jonatan leandoer96 - Sugar World (2023) [WEB FLAC]/6. Blue Light.flac
-/mnt/synology/media/music/sbe-gtb-dg/jonatan leandoer96 - Sugar World (2023) [WEB FLAC]/6. Blue Light.flac
 /mnt/synology/media/music/redacted.ch/flac/jonatan leandoer96 - Sugar World (2023) [WEB FLAC]/7. If I'm Born I Have To Live.flac
-/mnt/synology/media/music/sbe-gtb-dg/jonatan leandoer96 - Sugar World (2023) [WEB FLAC]/7. If I'm Born I Have To Live.flac
 /mnt/synology/media/music/redacted.ch/flac/jonatan leandoer96 - Sugar World (2023) [WEB FLAC]/8. July.flac
-/mnt/synology/media/music/sbe-gtb-dg/jonatan leandoer96 - Sugar World (2023) [WEB FLAC]/8. July.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Cuts/jonatan leandoer96, Etta James - I_d Rather Go Blind.mp3
 /mnt/synology/media/music/orpheus.network/flac/The Ligeti Project II - Lontano, Atmosphères, Apparitions, etc. - Berliner Philharmoniker, Jonathan Nott [Teldec]/01 Lontano.flac
 /mnt/synology/media/music/orpheus.network/flac/The Ligeti Project II - Lontano, Atmosphères, Apparitions, etc. - Berliner Philharmoniker, Jonathan Nott [Teldec]/02 Atmospheres.flac
 /mnt/synology/media/music/orpheus.network/flac/The Ligeti Project II - Lontano, Atmosphères, Apparitions, etc. - Berliner Philharmoniker, Jonathan Nott [Teldec]/03 Apparitions - I. Lento.flac
@@ -12207,8 +12314,9 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Kaleidoscope - A Beacon fro
 /mnt/synology/media/music/orpheus.network/flac/Kaleidoscope - A Beacon from Mars (1968, Reissue 1997) - CD-FLAC/06 - Louisiana Man.flac
 /mnt/synology/media/music/orpheus.network/flac/Kaleidoscope - A Beacon from Mars (1968, Reissue 1997) - CD-FLAC/07 - You Don't Love Me.flac
 /mnt/synology/media/music/orpheus.network/flac/Kaleidoscope - A Beacon from Mars (1968, Reissue 1997) - CD-FLAC/08 - Beacon from Mars.flac
-/mnt/synology/media/music/slsk/flac/Kang Tae Hwan - (1991) Tokebi {Zen VICG-8025 CD} [FLAC]/01 - Sora E (To The Sky).flac
-/mnt/synology/media/music/slsk/flac/Kang Tae Hwan - (1991) Tokebi {Zen VICG-8025 CD} [FLAC]/02 - Eien (Eternity).flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Cuts/Bladee - Cold.mp3
+/mnt/synology/media/music/slsk/Kang Tae Hwan - (1991) Tokebi {Zen VICG-8025 CD} [FLAC]/01 - Sora E (To The Sky).flac
+/mnt/synology/media/music/slsk/Kang Tae Hwan - (1991) Tokebi {Zen VICG-8025 CD} [FLAC]/02 - Eien (Eternity).flac
 /mnt/synology/media/music/orpheus.network/flac/Kanye West - My Beautiful Dark Twisted Fantasy (2010) [FLAC]/01 Dark Fantasy.flac
 /mnt/synology/media/music/orpheus.network/flac/Kanye West - My Beautiful Dark Twisted Fantasy (2010) [FLAC]/02 Gorgeous (Feat. KiD CuDi & Raekwon).flac
 /mnt/synology/media/music/orpheus.network/flac/Kanye West - My Beautiful Dark Twisted Fantasy (2010) [FLAC]/03 Power.flac
@@ -12240,6 +12348,8 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Kaleidoscope - A Beacon fro
 /mnt/synology/media/music/orpheus.network/flac/2016 - The Life Of Pablo (Web)/16 - No More Parties In LA (feat. Kendrick Lamar).flac
 /mnt/synology/media/music/orpheus.network/flac/2016 - The Life Of Pablo (Web)/17 - Facts (Charlie Heat Version).flac
 /mnt/synology/media/music/orpheus.network/flac/2016 - The Life Of Pablo (Web)/18 - Fade (feat. Post Malone & Ty Dolla $ign).flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Production Credits/Kanye West, VIC MENSA - Stop Looking For This (Demo v12).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Production Credits/Kanye West, VIC MENSA - Stop Looking For This (Demo v9).m4a
 /mnt/synology/media/music/orpheus.network/flac/Kaoru Abe - Album - 1973 - 彗星 Partitas (2002 reissue) [flac; cd log 100; cue] {Kenroad Music; AOCD 1107-8}/CD1/01 - alpha.flac
 /mnt/synology/media/music/orpheus.network/flac/Kaoru Abe - Album - 1973 - 彗星 Partitas (2002 reissue) [flac; cd log 100; cue] {Kenroad Music; AOCD 1107-8}/CD1/02 - Beta.flac
 /mnt/synology/media/music/orpheus.network/flac/Kaoru Abe - Album - 1973 - 彗星 Partitas (2002 reissue) [flac; cd log 100; cue] {Kenroad Music; AOCD 1107-8}/CD2/01 - Gamma.flac
@@ -12303,10 +12413,10 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Kaleidoscope - A Beacon fro
 /mnt/synology/media/music/orpheus.network/flac/Kate Bush - The Dreaming [1987] [FLAC] {CDP 7 46361 2}/08 - All The Love.flac
 /mnt/synology/media/music/orpheus.network/flac/Kate Bush - The Dreaming [1987] [FLAC] {CDP 7 46361 2}/09 - Houdini.flac
 /mnt/synology/media/music/orpheus.network/flac/Kate Bush - The Dreaming [1987] [FLAC] {CDP 7 46361 2}/10 - Get Out Of My House.flac
-/mnt/synology/media/music/slsk/flac/Kazutoki Umezu - Shin Myong (Zen, 1992) [FLAC]/01 Ton-Dok-Kun.flac
-/mnt/synology/media/music/slsk/flac/Kazutoki Umezu - Shin Myong (Zen, 1992) [FLAC]/02 Son-Nim-Kut.flac
-/mnt/synology/media/music/slsk/flac/Kazutoki Umezu - Shin Myong (Zen, 1992) [FLAC]/04 Pen-No-Re.flac
-/mnt/synology/media/music/slsk/flac/Kazutoki Umezu - Shin Myong (Zen, 1992) [FLAC]/03 Che-Sok-Kut.flac
+/mnt/synology/media/music/slsk/Kazutoki Umezu - Shin Myong (Zen, 1992) [FLAC]/01 Ton-Dok-Kun.flac
+/mnt/synology/media/music/slsk/Kazutoki Umezu - Shin Myong (Zen, 1992) [FLAC]/02 Son-Nim-Kut.flac
+/mnt/synology/media/music/slsk/Kazutoki Umezu - Shin Myong (Zen, 1992) [FLAC]/04 Pen-No-Re.flac
+/mnt/synology/media/music/slsk/Kazutoki Umezu - Shin Myong (Zen, 1992) [FLAC]/03 Che-Sok-Kut.flac
 /mnt/synology/media/music/orpheus.network/flac/Tomorrow - Tomorrow [1999 Parlophone Records Remaster]/20 - On a Saturday [Mono] [Bonus Track] (Keith West).flac
 /mnt/synology/media/music/orpheus.network/flac/Tomorrow - Tomorrow [1999 Parlophone Records Remaster]/21 - The Kid Was a Killer [Mono] [Bonus Track] (Keith West).flac
 /mnt/synology/media/music/orpheus.network/flac/Tomorrow - Tomorrow [1999 Parlophone Records Remaster]/22 - She [Mono] [Bonus Track] (Keith West).flac
@@ -12340,6 +12450,7 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Këkht Aräkh - Pale Swor
 /mnt/synology/media/music/orpheus.network/flac/Kekko - Dreaming Life (2021) [FLAC]/02 - Within You.flac
 /mnt/synology/media/music/orpheus.network/flac/Kekko - Dreaming Life (2021) [FLAC]/03 - Timelessness.flac
 /mnt/synology/media/music/orpheus.network/flac/Kekko - Dreaming Life (2021) [FLAC]/04 - Past Lives.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Ken Burnz- ALWAYS HIGH.mp3
 /mnt/synology/media/music/orpheus.network/flac/Kenny Burrell - Midnight Blue (1963) [FLAC]/01. Chitlins Con Carne.flac
 /mnt/synology/media/music/orpheus.network/flac/Kenny Burrell - Midnight Blue (1963) [FLAC]/02. Mule.flac
 /mnt/synology/media/music/orpheus.network/flac/Kenny Burrell - Midnight Blue (1963) [FLAC]/03. Soul Lament.flac
@@ -12491,6 +12602,7 @@ cue:///mnt/synology/media/music/orpheus.network/flac/King Crimson - Lizard [2009
 /mnt/synology/media/music/orpheus.network/flac/King Gizzard & The Lizard Wizard - Live At Red Rocks '22 (2023) [FLAC]/84. Alter Me III (Live At Red Rocks '22).flac
 /mnt/synology/media/music/orpheus.network/flac/King Gizzard & The Lizard Wizard - Live At Red Rocks '22 (2023) [FLAC]/85. Altered Beast IV (Live At Red Rocks '22).flac
 /mnt/synology/media/music/orpheus.network/flac/King Gizzard & The Lizard Wizard - Live At Red Rocks '22 (2023) [FLAC]/86. Float Along - Fill Your Lungs (Live At Red Rocks '22).flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Lean - RANGE ROVER.mp3
 /mnt/synology/media/music/orpheus.network/flac/Klangkarussell - Netzwerk (2014) [CD-FLAC]/1-01. Klangkarussell - Eistee Aus Der Dose.flac
 /mnt/synology/media/music/orpheus.network/flac/Klangkarussell - Netzwerk (2014) [CD-FLAC]/1-02. Klangkarussell - Netzwerk (Falls Like Rain).flac
 /mnt/synology/media/music/orpheus.network/flac/Klangkarussell - Netzwerk (2014) [CD-FLAC]/1-03. Klangkarussell - Berlin.flac
@@ -12621,6 +12733,31 @@ cue:///mnt/synology/media/music/orpheus.network/flac/King Crimson - Lizard [2009
 /mnt/synology/media/music/orpheus.network/flac/Kraus [2022] Eye Escapes [Mutual Skies, WEB] [FLAC]/10. Beehive.flac
 /mnt/synology/media/music/orpheus.network/flac/Kraus [2022] Eye Escapes [Mutual Skies, WEB] [FLAC]/11. Lapse.flac
 /mnt/synology/media/music/orpheus.network/flac/Kraus [2022] Eye Escapes [Mutual Skies, WEB] [FLAC]/12. Bring Yourself Down.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Krossad - Dreaming of You Coral/Krossad - Die.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Krossad - Dreaming of You Coral/Krossad - Dreaming of You Coral.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Krossad - Dreaming of You Coral/Krossad - Die gg.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Krossad - Dreaming of You Coral/Krossad - Drick Klorin.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Krossad - Dreaming of You Coral/Krossad - Käft Kross.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Krossad - Dreaming of You Coral/Krossad - Holocaust of Pain.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Krossad - Dreaming of You Coral/Krossad - F.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Krossad - Dreaming of You Coral/Krossad - 24 Timmar.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Krossad - Dreaming of You Coral/Krossad - Brutala Massaker.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Krossad - Dreaming of You Coral/Krossad - Suicide.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Krossad - Jävla Äckel/Krossad - Sparka Sönder Mig.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Krossad - Jävla Äckel/Krossad - Bomb Regn.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Krossad - Jävla Äckel/Krossad - Ägg.Ägg.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Krossad - Jävla Äckel/Krossad - Snutjävel.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Krossad - Jävla Äckel/Krossad - Judeblod.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Krossad - Jävla Äckel/Krossad - Jävla Äckel.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Krossad - Jävla Äckel/Krossad - Ful Huve.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Krossad - Jävla Äckel/Krossad - Käft Kross.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Krossad - Jävla Äckel/Krossad - God Jul.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Krossad - Jävla Äckel/Krossad - Snobbjävel.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Krossad - Jävla Äckel/Krossad - Känslo Död.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Live/Krossad - Krossad @ Ungdomens Hus 22 2/Krossad - I.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Live/Krossad - Krossad @ Ungdomens Hus 22 2/Krossad - II.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Live/Krossad - Krossad @ Ungdomens Hus 22 2/Krossad -III.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Live/Krossad - Krossad @ Ungdomens Hus 22 2/Krossad - IV.mp3
 /mnt/synology/media/music/orpheus.network/flac/Krzysztof Komeda - Astigmatic (1966) [FLAC] {2016 Remaster}/01 - Astigmatic.flac
 /mnt/synology/media/music/orpheus.network/flac/Krzysztof Komeda - Astigmatic (1966) [FLAC] {2016 Remaster}/02 - Kattorna.flac
 /mnt/synology/media/music/orpheus.network/flac/Krzysztof Komeda - Astigmatic (1966) [FLAC] {2016 Remaster}/03 - Svantetic.flac
@@ -12630,6 +12767,7 @@ cue:///mnt/synology/media/music/orpheus.network/flac/King Crimson - Lizard [2009
 /mnt/synology/media/music/redacted.ch/flac/Kvist - For Kunsten Maa Vi Evig Vike/04 - Svartedal.flac
 /mnt/synology/media/music/redacted.ch/flac/Kvist - For Kunsten Maa Vi Evig Vike/05 - Min Lekam Er Meg Blott En Byrde.flac
 /mnt/synology/media/music/redacted.ch/flac/Kvist - For Kunsten Maa Vi Evig Vike/06 - Vettenetter.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/= Production Credits/kwes e - my heart.mp3
 /mnt/synology/media/music/orpheus.network/flac/La Dispute - Somewhere At The Bottom Of The River Between Vega And Altair (2008) {NSR012 CD} [FLAC]/01 Such Small Hands.flac
 /mnt/synology/media/music/orpheus.network/flac/La Dispute - Somewhere At The Bottom Of The River Between Vega And Altair (2008) {NSR012 CD} [FLAC]/02 Said The King To The River.flac
 /mnt/synology/media/music/orpheus.network/flac/La Dispute - Somewhere At The Bottom Of The River Between Vega And Altair (2008) {NSR012 CD} [FLAC]/03 New Storms For Older Lovers.flac
@@ -12740,6 +12878,8 @@ cue:///mnt/synology/media/music/orpheus.network/flac/La Dispute - Rooms of the H
 /mnt/synology/media/music/orpheus.network/flac/Lamp 2014 ゆめ (Yume) [FLAC]/08. 二人のいた風景.flac
 /mnt/synology/media/music/orpheus.network/flac/Lamp 2014 ゆめ (Yume) [FLAC]/09. 静かに朝は.flac
 /mnt/synology/media/music/orpheus.network/flac/Lamp 2014 ゆめ (Yume) [FLAC]/10. さち子.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Lao, Yung Sherman - Lao - Poison scope (Yung Sherman Remix).flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Larry League, Yung Lean - Italian Diamonds.mp3
 /mnt/synology/media/music/orpheus.network/flac/Nukkuu (2008)/01 - Lue Kartalta.flac
 /mnt/synology/media/music/orpheus.network/flac/Nukkuu (2008)/02 - Painovoimaa, Valoa.flac
 /mnt/synology/media/music/orpheus.network/flac/Nukkuu (2008)/03 - Ruususuu.flac
@@ -12975,6 +13115,17 @@ cue:///mnt/synology/media/music/orpheus.network/flac/VA - Leon Vynehall - Fabric
 /mnt/synology/media/music/orpheus.network/flac/Les Rallizes Dénudés -  Cable Hogue Soundtrack - 2011/2.05 - White Awakenning.flac
 /mnt/synology/media/music/orpheus.network/flac/Les Rallizes Dénudés -  Cable Hogue Soundtrack - 2011/2.06 - Night, Night Of The Assassins I.flac
 /mnt/synology/media/music/orpheus.network/flac/Les Rallizes Dénudés -  Cable Hogue Soundtrack - 2011/2.07 - Night, Night Of The Assassins II.flac
+/mnt/synology/media/music/bandcamp/Lesser Of Two - war circus (2002) [WEB] [FLAC]/Lesser Of Two - war circus - 01 one thousand curses.flac
+/mnt/synology/media/music/bandcamp/Lesser Of Two - war circus (2002) [WEB] [FLAC]/Lesser Of Two - war circus - 02 war circus.flac
+/mnt/synology/media/music/bandcamp/Lesser Of Two - war circus (2002) [WEB] [FLAC]/Lesser Of Two - war circus - 03 composite culture.flac
+/mnt/synology/media/music/bandcamp/Lesser Of Two - war circus (2002) [WEB] [FLAC]/Lesser Of Two - war circus - 04 witness.flac
+/mnt/synology/media/music/bandcamp/Lesser Of Two - war circus (2002) [WEB] [FLAC]/Lesser Of Two - war circus - 05 tides.flac
+/mnt/synology/media/music/bandcamp/Lesser Of Two - war circus (2002) [WEB] [FLAC]/Lesser Of Two - war circus - 06 stampede to glory.flac
+/mnt/synology/media/music/bandcamp/Lesser Of Two - war circus (2002) [WEB] [FLAC]/Lesser Of Two - war circus - 07 side long glances.flac
+/mnt/synology/media/music/bandcamp/Lesser Of Two - war circus (2002) [WEB] [FLAC]/Lesser Of Two - war circus - 08 dusk.flac
+/mnt/synology/media/music/bandcamp/Lesser Of Two - war circus (2002) [WEB] [FLAC]/Lesser Of Two - war circus - 09 the wretched.flac
+/mnt/synology/media/music/bandcamp/Lesser Of Two - war circus (2002) [WEB] [FLAC]/Lesser Of Two - war circus - 10 refuse.flac
+/mnt/synology/media/music/bandcamp/Lesser Of Two - war circus (2002) [WEB] [FLAC]/Lesser Of Two - war circus - 11 future histories.flac
 /mnt/synology/media/music/orpheus.network/flac/Lester Bowie - The Great Pretender (2000) {ECM 1209_829 369-2} [FLAC-CD]/01 The Great Pretender.flac
 /mnt/synology/media/music/orpheus.network/flac/Lester Bowie - The Great Pretender (2000) {ECM 1209_829 369-2} [FLAC-CD]/02 It's Howdy Doody Time.flac
 /mnt/synology/media/music/orpheus.network/flac/Lester Bowie - The Great Pretender (2000) {ECM 1209_829 369-2} [FLAC-CD]/03 When the Doom (Moon) Comes Over the Mountain／a) Doom_／b) When the Moon Comes Over the Mountain.flac
@@ -13028,6 +13179,7 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Lifetime - Jersey's Best Da
 /mnt/synology/media/music/orpheus.network/flac/Lightwave - Mundus Subterraneus [2006 Edition][FLAC]/09 Ascension.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Lightwave - Mundus Subterraneus [2006 Edition][FLAC]/Lightwave - Mundus Subterraneus.cue/10
 /mnt/synology/media/music/orpheus.network/flac/Lightwave - Mundus Subterraneus [2006 Edition][FLAC]/10 Mapping the Earth.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Cuts/Woesum, Bladee - Exceler (Demo).mp3
 /mnt/synology/media/music/orpheus.network/flac/Lily Chou-Chou - Kokyuu (呼吸) (2001) [FLAC] {CD Unlimited Records TOCT-24690}/01 - アラベスク.flac
 /mnt/synology/media/music/orpheus.network/flac/Lily Chou-Chou - Kokyuu (呼吸) (2001) [FLAC] {CD Unlimited Records TOCT-24690}/02 - 愛の実験.flac
 /mnt/synology/media/music/orpheus.network/flac/Lily Chou-Chou - Kokyuu (呼吸) (2001) [FLAC] {CD Unlimited Records TOCT-24690}/03 - エロティック.flac
@@ -13076,6 +13228,7 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Lightwave - Mundus Subterra
 /mnt/synology/media/music/orpheus.network/flac/Lisa Germano  - Geek the Girl (1994) {UK} CD) - FLAC/10. A Guy Like You.flac
 /mnt/synology/media/music/orpheus.network/flac/Lisa Germano  - Geek the Girl (1994) {UK} CD) - FLAC/11. …of Love and Colors.flac
 /mnt/synology/media/music/orpheus.network/flac/Lisa Germano  - Geek the Girl (1994) {UK} CD) - FLAC/12. Stars.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Listen, Bladee, Ecco2k - Don_t Ask For A Lovenote.mp3
 /mnt/synology/media/music/orpheus.network/flac/Lit - A Place In The Sun (1999) [FLAC] {07863 67775-2}/01 - Four.flac
 /mnt/synology/media/music/orpheus.network/flac/Lit - A Place In The Sun (1999) [FLAC] {07863 67775-2}/00 - Intro.flac
 /mnt/synology/media/music/orpheus.network/flac/Lit - A Place In The Sun (1999) [FLAC] {07863 67775-2}/02 - My Own Worst Enemy.flac
@@ -13089,6 +13242,7 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Lightwave - Mundus Subterra
 /mnt/synology/media/music/orpheus.network/flac/Lit - A Place In The Sun (1999) [FLAC] {07863 67775-2}/10 - Happy.flac
 /mnt/synology/media/music/orpheus.network/flac/Lit - A Place In The Sun (1999) [FLAC] {07863 67775-2}/11 - The Best Is Yet to Come Undone.flac
 /mnt/synology/media/music/orpheus.network/flac/Lit - A Place In The Sun (1999) [FLAC] {07863 67775-2}/12 - A Place In The Sun.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Little Cloud, Yung Sherman, Tokyo Hands - little cloud - tapeloop #3 yungSherman x tokyoHands remix.mp3
 /mnt/synology/media/music/bandcamp/little things - Demo 2012/little things - Demo 2012 - 01 Intro (Awake and Arise).flac
 /mnt/synology/media/music/bandcamp/little things - Demo 2012/little things - Demo 2012 - 02 Morning Through The Eyes of.flac
 /mnt/synology/media/music/bandcamp/little things - Demo 2012/little things - Demo 2012 - 03 Office Spaces.flac
@@ -13173,6 +13327,8 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Lightwave - Mundus Subterra
 /mnt/synology/media/music/orpheus.network/flac/Local Natives - Hummingbird {FLAC}/09 - Mt. Washington.flac
 /mnt/synology/media/music/orpheus.network/flac/Local Natives - Hummingbird {FLAC}/10 - Colombia.flac
 /mnt/synology/media/music/orpheus.network/flac/Local Natives - Hummingbird {FLAC}/11 - Bowery.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Lofty305, Yung Lean - ESKALATOR LUV MUSIK.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Lo Life Blacc - Back At It (feat. Yung Lean).mp3
 /mnt/synology/media/music/orpheus.network/flac/Long Distance Calling - Avoid the Light (2009) [CD FLAC] [SBMCD 009]/01 - Apparitions.flac
 /mnt/synology/media/music/orpheus.network/flac/Long Distance Calling - Avoid the Light (2009) [CD FLAC] [SBMCD 009]/02 - Black Paper Planes.flac
 /mnt/synology/media/music/orpheus.network/flac/Long Distance Calling - Avoid the Light (2009) [CD FLAC] [SBMCD 009]/03 - 359°.flac
@@ -13437,6 +13593,7 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Love Lost But Not Forgotten
 /mnt/synology/media/music/orpheus.network/flac/Luciano Cilio - Dell'universo Assente 2004/09 - Liebesleid - frammento - inedito - pianoforte G.D.S..flac
 /mnt/synology/media/music/orpheus.network/flac/Luciano Cilio - Dell'universo Assente 2004/10 - Terzo quadro - trascrizione e pf G.D.S..flac
 /mnt/synology/media/music/orpheus.network/flac/Luciano Cilio - Dell'universo Assente 2004/11 - 4ª Sonata - trascrizione e pf G.D.S..flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Luckaleannn, Yung Lean - ART SHOW PT 2 (LEANNNNNNNN).mp3
 /mnt/synology/media/music/orpheus.network/flac/Lush - Gala (1990) - FLAC/01 - Sweetness And Light.flac
 /mnt/synology/media/music/orpheus.network/flac/Lush - Gala (1990) - FLAC/02 - Sunbathing.flac
 /mnt/synology/media/music/orpheus.network/flac/Lush - Gala (1990) - FLAC/03 - Breeze.flac
@@ -14113,6 +14270,10 @@ cue:///mnt/synology/media/music/orpheus.network/flac/MAYHEM Live in Sarpsborg (2
 /mnt/synology/media/music/orpheus.network/flac/Meat Puppets - 1984 - Meat Puppets II [SST Records ⁄ SST CD 019] [flac]/10 - Lake of Fire.flac
 /mnt/synology/media/music/orpheus.network/flac/Meat Puppets - 1984 - Meat Puppets II [SST Records ⁄ SST CD 019] [flac]/11 - I'm a Mindless Idiot.flac
 /mnt/synology/media/music/orpheus.network/flac/Meat Puppets - 1984 - Meat Puppets II [SST Records ⁄ SST CD 019] [flac]/12 - The Whistling Song.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Mechatok - Here X Now (ft. Uli K, Bladee).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Mechatok, Bladee - Försöker (ft. Toxe).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Mechatok, Bladee - Glädjeklockor mp4.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/Mechatok, Ecco2k, Bladee - Expression On Your Face (Demo).mp3
 /mnt/synology/media/music/orpheus.network/flac/Megadeth (1988) - So Far, So Good... So What! [FLAC]/01 - Into The Lungs Of Hell.flac
 /mnt/synology/media/music/orpheus.network/flac/Megadeth (1988) - So Far, So Good... So What! [FLAC]/02 - Set The World Afire.flac
 /mnt/synology/media/music/orpheus.network/flac/Megadeth (1988) - So Far, So Good... So What! [FLAC]/03 - Anarchy In The U.K..flac
@@ -14428,6 +14589,7 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Metallica - Hardwired...To 
 /mnt/synology/media/music/orpheus.network/flac/MGMT - 2018 - Little Dark Age/09 When You're Small.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/MGMT - 2018 - Little Dark Age/Little Dark Age.cue/10
 /mnt/synology/media/music/orpheus.network/flac/MGMT - 2018 - Little Dark Age/10 Hand It Over.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Micke Berlander - Dubstep-Snippet.mp3
 /mnt/synology/media/music/orpheus.network/flac/Microwave - Much Love (2016) [FLAC]/01 - Roaches.flac
 /mnt/synology/media/music/orpheus.network/flac/Microwave - Much Love (2016) [FLAC]/02 - Lighterless.flac
 /mnt/synology/media/music/orpheus.network/flac/Microwave - Much Love (2016) [FLAC]/03 - Dull.flac
@@ -14868,6 +15030,7 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels 
 /mnt/synology/media/music/orpheus.network/flac/Mom Jeans. - Best Buds (2016 - FLAC - CD)/08 - Girl Scout Cookies.flac
 /mnt/synology/media/music/orpheus.network/flac/Mom Jeans. - Best Buds (2016 - FLAC - CD)/09 - Scott Pilgrim V. My Gpa.flac
 /mnt/synology/media/music/orpheus.network/flac/Mom Jeans. - Best Buds (2016 - FLAC - CD)/10 - Vape Nation.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/MONYPETZJNKMN - TOKYO DRIFT (feat. Yung Lean, Bladee).mp3
 /mnt/synology/media/music/redacted.ch/flac/Moonblood - The Winter Falls Over The Land (1995)/Moonblood - The Winter Falls Over The Land - 1.01 - Intro.flac
 /mnt/synology/media/music/redacted.ch/flac/Moonblood - The Winter Falls Over The Land (1995)/Moonblood - The Winter Falls Over The Land - 1.02 - Moonstruck.flac
 /mnt/synology/media/music/redacted.ch/flac/Moonblood - The Winter Falls Over The Land (1995)/Moonblood - The Winter Falls Over The Land - 1.03 - I Am All.flac
@@ -15017,6 +15180,7 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Minutemen - Double Nickels 
 /mnt/synology/media/music/orpheus.network/flac/Moss Icon - Complete Discography (2012) {TRR201 CD CD} [FLAC]/CD 2- Lyburnum/06 Lyburnum - Wit's End (Liberation Fly).flac
 /mnt/synology/media/music/orpheus.network/flac/Moss Icon - Complete Discography (2012) {TRR201 CD CD} [FLAC]/CD 2- Lyburnum/07 Cricketty Rise (Haverton Roads - Browns and Greens).flac
 /mnt/synology/media/music/orpheus.network/flac/Moss Icon - Complete Discography (2012) {TRR201 CD CD} [FLAC]/CD 2- Lyburnum/08 Happy (Unbounded Glory).flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Motëm - YUNG LEAN INTRO.mp3
 /mnt/synology/media/music/orpheus.network/flac/Weasels Ripped My Flesh/01 - Didja Get Any Onya.flac
 /mnt/synology/media/music/orpheus.network/flac/Weasels Ripped My Flesh/02 - Directly From My Heart To You.flac
 /mnt/synology/media/music/orpheus.network/flac/Weasels Ripped My Flesh/03 - Prelude To An Afternoon of a Sexually Aroused Gas Mask.flac
@@ -15328,11 +15492,8 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Natalie Rose LeBrecht -2003
 /mnt/synology/media/music/orpheus.network/flac/Nationalteatern - Barn av vår tid (1978) [FLAC]/06 - Men bara om min älskade väntar....flac
 /mnt/synology/media/music/orpheus.network/flac/Nationalteatern - Barn av vår tid (1978) [FLAC]/07 - Ge mej mitt liv nu.flac
 /mnt/synology/media/music/redacted.ch/flac/Various Artists - Ça Va [2023] (WEB - FLAC)/01. Nation - Ça Va.flac
-/mnt/synology/media/music/sbe-gtb-dg/Various Artists - Ça Va [2023] (WEB - FLAC)/01. Nation - Ça Va.flac
 /mnt/synology/media/music/redacted.ch/flac/Various Artists - Ça Va [2023] (WEB - FLAC)/02. Nation - Up & Down.flac
-/mnt/synology/media/music/sbe-gtb-dg/Various Artists - Ça Va [2023] (WEB - FLAC)/02. Nation - Up & Down.flac
 /mnt/synology/media/music/redacted.ch/flac/Various Artists - Ça Va [2023] (WEB - FLAC)/03. Nation - S.H.A.flac
-/mnt/synology/media/music/sbe-gtb-dg/Various Artists - Ça Va [2023] (WEB - FLAC)/03. Nation - S.H.A.flac
 /mnt/synology/media/music/orpheus.network/flac/Natural Snow Buildings - The Winter Ray/101 - Over Mt. Weather.flac
 /mnt/synology/media/music/orpheus.network/flac/Natural Snow Buildings - The Winter Ray/102 - Brighton Beach.flac
 /mnt/synology/media/music/orpheus.network/flac/Natural Snow Buildings - The Winter Ray/103 - Fishing Hole.flac
@@ -16099,6 +16260,7 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Of Monsters and Men - 2011 
 /mnt/synology/media/music/orpheus.network/flac/Oklou - choke enough (2025) - WEB FLAC/11. harvest sky.flac
 /mnt/synology/media/music/orpheus.network/flac/Oklou - choke enough (2025) - WEB FLAC/12. want to wanna come back.flac
 /mnt/synology/media/music/orpheus.network/flac/Oklou - choke enough (2025) - WEB FLAC/13. blade bird.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/Oklou, Bladee - take me by the hand (Demo).mp3
 /mnt/synology/media/music/orpheus.network/flac/Ol' Dirty Bastard - Return To The 36 Chambers (1995) [FLAC]/01 Intro.flac
 /mnt/synology/media/music/orpheus.network/flac/Ol' Dirty Bastard - Return To The 36 Chambers (1995) [FLAC]/02 Shimmy Shimmy Ya.flac
 /mnt/synology/media/music/orpheus.network/flac/Ol' Dirty Bastard - Return To The 36 Chambers (1995) [FLAC]/03 Baby C'mon.flac
@@ -16116,6 +16278,7 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Of Monsters and Men - 2011 
 /mnt/synology/media/music/orpheus.network/flac/Ol' Dirty Bastard - Return To The 36 Chambers (1995) [FLAC]/15 Cuttin' Headz feat. RZA.flac
 /mnt/synology/media/music/orpheus.network/flac/Ol' Dirty Bastard - Return To The 36 Chambers (1995) [FLAC]/16 Dirty Dancin' feat. Method Man.flac
 /mnt/synology/media/music/orpheus.network/flac/Ol' Dirty Bastard - Return To The 36 Chambers (1995) [FLAC]/17 Harlem World.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Live/Oli XL, Ecco2k - Rest My Eyes - live.mp3
 /mnt/synology/media/music/orpheus.network/flac/Om-Variations.On.A.Theme-2005-FLAC/01 - On The Mountain At Dawn.flac
 /mnt/synology/media/music/orpheus.network/flac/Om-Variations.On.A.Theme-2005-FLAC/02 - Kapila's Theme.flac
 /mnt/synology/media/music/orpheus.network/flac/Om-Variations.On.A.Theme-2005-FLAC/03 - Annapurna.flac
@@ -17374,6 +17537,8 @@ cue:///mnt/synology/media/music/orpheus.network/flac/2016 - Cardinal (Expanded E
 /mnt/synology/media/music/orpheus.network/flac/Pink Floyd - The endless river (2014) FLAC/16 Eyes To Pearls.flac
 /mnt/synology/media/music/orpheus.network/flac/Pink Floyd - The endless river (2014) FLAC/17 Surfacing.flac
 /mnt/synology/media/music/orpheus.network/flac/Pink Floyd - The endless river (2014) FLAC/18 Louder Than Words.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/= Production Credits/PinkPantheress - ILLEGAL (demo version).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/PinkPantheress, Bladee - Exploding the Myth (Snippet).mp3
 /mnt/synology/media/music/orpheus.network/flac/Pixies - Come On Pilgrim (1987) [FLAC]/01. Pixies - Caribou.flac
 /mnt/synology/media/music/orpheus.network/flac/Pixies - Come On Pilgrim (1987) [FLAC]/02. Pixies - Vamos.flac
 /mnt/synology/media/music/orpheus.network/flac/Pixies - Come On Pilgrim (1987) [FLAC]/03. Pixies - Isla de Encanta.flac
@@ -17584,6 +17749,7 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Pluto - Pipeline Under the 
 /mnt/synology/media/music/orpheus.network/flac/Polvo - Today's Active Lifestyles (1993) [FLAC] {Merge Records - mrg040cd}/08 - Time Isn't on My Side.flac
 /mnt/synology/media/music/orpheus.network/flac/Polvo - Today's Active Lifestyles (1993) [FLAC] {Merge Records - mrg040cd}/09 - Action Vs. Vibe.flac
 /mnt/synology/media/music/orpheus.network/flac/Polvo - Today's Active Lifestyles (1993) [FLAC] {Merge Records - mrg040cd}/10 - Gemini Cup.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Sherman - Cyan.flac
 /mnt/synology/media/music/orpheus.network/flac/Popol Vuh - Hosianna Mantra (1972)[2004 SPV Recordings SPV 085-70122]{CD FLAC}/01. Hosianna-Mantra - Ah!.flac
 /mnt/synology/media/music/orpheus.network/flac/Popol Vuh - Hosianna Mantra (1972)[2004 SPV Recordings SPV 085-70122]{CD FLAC}/02. Hosianna-Mantra - Kyrie.flac
 /mnt/synology/media/music/orpheus.network/flac/Popol Vuh - Hosianna Mantra (1972)[2004 SPV Recordings SPV 085-70122]{CD FLAC}/03. Hosianna-Mantra.flac
@@ -17687,6 +17853,9 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Porno For Pyros - Good God'
 /mnt/synology/media/music/orpheus.network/flac/Pot Valiant - Transaudio - {WEB - FLAC}/07 - Going.flac
 /mnt/synology/media/music/orpheus.network/flac/Pot Valiant - Transaudio - {WEB - FLAC}/08 - Last Sun.flac
 /mnt/synology/media/music/orpheus.network/flac/Pot Valiant - Transaudio - {WEB - FLAC}/09 - Untitled (Unfinished).flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/= Production Credits/Prada Mane - Blue Prada.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Prada Mane - Watchu Wanna (feat. Yung Lean).flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Prada Mane - Soar Loser (feat. Bladee).flac
 /mnt/synology/media/music/orpheus.network/flac/Pram - The Stars Are So Big, The Earth Is So Small ... Stay As You Are (1993)/01 Loco.flac
 /mnt/synology/media/music/orpheus.network/flac/Pram - The Stars Are So Big, The Earth Is So Small ... Stay As You Are (1993)/02 Radio Freak in a Storm.flac
 /mnt/synology/media/music/orpheus.network/flac/Pram - The Stars Are So Big, The Earth Is So Small ... Stay As You Are (1993)/03 Loredo Venus.flac
@@ -18442,6 +18611,7 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Red Temple Spirits - Dancin
 /mnt/synology/media/music/orpheus.network/flac/Rilo Kiley - Take Offs and Landings [Barsuk Records]/13 - Rest of My Life.flac
 /mnt/synology/media/music/orpheus.network/flac/Rilo Kiley - Take Offs and Landings [Barsuk Records]/14 - Variations on a Theme (Plane Crash in C).flac
 /mnt/synology/media/music/orpheus.network/flac/Rilo Kiley - Take Offs and Landings [Barsuk Records]/15 - Salute My Shorts.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Ripsquad, Whitearmor - dola beach.mp3
 /mnt/synology/media/music/orpheus.network/flac/Rise Against - Siren Song of the Counter Culture (2004) [FLAC] Geffen Records - B000296702/01 State of the Union.flac
 /mnt/synology/media/music/orpheus.network/flac/Rise Against - Siren Song of the Counter Culture (2004) [FLAC] Geffen Records - B000296702/02 The First Drop.flac
 /mnt/synology/media/music/orpheus.network/flac/Rise Against - Siren Song of the Counter Culture (2004) [FLAC] Geffen Records - B000296702/03 Life Less Frightening.flac
@@ -18482,6 +18652,8 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Rise Against - Siren Song o
 /mnt/synology/media/music/orpheus.network/flac/Rise Against - Appeal to Reason (2008) {DGC_Interscope B0011904-02} [FLAC-CD]/12 Hairline Fracture.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Rise Against - Appeal to Reason (2008) {DGC_Interscope B0011904-02} [FLAC-CD]/Appeal to Reason.cue/13
 /mnt/synology/media/music/orpheus.network/flac/Rise Against - Appeal to Reason (2008) {DGC_Interscope B0011904-02} [FLAC-CD]/13 Whereabouts Unknown.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/RLX ASSASSYN, Bladee - 2 B Loved (Squad ONE RLX ASSYN. VIP REMIX).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Robb Bank$, Yung Lean, Nevabitch, SpaceGhostPurrp - Flexin_.mp3
 /mnt/synology/media/music/orpheus.network/flac/Robbie Basho (1978) - Visions of the Country (Remastered 2013) {GTR-0007} [FLAC]/01 - Green River Suite.flac
 /mnt/synology/media/music/orpheus.network/flac/Robbie Basho (1978) - Visions of the Country (Remastered 2013) {GTR-0007} [FLAC]/02 - Rodeo.flac
 /mnt/synology/media/music/orpheus.network/flac/Robbie Basho (1978) - Visions of the Country (Remastered 2013) {GTR-0007} [FLAC]/03 - Rocky Mountain Raga.flac
@@ -18735,6 +18907,7 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Rush - Moving Pictures (199
 /mnt/synology/media/music/orpheus.network/flac/Rush - Visions and Illusions v2.02 (The Spectrum, Philadelphia 1986-04-16) [bootleg] [FLAC]/CD2/06 - Territories.flac
 /mnt/synology/media/music/orpheus.network/flac/Rush - Visions and Illusions v2.02 (The Spectrum, Philadelphia 1986-04-16) [bootleg] [FLAC]/CD2/07 - YYZ.flac
 /mnt/synology/media/music/orpheus.network/flac/Rush - Visions and Illusions v2.02 (The Spectrum, Philadelphia 1986-04-16) [bootleg] [FLAC]/CD2/08 - Drum Solo.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Gud - Nitevision (Instrumental).flac
 /mnt/synology/media/music/orpheus.network/flac/Ryo Fukui (1976) Scenery (2005 - Reissue) [FLAC] {CDSOL1107}/01 It Could Happen To You.flac
 /mnt/synology/media/music/orpheus.network/flac/Ryo Fukui (1976) Scenery (2005 - Reissue) [FLAC] {CDSOL1107}/02 I Want To Talk About You.flac
 /mnt/synology/media/music/orpheus.network/flac/Ryo Fukui (1976) Scenery (2005 - Reissue) [FLAC] {CDSOL1107}/03 Early Summer.flac
@@ -18792,6 +18965,7 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Ryuichi Sakamoto - async [C
 /mnt/synology/media/music/orpheus.network/flac/Ryuichi Sakamoto - 12 (2023) - WEB FLAC/10. 20220307.flac
 /mnt/synology/media/music/orpheus.network/flac/Ryuichi Sakamoto - 12 (2023) - WEB FLAC/11. 20220404.flac
 /mnt/synology/media/music/orpheus.network/flac/Ryuichi Sakamoto - 12 (2023) - WEB FLAC/12. 20220304.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Ecco2k - Don_t Ask (ryuzk Remix).flac
 /mnt/synology/media/music/orpheus.network/flac/Saâda Bonaire - 2013 - Saâda Bonaire [CD, FM001] FLAC/01 You Could Be More As You Are.flac
 /mnt/synology/media/music/orpheus.network/flac/Saâda Bonaire - 2013 - Saâda Bonaire [CD, FM001] FLAC/02 Invitation.flac
 /mnt/synology/media/music/orpheus.network/flac/Saâda Bonaire - 2013 - Saâda Bonaire [CD, FM001] FLAC/03 Little Sister.flac
@@ -18898,6 +19072,7 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Salem - King Night (2010) [
 /mnt/synology/media/music/orpheus.network/flac/Sam Gellaitry - Escapism/03 - Sam Gellaitry - Dreamscapes.flac
 /mnt/synology/media/music/orpheus.network/flac/Sam Gellaitry - Escapism/04 - Sam Gellaitry - Long Distance.flac
 /mnt/synology/media/music/orpheus.network/flac/Sam Gellaitry - Escapism/05 - Sam Gellaitry - Rurality (Outro).flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Cuts/Bladee - Cover Up (XLR8R Version).mp3
 /mnt/synology/media/music/orpheus.network/flac/Saosin - Saosin (2006) [FLAC] {CDP 7243 8 73694 2 9}/01 - It’s Far Better to Learn.flac
 /mnt/synology/media/music/orpheus.network/flac/Saosin - Saosin (2006) [FLAC] {CDP 7243 8 73694 2 9}/02 - Sleepers.flac
 /mnt/synology/media/music/orpheus.network/flac/Saosin - Saosin (2006) [FLAC] {CDP 7243 8 73694 2 9}/03 - It’s So Simple.flac
@@ -19414,6 +19589,7 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Silver Jews - The Natural B
 /mnt/synology/media/music/orpheus.network/flac/Siouxsie And The Banshees - Kaleidoscope (1980, 2006)(Polydor, 983 691-3)[CD FLAC]/18 - Hybrid (Polydor demo).flac
 /mnt/synology/media/music/orpheus.network/flac/Siouxsie And The Banshees - Kaleidoscope (1980, 2006)(Polydor, 983 691-3)[CD FLAC]/19 - Happy House (Polydor demo).flac
 /mnt/synology/media/music/orpheus.network/flac/Siouxsie And The Banshees - Kaleidoscope (1980, 2006)(Polydor, 983 691-3)[CD FLAC]/20 - Israel.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/= Production Credits/Sir Realism - Centralen.flac
 /mnt/synology/media/music/orpheus.network/flac/sisyfuss - youll find it in the end (2017) [FLAC]/01. cleric girl.flac
 /mnt/synology/media/music/orpheus.network/flac/sisyfuss - youll find it in the end (2017) [FLAC]/02. lucille.flac
 /mnt/synology/media/music/orpheus.network/flac/sisyfuss - youll find it in the end (2017) [FLAC]/03. kim kelly.flac
@@ -19441,6 +19617,9 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Silver Jews - The Natural B
 /mnt/synology/media/music/orpheus.network/flac/Alexander Spence - 1969 - Oar (Sundazed SC 11075).3356/20. Doodle.flac
 /mnt/synology/media/music/orpheus.network/flac/Alexander Spence - 1969 - Oar (Sundazed SC 11075).3356/21. Fountain.flac
 /mnt/synology/media/music/orpheus.network/flac/Alexander Spence - 1969 - Oar (Sundazed SC 11075).3356/22. I Think You and I.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/Skrillex, Bladee - Real Spring (Demo v1).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/Skrillex, Bladee - Real Spring (Demo v3).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Cuts/Skrillex, swedm®, Bladee - Untitled.mp3
 /mnt/synology/media/music/orpheus.network/flac/Seeds - A Web of Sound [2013 GNP Crescendo Stereo-Mono Remaster]/2 Mono (with A Full Spoon of Seedy Blues)/09 - Pretty Girl [Bonus Track].flac
 /mnt/synology/media/music/orpheus.network/flac/Seeds - A Web of Sound [2013 GNP Crescendo Stereo-Mono Remaster]/2 Mono (with A Full Spoon of Seedy Blues)/10 - Moth and the Flame [Bonus Track].flac
 /mnt/synology/media/music/orpheus.network/flac/Seeds - A Web of Sound [2013 GNP Crescendo Stereo-Mono Remaster]/2 Mono (with A Full Spoon of Seedy Blues)/11 - I'll Help You (Carry Your Money to the Bank) [Bonus Track].flac
@@ -19637,6 +19816,15 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Slowdive -2017-Slowdive -FL
 /mnt/synology/media/music/orpheus.network/flac/Smashing Pumpkins - Siamese Dream (1993) [FLAC] {Virgin  V2 0777 7 88267 2 9  CD}/11 - Silverfuck.flac
 /mnt/synology/media/music/orpheus.network/flac/Smashing Pumpkins - Siamese Dream (1993) [FLAC] {Virgin  V2 0777 7 88267 2 9  CD}/12 - Sweet Sweet.flac
 /mnt/synology/media/music/orpheus.network/flac/Smashing Pumpkins - Siamese Dream (1993) [FLAC] {Virgin  V2 0777 7 88267 2 9  CD}/13 - Luna.flac
+/mnt/synology/media/music/bandcamp/(2024) for a moment i saw myself as inexorably beautiful/smiling broadly - for a moment i saw myself as inexorably beautiful - 01 your touch freaks me out -_-.flac
+/mnt/synology/media/music/bandcamp/(2024) for a moment i saw myself as inexorably beautiful/smiling broadly - for a moment i saw myself as inexorably beautiful - 02 close.flac
+/mnt/synology/media/music/bandcamp/(2024) for a moment i saw myself as inexorably beautiful/smiling broadly - for a moment i saw myself as inexorably beautiful - 03 120- get it together.flac
+/mnt/synology/media/music/bandcamp/(2024) for a moment i saw myself as inexorably beautiful/smiling broadly - for a moment i saw myself as inexorably beautiful - 04 alucarda lives!.flac
+/mnt/synology/media/music/bandcamp/(2024) for a moment i saw myself as inexorably beautiful/smiling broadly - for a moment i saw myself as inexorably beautiful - 05 on goat rock.flac
+/mnt/synology/media/music/bandcamp/(2024) for a moment i saw myself as inexorably beautiful/smiling broadly - for a moment i saw myself as inexorably beautiful - 06 offering.flac
+/mnt/synology/media/music/bandcamp/(2024) for a moment i saw myself as inexorably beautiful/smiling broadly - for a moment i saw myself as inexorably beautiful - 07 mysterious bond.flac
+/mnt/synology/media/music/bandcamp/(2024) for a moment i saw myself as inexorably beautiful/smiling broadly - for a moment i saw myself as inexorably beautiful - 08 fake blood recipe.flac
+/mnt/synology/media/music/bandcamp/(2024) for a moment i saw myself as inexorably beautiful/smiling broadly - for a moment i saw myself as inexorably beautiful - 09 new year new me.flac
 /mnt/synology/media/music/redacted.ch/flac/SMOKEDOPE2016 - IM NOT GOD BUT I WISH I WAS (feat. Joeyy) (2022) [FLAC] [16B-44.1kHz]/01. SMOKEDOPE2016 - IM NOT GOD BUT I WISH I WAS (feat. Joeyy).flac
 /mnt/synology/media/music/redacted.ch/flac/SMOKEDOPE2016 - SMOKESHOP (2022) {WEB} [FLAC]/1. SMOKEDOPE2016 - INTRO.flac
 /mnt/synology/media/music/redacted.ch/flac/SMOKEDOPE2016 - SMOKESHOP (2022) {WEB} [FLAC]/2. SMOKEDOPE2016 - SMOKESHOP.flac
@@ -19736,6 +19924,7 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Slowdive -2017-Slowdive -FL
 /mnt/synology/media/music/orpheus.network/flac/S.O.A. . 1981 . No Policy {WEB}/08. S.O.A. - Gang Fight.flac
 /mnt/synology/media/music/orpheus.network/flac/S.O.A. . 1981 . No Policy {WEB}/09. S.O.A. - Public Defender.flac
 /mnt/synology/media/music/orpheus.network/flac/S.O.A. . 1981 . No Policy {WEB}/10. S.O.A. - Gonna Hafta Fight.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Söder - ICE Cubes 2007.mp3
 /mnt/synology/media/music/redacted.ch/flac/Sodom [1986] [CD] Obsessed by Cruelty (2013 Rerelease) [FLAC]/01 - Intro.flac
 /mnt/synology/media/music/redacted.ch/flac/Sodom [1986] [CD] Obsessed by Cruelty (2013 Rerelease) [FLAC]/02 - Deathlike Silence.flac
 /mnt/synology/media/music/redacted.ch/flac/Sodom [1986] [CD] Obsessed by Cruelty (2013 Rerelease) [FLAC]/03 - Brandish The Sceptre.flac
@@ -20001,6 +20190,8 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Sonic Youth - EVOL (2015 Re
 /mnt/synology/media/music/orpheus.network/flac/Spiritualized – Ladies And Gentlemen We Are Floating In Space (1997) [flac] {DEDCD 034}/10. No God Only Religion.flac
 /mnt/synology/media/music/orpheus.network/flac/Spiritualized – Ladies And Gentlemen We Are Floating In Space (1997) [flac] {DEDCD 034}/11. Cool Waves.flac
 /mnt/synology/media/music/orpheus.network/flac/Spiritualized – Ladies And Gentlemen We Are Floating In Space (1997) [flac] {DEDCD 034}/12. Cop Shoot Cop....flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Spooner G, Lil Bitch - CHOCOLATE.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Spooner G, Lil Bitch - FURRYBALLS.mp3
 /mnt/synology/media/music/orpheus.network/flac/Sports. - Demon Daze/01 - I Love to Be Chill.flac
 /mnt/synology/media/music/orpheus.network/flac/Sports. - Demon Daze/02 - Matt Damon.flac
 /mnt/synology/media/music/orpheus.network/flac/Sports. - Demon Daze/03 - Words That Rhyme With Different, Etc.flac
@@ -20240,6 +20431,11 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Steve Reich - Music for 18 
 /mnt/synology/media/music/orpheus.network/flac/Stevie Wonder - Songs in the Key of Life (1976) [2011 Audio Fidelity AFZ2 096 US] {FLAC}/Disc 2/09 - Ebony Eyes.flac
 /mnt/synology/media/music/orpheus.network/flac/Stevie Wonder - Songs in the Key of Life (1976) [2011 Audio Fidelity AFZ2 096 US] {FLAC}/Disc 2/10 - All Day Sucker.flac
 /mnt/synology/media/music/orpheus.network/flac/Stevie Wonder - Songs in the Key of Life (1976) [2011 Audio Fidelity AFZ2 096 US] {FLAC}/Disc 2/11 - Easy Goin' Evening (My Mama's Call).flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/STHLM Skräcken - Forex 1.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/STHLM Skräcken - STHLM Snake City 2K17/STHLM Skräcken - Working With Wood.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/STHLM Skräcken - STHLM Snake City 2K17/STHLM Skräcken - Down Our E4.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/STHLM Skräcken - STHLM Snake City 2K17/STHLM Skräcken - Rockstar Denim.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/STHLM Skräcken - STHLM Snake City 2K17/STHLM Skräcken - A Place To Call Home.mp3
 /mnt/synology/media/music/orpheus.network/flac/Still House Plants - If I don't make it, I love u (2024) [WEB-FLAC]/01. M M M.flac
 /mnt/synology/media/music/orpheus.network/flac/Still House Plants - If I don't make it, I love u (2024) [WEB-FLAC]/02. Pant.flac
 /mnt/synology/media/music/orpheus.network/flac/Still House Plants - If I don't make it, I love u (2024) [WEB-FLAC]/03. Sticky.flac
@@ -21313,38 +21509,53 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Talk Talk - 1988 - Spirit O
 /mnt/synology/media/music/orpheus.network/flac/Texas is the Reason - Do You Know Who You Are (2013) [FLAC]/14-Texas Is The Reason-If It's Here When We Get Back It's Ours.flac
 /mnt/synology/media/music/orpheus.network/flac/Texas is the Reason - Do You Know Who You Are (2013) [FLAC]/15-Texas Is The Reason-Dressing Cold.flac
 /mnt/synology/media/music/orpheus.network/flac/Texas is the Reason - Do You Know Who You Are (2013) [FLAC]/16-Texas Is The Reason-Antique.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Snippets/Thaiboy Digital - Untitled (Snippet).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Thaiboy Digital - birthday (freestyle).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Thaiboy Digital - FUCK U.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Thaiboy Digital - Bitches go 4 Nothing.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Thaiboy Digital - f e r r a g a m o g o l d.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Thaiboy Digital - GTBSB ANTHEM FREESTYLE.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Thaiboy Digital - My Money.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Thaiboy Digital - ☆Black Bottles☆.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Thaiboy Digital - G6 ☆☆☆☆☆.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Thaiboy Digital - Shangri La.mp3
 /mnt/synology/media/music/orpheus.network/flac/Thaiboy Digital - ส(Tiger) (2014) [WEB FLAC] {YR0070}/01 - Haters Broke.flac
-/mnt/synology/media/music/sbe-gtb-dg/Thaiboy Digital - ส(Tiger) (2014) [WEB FLAC] {YR0070}/01 - Haters Broke.flac
 /mnt/synology/media/music/orpheus.network/flac/Thaiboy Digital - ส(Tiger) (2014) [WEB FLAC] {YR0070}/02 - Diamonds (feat. Yung Lean).flac
-/mnt/synology/media/music/sbe-gtb-dg/Thaiboy Digital - ส(Tiger) (2014) [WEB FLAC] {YR0070}/02 - Diamonds (feat. Yung Lean).flac
 /mnt/synology/media/music/orpheus.network/flac/Thaiboy Digital - ส(Tiger) (2014) [WEB FLAC] {YR0070}/03 - Gtblessgo (feat. Bladee).flac
-/mnt/synology/media/music/sbe-gtb-dg/Thaiboy Digital - ส(Tiger) (2014) [WEB FLAC] {YR0070}/03 - Gtblessgo (feat. Bladee).flac
 /mnt/synology/media/music/orpheus.network/flac/Thaiboy Digital - ส(Tiger) (2014) [WEB FLAC] {YR0070}/04 - All My Life.flac
-/mnt/synology/media/music/sbe-gtb-dg/Thaiboy Digital - ส(Tiger) (2014) [WEB FLAC] {YR0070}/04 - All My Life.flac
 /mnt/synology/media/music/orpheus.network/flac/Thaiboy Digital - ส(Tiger) (2014) [WEB FLAC] {YR0070}/05 - Moon.flac
-/mnt/synology/media/music/sbe-gtb-dg/Thaiboy Digital - ส(Tiger) (2014) [WEB FLAC] {YR0070}/05 - Moon.flac
 /mnt/synology/media/music/orpheus.network/flac/Thaiboy Digital - ส(Tiger) (2014) [WEB FLAC] {YR0070}/06 - N°1.flac
-/mnt/synology/media/music/sbe-gtb-dg/Thaiboy Digital - ส(Tiger) (2014) [WEB FLAC] {YR0070}/06 - N°1.flac
 /mnt/synology/media/music/orpheus.network/flac/Thaiboy Digital - ส(Tiger) (2014) [WEB FLAC] {YR0070}/07 - Shadow Silence.flac
-/mnt/synology/media/music/sbe-gtb-dg/Thaiboy Digital - ส(Tiger) (2014) [WEB FLAC] {YR0070}/07 - Shadow Silence.flac
 /mnt/synology/media/music/orpheus.network/flac/Thaiboy Digital - ส(Tiger) (2014) [WEB FLAC] {YR0070}/08 - Yr so Beautiful.flac
-/mnt/synology/media/music/sbe-gtb-dg/Thaiboy Digital - ส(Tiger) (2014) [WEB FLAC] {YR0070}/08 - Yr so Beautiful.flac
 /mnt/synology/media/music/orpheus.network/flac/Thaiboy Digital - ส(Tiger) (2014) [WEB FLAC] {YR0070}/09 - Vän.flac
-/mnt/synology/media/music/sbe-gtb-dg/Thaiboy Digital - ส(Tiger) (2014) [WEB FLAC] {YR0070}/09 - Vän.flac
 /mnt/synology/media/music/redacted.ch/flac/Thaiboy Digital - Tiger (2014) [FLAC]/01 - Tiger.flac
-/mnt/synology/media/music/sbe-gtb-dg/Thaiboy Digital - Tiger (2014) [FLAC]/01 - Tiger.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Thaiboy Digital - 2seats ♱♱.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Thaiboy Digital - b @ n k r o l l.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Thaiboy Digital - Deathwish.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/Thaiboy Digital - F_d Up (ft. Yung Lean) (Demo).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Thaiboy Digital - Flexx Up Boy.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Thaiboy Digital - Ghost.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Thaiboy Digital - Hopeless.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Thaiboy Digital - Lord of the Jewels Return of the Goon/Thaiboy Digital - Gucci Lo (ft. Adamn Killa).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Thaiboy Digital - Lord of the Jewels Return of the Goon/Thaiboy Digital - Last Days.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Thaiboy Digital - Lord of the Jewels Return of the Goon/Thaiboy Digital - Roll A Dice.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Thaiboy Digital - Lord of the Jewels Return of the Goon/Thaiboy Digital - Dont Dance (ft. Bladee).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Thaiboy Digital - Lord of the Jewels Return of the Goon/Thaiboy Digital - Ball Alert (ft. BlackKray).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Thaiboy Digital - Lord of the Jewels Return of the Goon/Thaiboy Digital - Fd Up (ft. Yung Lean).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Thaiboy Digital - Lord of the Jewels Return of the Goon/Thaiboy Digital - $180$.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Thaiboy Digital - Lord of the Jewels Return of the Goon/Thaiboy Digital - 100.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Thaiboy Digital - My Desire.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Thaiboy Digital - Stunt On Me.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/Thaiboy Digital - Climbing (Demo).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Thaiboy Digital - Let go.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/Thaiboy Digital - Magic (Demo).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Thaiboy Digital - Baby.mp3
 /mnt/synology/media/music/redacted.ch/flac/ThaiBoy Digital - S.O.S (2017) [WEB FLAC]/01. Top Town.flac
-/mnt/synology/media/music/sbe-gtb-dg/ThaiBoy Digital - S.O.S (2017) [WEB FLAC]/01. Top Town.flac
 /mnt/synology/media/music/redacted.ch/flac/ThaiBoy Digital - S.O.S (2017) [WEB FLAC]/02. Nothing 2 Fear.flac
-/mnt/synology/media/music/sbe-gtb-dg/ThaiBoy Digital - S.O.S (2017) [WEB FLAC]/02. Nothing 2 Fear.flac
 /mnt/synology/media/music/redacted.ch/flac/ThaiBoy Digital - S.O.S (2017) [WEB FLAC]/03. Magic.flac
-/mnt/synology/media/music/sbe-gtb-dg/ThaiBoy Digital - S.O.S (2017) [WEB FLAC]/03. Magic.flac
 /mnt/synology/media/music/redacted.ch/flac/ThaiBoy Digital - S.O.S (2017) [WEB FLAC]/04. Ruby.flac
-/mnt/synology/media/music/sbe-gtb-dg/ThaiBoy Digital - S.O.S (2017) [WEB FLAC]/04. Ruby.flac
 /mnt/synology/media/music/redacted.ch/flac/Thaiboy Digital - Lip Service (2019) [WEB FLAC]/01. Lip Service.flac
-/mnt/synology/media/music/sbe-gtb-dg/Thaiboy Digital - Lip Service (2019) [WEB FLAC]/01. Lip Service.flac
 /mnt/synology/media/music/redacted.ch/flac/ThaiBoy Digital - (2019) Nervous [WEB FLAC]/01. ThaiBoy Digital - Nervous.flac
-/mnt/synology/media/music/sbe-gtb-dg/ThaiBoy Digital - (2019) Nervous [WEB FLAC]/01. ThaiBoy Digital - Nervous.flac
 /mnt/synology/media/music/orpheus.network/flac/Trash Island - (2019) {WEB - FLAC}/01 - 1_1.flac
 /mnt/synology/media/music/orpheus.network/flac/Trash Island - (2019) {WEB - FLAC}/02 - 30th Floor.flac
 /mnt/synology/media/music/orpheus.network/flac/Trash Island - (2019) {WEB - FLAC}/03 - Waterfall.flac
@@ -21354,59 +21565,39 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Talk Talk - 1988 - Spirit O
 /mnt/synology/media/music/orpheus.network/flac/Trash Island - (2019) {WEB - FLAC}/07 - Acid Rain.flac
 /mnt/synology/media/music/orpheus.network/flac/Trash Island - (2019) {WEB - FLAC}/08 - You Lose.flac
 /mnt/synology/media/music/orpheus.network/flac/Thaiboy Digital - Legendary Member (2019) - WEB FLAC/01 Drainstar Rock.flac
-/mnt/synology/media/music/sbe-gtb-dg/Thaiboy Digital - Legendary Member (2019) - WEB FLAC/01 Drainstar Rock.flac
 /mnt/synology/media/music/orpheus.network/flac/Thaiboy Digital - Legendary Member (2019) - WEB FLAC/02 Nervous.flac
-/mnt/synology/media/music/sbe-gtb-dg/Thaiboy Digital - Legendary Member (2019) - WEB FLAC/02 Nervous.flac
 /mnt/synology/media/music/orpheus.network/flac/Thaiboy Digital - Legendary Member (2019) - WEB FLAC/03 Can't Tell.flac
-/mnt/synology/media/music/sbe-gtb-dg/Thaiboy Digital - Legendary Member (2019) - WEB FLAC/03 Can't Tell.flac
 /mnt/synology/media/music/orpheus.network/flac/Thaiboy Digital - Legendary Member (2019) - WEB FLAC/04 Kiss Me Through the Scope.flac
-/mnt/synology/media/music/sbe-gtb-dg/Thaiboy Digital - Legendary Member (2019) - WEB FLAC/04 Kiss Me Through the Scope.flac
 /mnt/synology/media/music/orpheus.network/flac/Thaiboy Digital - Legendary Member (2019) - WEB FLAC/05 IDGAF.flac
-/mnt/synology/media/music/sbe-gtb-dg/Thaiboy Digital - Legendary Member (2019) - WEB FLAC/05 IDGAF.flac
 /mnt/synology/media/music/orpheus.network/flac/Thaiboy Digital - Legendary Member (2019) - WEB FLAC/06 Bentley.flac
-/mnt/synology/media/music/sbe-gtb-dg/Thaiboy Digital - Legendary Member (2019) - WEB FLAC/06 Bentley.flac
 /mnt/synology/media/music/orpheus.network/flac/Thaiboy Digital - Legendary Member (2019) - WEB FLAC/07 Kit Kat.flac
-/mnt/synology/media/music/sbe-gtb-dg/Thaiboy Digital - Legendary Member (2019) - WEB FLAC/07 Kit Kat.flac
 /mnt/synology/media/music/orpheus.network/flac/Thaiboy Digital - Legendary Member (2019) - WEB FLAC/08 Lip Service.flac
-/mnt/synology/media/music/sbe-gtb-dg/Thaiboy Digital - Legendary Member (2019) - WEB FLAC/08 Lip Service.flac
 /mnt/synology/media/music/orpheus.network/flac/Thaiboy Digital - Legendary Member (2019) - WEB FLAC/09 Beijing.flac
-/mnt/synology/media/music/sbe-gtb-dg/Thaiboy Digital - Legendary Member (2019) - WEB FLAC/09 Beijing.flac
 /mnt/synology/media/music/orpheus.network/flac/Thaiboy Digital - Legendary Member (2019) - WEB FLAC/10 Spinnin.flac
-/mnt/synology/media/music/sbe-gtb-dg/Thaiboy Digital - Legendary Member (2019) - WEB FLAC/10 Spinnin.flac
 /mnt/synology/media/music/orpheus.network/flac/Thaiboy Digital - Legendary Member (2019) - WEB FLAC/11 Baby.flac
-/mnt/synology/media/music/sbe-gtb-dg/Thaiboy Digital - Legendary Member (2019) - WEB FLAC/11 Baby.flac
 /mnt/synology/media/music/orpheus.network/flac/Thaiboy Digital - Legendary Member (2019) - WEB FLAC/12 Legendary Member.flac
-/mnt/synology/media/music/sbe-gtb-dg/Thaiboy Digital - Legendary Member (2019) - WEB FLAC/12 Legendary Member.flac
 /mnt/synology/media/music/redacted.ch/flac/Thaiboy Digital - Yin & Yang (2020) [FLAC]/01 New City.flac
-/mnt/synology/media/music/sbe-gtb-dg/Thaiboy Digital - Yin & Yang (2020) [FLAC]/01 New City.flac
 /mnt/synology/media/music/redacted.ch/flac/Thaiboy Digital - Yin & Yang (2020) [FLAC]/02 Yin & Yang.flac
-/mnt/synology/media/music/sbe-gtb-dg/Thaiboy Digital - Yin & Yang (2020) [FLAC]/02 Yin & Yang.flac
 /mnt/synology/media/music/redacted.ch/flac/Thaiboy Digital - Back 2 Life (2022) (FLAC)/01 - ThaiBoy Digital - Dreamworld.flac
-/mnt/synology/media/music/sbe-gtb-dg/Thaiboy Digital - Back 2 Life (2022) (FLAC)/01 - ThaiBoy Digital - Dreamworld.flac
 /mnt/synology/media/music/redacted.ch/flac/Thaiboy Digital - Back 2 Life (2022) (FLAC)/02 - ThaiBoy Digital - Back 2 Life.flac
-/mnt/synology/media/music/sbe-gtb-dg/Thaiboy Digital - Back 2 Life (2022) (FLAC)/02 - ThaiBoy Digital - Back 2 Life.flac
 /mnt/synology/media/music/redacted.ch/flac/Thaiboy Digital - Back 2 Life (2022) (FLAC)/03 - ThaiBoy Digital, Yung Lean, Bladee - All the Way.flac
-/mnt/synology/media/music/sbe-gtb-dg/Thaiboy Digital - Back 2 Life (2022) (FLAC)/03 - ThaiBoy Digital, Yung Lean, Bladee - All the Way.flac
 /mnt/synology/media/music/redacted.ch/flac/Thaiboy Digital - Back 2 Life (2022) (FLAC)/04 - ThaiBoy Digital - Angel.flac
-/mnt/synology/media/music/sbe-gtb-dg/Thaiboy Digital - Back 2 Life (2022) (FLAC)/04 - ThaiBoy Digital - Angel.flac
 /mnt/synology/media/music/redacted.ch/flac/Thaiboy Digital - Back 2 Life (2022) (FLAC)/05 - ThaiBoy Digital - Alive.flac
-/mnt/synology/media/music/sbe-gtb-dg/Thaiboy Digital - Back 2 Life (2022) (FLAC)/05 - ThaiBoy Digital - Alive.flac
 /mnt/synology/media/music/redacted.ch/flac/Thaiboy Digital - Back 2 Life (2022) (FLAC)/06 - ThaiBoy Digital - Love Potion.flac
-/mnt/synology/media/music/sbe-gtb-dg/Thaiboy Digital - Back 2 Life (2022) (FLAC)/06 - ThaiBoy Digital - Love Potion.flac
 /mnt/synology/media/music/redacted.ch/flac/Thaiboy Digital - Back 2 Life (2022) (FLAC)/07 - ThaiBoy Digital - Fate.flac
-/mnt/synology/media/music/sbe-gtb-dg/Thaiboy Digital - Back 2 Life (2022) (FLAC)/07 - ThaiBoy Digital - Fate.flac
 /mnt/synology/media/music/redacted.ch/flac/Thaiboy Digital - Back 2 Life (2022) (FLAC)/08 - ThaiBoy Digital, Yung Lean - True Love(Explicit).flac
-/mnt/synology/media/music/sbe-gtb-dg/Thaiboy Digital - Back 2 Life (2022) (FLAC)/08 - ThaiBoy Digital, Yung Lean - True Love(Explicit).flac
 /mnt/synology/media/music/redacted.ch/flac/Thaiboy Digital - Back 2 Life (2022) (FLAC)/09 - ThaiBoy Digital, Bladee - The Kingdom.flac
-/mnt/synology/media/music/sbe-gtb-dg/Thaiboy Digital - Back 2 Life (2022) (FLAC)/09 - ThaiBoy Digital, Bladee - The Kingdom.flac
 /mnt/synology/media/music/redacted.ch/flac/Thaiboy Digital - Back 2 Life (2022) (FLAC)/10 - ThaiBoy Digital, Bladee - 3 Star Reunite.flac
-/mnt/synology/media/music/sbe-gtb-dg/Thaiboy Digital - Back 2 Life (2022) (FLAC)/10 - ThaiBoy Digital, Bladee - 3 Star Reunite.flac
 /mnt/synology/media/music/redacted.ch/flac/Thaiboy Digital - Back 2 Life (2022) (FLAC)/11 - ThaiBoy Digital - Mr. CEO.flac
-/mnt/synology/media/music/sbe-gtb-dg/Thaiboy Digital - Back 2 Life (2022) (FLAC)/11 - ThaiBoy Digital - Mr. CEO.flac
 /mnt/synology/media/music/redacted.ch/flac/Thaiboy Digital - Back 2 Life (2022) (FLAC)/12 - ThaiBoy Digital - Never Change.flac
-/mnt/synology/media/music/sbe-gtb-dg/Thaiboy Digital - Back 2 Life (2022) (FLAC)/12 - ThaiBoy Digital - Never Change.flac
 /mnt/synology/media/music/redacted.ch/flac/ThaiBoy Digital - I'm Fresh [2022]/01 - I'm Fresh.flac
-/mnt/synology/media/music/sbe-gtb-dg/ThaiBoy Digital - I'm Fresh [2022]/01 - I'm Fresh.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Thaiboy Digital, Adamn Killa - IDK Why.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Thaiboy Digital, Bladee - ☆2 tHe StArZ☆.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Thaiboy Digital, Bladee - Lie 2 Me.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/Thaiboy Digital, Ecco2k - Nosebleed (Demo).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Thaiboy Digital - Visa (ft. Ecco2k, Bladee).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Thaiboy Digital, Yung Lean - Devlish Paradise.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/Thaiboy Digital - Fd Up (ft. Yung Lean) (Demo).mp3
 /mnt/synology/media/music/orpheus.network/flac/Action - Rolled Gold [2002 Reaction Recordings Remaster]/01 - Come Around.flac
 /mnt/synology/media/music/orpheus.network/flac/Action - Rolled Gold [2002 Reaction Recordings Remaster]/02 - Something to Say.flac
 /mnt/synology/media/music/orpheus.network/flac/Action - Rolled Gold [2002 Reaction Recordings Remaster]/03 - Love Is All.flac
@@ -24859,6 +25050,7 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Time Machines - Time Machin
 /mnt/synology/media/music/orpheus.network/flac/Tim Hecker - Virgins - 2013 (flac)/10. Stigmata I.flac
 /mnt/synology/media/music/orpheus.network/flac/Tim Hecker - Virgins - 2013 (flac)/11. Stigmata II.flac
 /mnt/synology/media/music/orpheus.network/flac/Tim Hecker - Virgins - 2013 (flac)/12. Stab Variation.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Tinashe - 2 On (Yung Gud Remix).mp3
 /mnt/synology/media/music/orpheus.network/flac/Title Fight - The Last Thing You Forget (2009) [FLAC-CD]/01 Symmetry.flac
 /mnt/synology/media/music/orpheus.network/flac/Title Fight - The Last Thing You Forget (2009) [FLAC-CD]/02 Introvert.flac
 /mnt/synology/media/music/orpheus.network/flac/Title Fight - The Last Thing You Forget (2009) [FLAC-CD]/03 No One Stays at the Top Forever.flac
@@ -25200,6 +25392,7 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Toto - Toto (1978) [FLAC] (
 /mnt/synology/media/music/orpheus.network/flac/Touché Amoré - Lament (2020) {87719-2 CD} [FLAC]/09 I’ll Be Your Host.flac
 /mnt/synology/media/music/orpheus.network/flac/Touché Amoré - Lament (2020) {87719-2 CD} [FLAC]/10 Deflector.flac
 /mnt/synology/media/music/orpheus.network/flac/Touché Amoré - Lament (2020) {87719-2 CD} [FLAC]/11 A Forecast.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Cuts/Bladee, Mechatok - Drama (Demo) (NTS Version).mp3
 /mnt/synology/media/music/bandcamp/Train Breaks Down - Train Breaks Down EP (2024) [WEB] [FLAC]/Train Breaks Down - Train Breaks Down EP - 01 Forty Hour Suit.flac
 /mnt/synology/media/music/bandcamp/Train Breaks Down - Train Breaks Down EP (2024) [WEB] [FLAC]/Train Breaks Down - Train Breaks Down EP - 02 Consider Your Position.flac
 /mnt/synology/media/music/bandcamp/Train Breaks Down - Train Breaks Down EP (2024) [WEB] [FLAC]/Train Breaks Down - Train Breaks Down EP - 03 Permanent as Your Errors.flac
@@ -25214,6 +25407,8 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Toto - Toto (1978) [FLAC] (
 /mnt/synology/media/music/orpheus.network/flac/Trapt - Trapt (2002) [9 48296-2] {CD - FLAC}/09 - Enigma.flac
 /mnt/synology/media/music/orpheus.network/flac/Trapt - Trapt (2002) [9 48296-2] {CD - FLAC}/10 - Stories.flac
 /mnt/synology/media/music/orpheus.network/flac/Trapt - Trapt (2002) [9 48296-2] {CD - FLAC}/11 - New Beginning.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/Travis Scott - Wasted (feat. Yung Lean) (Demo v1).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/Travis Scott - Wasted (feat. Yung Lean) (Demo v2).mp3
 /mnt/synology/media/music/orpheus.network/flac/T. Rex - Electric Warrior (1990) [FLAC]/01 Mambo Sun.flac
 /mnt/synology/media/music/orpheus.network/flac/T. Rex - Electric Warrior (1990) [FLAC]/02 Cosmic Dancer.flac
 /mnt/synology/media/music/orpheus.network/flac/T. Rex - Electric Warrior (1990) [FLAC]/03 Jeepster.flac
@@ -25560,6 +25755,16 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Type O Negative - Life Is K
 /mnt/synology/media/music/orpheus.network/flac/UFO - Phenomenon [2000 EMI Records Remaster]/08 - Built for Comfort.flac
 /mnt/synology/media/music/orpheus.network/flac/UFO - Phenomenon [2000 EMI Records Remaster]/09 - Lipstick Traces.flac
 /mnt/synology/media/music/orpheus.network/flac/UFO - Phenomenon [2000 EMI Records Remaster]/10 - Queen of the Deep.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Uli K - Cero Miedo (ft. Bladee, Blaze Kidd).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Cuts/Uli K, Malibu, Yung Lean - Bloodshed Pt. 1.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Cuts/Uli K, Bladee - Bloodshed Pt. 2.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/= Production Credits/Uli K - Sangre.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/Uli K, Bladee - Angelita (Demo).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Bladee, Uli K - UxB/Uli K, Bladee - OPP.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Bladee, Uli K - UxB/Uli K, Bladee - Invisible (Original Version).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Bladee, Uli K - UxB/Uli K, Bladee - Angelita.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Uli K, Ecco2k - Forget WYS.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/Uli K, Yung Lean - Bloodshed Pt. 1 (Demo).mp3
 /mnt/synology/media/music/orpheus.network/flac/Ultimate Spinach - Behold & See (2013) [WEB-FLAC]/1-01. Gilded Lamp of the Cosmos.flac
 /mnt/synology/media/music/orpheus.network/flac/Ultimate Spinach - Behold & See (2013) [WEB-FLAC]/1-02. Visions of Your Reality.flac
 /mnt/synology/media/music/orpheus.network/flac/Ultimate Spinach - Behold & See (2013) [WEB-FLAC]/1-03. Jazz Thing.flac
@@ -25670,6 +25875,7 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Underoath - They're Only Ch
 /mnt/synology/media/music/orpheus.network/flac/Unida - Coping With the Urban Coyote (1999) [FLAC] {CSDCD1229}/13 - Dwarf It (Live).flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Unida - Coping With the Urban Coyote (1999) [FLAC] {CSDCD1229}/Coping with the Urban Coyote.cue/14
 /mnt/synology/media/music/orpheus.network/flac/Unida - Coping With the Urban Coyote (1999) [FLAC] {CSDCD1229}/14 - Black Woman (Live).flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Live/Skrillex, swedm®, Bladee - Untitled - live.mp3
 /mnt/synology/media/music/orpheus.network/flac/Unwound - Caterpillar (1991) [FLAC] [16B-44.1kHz]/01. Unwound - Caterpillar.flac
 /mnt/synology/media/music/orpheus.network/flac/Unwound - Caterpillar (1991) [FLAC] [16B-44.1kHz]/02. Unwound - Miserific Condition.flac
 /mnt/synology/media/music/orpheus.network/flac/Unwound - Caterpillar (1991) [FLAC] [16B-44.1kHz]/03. Unwound - Love And Fear.flac
@@ -26056,6 +26262,15 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Vance.Joy.-.2014.-.Dream.Yo
 /mnt/synology/media/music/redacted.ch/flac/Varathron - His Majesty At The Swamp (1993)[FLAC]/06 Flowers of My Youth.flac
 /mnt/synology/media/music/redacted.ch/flac/Varathron - His Majesty At The Swamp (1993)[FLAC]/07 The River of My Souls.flac
 /mnt/synology/media/music/redacted.ch/flac/Varathron - His Majesty At The Swamp (1993)[FLAC]/08 The Tressrising of Nyarlathothep (Act I).flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Varg2™, Bladee - Perfect Violation (The Empire Line RemixXx).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Cuts/Varg2™, Bladee - Perfect Violation (The Empire Line RemixXx) (Demo).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/Varg²™, Yung Lean - Tex (Red Line II (127 Sätra C) Demo).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/= Alternative Versions/Varg²™, Ecco2k - Vanity Lights (First Crush) (Alternative Version).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/= Alternative Versions/Varg²™, Ecco2k - 5 Stars & Vanity Lights (Alternative Version).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/Varg²™, Bladee - Misunderstood (is there a place in heaven for boys like me) (Demo).m4a
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/Varg²™, Ecco2k - Verdigris (5 Stars & Vanity Lights) (Demo v1).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Cuts/Varg²™, Ecco2k, Felix Lee - Rose Petals (5 Stars & Vanity Lights) (Demo v2).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Varg²™, Yung Lean - Bathory.mp3
 /mnt/synology/media/music/orpheus.network/flac/1993 - Stars Kill Rock [FLAC]/01 - Tiger Trap - Supreme Nothing.flac
 /mnt/synology/media/music/orpheus.network/flac/1993 - Stars Kill Rock [FLAC]/02 - Godheadsilo - Nutritious Treat.flac
 /mnt/synology/media/music/orpheus.network/flac/1993 - Stars Kill Rock [FLAC]/03 - Jack Acid - Cheap Tragedies.flac
@@ -26116,12 +26331,15 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Vance.Joy.-.2014.-.Dream.Yo
 /mnt/synology/media/music/orpheus.network/flac/VA - PHD & DRS - Ascendant Moods {AGCD001} (1999) [CD-FLAC]/CD2/07 - TQ1 - Simple Additives.flac
 /mnt/synology/media/music/orpheus.network/flac/VA - PHD & DRS - Ascendant Moods {AGCD001} (1999) [CD-FLAC]/CD2/08 - The Invisible Man - Erratic Dreams.flac
 /mnt/synology/media/music/slsk/[2003] Dirk Van Den Broek/Sprinzi - 01 - Forthcoming.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Krossad - Levande Död.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Krossad - Drick Klorin.mp3
 /mnt/synology/media/music/slsk/[2009] Rika & Everton/Rika - 01 - Harbor.mp3
 /mnt/synology/media/music/slsk/[2009] Rika & Everton/Rika - 02 - Cardboard City.mp3
 /mnt/synology/media/music/slsk/[2009] Rika & Everton/Rika - 03 - Rosehip.mp3
 /mnt/synology/media/music/slsk/[2009] Rika & Everton/Everton - 04 - Geneva.mp3
 /mnt/synology/media/music/slsk/[2009] Rika & Everton/Everton - 05 - Bluebird.mp3
 /mnt/synology/media/music/slsk/[2009] Rika & Everton/Everton - 06 - H'Punch.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Lean - Crystal Clear Ice.mp3
 /mnt/synology/media/music/orpheus.network/flac/Feldman - Satie - Cage [ECM New Series 2378]/01 - Feldman - Rothko Chapel.flac
 /mnt/synology/media/music/orpheus.network/flac/Feldman - Satie - Cage [ECM New Series 2378]/02 - Satie - Gnossienne No. 4.flac
 /mnt/synology/media/music/orpheus.network/flac/Feldman - Satie - Cage [ECM New Series 2378]/03 - Cage - Four4.flac
@@ -26171,6 +26389,7 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Vance.Joy.-.2014.-.Dream.Yo
 /mnt/synology/media/music/orpheus.network/flac/Various Artists - You Think It's Like This But Really It's Like This (20 Year Anniversary Reissue) (2020) - WEB FLAC/2-14. Water and Sleep.flac
 /mnt/synology/media/music/orpheus.network/flac/Various Artists - You Think It's Like This But Really It's Like This (20 Year Anniversary Reissue) (2020) - WEB FLAC/2-15. Telephone Wires.flac
 /mnt/synology/media/music/orpheus.network/flac/Various Artists - You Think It's Like This But Really It's Like This (20 Year Anniversary Reissue) (2020) - WEB FLAC/2-16. Words Cannot Describe.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/jonatan leandoer96, Oliver Coates - Black Moon.flac
 /mnt/synology/media/music/orpheus.network/flac/Vashti Bunyan - Just Another Diamond Day (1970, 2000) {SPINNEY001CD CD} [FLAC]/01 Diamond Day.flac
 /mnt/synology/media/music/orpheus.network/flac/Vashti Bunyan - Just Another Diamond Day (1970, 2000) {SPINNEY001CD CD} [FLAC]/02 Glow Worms.flac
 /mnt/synology/media/music/orpheus.network/flac/Vashti Bunyan - Just Another Diamond Day (1970, 2000) {SPINNEY001CD CD} [FLAC]/03 Lily Pond.flac
@@ -26338,6 +26557,7 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Vance.Joy.-.2014.-.Dream.Yo
 /mnt/synology/media/music/orpheus.network/flac/Violent Femmes - Violent Femmes [Slash-London Records]/10 - Good Feeling.flac
 /mnt/synology/media/music/orpheus.network/flac/Violent Femmes - Violent Femmes [Slash-London Records]/11 - Ugly [Bonus Track].flac
 /mnt/synology/media/music/orpheus.network/flac/Violent Femmes - Violent Femmes [Slash-London Records]/12 - Gimme the Car [Bonus Track].flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Bladee, Virus - PARTY W ME.mp3
 /mnt/synology/media/music/orpheus.network/flac/Vivienne Eastwood - Shook EP (2016) [FLAC]/01 - Snooze.flac
 /mnt/synology/media/music/orpheus.network/flac/Vivienne Eastwood - Shook EP (2016) [FLAC]/02 - Shook.flac
 /mnt/synology/media/music/orpheus.network/flac/Vivienne Eastwood - Shook EP (2016) [FLAC]/03 - Maybelline.flac
@@ -26505,6 +26725,13 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Weedeater - (2007) - God Lu
 /mnt/synology/media/music/orpheus.network/flac/Weezer - Weezer (2001) [Geffen Records]/08 - Simple Pages.flac
 /mnt/synology/media/music/orpheus.network/flac/Weezer - Weezer (2001) [Geffen Records]/09 - Glorious Day.flac
 /mnt/synology/media/music/orpheus.network/flac/Weezer - Weezer (2001) [Geffen Records]/10 - O Girlfriend.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/WEST! - Best Of My Love.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/WEST! - D_n_B loop(ska bli låt).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/WEST! - Elmo_s Song Part ll(Unmastered).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/WEST! - Etzolin - Slip(WEST! Remix).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/WEST! - Kungamord.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/WEST! - Neurofunk Beat.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/WEST! - Invace Spaders(Mixad).mp3
 /mnt/synology/media/music/orpheus.network/flac/Whirr - Sway (FLAC)/01 - Press.flac
 /mnt/synology/media/music/orpheus.network/flac/Whirr - Sway (FLAC)/02 - Mumble.flac
 /mnt/synology/media/music/orpheus.network/flac/Whirr - Sway (FLAC)/03 - Dry.flac
@@ -26533,6 +26760,49 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Weedeater - (2007) - God Lu
 /mnt/synology/media/music/orpheus.network/flac/Whirr - Raw Blue (2024) [FLAC 16-48]/08 - Worries Bloom.flac
 /mnt/synology/media/music/orpheus.network/flac/Whirr - Raw Blue (2024) [FLAC 16-48]/09 - Walk Through Space.flac
 /mnt/synology/media/music/orpheus.network/flac/Whirr - Raw Blue (2024) [FLAC 16-48]/10 - Enjoy Everything.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Whitearmor - Foresttt.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Whitearmor - Hear Me Cry.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Cuts/Whitearmor - Hello.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Cuts/Whitearmor - Untitled 1.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Cuts/Whitearmor - Untitled 2.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Whitearmor - Let Me Know.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Whitearmor - BUBBLES.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Whitearmor - cold nights.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Whitearmor - doooobie.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Whitearmor - JUDGMENT DAY MEGAMIX/Whitearmor - 01.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Whitearmor - JUDGMENT DAY MEGAMIX/Whitearmor - 02.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Whitearmor - JUDGMENT DAY MEGAMIX/Whitearmor - 03.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Whitearmor - JUDGMENT DAY MEGAMIX/Whitearmor - 04.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Whitearmor - JUDGMENT DAY MEGAMIX/Whitearmor - 05.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Whitearmor - JUDGMENT DAY MEGAMIX/Whitearmor - Dear Haters [Instrumental].mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Whitearmor - JUDGMENT DAY MEGAMIX/Whitearmor - doooobie.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Whitearmor - JUDGMENT DAY MEGAMIX/Whitearmor - 08.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Whitearmor - JUDGMENT DAY MEGAMIX/Whitearmor - let_s do it.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Whitearmor - JUDGMENT DAY MEGAMIX/Whitearmor - 10.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Whitearmor - JUDGMENT DAY MEGAMIX/Whitearmor - 11.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Whitearmor - JUDGMENT DAY MEGAMIX/Whitearmor - 12.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Whitearmor - JUDGMENT DAY MEGAMIX/Whitearmor - 13.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/= Production Credits/Yung Bleatha - (Midtro) No Games.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Whitearmor - New Dawn.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Whitearmor - oceans rise.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Whitearmor - Untitled.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Whitearmor - WHITE ARMOR APRIL/Whitearmor - Baby its.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Whitearmor - WHITE ARMOR APRIL/Whitearmor - 02.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Whitearmor - WHITE ARMOR APRIL/Whitearmor - 03.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Whitearmor - WHITE ARMOR APRIL/Whitearmor - 04.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Whitearmor - WHITE ARMOR APRIL/Whitearmor - Untitled.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Whitearmor - WHITE ARMOR APRIL/Whitearmor - Justin Timberlake - LoveStoned I Think She Knows (Whitearmor rmx).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Whitearmor - WHITE ARMOR APRIL/Whitearmor - 07.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Whitearmor - WHITE ARMOR APRIL/Whitearmor - 08.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Whitearmor - Divine Mercy.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Cuts/Whitearmor - Untitled 3.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Snippets/Whitearmor - Untitled (Snippet).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Whitearmor - waterdrops.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Whitearmor - Say My Name.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/= Production Credits/Uli K - Best Friend.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/= Production Credits/Seph HD - money bags.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Production Credits/Seph HD - no sound.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/= Production Credits/Adamn Killa - Check A Bag.mp3
 /mnt/synology/media/music/sbe-gtb-dg/(2020) Whitearmor Discography/Whitearmor - Whitearmor Discography - 01 Downer.mp3
 /mnt/synology/media/music/sbe-gtb-dg/(2020) Whitearmor Discography/Whitearmor - Whitearmor Discography - 02 UU.mp3
 /mnt/synology/media/music/sbe-gtb-dg/(2020) Whitearmor Discography/Whitearmor - Whitearmor Discography - 03 One Wish.mp3
@@ -26559,6 +26829,7 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Weedeater - (2007) - God Lu
 /mnt/synology/media/music/sbe-gtb-dg/(2020) Whitearmor Discography/Whitearmor - Whitearmor Discography - 24 Yung Sherman x Tokyo Hands x White Armor w- DJ Hentai & ECCO2k1.mp3
 /mnt/synology/media/music/sbe-gtb-dg/(2020) Whitearmor Discography/Whitearmor - Whitearmor Discography - 25 WHITE ARMOR APRIL.mp3
 /mnt/synology/media/music/sbe-gtb-dg/(2020) Whitearmor Discography/Whitearmor - Whitearmor Discography - 26 Judgement Day Megamix.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Whitearmor, Yung Sherman - hahaha i love u.mp3
 /mnt/synology/media/music/orpheus.network/flac/White Heaven - Out (1994) [FLAC]/01 - Blind Promise.flac
 /mnt/synology/media/music/orpheus.network/flac/White Heaven - Out (1994) [FLAC]/02 - Dull Hands.flac
 /mnt/synology/media/music/orpheus.network/flac/White Heaven - Out (1994) [FLAC]/03 - Fallin' Stars End.flac
@@ -26572,6 +26843,8 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Weedeater - (2007) - God Lu
 /mnt/synology/media/music/orpheus.network/flac/White Noise - An Electric Storm (1969) - 1992 UK & Europe Release FLAC/05 Your Hidden Dreams.flac
 /mnt/synology/media/music/orpheus.network/flac/White Noise - An Electric Storm (1969) - 1992 UK & Europe Release FLAC/06 The Visitations.flac
 /mnt/synology/media/music/orpheus.network/flac/White Noise - An Electric Storm (1969) - 1992 UK & Europe Release FLAC/07 The Black Mass- An Electric Storm In Hell.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Cuts/Ecco2k - 7th Crush (Demo).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Why Be, Ecco2k, Felix Lee - YB_S LESS PERFECT CONDITION.flac
 /mnt/synology/media/music/orpheus.network/flac/Widowdusk - I Know Where We're At, Not Where We're Going [FLAC]/01 Knots.flac
 /mnt/synology/media/music/orpheus.network/flac/Widowdusk - I Know Where We're At, Not Where We're Going [FLAC]/02 I Don't Need You, or a Drink.flac
 /mnt/synology/media/music/orpheus.network/flac/Widowdusk - I Know Where We're At, Not Where We're Going [FLAC]/03 Oct. 26.flac
@@ -26602,6 +26875,8 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Wilco - 2002 - Yankee Hotel
 /mnt/synology/media/music/orpheus.network/flac/Wilco - Sky Blue Sky [Nonesuch Records]/10 - Walken.flac
 /mnt/synology/media/music/orpheus.network/flac/Wilco - Sky Blue Sky [Nonesuch Records]/11 - What Light.flac
 /mnt/synology/media/music/orpheus.network/flac/Wilco - Sky Blue Sky [Nonesuch Records]/12 - On and on and On.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/= Production Credits/WILDCAT - ICEPURRP.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/= Production Credits/WILDCAT - ICEPURRP (Music Video Version).mp3
 /mnt/synology/media/music/redacted.ch/flac/Windir - 1999 - Arntor {Head Not Found HNF 048} FLAC/01 - Byrjing.flac
 /mnt/synology/media/music/redacted.ch/flac/Windir - 1999 - Arntor {Head Not Found HNF 048} FLAC/02 - Arntor, ein Windir.flac
 /mnt/synology/media/music/redacted.ch/flac/Windir - 1999 - Arntor {Head Not Found HNF 048} FLAC/03 - Kong Hydnes Haug.flac
@@ -26719,6 +26994,7 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Wolf Alice- My Love Is Cool
 /mnt/synology/media/music/orpheus.network/flac/Women - Public Strain (2010)(Jagjaguwar, JAG152)[CD FLAC]/09 Locust Valley.flac
 /mnt/synology/media/music/orpheus.network/flac/Women - Public Strain (2010)(Jagjaguwar, JAG152)[CD FLAC]/10 Venice Lockjaw.flac
 /mnt/synology/media/music/orpheus.network/flac/Women - Public Strain (2010)(Jagjaguwar, JAG152)[CD FLAC]/11 Eyesore.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Wondha Mountain, Bladee - Cant Judge Others Love.m4a
 /mnt/synology/media/music/orpheus.network/flac/Worry Club - All Frogs Go to Heaven (2023) [WEB - FLAC]/01 - Worry Club - Nothin.flac
 /mnt/synology/media/music/orpheus.network/flac/Worry Club - All Frogs Go to Heaven (2023) [WEB - FLAC]/02 - Worry Club - The Pact.flac
 /mnt/synology/media/music/orpheus.network/flac/Worry Club - All Frogs Go to Heaven (2023) [WEB - FLAC]/03 - Worry Club - sucker punch.flac
@@ -26801,6 +27077,7 @@ cue:///mnt/synology/media/music/orpheus.network/flac/Wolf Alice- My Love Is Cool
 /mnt/synology/media/music/orpheus.network/flac/VA - Insound Tour Support (2003) [FLAC]/06 Little Panda McElroy.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/VA - Insound Tour Support (2003) [FLAC]/Insound Tour Support.cue/8
 /mnt/synology/media/music/orpheus.network/flac/VA - Insound Tour Support (2003) [FLAC]/08 Nieces Pieces.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/yaid, Bladee, Ecco2k - Vanilla Sky STAY Remix.mp3
 /mnt/synology/media/music/orpheus.network/flac/Yaphet Kotto - 1999 - The Killer Was In The Government Blankets/01 - First Meetings Agreement.flac
 /mnt/synology/media/music/orpheus.network/flac/Yaphet Kotto - 1999 - The Killer Was In The Government Blankets/02 - Torn Pictures.flac
 /mnt/synology/media/music/orpheus.network/flac/Yaphet Kotto - 1999 - The Killer Was In The Government Blankets/03 - Reserved For Speaker.flac
@@ -26840,6 +27117,9 @@ cue:///mnt/synology/media/music/orpheus.network/flac/VA - Insound Tour Support (
 /mnt/synology/media/music/orpheus.network/flac/Yellow Swans - Going Places (2010) [FLAC]/04 - Limited Space.flac
 /mnt/synology/media/music/orpheus.network/flac/Yellow Swans - Going Places (2010) [FLAC]/05 - New Life.flac
 /mnt/synology/media/music/orpheus.network/flac/Yellow Swans - Going Places (2010) [FLAC]/06 - Going Places.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/= Production Credits/Yemi - Buketter Freestyle.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yemi, Gud - Gud+Yemi_Million.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yemi, Gud - Konsol [Gud Steady Slowdown].mp3
 /mnt/synology/media/music/orpheus.network/flac/Yes - Fragile (1971) [FLAC] {UDCD 766}/01 - Roundabout.flac
 /mnt/synology/media/music/orpheus.network/flac/Yes - Fragile (1971) [FLAC] {UDCD 766}/02 - Cans and Brahms (Extracts From Brahms' 4th Symphony in E minor, Third Movement).flac
 /mnt/synology/media/music/orpheus.network/flac/Yes - Fragile (1971) [FLAC] {UDCD 766}/03 - We Have Heaven.flac
@@ -26858,6 +27138,7 @@ cue:///mnt/synology/media/music/orpheus.network/flac/VA - Insound Tour Support (
 /mnt/synology/media/music/orpheus.network/flac/Yes - [1972] Close to the Edge (1988 Atlantic SD 19133-2) [FLAC]/01 - Close to the Edge- The Solid Time of Change,Total Mass Retain,I Get Up I Get Down,Seasons of Man.flac
 /mnt/synology/media/music/orpheus.network/flac/Yes - [1972] Close to the Edge (1988 Atlantic SD 19133-2) [FLAC]/02 - And You and I- Cord of Life,Eclipse,The Preacher the Teacher,Apocalypse.flac
 /mnt/synology/media/music/orpheus.network/flac/Yes - [1972] Close to the Edge (1988 Atlantic SD 19133-2) [FLAC]/03 - Siberian Khatru.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Cuts/Thaiboy Digital - Tung Tae Wun Nun.mp3
 /mnt/synology/media/music/orpheus.network/flac/Yoko Ono - 1971 - Fly [FLAC 2CD]/Disc 1/01 - Midsummer New York.flac
 /mnt/synology/media/music/orpheus.network/flac/Yoko Ono - 1971 - Fly [FLAC 2CD]/Disc 1/02 - Mindtrain.flac
 /mnt/synology/media/music/orpheus.network/flac/Yoko Ono - 1971 - Fly [FLAC 2CD]/Disc 1/03 - Mind Holes.flac
@@ -26986,226 +27267,184 @@ cue:///mnt/synology/media/music/orpheus.network/flac/VA - Insound Tour Support (
 /mnt/synology/media/music/redacted.ch/flac/Yume Bitsu - Yume Bitsu (1999) [BING-020]/04. Yume Bitsu - Truth.flac
 /mnt/synology/media/music/redacted.ch/flac/Yume Bitsu - Yume Bitsu (1999) [BING-020]/05. Yume Bitsu - Surface II.flac
 /mnt/synology/media/music/redacted.ch/flac/Yume Bitsu - Yume Bitsu (1999) [BING-020]/06. Yume Bitsu - The Frigid, Frigid, Frigid Body of Dr T.J. Eckleberg.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/= Production Credits/Yung Dialysis - Cup and ice.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung God, Bladee - Never Comin Down.mp3
 /mnt/synology/media/music/redacted.ch/flac/Yung Lean - First Class/01 First Class.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - First Class/01 First Class.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Lean - DAMN GUD SHAWTY.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Lean - narashino.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Lean - Summer 98_.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Lean - uptown wok.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Lean - YUNG LEAN N_ SLIM JE$U$.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Lean - 3D SPACESHIP.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Lean - BENTLEY YUNG GUD REMIX {STRICTLY 4 CRUISIN}.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Cuts/Yung Lean - bitch is cum n go.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Lean - DIE WITH ME.mp3
 /mnt/synology/media/music/redacted.ch/flac/Yung Lean - Kyoto (2013) [WEB FLAC]/01 Kyoto.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Kyoto (2013) [WEB FLAC]/01 Kyoto.flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean -Lavender [WEB] FLAC/01 - Oreomilkshake (Prod. Yung Gud).flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean -Lavender [WEB] FLAC/01 - Oreomilkshake (Prod. Yung Gud).flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean -Lavender [WEB] FLAC/02 - Ginseng Strip 2002 (Prod. Yung Gud).flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean -Lavender [WEB] FLAC/02 - Ginseng Strip 2002 (Prod. Yung Gud).flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean -Lavender [WEB] FLAC/03 - Greygoose (Prod. Yung Sherman).flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean -Lavender [WEB] FLAC/03 - Greygoose (Prod. Yung Sherman).flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Lean - Lucifer Love.mp3
 /mnt/synology/media/music/redacted.ch/flac/Yung Lean - Marble Phone (2013) [WEB Not on Label] {LM}/01. Marble Phone (feat. Kreayshawn).flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Marble Phone (2013) [WEB Not on Label] {LM}/01. Marble Phone (feat. Kreayshawn).flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Lean - Nekobasu.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Lean - Plastic Boy (ft. Bladee).mp3
 /mnt/synology/media/music/redacted.ch/flac/Yung Lean - Plastic G-Shock [2013] [WEB FLAC]/01. Plastic G-Shock.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Plastic G-Shock [2013] [WEB FLAC]/01. Plastic G-Shock.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Lean - Plastic G-Shock.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Lean - Racks On Racks (ft. Thaiboy Digital).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Lean - Stevie Nicks.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Lean - THE 5TH ELEMENT {CLUB EDIT}.mp3
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Unknown Death 2002 (2013) [FLAC]/01 Welcome 2 Unknown Death [Prod. Yung Sherman].flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Unknown Death 2002 (2013) [FLAC]/01 Welcome 2 Unknown Death [Prod. Yung Sherman].flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Unknown Death 2002 (2013) [FLAC]/02 Nitevision (feat. Bladee) [Prod. Yung Gud].flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Unknown Death 2002 (2013) [FLAC]/02 Nitevision (feat. Bladee) [Prod. Yung Gud].flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Unknown Death 2002 (2013) [FLAC]/03 Oceans 2001 [Prod. Gregar].flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Unknown Death 2002 (2013) [FLAC]/03 Oceans 2001 [Prod. Gregar].flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Unknown Death 2002 (2013) [FLAC]/04 Gatorade [Prod. Yung Gud].flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Unknown Death 2002 (2013) [FLAC]/04 Gatorade [Prod. Yung Gud].flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Unknown Death 2002 (2013) [FLAC]/05 Hurt [Prod. Suicideyear].flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Unknown Death 2002 (2013) [FLAC]/05 Hurt [Prod. Suicideyear].flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Unknown Death 2002 (2013) [FLAC]/06 Lightsaber ,, Saviour [Prod. Yung Sherman].flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Unknown Death 2002 (2013) [FLAC]/06 Lightsaber ,, Saviour [Prod. Yung Sherman].flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Unknown Death 2002 (2013) [FLAC]/07 Princess Daisy [Prod. Yung Gud].flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Unknown Death 2002 (2013) [FLAC]/07 Princess Daisy [Prod. Yung Gud].flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Unknown Death 2002 (2013) [FLAC]/08 Lemonade (feat. Baba Stiltz) [Prod. Yung Sherman].flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Unknown Death 2002 (2013) [FLAC]/08 Lemonade (feat. Baba Stiltz) [Prod. Yung Sherman].flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Unknown Death 2002 (2013) [FLAC]/09 Emails [Prod. White Armor].flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Unknown Death 2002 (2013) [FLAC]/09 Emails [Prod. White Armor].flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Unknown Death 2002 (2013) [FLAC]/10 Deathstar ,, Getting Benjamins [Prod. White Armor].flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Unknown Death 2002 (2013) [FLAC]/10 Deathstar ,, Getting Benjamins [Prod. White Armor].flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Unknown Death 2002 (2013) [FLAC]/11 Heal You ,, Bladerunner (feat. Bladee) [Prod. White Armor].flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Unknown Death 2002 (2013) [FLAC]/11 Heal You ,, Bladerunner (feat. Bladee) [Prod. White Armor].flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Unknown Death 2002 (2013) [FLAC]/12 Solarflare [Prod. Friendzone].flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Unknown Death 2002 (2013) [FLAC]/12 Solarflare [Prod. Friendzone].flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Lean, Baba Stiltz - King of the Darkness.mp3
 /mnt/synology/media/music/redacted.ch/flac/Yung Lean - Motorola (Single) (2014) [WEB FLAC]/01. Motorola.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Motorola (Single) (2014) [WEB FLAC]/01. Motorola.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/= Alternative Versions/Yung Lean - Motorola (Music Video Version).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Yung Lean - Orroz.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Lean, Baba Stiltz - re-charge.mp3
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Unknown Memory (2014) [FLAC]/01 Blommor (Intro).flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Unknown Memory (2014) [FLAC]/01 Blommor (Intro).flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Unknown Memory (2014) [FLAC]/02 Blinded.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Unknown Memory (2014) [FLAC]/02 Blinded.flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Unknown Memory (2014) [FLAC]/03 Sunrise Angel.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Unknown Memory (2014) [FLAC]/03 Sunrise Angel.flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Unknown Memory (2014) [FLAC]/04 Yoshi City.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Unknown Memory (2014) [FLAC]/04 Yoshi City.flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Unknown Memory (2014) [FLAC]/05 Ice Cold Smoke.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Unknown Memory (2014) [FLAC]/05 Ice Cold Smoke.flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Unknown Memory (2014) [FLAC]/06 Dog Walk (Intermission).flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Unknown Memory (2014) [FLAC]/06 Dog Walk (Intermission).flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Unknown Memory (2014) [FLAC]/07 Don't Go.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Unknown Memory (2014) [FLAC]/07 Don't Go.flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Unknown Memory (2014) [FLAC]/08 Ghosttown (Featuring Travi$ Scott ).flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Unknown Memory (2014) [FLAC]/08 Ghosttown (Featuring Travi$ Scott ).flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Unknown Memory (2014) [FLAC]/09 Monster.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Unknown Memory (2014) [FLAC]/09 Monster.flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Unknown Memory (2014) [FLAC]/10 Volt.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Unknown Memory (2014) [FLAC]/10 Volt.flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Unknown Memory (2014) [FLAC]/11 Leanworld.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Unknown Memory (2014) [FLAC]/11 Leanworld.flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Unknown Memory (2014) [FLAC]/12 Sandman.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Unknown Memory (2014) [FLAC]/12 Sandman.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/Yung Lean - Unknown Memory (2014) [FLAC]/Unknown Memory.cue/13
-cue:///mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Unknown Memory (2014) [FLAC]/Unknown Memory.cue/13
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Unknown Memory (2014) [FLAC]/13 Helt Ensam (Outro).flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Unknown Memory (2014) [FLAC]/13 Helt Ensam (Outro).flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Lean - Visions Of U.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Snippets/Yung Lean - Yoshi City (Demo) (Snippet).mp3
 /mnt/synology/media/music/redacted.ch/flac/Yung Lean - Crystal Clear Ice (2015) [WEB FLAC]/05 - Crystal Clear Ice.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Crystal Clear Ice (2015) [WEB FLAC]/05 - Crystal Clear Ice.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Lean - BATHTUB SUICIDE MASHUPS.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Lean - Roses.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Cuts/Yung Lean - Suicide.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Lean - T A I P E I.mp3
 /mnt/synology/media/music/redacted.ch/flac/Yung Lean -TOKYO DRIFT - Single [2015] [MP3 320]/01 TOKYO DRIFT [Prod. By Chaki Zulu].mp3
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean -TOKYO DRIFT - Single [2015] [MP3 320]/01 TOKYO DRIFT [Prod. By Chaki Zulu].mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Lean - Wanna Smoke (ft. Ballout).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/Yung Lean - Back at It (Demo).mp3
 /mnt/synology/media/music/redacted.ch/flac/Yung Lean - 2016 - Frost God [FLAC]/01 - Back At It.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - 2016 - Frost God [FLAC]/01 - Back At It.flac
 /mnt/synology/media/music/redacted.ch/flac/Yung Lean - 2016 - Frost God [FLAC]/02 - Hop Out (feat. Luckaleannn).flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - 2016 - Frost God [FLAC]/02 - Hop Out (feat. Luckaleannn).flac
 /mnt/synology/media/music/redacted.ch/flac/Yung Lean - 2016 - Frost God [FLAC]/03 - Hennessy & Sailor Moon (feat. Bladee).flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - 2016 - Frost God [FLAC]/03 - Hennessy & Sailor Moon (feat. Bladee).flac
 /mnt/synology/media/music/redacted.ch/flac/Yung Lean - 2016 - Frost God [FLAC]/04 - Cashin (feat. Adamn Killa).flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - 2016 - Frost God [FLAC]/04 - Cashin (feat. Adamn Killa).flac
 /mnt/synology/media/music/redacted.ch/flac/Yung Lean - 2016 - Frost God [FLAC]/05 - Crystal City (feat. A$AP Ferg).flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - 2016 - Frost God [FLAC]/05 - Crystal City (feat. A$AP Ferg).flac
 /mnt/synology/media/music/redacted.ch/flac/Yung Lean - 2016 - Frost God [FLAC]/06 - Kirby.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - 2016 - Frost God [FLAC]/06 - Kirby.flac
 /mnt/synology/media/music/redacted.ch/flac/Yung Lean - 2016 - Frost God [FLAC]/07 - Head 2 Toe (feat. Bladee).flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - 2016 - Frost God [FLAC]/07 - Head 2 Toe (feat. Bladee).flac
 /mnt/synology/media/music/redacted.ch/flac/Yung Lean - 2016 - Frost God [FLAC]/08 - Get It Back.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - 2016 - Frost God [FLAC]/08 - Get It Back.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Lean - Ghostrider.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Live/= Alternative Versions/Yung Lean - Greygoose (Gud Edit) - live.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Live/Yung Lean - Greygoose (Gud Edit) - live.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Yung Lean - Money Man.m4a
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/Yung Lean - Skyteam Elite (Push Lost Weekend) (Demo).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Lean - THE LOST VERSE IT G MA (잊지마).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Yung Lean, Vattenrum - ULTRA/Yung Lean - Track 1.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Yung Lean, Vattenrum - ULTRA/Yung Lean - Track 2.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Yung Lean, Vattenrum - ULTRA/Yung Lean - Track 4.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Snippets/Yung Lean - Untitled 1 (Snippet).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Lean - Warlord (This Record is Dedicated to the Memory of Barron Alexander Machat (6.25.1987 - 4.8.2015))/Yung Lean - Warlord (Immortal) (Demo).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Lean - Warlord (This Record is Dedicated to the Memory of Barron Alexander Machat (6.25.1987 - 4.8.2015))/Yung Lean - God Only Knows (Demo).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Lean - Warlord (This Record is Dedicated to the Memory of Barron Alexander Machat (6.25.1987 - 4.8.2015))/Yung Lean - Crystal Clear Ice (Demo).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Lean - Warlord (This Record is Dedicated to the Memory of Barron Alexander Machat (6.25.1987 - 4.8.2015))/Yung Lean - Eye Contact (Demo).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Lean - Warlord (This Record is Dedicated to the Memory of Barron Alexander Machat (6.25.1987 - 4.8.2015))/Yung Lean, Bladee - Creepin (Demo).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Lean - Warlord (This Record is Dedicated to the Memory of Barron Alexander Machat (6.25.1987 - 4.8.2015))/Yung Lean - More Stacks (Demo).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Lean - Warlord (This Record is Dedicated to the Memory of Barron Alexander Machat (6.25.1987 - 4.8.2015))/Yung Lean, Bladee - Hokus Pokus (Hocus Pocus) (Demo).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Lean - Warlord (This Record is Dedicated to the Memory of Barron Alexander Machat (6.25.1987 - 4.8.2015))/Yung Lean - Buzz.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Lean - Warlord (This Record is Dedicated to the Memory of Barron Alexander Machat (6.25.1987 - 4.8.2015))/Yung Lean - Stars Align (Demo).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Lean - Warlord (This Record is Dedicated to the Memory of Barron Alexander Machat (6.25.1987 - 4.8.2015))/Yung Lean, Bladee - Energy.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Lean - Warlord (This Record is Dedicated to the Memory of Barron Alexander Machat (6.25.1987 - 4.8.2015))/Yung Lean, Bladee - Highway Patrol (Demo).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Lean - Warlord (This Record is Dedicated to the Memory of Barron Alexander Machat (6.25.1987 - 4.8.2015))/Yung Lean - Forest Fire (Stay Down) (Demo).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Lean - Warlord (This Record is Dedicated to the Memory of Barron Alexander Machat (6.25.1987 - 4.8.2015))/Yung Lean - Miami (Miami Ultras) (Demo).mp3
 /mnt/synology/media/music/redacted.ch/flac/Yung Lean - Hunting My Own Skin (2017) [WEB FLAC]/01. Hunting My Own Skin.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Hunting My Own Skin (2017) [WEB FLAC]/01. Hunting My Own Skin.flac
 /mnt/synology/media/music/redacted.ch/flac/Yung Lean - Skimask (2017) [WEB FLAC]/01. Skimask.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Skimask (2017) [WEB FLAC]/01. Skimask.flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Stranger (2017) FLAC/01 Yung Lean - Muddy Sea.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Stranger (2017) FLAC/01 Yung Lean - Muddy Sea.flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Stranger (2017) FLAC/02 Yung Lean - Red Bottom Sky.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Stranger (2017) FLAC/02 Yung Lean - Red Bottom Sky.flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Stranger (2017) FLAC/03 Yung Lean - Skimask.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Stranger (2017) FLAC/03 Yung Lean - Skimask.flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Stranger (2017) FLAC/04 Yung Lean - Silver Arrows.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Stranger (2017) FLAC/04 Yung Lean - Silver Arrows.flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Stranger (2017) FLAC/05 Yung Lean - Metallic Intuition.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Stranger (2017) FLAC/05 Yung Lean - Metallic Intuition.flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Stranger (2017) FLAC/06 Yung Lean - Push - Lost Weekend.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Stranger (2017) FLAC/06 Yung Lean - Push - Lost Weekend.flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Stranger (2017) FLAC/07 Yung Lean - Salute - Pacman.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Stranger (2017) FLAC/07 Yung Lean - Salute - Pacman.flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Stranger (2017) FLAC/08 Yung Lean - Drop It - Scooter.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Stranger (2017) FLAC/08 Yung Lean - Drop It - Scooter.flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Stranger (2017) FLAC/09 Yung Lean - Hunting My Own Skin.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Stranger (2017) FLAC/09 Yung Lean - Hunting My Own Skin.flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Stranger (2017) FLAC/10 Yung Lean - Iceman.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Stranger (2017) FLAC/10 Yung Lean - Iceman.flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Stranger (2017) FLAC/11 Yung Lean - Snakeskin - Bullets.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Stranger (2017) FLAC/11 Yung Lean - Snakeskin - Bullets.flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Stranger (2017) FLAC/12 Yung Lean - Fallen Demon.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Stranger (2017) FLAC/12 Yung Lean - Fallen Demon.flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Stranger (2017) FLAC/13 Yung Lean - Agony.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Stranger (2017) FLAC/13 Yung Lean - Agony.flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Stranger (2017) FLAC/14 Yung Lean - Yellowman.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Stranger (2017) FLAC/14 Yung Lean - Yellowman.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Lean - vendetta.mp3
 /mnt/synology/media/music/redacted.ch/flac/Yung Lean & ThaiBoy Digital - King Cobra (2018) [WEB FLAC]/01. King Cobra.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean & ThaiBoy Digital - King Cobra (2018) [WEB FLAC]/01. King Cobra.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Lean - Kyoto bw Motorola/Yung Lean - Motorola (Vinyl Version).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Lean - Kyoto bw Motorola/Yung Lean - Plastic Boy (ft. Bladee) (Vinyl Version).mp3
 /mnt/synology/media/music/redacted.ch/flac/Yung Lean - Poison Ivy (2018) [WEB FLAC]/01 - Happy Feet.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Poison Ivy (2018) [WEB FLAC]/01 - Happy Feet.flac
 /mnt/synology/media/music/redacted.ch/flac/Yung Lean - Poison Ivy (2018) [WEB FLAC]/02 - Friday The 13th.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Poison Ivy (2018) [WEB FLAC]/02 - Friday The 13th.flac
 /mnt/synology/media/music/redacted.ch/flac/Yung Lean - Poison Ivy (2018) [WEB FLAC]/03 - French Hotel.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Poison Ivy (2018) [WEB FLAC]/03 - French Hotel.flac
 /mnt/synology/media/music/redacted.ch/flac/Yung Lean - Poison Ivy (2018) [WEB FLAC]/04 - Silicon Wings.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Poison Ivy (2018) [WEB FLAC]/04 - Silicon Wings.flac
 /mnt/synology/media/music/redacted.ch/flac/Yung Lean - Poison Ivy (2018) [WEB FLAC]/05 - Ropeman.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Poison Ivy (2018) [WEB FLAC]/05 - Ropeman.flac
 /mnt/synology/media/music/redacted.ch/flac/Yung Lean - Poison Ivy (2018) [WEB FLAC]/06 - Trashy.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Poison Ivy (2018) [WEB FLAC]/06 - Trashy.flac
 /mnt/synology/media/music/redacted.ch/flac/Yung Lean - Poison Ivy (2018) [WEB FLAC]/07 - Sauron.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Poison Ivy (2018) [WEB FLAC]/07 - Sauron.flac
 /mnt/synology/media/music/redacted.ch/flac/Yung Lean - Poison Ivy (2018) [WEB FLAC]/08 - Bender++Girlfriend.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Poison Ivy (2018) [WEB FLAC]/08 - Bender++Girlfriend.flac
 /mnt/synology/media/music/redacted.ch/flac/Yung Lean & Lil Dude - Like Me (2018) [WEB FLAC]/01 Like Me.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean & Lil Dude - Like Me (2018) [WEB FLAC]/01 Like Me.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Poison Ivy (2018) FLAC/01 Yung Lean - happy feet.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Poison Ivy (2018) FLAC/02 Yung Lean - friday the 13th.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Poison Ivy (2018) FLAC/03 Yung Lean - french hotel.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Poison Ivy (2018) FLAC/04 Yung Lean - silicon wings.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Poison Ivy (2018) FLAC/05 Yung Lean - ropeman.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Poison Ivy (2018) FLAC/06 Yung Lean - trashy.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Poison Ivy (2018) FLAC/07 Yung Lean - sauron.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Poison Ivy (2018) FLAC/08 Yung Lean - bender++girlfriend.flac
 /mnt/synology/media/music/redacted.ch/flac/Yung Lean - Blue Plastic (2019) [WEB FLAC]/01 Blue Plastic.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Blue Plastic (2019) [WEB FLAC]/01 Blue Plastic.flac
 /mnt/synology/media/music/redacted.ch/flac/Yung Lean - Creep Creeps (2019) [WEB FLAC]/01 Creep Creeps.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Creep Creeps (2019) [WEB FLAC]/01 Creep Creeps.flac
 /mnt/synology/media/music/redacted.ch/flac/Yung Lean - Total Eclipse (2019) [WEB FLAC]/01 - 2 Cups.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Total Eclipse (2019) [WEB FLAC]/01 - 2 Cups.flac
 /mnt/synology/media/music/redacted.ch/flac/Yung Lean - Total Eclipse (2019) [WEB FLAC]/02 - Smirnoff Ice.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Total Eclipse (2019) [WEB FLAC]/02 - Smirnoff Ice.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Snippets/Yung Lean - Bliss (Demo) (Snippet 1).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Snippets/Yung Lean - Bliss (Demo) (Snippet 2).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Yung Lean - Gladi8r.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Cuts/Yung Lean - Heart in a Box.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Snippets/Yung Lean - Running Away (Snippet).mp3
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Starz (Limited Edition) (2020) [FLAC CD] {Year0001, YR0103CD}/01 - My Agenda.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Starz (Limited Edition) (2020) [FLAC CD] {Year0001, YR0103CD}/01 - My Agenda.flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Starz (Limited Edition) (2020) [FLAC CD] {Year0001, YR0103CD}/02 - Yayo.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Starz (Limited Edition) (2020) [FLAC CD] {Year0001, YR0103CD}/02 - Yayo.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Lean - Yayo (ft. Playboi Carti).flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Starz (Limited Edition) (2020) [FLAC CD] {Year0001, YR0103CD}/03 - Boylife In EU.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Starz (Limited Edition) (2020) [FLAC CD] {Year0001, YR0103CD}/03 - Boylife In EU.flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Starz (Limited Edition) (2020) [FLAC CD] {Year0001, YR0103CD}/04 - Violence.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Starz (Limited Edition) (2020) [FLAC CD] {Year0001, YR0103CD}/04 - Violence.flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Starz (Limited Edition) (2020) [FLAC CD] {Year0001, YR0103CD}/05 - Outta My Head.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Starz (Limited Edition) (2020) [FLAC CD] {Year0001, YR0103CD}/05 - Outta My Head.flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Starz (Limited Edition) (2020) [FLAC CD] {Year0001, YR0103CD}/06 - Dance In The Dark.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Starz (Limited Edition) (2020) [FLAC CD] {Year0001, YR0103CD}/06 - Dance In The Dark.flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Starz (Limited Edition) (2020) [FLAC CD] {Year0001, YR0103CD}/07 - Acid At 7,11.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Starz (Limited Edition) (2020) [FLAC CD] {Year0001, YR0103CD}/07 - Acid At 7,11.flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Starz (Limited Edition) (2020) [FLAC CD] {Year0001, YR0103CD}/08 - Starz.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Starz (Limited Edition) (2020) [FLAC CD] {Year0001, YR0103CD}/08 - Starz.flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Starz (Limited Edition) (2020) [FLAC CD] {Year0001, YR0103CD}/09 - Hellraiser.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Starz (Limited Edition) (2020) [FLAC CD] {Year0001, YR0103CD}/09 - Hellraiser.flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Starz (Limited Edition) (2020) [FLAC CD] {Year0001, YR0103CD}/10 - Butterfly Paralyzed.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Starz (Limited Edition) (2020) [FLAC CD] {Year0001, YR0103CD}/10 - Butterfly Paralyzed.flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Starz (Limited Edition) (2020) [FLAC CD] {Year0001, YR0103CD}/11 - Dogboy.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Starz (Limited Edition) (2020) [FLAC CD] {Year0001, YR0103CD}/11 - Dogboy.flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Starz (Limited Edition) (2020) [FLAC CD] {Year0001, YR0103CD}/12 - Iceheart.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Starz (Limited Edition) (2020) [FLAC CD] {Year0001, YR0103CD}/12 - Iceheart.flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Starz (Limited Edition) (2020) [FLAC CD] {Year0001, YR0103CD}/13 - Pikachu.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Starz (Limited Edition) (2020) [FLAC CD] {Year0001, YR0103CD}/13 - Pikachu.flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Starz (Limited Edition) (2020) [FLAC CD] {Year0001, YR0103CD}/14 - Low.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Starz (Limited Edition) (2020) [FLAC CD] {Year0001, YR0103CD}/14 - Low.flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Starz (Limited Edition) (2020) [FLAC CD] {Year0001, YR0103CD}/15 - Sunset Sunrise.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Starz (Limited Edition) (2020) [FLAC CD] {Year0001, YR0103CD}/15 - Sunset Sunrise.flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Starz (Limited Edition) (2020) [FLAC CD] {Year0001, YR0103CD}/16 - Put Me In A Spell.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Starz (Limited Edition) (2020) [FLAC CD] {Year0001, YR0103CD}/16 - Put Me In A Spell.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Cuts/Yung Lean - Sunflower.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Snippets/Yung Lean - Untitled 2 (Snippet).mp3
 /mnt/synology/media/music/redacted.ch/flac/Yung Lean - Chandelier (2021) [WEB FLAC]/1. Chandelier.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Chandelier (2021) [WEB FLAC]/1. Chandelier.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Yung Lean - Powers.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Snippets/Yung Lean - Might Not B (Demo) (Snippet).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Snippets/Yung Lean - Pablo (Demo v23) (Snippet 1).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Snippets/Yung Lean - Pablo (Demo v23) (Snippet 2).mp3
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Stardust (2022) [CD FLAC]/01. Bliss.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Stardust (2022) [CD FLAC]/01. Bliss.flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Stardust (2022) [CD FLAC]/02. Trip.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Stardust (2022) [CD FLAC]/02. Trip.flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Stardust (2022) [CD FLAC]/03. Gold.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Stardust (2022) [CD FLAC]/03. Gold.flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Stardust (2022) [CD FLAC]/04. Starz2theRainbow (feat. Thaiboy Digital).flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Stardust (2022) [CD FLAC]/04. Starz2theRainbow (feat. Thaiboy Digital).flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Stardust (2022) [CD FLAC]/05. All the things.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Stardust (2022) [CD FLAC]/05. All the things.flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Stardust (2022) [CD FLAC]/06. Lips.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Stardust (2022) [CD FLAC]/06. Lips.flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Stardust (2022) [CD FLAC]/07. Paradise Lost (feat. Ant Wan).flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Stardust (2022) [CD FLAC]/07. Paradise Lost (feat. Ant Wan).flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Stardust (2022) [CD FLAC]/08. SummerTime Blood (feat. Bladee & Ecco2k).flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Stardust (2022) [CD FLAC]/08. SummerTime Blood (feat. Bladee & Ecco2k).flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Stardust (2022) [CD FLAC]/09. Nobody else.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Stardust (2022) [CD FLAC]/09. Nobody else.flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Stardust (2022) [CD FLAC]/10. Waterfall.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Stardust (2022) [CD FLAC]/10. Waterfall.flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Stardust (2022) [CD FLAC]/11. Letting it all go.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Stardust (2022) [CD FLAC]/11. Letting it all go.flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Stardust (2022) [CD FLAC]/12. Visions (outro).flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Stardust (2022) [CD FLAC]/12. Visions (outro).flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/Yung Lean - Stop Looking For This (Demo v3).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Snippets/Yung Lean - Untitled 3 (Snippet).mp3
 /mnt/synology/media/music/redacted.ch/flac/Yung Lean - Trip (2022) [WEB FLAC]/1. Trip.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Trip (2022) [WEB FLAC]/1. Trip.flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Lazy Summer Day_Chinese Restaurant (2022) [WEB FLAC]/01 - Lazy Summer Day.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Lazy Summer Day_Chinese Restaurant (2022) [WEB FLAC]/01 - Lazy Summer Day.flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean - Lazy Summer Day_Chinese Restaurant (2022) [WEB FLAC]/02 - Chinese Restaurant.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Lazy Summer Day_Chinese Restaurant (2022) [WEB FLAC]/02 - Chinese Restaurant.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Snippets/Yung Lean - Sci Fi WiFi (Sci Fi Demo v2) (Snippet).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Snippets/Yung Lean - Untitled 4 (Snippet).mp3
 /mnt/synology/media/music/orpheus.network/flac/[YR0012CDDLX] Yung Lean - Warlord Deluxe [CD FLAC]/01 - Immortal.flac
 /mnt/synology/media/music/orpheus.network/flac/[YR0012CDDLX] Yung Lean - Warlord Deluxe [CD FLAC]/02 - Highway Patrol.flac
 /mnt/synology/media/music/orpheus.network/flac/[YR0012CDDLX] Yung Lean - Warlord Deluxe [CD FLAC]/03 - Fantasy.flac
@@ -27226,64 +27465,90 @@ cue:///mnt/synology/media/music/sbe-gtb-dg/Yung Lean - Unknown Memory (2014) [FL
 /mnt/synology/media/music/orpheus.network/flac/[YR0012CDDLX] Yung Lean - Warlord Deluxe [CD FLAC]/18 - Stars Align.flac
 cue:///mnt/synology/media/music/orpheus.network/flac/[YR0012CDDLX] Yung Lean - Warlord Deluxe [CD FLAC]/Warlord.cue/19
 /mnt/synology/media/music/orpheus.network/flac/[YR0012CDDLX] Yung Lean - Warlord Deluxe [CD FLAC]/19 - Shine.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Yung Lean - Cancer Life.mp3
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean — Jonatan (2025) [WEB-FLAC]/01. Jonatan Intro.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean — Jonatan (2025) [WEB-FLAC]/01. Jonatan Intro.flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean — Jonatan (2025) [WEB-FLAC]/02. Might Not B.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean — Jonatan (2025) [WEB-FLAC]/02. Might Not B.flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean — Jonatan (2025) [WEB-FLAC]/03. Forever Yung.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean — Jonatan (2025) [WEB-FLAC]/03. Forever Yung.flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean — Jonatan (2025) [WEB-FLAC]/04. Horses.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean — Jonatan (2025) [WEB-FLAC]/04. Horses.flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean — Jonatan (2025) [WEB-FLAC]/05. Paranoid Paparazzi.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean — Jonatan (2025) [WEB-FLAC]/05. Paranoid Paparazzi.flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean — Jonatan (2025) [WEB-FLAC]/06. Babyface Maniacs.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean — Jonatan (2025) [WEB-FLAC]/06. Babyface Maniacs.flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean — Jonatan (2025) [WEB-FLAC]/07. I'm Your Dirt, I'm Your Love.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean — Jonatan (2025) [WEB-FLAC]/07. I'm Your Dirt, I'm Your Love.flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean — Jonatan (2025) [WEB-FLAC]/08. Teenage Symphonies 4 God (God Will Only).flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean — Jonatan (2025) [WEB-FLAC]/08. Teenage Symphonies 4 God (God Will Only).flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean — Jonatan (2025) [WEB-FLAC]/09. Changes.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean — Jonatan (2025) [WEB-FLAC]/09. Changes.flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean — Jonatan (2025) [WEB-FLAC]/10. My Life.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean — Jonatan (2025) [WEB-FLAC]/10. My Life.flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean — Jonatan (2025) [WEB-FLAC]/11. Swan Song.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean — Jonatan (2025) [WEB-FLAC]/11. Swan Song.flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean — Jonatan (2025) [WEB-FLAC]/12. Terminator Symphony.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean — Jonatan (2025) [WEB-FLAC]/12. Terminator Symphony.flac
 /mnt/synology/media/music/orpheus.network/flac/Yung Lean — Jonatan (2025) [WEB-FLAC]/13. Lessons from Above.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean — Jonatan (2025) [WEB-FLAC]/13. Lessons from Above.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Yung Lean, Ant Wan, Bladee - All Fair.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Yung Lean, Black Kray - What We On.mp3
 /mnt/synology/media/music/redacted.ch/flac/Yung Lean & Bladee - Opium Dreams (FLAC)/01 Opium Dreams.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean & Bladee - Opium Dreams (FLAC)/01 Opium Dreams.flac
 /mnt/synology/media/music/redacted.ch/flac/Yung Lean & Bladee - Victorious # Bullets (2023) WEB FLAC/01. Victorious.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean & Bladee - Victorious # Bullets (2023) WEB FLAC/01. Victorious.flac
 /mnt/synology/media/music/redacted.ch/flac/Yung Lean & Bladee - Victorious # Bullets (2023) WEB FLAC/02. Bullets.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean & Bladee - Victorious # Bullets (2023) WEB FLAC/02. Bullets.flac
 /mnt/synology/media/music/redacted.ch/flac/Yung Lean & Bladee - Psykos (2024) [FLAC 16-48]/01 - Coda.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean & Bladee - Psykos (2024) [FLAC 16-48]/01 - Coda.flac
 /mnt/synology/media/music/redacted.ch/flac/Yung Lean & Bladee - Psykos (2024) [FLAC 16-48]/02 - Ghosts.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean & Bladee - Psykos (2024) [FLAC 16-48]/02 - Ghosts.flac
 /mnt/synology/media/music/redacted.ch/flac/Yung Lean & Bladee - Psykos (2024) [FLAC 16-48]/03 - Golden God.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean & Bladee - Psykos (2024) [FLAC 16-48]/03 - Golden God.flac
 /mnt/synology/media/music/redacted.ch/flac/Yung Lean & Bladee - Psykos (2024) [FLAC 16-48]/04 - Still.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean & Bladee - Psykos (2024) [FLAC 16-48]/04 - Still.flac
 /mnt/synology/media/music/redacted.ch/flac/Yung Lean & Bladee - Psykos (2024) [FLAC 16-48]/05 - Sold Out.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean & Bladee - Psykos (2024) [FLAC 16-48]/05 - Sold Out.flac
 /mnt/synology/media/music/redacted.ch/flac/Yung Lean & Bladee - Psykos (2024) [FLAC 16-48]/06 - Hanging From The Bridge.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean & Bladee - Psykos (2024) [FLAC 16-48]/06 - Hanging From The Bridge.flac
 /mnt/synology/media/music/redacted.ch/flac/Yung Lean & Bladee - Psykos (2024) [FLAC 16-48]/07 - Enemy.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean & Bladee - Psykos (2024) [FLAC 16-48]/07 - Enemy.flac
 /mnt/synology/media/music/redacted.ch/flac/Yung Lean & Bladee - Psykos (2024) [FLAC 16-48]/08 - Things Happen.flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Lean & Bladee - Psykos (2024) [FLAC 16-48]/08 - Things Happen.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Yung Lean, Bladee - Birdies.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Yung Lean, Vattenrum - ULTRA/Yung Lean, Bladee - Track 3.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/Yung Lean, Bladee - All Fair (Demo).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Snippets/Yung Lean, Bladee, Thaiboy Digital - Al Pacino (Snippet).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Demos/Yung Lean, Ecco2k, Thaiboy Digital - Af1s (Demo).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Lean, Gud - Sad Boys Home Alone Freestyle.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/Yung Lean, ILOVEMAKONNEN - Myself.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Lean, Thaiboy Digital - Crystalized Snow.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Lean, Tokyo Hands - yung lean x tokyo hands park freestyle.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Sherman - All I_m Gon_ Get.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Sherman - Tees.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Sherman - All About You.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Sherman - BARA IBLAND.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Sherman - c2sl.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/= Production Credits/Yung Sherman - Curt_s Prelude.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Sherman - drown me.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Sherman - ᴅᴇʏ ᴡᴀɴɴᴀ ᴄ ᴍᴇ ʙʀᴏᴋᴇ.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Sherman - fear.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Sherman -  (Happy).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Sherman - HUNNID MILLION DOLLA$$.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Sherman - LEAN IN MY CUP.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Sherman - Mary.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Sherman - Mountain Dew.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Sherman - Pizzaface.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Sherman - SHEBA.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Sherman - sushi bar.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Sherman - 2nite.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Sherman - ALWAYS ON MY MIND.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Sherman - AXELITO.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Sherman - C2SL vol. 5.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Sherman - Djungelboken.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Sherman - i_m sorry ~ 2002.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Sherman - .・゜゜・IN LUV WIT U・゜゜・．.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Sherman - NEVER LEFT ((REALLY SAD)).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Sherman - numbers ☆.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Sherman - SKYFALL.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Sherman - SONY.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Cuts/Yung Sherman - Untitled 1.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Sherman - you.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Sherman - ｓｔａｙ ＦＯＲＥＶＥＲ.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Cuts/Yung Sherman - Sandman (Instrumental) (KTZ x Been Trill Version).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Cuts/Yung Sherman - Untitled 2.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Cuts/Yung Sherman - Untitled 3.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Sherman - you_ll be my.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Sherman - 1987 06 25 - 2015 04 08.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Sherman - bleed.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Sherman - i may have made it rain Please forgive me.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Sherman - SH!T.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Cuts/Yung Sherman - Yung Lean - BATHTUB (Yung Sherman Remix).mp3
 /mnt/synology/media/music/redacted.ch/flac/Yung Sherman - Innocence v2 [2017] [flac]/01 - Frozen (Kamixlo Remix).flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Sherman - Innocence v2 [2017] [flac]/01 - Frozen (Kamixlo Remix).flac
 /mnt/synology/media/music/redacted.ch/flac/Yung Sherman - Innocence v2 [2017] [flac]/02 - I D C (Evian Christ Remix).flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Sherman - Innocence v2 [2017] [flac]/02 - I D C (Evian Christ Remix).flac
 /mnt/synology/media/music/redacted.ch/flac/Yung Sherman - Innocence v2 [2017] [flac]/03 - Invisible (feat. Uli K & Bladee).flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Sherman - Innocence v2 [2017] [flac]/03 - Invisible (feat. Uli K & Bladee).flac
 /mnt/synology/media/music/redacted.ch/flac/Yung Sherman - Innocence v2 (2017) [WEB FLAC] [44kHz 16bit]/1. Frozen (Kamixlo Remix).flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Sherman - Innocence v2 (2017) [WEB FLAC] [44kHz 16bit]/1. Frozen (Kamixlo Remix).flac
 /mnt/synology/media/music/redacted.ch/flac/Yung Sherman - Innocence v2 (2017) [WEB FLAC] [44kHz 16bit]/2. I D C (Evian Christ Remix).flac
-/mnt/synology/media/music/sbe-gtb-dg/Yung Sherman - Innocence v2 (2017) [WEB FLAC] [44kHz 16bit]/2. I D C (Evian Christ Remix).flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Cuts/Bladee - 2beloved (NTS Version).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Cuts/Yung Sherman - Deletee (Instrumental).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Cuts/Yung Sherman - Play Em Like Atari (Instrumental).mp3
 /mnt/synology/media/music/sbe-gtb-dg/(2019) Yung Sherman Discography/Yung Sherman - Yung Sherman Discography - 01 always on my mind.mp3
 /mnt/synology/media/music/sbe-gtb-dg/(2019) Yung Sherman Discography/Yung Sherman - Yung Sherman Discography - 02 all about you.mp3
 /mnt/synology/media/music/sbe-gtb-dg/(2019) Yung Sherman Discography/Yung Sherman - Yung Sherman Discography - 03 you are a star in my sky and i will love you forever more.mp3
@@ -27373,6 +27638,37 @@ cue:///mnt/synology/media/music/orpheus.network/flac/[YR0012CDDLX] Yung Lean - W
 /mnt/synology/media/music/sbe-gtb-dg/(2019) Yung Sherman Discography/Yung Sherman - Yung Sherman Discography - 55 yung sherman boiler room london pt. 2.mp3
 /mnt/synology/media/music/sbe-gtb-dg/(2019) Yung Sherman Discography/Yung Sherman - Yung Sherman Discography - 56 yung sherman boiler room london pt. 1.mp3
 /mnt/synology/media/music/sbe-gtb-dg/(2019) Yung Sherman Discography/Yung Sherman - Yung Sherman Discography - 57 yung sherman boiler room london pt. 2.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Sherman, Angel Diary - come back 2 me.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Sherman, Angel Diary - ~ L I K E M E ~.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Sherman, Angel Diary - dont_go.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Sherman - ANT WAN - GIRLPOWER ((DRAGGED & DDROPPED)).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Sherman, Baba Stiltz - all My life.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Sherman, Bearface - I will be here.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Sherman, DJ HAYDN - shut it down.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Sherman, Dj Smokey - iSuzu riding.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Sherman, LIL SAD - HIDE FOREVER.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Sherman, Little Cloud - you are a star in my sky and i will love you forever more.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Sherman, Tokyo Hands, Whitearmor - BUILDINGS (Instrumental).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/= Alternative Versions/Yung Sherman, Tokyo Hands, Whitearmor, DJ Hentai, Ecco2k - YUNG SHERMAN x TOKYO HANDS x WHITE ARMOR w DJ HENTAI & ECCO2k1 (Alternative Version).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Sherman, Tokyo Hands, Whitearmor, DJ Hentai, Ecco2k - YUNG SHERMAN x TOKYO HANDS x WHITE ARMOR w DJ HENTAI & ECCO2k1.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Sherman - buddha93 (with Whitearmor).mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/Yung Sherman, Whitearmor - feelings Eternal.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Unreleased/= Cuts/Yung Sherman - Yung Lean - THE 5TH ELEMENT (Yung Sherman Remix).mp3
+/mnt/synology/media/music/slsk/Zombie 619er - Android Masters (1996)/Zombie 619er - Android Masters (1996) - 01 The World Is A Rave (Intro).mp3
+/mnt/synology/media/music/slsk/Zombie 619er - Android Masters (1996)/Zombie 619er - Android Masters (1996) - 02 Not To Be Fucked With ft. Mustafa & Asia.mp3
+/mnt/synology/media/music/slsk/Zombie 619er - Android Masters (1996)/Zombie 619er - Android Masters (1996) - 03 Red Nose.mp3
+/mnt/synology/media/music/slsk/Zombie 619er - Android Masters (1996)/Zombie 619er - Android Masters (1996) - 04 BullSh-t ft. Koobatoo Asparagus.mp3
+/mnt/synology/media/music/slsk/Zombie 619er - Android Masters (1996)/Zombie 619er - Android Masters (1996) - 05 No Future, No Past (Interlude).mp3
+/mnt/synology/media/music/slsk/Zombie 619er - Android Masters (1996)/Zombie 619er - Android Masters (1996) - 06 Eternal Measurements ft. Koobatoo Asparagus.mp3
+/mnt/synology/media/music/slsk/Zombie 619er - Android Masters (1996)/Zombie 619er - Android Masters (1996) - 07 Big Ups To The Crew.mp3
+/mnt/synology/media/music/slsk/Zombie 619er - Android Masters (1996)/Zombie 619er - Android Masters (1996) - 08 Yo God.mp3
+/mnt/synology/media/music/slsk/Zombie 619er - Android Masters (1996)/Zombie 619er - Android Masters (1996) - 09 Spit Your Illest Verse (Interlude).mp3
+/mnt/synology/media/music/slsk/Zombie 619er - Android Masters (1996)/Zombie 619er - Android Masters (1996) - 10 Unsolved Mysteries.mp3
+/mnt/synology/media/music/slsk/Zombie 619er - Android Masters (1996)/Zombie 619er - Android Masters (1996) - 11 Frontline Invincible Andoids ft. Mustafa & Scientific Knowledge.mp3
+/mnt/synology/media/music/slsk/Zombie 619er - Android Masters (1996)/Zombie 619er - Android Masters (1996) - 12 Buffalo ft. Koobatoo Asparagus.mp3
+/mnt/synology/media/music/slsk/Zombie 619er - Android Masters (1996)/Zombie 619er - Android Masters (1996) - 13 Libra (Interlude).mp3
+/mnt/synology/media/music/slsk/Zombie 619er - Android Masters (1996)/Zombie 619er - Android Masters (1996) - 14 Disassembling ft. Koobatoo Asparagus.mp3
+/mnt/synology/media/music/slsk/Zombie 619er - Android Masters (1996)/Zombie 619er - Android Masters (1996) - 15 Partial Slip and Slide (Outro).mp3
 /mnt/synology/media/music/orpheus.network/flac/いよわ - 映画、陽だまり、卒業式 (2024) [CD-FLAC] {SNCL-92~93}/Disc 1/01 - パジャミィ.flac
 /mnt/synology/media/music/orpheus.network/flac/いよわ - 映画、陽だまり、卒業式 (2024) [CD-FLAC] {SNCL-92~93}/Disc 1/02 - ゆめみるうろこ.flac
 /mnt/synology/media/music/orpheus.network/flac/いよわ - 映画、陽だまり、卒業式 (2024) [CD-FLAC] {SNCL-92~93}/Disc 1/03 - わたしは禁忌 (2024 ver.).flac
@@ -27458,6 +27754,9 @@ cue:///mnt/synology/media/music/orpheus.network/flac/[YR0012CDDLX] Yung Lean - W
 /mnt/synology/media/music/orpheus.network/flac/ゲスの極み乙女。 - 両成敗 (2016) [FLAC] {WPCL-12297}/15 - 私以外私じゃないの.flac
 /mnt/synology/media/music/orpheus.network/flac/ゲスの極み乙女。 - 両成敗 (2016) [FLAC] {WPCL-12297}/16 - Mr.ゲスX.flac
 /mnt/synology/media/music/orpheus.network/flac/ゲスの極み乙女。 - 両成敗 (2016) [FLAC] {WPCL-12297}/17 - 煙る.flac
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/コンバットcombat_armsよろいかぶ - cosmic_420.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/コンバットcombat_armsよろいかぶ - military_lyfe.mp3
+/mnt/synology/media/music/sbe-gtb-dg/Drain Gang & Sadboys Music Archive/Released/コンバットcombat_armsよろいかぶ - No Love No Money.mp3
 /mnt/synology/media/music/orpheus.network/flac/[2021.04.07] nishina にしな 1stアルバム「odds and ends」[FLAC 48kHz／16bit]/01. 秘密基地.flac
 /mnt/synology/media/music/orpheus.network/flac/[2021.04.07] nishina にしな 1stアルバム「odds and ends」[FLAC 48kHz／16bit]/02. ランデブー.flac
 /mnt/synology/media/music/orpheus.network/flac/[2021.04.07] nishina にしな 1stアルバム「odds and ends」[FLAC 48kHz／16bit]/03. 真白.flac
