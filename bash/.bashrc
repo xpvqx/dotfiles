@@ -54,8 +54,8 @@ alias gg='cd ~/git'
 alias gpy='cd ~/git/python'
 alias dots='cd ~/git/dotfiles'
 alias sucks='cd ~/.suckless'
-alias nc='cd ~/docs/nextcloud'
-alias hv='cd ~/docs/nextcloud/hv'
+alias nc='cd ~/nextcloud'
+alias hv='cd ~/nextcloud/hv'
 
 # scripts
 alias xm4='~/git/scripts/bluetooth.sh'
