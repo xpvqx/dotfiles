@@ -27,6 +27,7 @@ alias svim='sudo -E -s nvim'
 alias mkc='sudo make clean install'
 alias py='python3'
 alias scrot='scrot ~/pics/screenshots/%b%d::%H%M%S.png'
+alias ts='sudo tailscale'
 
 # git
 alias ga='git add .'
