@@ -53,7 +53,6 @@ alias nm='cd /mnt/synology/media'
 alias gg='cd ~/git'
 alias gpy='cd ~/git/python'
 alias dots='cd ~/git/dotfiles'
-alias sucks='cd ~/.suckless'
 alias nc='cd ~/nextcloud'
 alias hv='cd ~/nextcloud/hv'
 
