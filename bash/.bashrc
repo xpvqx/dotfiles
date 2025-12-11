@@ -64,7 +64,7 @@ alias temp='~/git/scripts/temp.sh'
 
 # backups
 alias pics_backup='rsync -avh --ignore-existing /mnt/ssd/pics/ /mnt/synology/home/pictures/ssd/'
-alias nextcloud_backup='~/git/scripts/nextcloud_backup.sh'
+alias nextcloud_backup='~/git/scripts/nc_backup_nas.sh'
 
 # exports
 export EDITOR='nvim'
