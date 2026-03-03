@@ -122,11 +122,17 @@ require("lazy").setup({
     config = function()
       local theme = require("lualine.themes.gruvbox")
 
+      local insert_theme = vim.deepcopy(theme.insert)
+      local visual_theme = vim.deepcopy(theme.visual)
+
+      theme.insert = visual_theme
+      theme.visual = insert_theme
+
       require("lualine").setup({
         options = {
           theme = theme,
-          section_separators = "",
-          component_separators = "",
+            section_separators = { left = "", right = "" },
+            component_separators = { left = "", right = "" },
         },
         sections = {
           lualine_a = { "mode" },
