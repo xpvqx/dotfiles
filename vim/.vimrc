@@ -47,7 +47,6 @@ let g:lightline = {
 function! s:SwapLightlineModes()
   let p = g:lightline#colorscheme#gruvbox#palette
 
-  " swap insert + visual completely
   let tmp_left  = p.insert.left
   let tmp_mid   = p.insert.middle
   let tmp_right = p.insert.right
