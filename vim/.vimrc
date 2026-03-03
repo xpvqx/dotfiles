@@ -40,7 +40,32 @@ let g:lightline = {
       \ 'component_expand': {
       \   'filename': 'lightline#buffer#filename'
       \ },
+      \ 'separator': { 'left': '', 'right': '' },
+      \ 'subseparator': { 'left': '', 'right': '' }
       \ }
+
+function! s:SwapLightlineModes()
+  let p = g:lightline#colorscheme#gruvbox#palette
+
+  " swap insert + visual completely
+  let tmp_left  = p.insert.left
+  let tmp_mid   = p.insert.middle
+  let tmp_right = p.insert.right
+
+  let p.insert.left   = p.visual.left
+  let p.insert.middle = p.visual.middle
+  let p.insert.right  = p.visual.right
+
+  let p.visual.left   = tmp_left
+  let p.visual.middle = tmp_mid
+  let p.visual.right  = tmp_right
+
+  call lightline#init()
+  call lightline#colorscheme()
+  call lightline#update()
+endfunction
+
+autocmd VimEnter * call s:SwapLightlineModes()
 
 highlight Normal ctermbg=NONE guibg=NONE
 highlight NormalNC ctermbg=NONE guibg=NONE
