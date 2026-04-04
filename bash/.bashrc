@@ -30,7 +30,7 @@ alias scrot='scrot ~/pics/screenshots/%b%d::%H%M%S.png'
 alias ts='sudo tailscale'
 alias xc="xclip -selection c"
 alias nmtui="TERM=xterm-old nmtui"
-alias hv-vpn="sudo openfortivpn hv.se:443 -u kaja0036"
+alias hv-vpn="sudo openfortivpn vpn.hv.se:443 -u kaja0036"
 
 # git
 alias ga='git add .'
