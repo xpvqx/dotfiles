@@ -1,0 +1,10 @@
+[Unit]
+Description=Set AMDGPU Performance Level to High
+
+[Service]
+Type=oneshot
+ExecStart=/usr/bin/sh -c 'echo high > /sys/class/drm/card1/device/power_dpm_force_performance_level'
+RemainAfterExit=yes
+
+[Install]
+WantedBy=multi-user.target
