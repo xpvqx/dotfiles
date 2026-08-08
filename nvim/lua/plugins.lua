@@ -68,7 +68,7 @@ require("lazy").setup({
     build = ":TSUpdate",
     event = { "BufReadPost", "BufNewFile" },
     config = function()
-      require("nvim-treesitter.config").setup({
+      require("nvim-treesitter.configs").setup({
         ensure_installed = { "python", "lua", "json", "bash", "markdown" },
         highlight = { enable = true },
       })
