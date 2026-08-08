@@ -49,7 +49,7 @@ if [ -d /etc/X11/xinit/xinitrc.d ] ; then
 fi
 
 
-xrandr --output DP-3 --mode 1920x1080 --rate 144 --gamma 0.75:0.75:0.75
+xrandr --output DP-3 --mode 2560x1440 --rate 144 --gamma 0.75:0.75:0.75
 
 picom &
 pipewire &
