@@ -29,7 +29,7 @@ alias vim='nvim'
 alias svim='sudo -E -s nvim'
 alias mkc='sudo make clean install'
 alias py='python3'
-alias scrot='scrot ~/pics/screenshots/%b%d::%H%M%S.png'
+alias scrot='scrot ~/screenshots/%b%d::%H%M%S.png'
 alias ts='sudo tailscale'
 alias xc="xclip -selection c"
 alias nmtui="TERM=xterm-old nmtui"
